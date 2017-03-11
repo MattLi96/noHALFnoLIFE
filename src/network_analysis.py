@@ -3,6 +3,7 @@ from collections import Counter
 import matplotlib.pyplot as plt
 import math
 import re
+import os
 
 
 class NetworkAnalysis:
@@ -15,8 +16,7 @@ class NetworkAnalysis:
             os.makedirs(self.outputPath)
 
     def generateDrawing(self):
-        nx.draw(self.G)
-        plt.draw()
+        nx.draw(self.G, pos=nx.spring_layout(self.G))
         plt.savefig(self.outputPath + "graph.png")
         plt.close()
 
