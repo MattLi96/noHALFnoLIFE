@@ -15,6 +15,13 @@ class NetworkAnalysis:
         if not os.path.exists(self.outputPath):
             os.makedirs(self.outputPath)
 
+    def outputNodesAndEdges(self):
+        with open(self.outputPath + "nodes.txt", "w") as nodeOut, open(self.outputPath + "edges.txt", "w") as edgeOut:
+            for n in self.G.nodes():
+                nodeOut.write(n + "\n")
+            for e in self.G.edges():
+                edgeOut.write(e + "\n")
+                
     def generateDrawing(self, outfile=self.outputPath + "graph.png"):
         nx.draw(self.G, pos=nx.spring_layout(self.G))
         self.output_plt(outfile)
