@@ -11,6 +11,8 @@ class NetworkAnalysis:
         split = re.split('\\ /', fileName)
         fileName = split[0].split(".")[0]
         self.outputPath = "../output/" + fileName + "/"
+        if not os.path.exists(self.outputPath):
+            os.makedirs(self.outputPath)
 
     def generateDrawing(self):
         nx.draw(self.G)
