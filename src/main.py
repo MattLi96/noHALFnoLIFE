@@ -37,8 +37,8 @@ if __name__ == '__main__':
     networks = {}
     for f in data_files:
         d = XMLParser(f).parse_to_dict()
-        net = NetworkParser.createGraphFromDict(d)
-        networks[f] = net
+        net = NetworkParser(d)
+        networks[f] = net.G
 
     for (k, v) in networks.items():
-        NetworkAnalysis(v, k)
+        na = NetworkAnalysis(v, os.path.basename(k))
