@@ -7,4 +7,17 @@ def convert(xml_file, xml_attribs=True):
         return d
 
 d = convert('../data/nogamenolife_pages_current.xml')
-print(d)
+
+import networkx
+
+class NetworkParser:
+    def __init__(self): #TODO any settings for the network parser
+        pass
+
+    def convert(self):
+        pass
+
+if __name__ == '__main__':
+    pass
+
+
