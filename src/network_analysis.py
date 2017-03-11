@@ -22,12 +22,11 @@ class NetworkAnalysis:
             for e in self.G.edges():
                 edgeOut.write(e + "\n")
                 
-    def generateDrawing(self):
+    def generateDrawing(self, outfile=self.outputPath + "graph.png"):
         nx.draw(self.G, pos=nx.spring_layout(self.G))
-        plt.savefig(self.outputPath + "graph.png")
+        plt.savefig(outfile)
         plt.close()
 
-    
     def outputBasicStats(self):
         print(self.outputPath)
         print("# nodes: ", nx.number_of_nodes(self.G))
@@ -52,7 +51,7 @@ class NetworkAnalysis:
 
         output.close()
         if not os.path.exists(self.outputPath + "graphs"):
-            os.makedirs(self.outputPath + "graphs")  
+            os.makedirs(self.outputPath + "graphs")
         self.makePlot('Log Histogram of Degree Frequencies', 'log j', 'log n_j', logx, logy,
                       self.outputPath + "graphs/degreeDistribution.png")
 
@@ -78,7 +77,7 @@ class NetworkAnalysis:
                     logx.append(math.log(i))
                     logy.append(math.log(C[i]))
         if not os.path.exists(self.outputPath + "graphs"):
-            os.makedirs(self.outputPath + "graphs")  
+            os.makedirs(self.outputPath + "graphs")
         self.makePlot('Log Histogram of Connected Components', 'log j', 'log k_j', logx, logy,
                       self.outputPath + "graphs/componentDistribution.png")
 
@@ -96,7 +95,7 @@ class NetworkAnalysis:
                 x.append(i)
                 y.append(C[i])
         if not os.path.exists(self.outputPath + "graphs"):
-            os.makedirs(self.outputPath + "graphs")    
+            os.makedirs(self.outputPath + "graphs")
         self.makePlot("Nodes at Distance j", 'j', 'r_j', x, y, self.outputPath + "graphs/pathLengths.png")
 
     def getAveragePathLength(self):
