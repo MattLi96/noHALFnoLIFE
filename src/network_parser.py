@@ -16,6 +16,9 @@ class NetworkParser:
         G = nx.Graph()
         for key in d:
             G.add_node(key)
+            links = self.getLinksFromText(d[key])
+            edgeList = map(lambda x: (key, x), links)
+            G.add_edges_from(edgeList)
 
         return G
 
@@ -25,9 +28,6 @@ class NetworkParser:
         for link in bracketed_links:
             cleaned_links.append((link[2:len(link)-2]).strip())
         return cleaned_links
-
-    def convert(self):
-        pass
 
 if __name__ == '__main__':
     
