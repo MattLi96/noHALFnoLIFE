@@ -37,8 +37,7 @@ if __name__ == '__main__':
     files = sys.argv
     files.pop(0)
     if len(files) < 0:
-        print("No file specified. Specify at least one file")
-        exit(0)
+        files = get_data_files()["current"]
 
     for item in files:
         data_return = {}
@@ -47,16 +46,16 @@ if __name__ == '__main__':
         obj = XMLParser(file_name).parse_to_obj()
 
         for p in obj["mediawiki"]["page"]:
-            name = None
-            text = None
-            for dict_item in p:
-                if (dict_item[0] == "title"):
-                    name = dict_item[1]
-                elif (dict_item[0] == "#text"):
-                    text = dict_item[1]
-                if (name and text):
-                    break
+            if not 'revision' in p:
+                continue
+            if not 'text' in p['revision']:
+                continue
+            if not '#text' in p['revision']['text']:
+                continue
+            name = p['title']
+            text = p['revision']['text']['#text']
+
             data_return[name] = text
 
-        data_output = json.dumps(data_return)
+        data_output = json.dumps(data_return, indent=4, separators=(',', ':'))
         open(item[0:len(item) - 4] + '_dict.xml', 'w').write(data_output)
