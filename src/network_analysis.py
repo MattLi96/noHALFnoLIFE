@@ -2,10 +2,13 @@ import networkx as nx
 from collections import Counter
 import matplotlib.pyplot as plt
 import math
+import re
 
 class NetworkAnalysis:
     def __init__(self, G, fileName): #TODO any settings for the network analysis
         self.G = G
+        split = re.split('\\ /', fileName)
+        fileName = split[0].split(".")[0]
         self.outputPath = "../output/" + fileName + "/"
     
     def generateDegreeDistribution(self):
