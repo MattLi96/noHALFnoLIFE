@@ -29,6 +29,29 @@ class NetworkAnalysis:
 
         self.makePlot('Log Histogram of Degree Frequencies', 'log j', 'log n_j', logx, logy, self.outputPath + "graphs/degreeDistribution.png")
 
+    def generateComponentSizes(self):
+        Gc = max(nx.connected_component_subgraphs(self.G), key=len)
+        graphs = [graph.number_of_nodes() for graph in nx.connected_component_subgraphs(self.G)]
+        C = Counter(graphs)
+        maxSubgraph = Gc.number_of_nodes()
+
+        import heapq
+        res = heapq.nlargest(2, graphs)
+
+        logx = []
+        logy = []
+
+        with open(self.outputPath + "raw/componentDistribution.txt", "w") as output2:
+            output2.write(str(maxSubgraph) + " " + str(self.G.number_of_nodes()) + " " + str(maxSubgraph/self.G.number_of_nodes()) + "\n")
+
+            for i in range(0, res[1]+1):
+                output2.write(str(i) + " " + str(C[i]) + " " + "\n")
+                if i > 0 and C[i] > 0:
+                    logx.append(math.log(i))
+                    logy.append(math.log(C[i]))
+
+        self.makePlot('Log Histogram of Connected Components', 'log j', 'log k_j', logx, logy, self.outputPath + "graphs/componentDistribution.txt")
+
     def makePlot(self, title, xaxis, yaxis, xdata, ydata, path):
         fig = plt.figure()
         fig.suptitle(title, fontsize=14, fontweight='bold')
