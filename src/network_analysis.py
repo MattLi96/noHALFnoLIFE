@@ -12,8 +12,6 @@ class NetworkAnalysis:
         split = re.split('\\ /', fileName)
         fileName = split[0].split(".")[0]
         self.outputPath = "../output/" + fileName + "/"
-        if not os.path.exists(self.outputPath):
-            os.makedirs(self.outputPath)
 
     def outputNodesAndEdges(self):
         with open(self.outputPath + "nodes.txt", "w") as nodeOut, open(self.outputPath + "edges.txt", "w") as edgeOut:
@@ -21,10 +19,10 @@ class NetworkAnalysis:
                 nodeOut.write(n + "\n")
             for e in self.G.edges():
                 edgeOut.write(e + "\n")
-                
+
     def generateDrawing(self, outfile=self.outputPath + "graph.png"):
         nx.draw(self.G, pos=nx.spring_layout(self.G))
-        self.output_plt(outfile)
+        self.outputPlt(outfile)
 
     def outputBasicStats(self):
         print(self.outputPath)
@@ -113,15 +111,16 @@ class NetworkAnalysis:
         ax.scatter(x=xdata, y=ydata)
         plt.scatter(x=xdata, y=ydata)
 
-        self.output_plt(path)
+        self.outputPlt(path)
 
-    def output_plt(self, path):
+    def outputPlt(self, path):
         directory = os.path.dirname(path)
         if not os.path.exists(directory):
             os.makedirs(directory)
 
         plt.savefig(path)
         plt.close()
+
 
 if __name__ == '__main__':
     pass
