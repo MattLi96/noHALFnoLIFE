@@ -10,7 +10,15 @@ class NetworkAnalysis:
         split = re.split('\\ /', fileName)
         fileName = split[0].split(".")[0]
         self.outputPath = "../output/" + fileName + "/"
-    
+
+    def generateDrawing(self):
+        nx.draw(self.G)
+        plt.draw()
+
+        plt.savefig(self.outputPath + "graph.png")
+        plt.close()
+
+
     def generateDegreeDistribution(self):
         output = open(self.outputPath + "raw/degreeDistribution.txt", "w")
 
