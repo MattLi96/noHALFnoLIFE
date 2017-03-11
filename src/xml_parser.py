@@ -1,8 +1,22 @@
 #!/usr/bin/env python3
-import untangle
 import sys
 import xmltodict
 import json
+from os import listdir
+from os.path import isfile, join
+
+
+def get_data_files(dir_path="../data"):
+    ret = {"current": set(), "full": set()}
+    for f in listdir(dir_path):
+        rel_path = join(dir_path, f)
+        if isfile(rel_path):
+            if f.endswith("_current.xml"):
+                ret['current'].add(rel_path)
+            elif f.endswith("_full.xml"):
+                ret['full'].add(rel_path)
+    return ret
+
 
 class XMLParser:
     def __init__(self, fname):
@@ -26,7 +40,6 @@ if __name__ == '__main__':
         print("No file specified. Specify at least one file")
         exit(0)
 
-
     for item in files:
         data_return = {}
         print(" --- Analyzing " + item + " ---")
@@ -46,4 +59,4 @@ if __name__ == '__main__':
             data_return[name] = text
 
         data_output = json.dumps(data_return)
-        open(item[0:len(item)-4] + '_dict.xml', 'w').write(data_output)
+        open(item[0:len(item) - 4] + '_dict.xml', 'w').write(data_output)
