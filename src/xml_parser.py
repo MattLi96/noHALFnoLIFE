@@ -2,15 +2,17 @@
 import sys
 import xmltodict
 import json
+import datetime
 
 
 class XMLParser:
-    def __init__(self, fname):
+    def __init__(self, fname, snapshot_time=None):
         self.file_name = fname
+        self.time = snapshot_time
         pass
 
     def parse_to_obj(self, xml_attribs=True):
-        print(self.file_name)
+        print("analyzing file: " + self.file_name)
         with open(self.file_name, "rb") as f:  # notice the "rb" mode
             d = xmltodict.parse(f, xml_attribs=xml_attribs)
             return d
@@ -30,6 +32,10 @@ class XMLParser:
             if not 'revision' in p:
                 continue
             if not 'text' in p['revision']:
+                for item in p['revision']:
+                    time = item['timestamp']
+                    #format is 2014-12-17T02:25:15Z
+                    time_obj = datetime.strptime(time, '%Y-%m-%dT%H:%M:%SZ')
                 continue
             if not '#text' in p['revision']['text']:
                 continue
