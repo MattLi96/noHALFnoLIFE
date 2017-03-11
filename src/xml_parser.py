@@ -9,43 +9,36 @@ class XMLParser:
         self.file_name = fname
         pass
 
-    def filter(self):
-        pass
-
     def parse_to_obj(self, xml_attribs=True):
         print(self.file_name)
         with open(self.file_name, "rb") as f:  # notice the "rb" mode
             d = xmltodict.parse(f, xml_attribs=xml_attribs)
             return d
 
-    def parse_to_dict(self):
-        d = self.parse_to_obj()
+    def should_keep(self, node_title):
+        IGNORE_LIST = ['Talk:', 'User:', 'File:', 'Thread:', 'Category:', 'Board Thread:', 'Template:', 'Category talk:', 'MediaWiki:', 'User blog comment:', 'Message Wall:', 'User blog:', 'Forum:', 'Board:']
+        for item in IGNORE_LIST:
+            if node_title[0:len(item)] == item:
+                return False
+            
+        return True
 
-
-if __name__ == '__main__':
-    files = sys.argv
-    files.pop(0)
-    if len(files) < 0:
-        print("No file specified. Specify at least one file")
-        exit(0)
-
-    for item in files:
+    def parse_to_dict(file_name):
         data_return = {}
-        print(" --- Analyzing " + item + " ---")
-        file_name = item
-        obj = XMLParser(file_name).parse_to_obj()
-
+        obj = self.parse_to_obj()
         for p in obj["mediawiki"]["page"]:
-            name = None
-            text = None
-            for dict_item in p:
-                if (dict_item[0] == "title"):
-                    name = dict_item[1]
-                elif (dict_item[0] == "#text"):
-                    text = dict_item[1]
-                if (name and text):
-                    break
+            if not 'revision' in p:
+                continue
+            if not 'text' in p['revision']:
+                continue
+            if not '#text' in p['revision']['text']:
+                continue
+            name = p['title']
+            if not parser.should_keep(name):
+                continue
+            text = p['revision']['text']['#text']
+
             data_return[name] = text
 
-        data_output = json.dumps(data_return)
-        open(item[0:len(item) - 4] + '_dict.xml', 'w').write(data_output)
+        return data_return
+
