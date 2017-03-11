@@ -1,12 +1,6 @@
 import xmltodict
 import networkx as nx
 import re
-def convert(xml_file, xml_attribs=True):
-    with open(xml_file, "rb") as f:  # notice the "rb" mode
-        d = xmltodict.parse(f, xml_attribs=xml_attribs)
-        return d
-
-d = convert('../data/nogamenolife_pages_current.xml')
 
 class NetworkParser:
     def __init__(self, d): #TODO any settings for the network parser
@@ -30,7 +24,6 @@ class NetworkParser:
         return cleaned_links
 
 if __name__ == '__main__':
-    
     pass
 
 
