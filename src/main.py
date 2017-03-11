@@ -6,12 +6,11 @@ from os import listdir
 from os.path import isfile, join
 import json
 
-
 def get_data_files(dir_path="../data"):
     ret = {"current": set(), "full": set()}
-    for f in listdir(dir_path):
-        rel_path = join(dir_path, f)
-        if isfile(rel_path):
+    for f in os.listdir(dir_path):
+        rel_path = os.path.join(dir_path, f)
+        if os.path.isfile(rel_path):
             if f.endswith("_current.xml"):
                 ret['current'].add(rel_path)
             elif f.endswith("_full.xml"):
@@ -46,3 +45,6 @@ if __name__ == '__main__':
 
     for (k, v) in networks.items():
         na = NetworkAnalysis(v, os.path.basename(k))
+        na.outputBasicStats()
+        na.generateDrawing()
+        na.generateComponentSizes()
