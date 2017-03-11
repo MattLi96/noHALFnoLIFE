@@ -1,9 +1,12 @@
-import networkx as nx
-from collections import Counter
-import matplotlib.pyplot as plt
+import json
 import math
-import re
 import os
+import re
+from collections import Counter
+
+import matplotlib.pyplot as plt
+import networkx as nx
+from networkx.readwrite import json_graph
 
 
 class NetworkAnalysis:
@@ -12,8 +15,20 @@ class NetworkAnalysis:
         split = re.split('\\ /', fileName)
         fileName = split[0].split(".")[0]
         self.outputPath = "../output/" + fileName + "/"
-        if not os.path.exists(self.outputPath):
-            os.makedirs(self.outputPath)
+
+    def d3dump(self):
+        G = self.G.copy()
+        # Augment Graph with Metadata
+        for ix, deg in G.degree().items():
+            G.node[ix]['degree'] = deg
+            G.node[ix]['parity'] = (1 - deg % 2)
+        for ix, katz in nx.katz_centrality(G).items():
+            G.node[ix]['katz'] = katz
+        G.nodes(data=True)
+
+        data = json_graph.node_link_data(G)
+        with open(self.outputPath + "d3dump.json", 'w') as f:
+            json.dump(data, f, indent=4)
 
     def outputNodesAndEdges(self):
         with open(self.outputPath + "nodes.txt", "w") as nodeOut, open(self.outputPath + "edges.txt", "w") as edgeOut:
@@ -21,17 +36,17 @@ class NetworkAnalysis:
                 nodeOut.write(n + "\n")
             for e in self.G.edges():
                 edgeOut.write(e + "\n")
-                
-    def generateDrawing(self, outfile=self.outputPath + "graph.png"):
+
+    def generateDrawing(self, outfile="graph.png"):
         nx.draw(self.G, pos=nx.spring_layout(self.G))
-        self.output_plt(outfile)
+        self.outputPlt(self.outputPath + outfile)
 
     def outputBasicStats(self):
         print(self.outputPath)
         print("# nodes: ", nx.number_of_nodes(self.G))
         print("# edges: ", nx.number_of_edges(self.G))
 
-    def generateDegreeDistribution(self):
+    def generateDegreeDistribution(self, graphpath="graphs/degreeDistribution.png"):
         output = open(self.outputPath + "degreeDistribution.txt", "w")
 
         degree = nx.degree(self.G)
@@ -49,12 +64,10 @@ class NetworkAnalysis:
                 logy.append(math.log(freq))
 
         output.close()
-        if not os.path.exists(self.outputPath + "graphs"):
-            os.makedirs(self.outputPath + "graphs")
         self.makePlot('Log Histogram of Degree Frequencies', 'log j', 'log n_j', logx, logy,
-                      self.outputPath + "graphs/degreeDistribution.png")
+                      self.outputPath + graphpath)
 
-    def generateComponentSizes(self):
+    def generateComponentSizes(self, graphpath="graphs/componentDistribution.png"):
         Gc = max(nx.connected_component_subgraphs(self.G), key=len)
         graphs = [graph.number_of_nodes() for graph in nx.connected_component_subgraphs(self.G)]
         C = Counter(graphs)
@@ -75,12 +88,10 @@ class NetworkAnalysis:
                 if i > 0 and C[i] > 0:
                     logx.append(math.log(i))
                     logy.append(math.log(C[i]))
-        if not os.path.exists(self.outputPath + "graphs"):
-            os.makedirs(self.outputPath + "graphs")
         self.makePlot('Log Histogram of Connected Components', 'log j', 'log k_j', logx, logy,
-                      self.outputPath + "graphs/componentDistribution.png")
+                      self.outputPath + graphpath)
 
-    def generatePathLengths(self, start):
+    def generatePathLengths(self, start, graphpath="graphs/pathLengths.png"):
         paths = nx.single_source_dijkstra_path_length(self.G, start)
         C = Counter(paths.values())
         maxPath = paths[max(paths, key=lambda i: paths[i])]
@@ -93,9 +104,7 @@ class NetworkAnalysis:
                 output3.write(str(i) + " " + str(C[i]) + "\n")
                 x.append(i)
                 y.append(C[i])
-        if not os.path.exists(self.outputPath + "graphs"):
-            os.makedirs(self.outputPath + "graphs")
-        self.makePlot("Nodes at Distance j", 'j', 'r_j', x, y, self.outputPath + "graphs/pathLengths.png")
+        self.makePlot("Nodes at Distance j", 'j', 'r_j', x, y, self.outputPath + graphpath)
 
     def getAveragePathLength(self):
         return nx.average_shortest_path_length(self.G)
@@ -113,15 +122,16 @@ class NetworkAnalysis:
         ax.scatter(x=xdata, y=ydata)
         plt.scatter(x=xdata, y=ydata)
 
-        self.output_plt(path)
+        self.outputPlt(path)
 
-    def output_plt(self, path):
+    def outputPlt(self, path):
         directory = os.path.dirname(path)
         if not os.path.exists(directory):
             os.makedirs(directory)
 
         plt.savefig(path)
         plt.close()
+
 
 if __name__ == '__main__':
     pass
