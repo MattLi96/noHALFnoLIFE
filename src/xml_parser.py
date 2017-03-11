@@ -23,14 +23,19 @@ class XMLParser:
         self.file_name = fname
         pass
 
-    def filter(self):
-        pass
-
     def parse_to_obj(self, xml_attribs=True):
         print(self.file_name)
         with open(self.file_name, "rb") as f:  # notice the "rb" mode
             d = xmltodict.parse(f, xml_attribs=xml_attribs)
             return d
+
+    def should_keep(self, node_title):
+        IGNORE_LIST = ['Talk:', 'User:', 'File:', 'Thread:', 'Category:', 'Board Thread:', 'Template:', 'Category talk:', 'MediaWiki:', 'User blog comment:', 'Message Wall:', 'User blog:', 'Forum:', 'Board:']
+        for item in IGNORE_LIST:
+            if node_title[0:len(item)] == item:
+                return False
+            
+        return True
 
 
 if __name__ == '__main__':
@@ -43,7 +48,8 @@ if __name__ == '__main__':
         data_return = {}
         print(" --- Analyzing " + item + " ---")
         file_name = item
-        obj = XMLParser(file_name).parse_to_obj()
+        parser = XMLParser(file_name)
+        obj = parser.parse_to_obj()
 
         for p in obj["mediawiki"]["page"]:
             if not 'revision' in p:
@@ -53,6 +59,8 @@ if __name__ == '__main__':
             if not '#text' in p['revision']['text']:
                 continue
             name = p['title']
+            if not parser.should_keep(name):
+                continue
             text = p['revision']['text']['#text']
 
             data_return[name] = text
