@@ -1,9 +1,9 @@
 from xml_parser import XMLParser
 from network_parser import NetworkParser
+from network_analysis import NetworkAnalysis
 
 from os import listdir
 from os.path import isfile, join
-
 
 def get_data_files(dir_path="../data"):
     ret = {"current": set(), "full": set()}
