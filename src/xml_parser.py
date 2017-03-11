@@ -23,7 +23,7 @@ class XMLParser:
             
         return True
 
-    def parse_to_dict(file_name):
+    def parse_to_dict(self):
         data_return = {}
         obj = self.parse_to_obj()
         for p in obj["mediawiki"]["page"]:
@@ -34,7 +34,7 @@ class XMLParser:
             if not '#text' in p['revision']['text']:
                 continue
             name = p['title']
-            if not parser.should_keep(name):
+            if not self.should_keep(name):
                 continue
             text = p['revision']['text']['#text']
 
