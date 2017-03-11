@@ -32,6 +32,9 @@ class XMLParser:
             d = xmltodict.parse(f, xml_attribs=xml_attribs)
             return d
 
+    def parse_to_dict(self):
+        d = self.parse_to_obj()
+
 
 if __name__ == '__main__':
     files = sys.argv
