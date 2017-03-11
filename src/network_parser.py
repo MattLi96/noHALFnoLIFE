@@ -14,10 +14,10 @@ class NetworkParser:
     def __init__(self): #TODO any settings for the network parser
         pass
 
-    def convert(self):
+    def generate_graph(self, dict):
         pass
 
 if __name__ == '__main__':
-    pass
+
 
 
