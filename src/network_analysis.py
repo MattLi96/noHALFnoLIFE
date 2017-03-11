@@ -4,8 +4,9 @@ import matplotlib.pyplot as plt
 import math
 import re
 
+
 class NetworkAnalysis:
-    def __init__(self, G, fileName): #TODO any settings for the network analysis
+    def __init__(self, G, fileName):  # TODO any settings for the network analysis
         self.G = G
         split = re.split('\\ /', fileName)
         fileName = split[0].split(".")[0]
@@ -14,10 +15,8 @@ class NetworkAnalysis:
     def generateDrawing(self):
         nx.draw(self.G)
         plt.draw()
-
         plt.savefig(self.outputPath + "graph.png")
         plt.close()
-
 
     def generateDegreeDistribution(self):
         output = open(self.outputPath + "raw/degreeDistribution.txt", "w")
@@ -29,16 +28,17 @@ class NetworkAnalysis:
 
         logx, logy = ([] for i in range(2))
 
-        for i in range(0, maxDegree+1):
+        for i in range(0, maxDegree + 1):
             freq = C[i]
             output.write(str(i) + " " + str(freq) + "\n")
             if i > 0 and freq > 0:
                 logx.append(math.log(i))
                 logy.append(math.log(freq))
-        
+
         output.close()
 
-        self.makePlot('Log Histogram of Degree Frequencies', 'log j', 'log n_j', logx, logy, self.outputPath + "graphs/degreeDistribution.png")
+        self.makePlot('Log Histogram of Degree Frequencies', 'log j', 'log n_j', logx, logy,
+                      self.outputPath + "graphs/degreeDistribution.png")
 
     def generateComponentSizes(self):
         Gc = max(nx.connected_component_subgraphs(self.G), key=len)
@@ -53,15 +53,17 @@ class NetworkAnalysis:
         logy = []
 
         with open(self.outputPath + "raw/componentDistribution.txt", "w") as output2:
-            output2.write(str(maxSubgraph) + " " + str(self.G.number_of_nodes()) + " " + str(maxSubgraph/self.G.number_of_nodes()) + "\n")
+            output2.write(str(maxSubgraph) + " " + str(self.G.number_of_nodes()) + " " + str(
+                maxSubgraph / self.G.number_of_nodes()) + "\n")
 
-            for i in range(0, res[1]+1):
+            for i in range(0, res[1] + 1):
                 output2.write(str(i) + " " + str(C[i]) + " " + "\n")
                 if i > 0 and C[i] > 0:
                     logx.append(math.log(i))
                     logy.append(math.log(C[i]))
 
-        self.makePlot('Log Histogram of Connected Components', 'log j', 'log k_j', logx, logy, self.outputPath + "graphs/componentDistribution.txt")
+        self.makePlot('Log Histogram of Connected Components', 'log j', 'log k_j', logx, logy,
+                      self.outputPath + "graphs/componentDistribution.txt")
 
     def generatePathLengths(self, start):
         paths = nx.single_source_dijkstra_path_length(self.G, start)
@@ -72,11 +74,11 @@ class NetworkAnalysis:
         y = []
 
         with open(self.outputPath + "raw/pathLengths.txt", "w") as output3:
-            for i in range(1, maxPath+1):
+            for i in range(1, maxPath + 1):
                 output3.write(str(i) + " " + str(C[i]) + "\n")
                 x.append(i)
                 y.append(C[i])
-        
+
         self.makePlot("Nodes at Distance j", 'j', 'r_j', x, y, self.outputPath + "graphs/pathLengths.txt")
 
     def getAveragePathLength(self):
@@ -92,13 +94,12 @@ class NetworkAnalysis:
         ax.set_xlabel(xaxis)
         ax.set_ylabel(yaxis)
 
-        ax.scatter(x = xdata, y = ydata)
-        plt.scatter(x = xdata, y = ydata)
-        
+        ax.scatter(x=xdata, y=ydata)
+        plt.scatter(x=xdata, y=ydata)
+
         plt.savefig(path)
         plt.close()
 
+
 if __name__ == '__main__':
     pass
-
-
