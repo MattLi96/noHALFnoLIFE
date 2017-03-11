@@ -52,6 +52,25 @@ class NetworkAnalysis:
 
         self.makePlot('Log Histogram of Connected Components', 'log j', 'log k_j', logx, logy, self.outputPath + "graphs/componentDistribution.txt")
 
+    def generatePathLengths(self, start):
+        paths = nx.single_source_dijkstra_path_length(self.G, start)
+        C = Counter(paths.values())
+        maxPath = paths[max(paths, key=lambda i: paths[i])]
+
+        x = []
+        y = []
+
+        with open(self.outputPath + "raw/pathLengths.txt", "w") as output3:
+            for i in range(1, maxPath+1):
+                output3.write(str(i) + " " + str(C[i]) + "\n")
+                x.append(i)
+                y.append(C[i])
+        
+        self.makePlot("Nodes at Distance j", 'j', 'r_j', x, y, self.outputPath + "graphs/pathLengths.txt")
+
+    def getAveragePathLength(self):
+        return nx.average_shortest_path_length(self.G)
+
     def makePlot(self, title, xaxis, yaxis, xdata, ydata, path):
         fig = plt.figure()
         fig.suptitle(title, fontsize=14, fontweight='bold')
