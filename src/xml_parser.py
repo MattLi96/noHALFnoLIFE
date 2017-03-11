@@ -10,7 +10,7 @@ class XMLParser:
         pass
 
     def parse_to_obj(self, xml_attribs=True):
-        print(self.file_name)
+        # print(self.file_name)
         with open(self.file_name, "rb") as f:  # notice the "rb" mode
             d = xmltodict.parse(f, xml_attribs=xml_attribs)
             return d

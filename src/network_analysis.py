@@ -11,6 +11,11 @@ class NetworkAnalysis:
         fileName = split[0].split(".")[0]
         self.outputPath = "../output/" + fileName + "/"
     
+    def outputBasicStats(self):
+        print(self.outputPath)
+        print("# nodes: ", nx.number_of_nodes(self.G))
+        print("# edges: ", nx.number_of_edges(self.G))
+
     def generateDegreeDistribution(self):
         output = open(self.outputPath + "raw/degreeDistribution.txt", "w")
 
