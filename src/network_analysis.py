@@ -24,8 +24,7 @@ class NetworkAnalysis:
                 
     def generateDrawing(self, outfile=self.outputPath + "graph.png"):
         nx.draw(self.G, pos=nx.spring_layout(self.G))
-        plt.savefig(outfile)
-        plt.close()
+        self.output_plt(outfile)
 
     def outputBasicStats(self):
         print(self.outputPath)
@@ -114,9 +113,15 @@ class NetworkAnalysis:
         ax.scatter(x=xdata, y=ydata)
         plt.scatter(x=xdata, y=ydata)
 
+        self.output_plt(path)
+
+    def output_plt(self, path):
+        directory = os.path.dirname(path)
+        if not os.path.exists(directory):
+            os.makedirs(directory)
+
         plt.savefig(path)
         plt.close()
-
 
 if __name__ == '__main__':
     pass
