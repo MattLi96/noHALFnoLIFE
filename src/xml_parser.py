@@ -23,20 +23,9 @@ class XMLParser:
             
         return True
 
-
-if __name__ == '__main__':
-    files = sys.argv
-    files.pop(0)
-    if len(files) < 0:
-        files = get_data_files()["current"]
-
-    for item in files:
+    def parse_to_dict(file_name):
         data_return = {}
-        print(" --- Analyzing " + item + " ---")
-        file_name = item
-        parser = XMLParser(file_name)
-        obj = parser.parse_to_obj()
-
+        obj = self.parse_to_obj()
         for p in obj["mediawiki"]["page"]:
             if not 'revision' in p:
                 continue
@@ -51,5 +40,5 @@ if __name__ == '__main__':
 
             data_return[name] = text
 
-        data_output = json.dumps(data_return, indent=4, separators=(',', ':'))
-        open(item[0:len(item) - 4] + '_dict.xml', 'w').write(data_output)
+        return data_return
+
