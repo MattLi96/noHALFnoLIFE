@@ -1,9 +1,12 @@
-import networkx as nx
-from collections import Counter
-import matplotlib.pyplot as plt
+import json
 import math
-import re
 import os
+import re
+from collections import Counter
+
+import matplotlib.pyplot as plt
+import networkx as nx
+from networkx.readwrite import json_graph
 
 
 class NetworkAnalysis:
@@ -12,6 +15,20 @@ class NetworkAnalysis:
         split = re.split('\\ /', fileName)
         fileName = split[0].split(".")[0]
         self.outputPath = "../output/" + fileName + "/"
+
+    def d3dump(self):
+        G = self.G.copy()
+        # Augment Graph with Metadata
+        for ix, deg in G.degree().items():
+            G.node[ix]['degree'] = deg
+            G.node[ix]['parity'] = (1 - deg % 2)
+        for ix, katz in nx.katz_centrality(G).items():
+            G.node[ix]['katz'] = katz
+        G.nodes(data=True)
+
+        data = json_graph.node_link_data(G)
+        with open(self.outputPath + "d3dump.json", 'w') as f:
+            json.dump(data, f, indent=4)
 
     def outputNodesAndEdges(self):
         with open(self.outputPath + "nodes.txt", "w") as nodeOut, open(self.outputPath + "edges.txt", "w") as edgeOut:
