@@ -4,9 +4,9 @@ import matplotlib.pyplot as plt
 import math
 
 class NetworkAnalysis:
-    def __init__(self, G): #TODO any settings for the network analysis
+    def __init__(self, G, fileName): #TODO any settings for the network analysis
         self.G = G
-        self.outputPath = "../output/"
+        self.outputPath = "../output/" + fileName + "/"
     
     def generateDegreeDistribution(self):
         output = open(self.outputPath + "raw/degreeDistribution.txt", "w")
