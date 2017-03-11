@@ -1,8 +1,10 @@
 import untangle
+import sys
 
 
 class XMLParser:
-    def __init__(self):
+    def __init__(fname):
+        self.file_name = file_name
         pass
 
     def parse_to_obj(self, file_name):
@@ -14,10 +16,16 @@ class XMLParser:
 
 
 if __name__ == '__main__':
-    file_name = '../data/nogamenolife_pages_current.xml'
-    test_file = '../data/test.xml'
+    files = sys.argv
+    if len(files < 0):
+        print "No file specified. Specify at least one file"
+        exit(0)
 
-    obj = XMLParser().parse_to_obj(file_name)
 
-    for p in obj.mediawiki.page:
-        print(p.title.cdata)
+    for item in files:
+        print(" --- Analyzing " + item + " ---")
+        file_name = item
+        obj = XMLParser().parse_to_obj(file_name)
+
+        for p in obj.mediawiki.page:
+            print(p.title.cdata)
