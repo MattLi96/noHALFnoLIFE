@@ -1,5 +1,5 @@
 import xmltodict
-
+import networkx as nx
 
 def convert(xml_file, xml_attribs=True):
     with open(xml_file, "rb") as f:  # notice the "rb" mode
@@ -8,16 +8,16 @@ def convert(xml_file, xml_attribs=True):
 
 d = convert('../data/nogamenolife_pages_current.xml')
 
-import networkx
-
 class NetworkParser:
     def __init__(self): #TODO any settings for the network parser
         pass
 
-    def generate_graph(self, dict):
+    def convert(self):
         pass
 
 if __name__ == '__main__':
-
+    print(d)
+    G = nx.Graph()
+    pass
 
 
