@@ -2,6 +2,7 @@
 import untangle
 import sys
 import xmltodict
+import json
 
 class XMLParser:
     def __init__(self, fname):
@@ -27,15 +28,22 @@ if __name__ == '__main__':
 
 
     for item in files:
+        data_return = {}
         print(" --- Analyzing " + item + " ---")
         file_name = item
         obj = XMLParser(file_name).parse_to_obj()
 
         for p in obj["mediawiki"]["page"]:
-            print(p)
+            name = None
+            text = None
+            for dict_item in p:
+                if (dict_item[0] == "title"):
+                    name = dict_item[1]
+                elif (dict_item[0] == "#text"):
+                    text = dict_item[1]
+                if (name and text):
+                    break
+            data_return[name] = text
 
-
-
-
-
-
+        data_output = json.dumps(data_return)
+        open(item[0:len(item)-4] + '_dict.xml', 'w').write(data_output)
