@@ -8,7 +8,9 @@ window.info = new Vue({
     data: {
         forceOn: false,
         options: [],
-        currentOption: ""
+        currentOption: "",
+        selectedNode: null,
+        selectedPath: null
     },
     methods: {
         updateData: function (option) {
@@ -23,6 +25,15 @@ window.info = new Vue({
                 window.s.startForceAtlas2(window.forceConfig);
             }
             this.forceOn = !this.forceOn;
+        },
+        pathToString: function(){
+            let res = "";
+            this.selectedPath.forEach(function(o){
+                res+='->' + o.id;
+            })
+
+            res=res.slice(2);
+            return res;
         }
     }
 })

@@ -1,4 +1,4 @@
-window.targets = []
+// window.targets = []
 
 $('#graph-container').bind('contextmenu', function (e) {
     return false;
@@ -32,12 +32,14 @@ function generate(path) {
             g.nodes[i]["x"] = Math.random();
             g.nodes[i]["y"] = Math.random();
             g.nodes[i]["size"] = Math.random();
-            g.nodes[i]["color"] = '#666';
+            g.nodes[i]["color"] = '#ff392e';
+            g.nodes[i]["originalColor"] = '#ff392e';
         }
         for (i = 0; i < E; i++) {
             g.edges[i]["id"] = i;
             g.edges[i]["size"] = Math.random();
-            g.edges[i]["color"] = '#ccc';
+            g.edges[i]["color"] = '#ff6666';
+            g.edges[i]["originalColor"] = '#ff6666';
         }
         sigma.renderers.def = sigma.renderers.canvas
         // Instantiate sigma:
@@ -46,39 +48,62 @@ function generate(path) {
             container: 'graph-container'
         });
 
-        window.s.graph.nodes().forEach(function (n) {
-            n.originalColor = n.color;
-        });
-        window.s.graph.edges().forEach(function (e) {
-            e.originalColor = e.color;
-        });
-
         window.s.bind('clickNode', function (e) {
-            var nodeId = e.data.node.id,
-                toKeep = s.graph.neighbors(nodeId);
-            toKeep[nodeId] = e.data.node;
+            if(window.info.selectedNode == null){
+                window.info.selectedNode = e.data.node;
 
-            s.graph.nodes().forEach(function (n) {
-                if (toKeep[n.id])
-                    n.color = n.originalColor;
-                else
-                    n.color = '#eee';
-            });
+                var nodeId = e.data.node.id,
+                    toKeep = s.graph.neighbors(nodeId);
+                toKeep[nodeId] = e.data.node;
 
-            s.graph.edges().forEach(function (e) {
-                if (toKeep[e.source] && toKeep[e.target])
-                    e.color = e.originalColor;
-                else
-                    e.color = '#eee';
-            });
+                s.graph.nodes().forEach(function (n) {
+                    n.color = (toKeep[n.id]) ? n.originalColor : '#eee';
+                });
 
-            // Since the data has been modified, we need to
-            // call the refresh method to make the colors
-            // update effective.
-            window.s.refresh();
+                s.graph.edges().forEach(function (e) {
+                    e.color = (toKeep[e.source] && toKeep[e.target]) ? e.originalColor : '#eee';
+                });
+
+                window.s.refresh();
+            }
+            else{
+                //Path-finding
+                var nodeId = e.data.node.id,
+                    toKeep = window.s.graph.astar(nodeId, window.info.selectedNode.id);
+
+                window.info.selectedPath = toKeep;
+
+                s.graph.nodes().forEach(function (n) {
+                    let keep = !(_.find(toKeep, { 'id': n.id }) == undefined);
+                    n.color = (keep) ? n.originalColor : '#eee';
+                });
+
+                s.graph.edges().forEach(function (e) {
+                    let keep1 = !(_.find(toKeep, { 'id': e.source }) == undefined);
+                    let keep2 = !(_.find(toKeep, { 'id': e.target }) == undefined);
+                    e.color = (keep1 && keep2) ? e.originalColor : '#eee';
+                });
+
+                window.s.refresh();
+
+
+                // console.log(e.data.node);
+                // window.targets.push(e.data.node)
+                // if (window.targets.length > 1) {
+                //     var last = window.targets[window.targets.length - 1]
+                //     var last2 = window.targets[window.targets.length - 2]
+                //     console.log(last)
+                //     console.log(last2)
+                //     console.log(window.s.graph.astar(last.label, last2.label));
+                // }
+            }
+            
         });
 
         window.s.bind('clickStage', function (e) {
+            window.info.selectedNode = null;
+            window.info.selectedPath = null;
+
             window.s.graph.nodes().forEach(function (n) {
                 n.color = n.originalColor;
             });
@@ -97,18 +122,6 @@ function generate(path) {
             // console.log(event);
             window.s.stopForceAtlas2();
             window.info.forceOn = false;
-        });
-
-        window.s.bind('rightClickNode', function (e) {
-            console.log(e.data.node);
-            window.targets.push(e.data.node)
-            if (window.targets.length > 1) {
-                var last = window.targets[window.targets.length - 1]
-                var last2 = window.targets[window.targets.length - 2]
-                console.log(last)
-                console.log(last2)
-                console.log(window.s.graph.astar(last.label, last2.label));
-            }
         });
     });
 }

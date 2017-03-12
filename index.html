@@ -17,27 +17,36 @@
 
 <body>
     <div id="info">
-        <h2> Fandom Wiki Analysis Project </h1>
-            <div style="padding-top: 10px">
-                <div class="dropdown">
-                    <span>
-                    <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown">
+        <h2> Fandom Wiki Analysis Project </h2>
+        <div style="padding-top: 10px">
+            <div class="dropdown">
+                <span>
+                <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown">
                         {{currentOption}}
                         <span class="caret"></span>
-                    </button>
-                    <button class="btn btn-default" v-bind:class="{ 'forceOn': forceOn }" id="dance" v-on:click="updateForce()"> Dance </button>
-                    <ul class="dropdown-menu" id="options">
-                        <li v-for="option in options" v-on:click="updateData(option)"><a href=# class="dropDownListItem"> {{option}} </a></li>
-                    </ul>
-                    </span>
-                </div>
+                </button>
+                <button class="btn btn-default" v-bind:class="{ 'forceOn': forceOn }" id="dance" v-on:click="updateForce()"> Dance </button>
+                <ul class="dropdown-menu" id="options">
+                    <li v-for="option in options" v-on:click="updateData(option)"><a href=# class="dropDownListItem"> {{option}} </a></li>
+                </ul>
+                </span>
             </div>
+        </div>
+        <div v-if="selectedNode!=null && selectedPath==null">
+            <h4> Selected Node: {{selectedNode.id}}</h4>
+            <h4> Degree: {{selectedNode.degree}}</h4>
+        </div>
+        <div v-if="selectedPath!=null">
+            <h4> Path: {{pathToString()}}</h4>
+            <h4> Length: {{selectedPath.length}}</h4>
+        </div>
     </div>
 
     <div id="graph-container"></div>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="//cdn.jsdelivr.net/lodash/4.17.4/lodash.min.js"> </script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
         crossorigin="anonymous"></script>
@@ -46,9 +55,7 @@
     <script src="//cdnjs.cloudflare.com/ajax/libs/sigma.js/1.2.0/plugins/sigma.layout.forceAtlas2.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/sigma.js/1.2.0/plugins/sigma.pathfinding.astar.min.js"></script>
 
-    <script src="//unpkg.com/vue@2.2.2">
-
-    </script>
+    <script src="//unpkg.com/vue@2.2.2"></script>
 
     <script src="js/components.js"></script>
     <script src="js/graphGen.js"></script>
