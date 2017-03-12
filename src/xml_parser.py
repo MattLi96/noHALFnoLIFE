@@ -23,7 +23,7 @@ class XMLParser:
         IGNORE_LIST_SUFFIX = [':Templates', ':Copyrights', ':Candidates for speedy deletion', ':Privacy policy',
                               ':Administrators', ':Navigation', ':Bureaucrats', ':Community Portal',
                               ':Terminology List', ':Sandbox', ':Welcome', ':Policy', ':Protected page',
-                              '/Unofficial chat', ':About']
+                              '/Unofficial Chat', ':About']
 
         for item in IGNORE_LIST_PREFIX:
             if node_title[0:len(item)] == item:
@@ -61,7 +61,7 @@ class XMLParser:
                 text_obj = rev['text']
             if not '#text' in text_obj:
                 continue
-            name = p['title']
+            name = p['title'].strip()
             if not self.should_keep(name):
                 continue
             text = text_obj['#text']
