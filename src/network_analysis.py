@@ -34,7 +34,7 @@ class NetworkAnalysis:
             for n in self.G.nodes():
                 nodeOut.write(n + "\n")
             for e in self.G.edges():
-                edgeOut.write(e + "\n")
+                edgeOut.write(str(e) + "\n")
 
     def generateDrawing(self, outfile="graph.png"):
         nx.draw(self.G, pos=nx.spring_layout(self.G))

@@ -41,12 +41,10 @@ if __name__ == '__main__':
         net = NetworkParser(d)
         networks[f] = net.G
 
-        #TODO: Remove these outputs
-        open(f[0:len(f) - 4] + '_dict.json', 'w').write(json.dumps(d,indent=4, separators=(',', ': ')))
-
     for (k, v) in networks.items():
         na = NetworkAnalysis(v, os.path.basename(k))
         na.outputBasicStats()
+        na.outputNodesAndEdges()
         na.generateDrawing()
         na.generateComponentSizes()
         na.d3dump()
