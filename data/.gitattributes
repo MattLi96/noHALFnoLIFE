@@ -3,3 +3,4 @@ fma_pages_full.xml filter=lfs diff=lfs merge=lfs -text
 gameofthrones_pages_full.xml filter=lfs diff=lfs merge=lfs -text
 gameofthrones_pages_current.xml filter=lfs diff=lfs merge=lfs -text
 taylorswift219_pages_full.xml filter=lfs diff=lfs merge=lfs -text
+simpsons_pages_full.xml filter=lfs diff=lfs merge=lfs -text
