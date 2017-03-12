@@ -49,7 +49,7 @@ d3.json("../output/nogamenolife_pages_current/d3dump.json", function (error, gra
 
     // The label each node its node number from the networkx graph.
     node.append("title").text(function (d) {
-        return "Node: " + d.id + "\n" + "Degree: " + d.degree + "\n" + "Katz: " + d.katz;
+        return "Node: " + d.id + "\n" + "Degree: " + d.degree + "\n";
     });
 
     // We bind the positions of the SVG elements
