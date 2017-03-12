@@ -11,7 +11,7 @@ class XMLParser:
         pass
 
     def parse_to_obj(self, xml_attribs=True):
-        print("analyzing file: " + self.file_name)
+        print("Parsing File: " + self.file_name)
         with open(self.file_name, "rb") as f:  # notice the "rb" mode
             d = xmltodict.parse(f, xml_attribs=xml_attribs)
             return d
@@ -19,11 +19,11 @@ class XMLParser:
     def should_keep(self, node_title):
         IGNORE_LIST_PREFIX = ['Talk:', 'User:', 'File:', 'Thread:', 'Category:', 'Board Thread:', 'Template:',
                               'Category talk:', 'MediaWiki:', 'User blog comment:', 'Message Wall:', 'User blog:',
-                              'Forum:', 'Board:', 'Help:', 'User talk:', 'Blog:']
+                              'Forum:', 'Board:', 'Help:', 'User talk:', 'Blog:', 'Top 10 list:']
         IGNORE_LIST_SUFFIX = [':Templates', ':Copyrights', ':Candidates for speedy deletion', ':Privacy policy',
                               ':Administrators', ':Navigation', ':Bureaucrats', ':Community Portal',
                               ':Terminology List', ':Sandbox', ':Welcome', ':Policy', ':Protected page',
-                              '/Unofficial chat', ':About']
+                              '/Unofficial Chat', ':About']
 
         for item in IGNORE_LIST_PREFIX:
             if node_title[0:len(item)] == item:
@@ -61,7 +61,7 @@ class XMLParser:
                 text_obj = rev['text']
             if not '#text' in text_obj:
                 continue
-            name = p['title']
+            name = p['title'].strip()
             if not self.should_keep(name):
                 continue
             text = text_obj['#text']
