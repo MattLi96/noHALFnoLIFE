@@ -2,11 +2,12 @@ import json
 import math
 import os
 import re
+import shutil
 from collections import Counter
+
 import matplotlib.pyplot as plt
 import networkx as nx
 from networkx.readwrite import json_graph
-import shutil
 
 
 class NetworkAnalysis:
@@ -14,22 +15,26 @@ class NetworkAnalysis:
         self.G = G
         split = re.split('\\ /', fileName)
         fileName = split[0].split(".")[0]
+        self.fileName = fileName
         self.outputPath = "../output/" + fileName + "/"
         if os.path.exists(self.outputPath):
             shutil.rmtree(self.outputPath)
         os.makedirs(self.outputPath)
 
-    def d3dump(self, outfile="d3dump.json"):
+    def d3dump(self):
         G = self.G.copy()
         # Augment Graph with Metadata
         for ix, deg in G.degree().items():
             G.node[ix]['degree'] = deg
             G.node[ix]['parity'] = (1 - deg % 2)
-
         G.nodes(data=True)
-
         data = json_graph.node_link_data(G)
-        with open(self.outputPath + outfile, 'w') as f:
+
+        data_output_dir = "../public/data/"
+        if os.path.exists(data_output_dir):
+            shutil.rmtree(data_output_dir)
+        os.makedirs(data_output_dir)
+        with open(data_output_dir + self.fileName + ".json", 'w') as f:
             json.dump(data, f, indent=4)
 
     def outputNodesAndEdges(self, nodesOut="nodes.txt", edgeOut="edges.txt"):
