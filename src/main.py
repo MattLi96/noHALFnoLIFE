@@ -48,3 +48,4 @@ if __name__ == '__main__':
         na.outputBasicStats()
         na.generateDrawing()
         na.generateComponentSizes()
+        na.d3dump()

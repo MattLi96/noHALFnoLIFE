@@ -22,8 +22,7 @@ class NetworkAnalysis:
         for ix, deg in G.degree().items():
             G.node[ix]['degree'] = deg
             G.node[ix]['parity'] = (1 - deg % 2)
-        for ix, katz in nx.katz_centrality(G).items():
-            G.node[ix]['katz'] = katz
+        
         G.nodes(data=True)
 
         data = json_graph.node_link_data(G)

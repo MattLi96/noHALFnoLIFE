@@ -1,5 +1,5 @@
 // Parameter declaration, the height and width of our viz.
-var width = 300, height = 300;
+var width = 800, height = 800;
 
 // Colour scale for node colours.
 var color = d3.scale.category10();
@@ -17,7 +17,7 @@ if (svg.empty()) {
 }
 
 // We load the JSON network file.
-d3.json("graph.json", function (error, graph) {
+d3.json("../output/nogamenolife_pages_current/d3dump.json", function (error, graph) {
     // Within this block, the network has been loaded
     // and stored in the 'graph' object.
 
