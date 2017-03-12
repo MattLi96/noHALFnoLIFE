@@ -1,10 +1,10 @@
+#!/usr/bin/env python3
 from xml_parser import XMLParser
 from network_parser import NetworkParser
 from network_analysis import NetworkAnalysis
 import os
 from os import listdir
 from os.path import isfile, join
-import json
 
 def get_data_files(dir_path="../data"):
     ret = {"current": set(), "full": set()}
@@ -20,7 +20,7 @@ def get_data_files(dir_path="../data"):
 
 if __name__ == '__main__':
     # Flags for control
-    currentOnly = True
+    currentOnly = False
     noGame = True  # Only use the no game no life wiki. Intended for testing
 
     # Setting datafiles to the correct files
@@ -40,12 +40,10 @@ if __name__ == '__main__':
         net = NetworkParser(d)
         networks[f] = net.G
 
-        #TODO: Remove these outputs
-        open(f[0:len(f) - 4] + '_dict.json', 'w').write(json.dumps(d,indent=4, separators=(',', ': ')))
-
     for (k, v) in networks.items():
         na = NetworkAnalysis(v, os.path.basename(k))
         na.outputBasicStats()
+        na.outputNodesAndEdges()
         na.generateDrawing()
         na.generateComponentSizes()
         na.d3dump()

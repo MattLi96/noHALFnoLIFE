@@ -3,10 +3,10 @@ import math
 import os
 import re
 from collections import Counter
-
 import matplotlib.pyplot as plt
 import networkx as nx
 from networkx.readwrite import json_graph
+import shutil
 
 
 class NetworkAnalysis:
@@ -16,6 +16,9 @@ class NetworkAnalysis:
         fileName = split[0].split(".")[0]
         self.fileName = fileName
         self.outputPath = "../output/" + fileName + "/"
+        if os.path.exists(self.outputPath):
+            shutil.rmtree(self.outputPath)
+        os.makedirs(self.outputPath)
 
     def d3dump(self, outfile="d3dump.json"):
         G = self.G.copy()
@@ -23,7 +26,7 @@ class NetworkAnalysis:
         for ix, deg in G.degree().items():
             G.node[ix]['degree'] = deg
             G.node[ix]['parity'] = (1 - deg % 2)
-        
+
         G.nodes(data=True)
 
         data = json_graph.node_link_data(G)
@@ -35,7 +38,7 @@ class NetworkAnalysis:
             for n in self.G.nodes():
                 nodeOut.write(n + "\n")
             for e in self.G.edges():
-                edgeOut.write(e + "\n")
+                edgeOut.write(str(e) + "\n")
 
     def generateDrawing(self, outfile="graph.png"):
         nx.draw(self.G, pos=nx.spring_layout(self.G))
