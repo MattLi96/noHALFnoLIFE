@@ -5,7 +5,6 @@ from network_analysis import NetworkAnalysis
 import os
 from os import listdir
 from os.path import isfile, join
-import json
 
 def get_data_files(dir_path="../data"):
     ret = {"current": set(), "full": set()}
