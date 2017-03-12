@@ -41,6 +41,7 @@ if __name__ == '__main__':
         networks[f] = net.G
 
     for (k, v) in networks.items():
+        print("Analyzing File:", k)
         na = NetworkAnalysis(v, os.path.basename(k))
         na.outputBasicStats()
         na.outputNodesAndEdges()
