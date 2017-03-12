@@ -21,7 +21,7 @@ def get_data_files(dir_path="../data"):
 if __name__ == '__main__':
     # Flags for control
     currentOnly = False
-    noGame = True  # Only use the no game no life wiki. Intended for testing
+    noGame = False  # Only use the no game no life wiki. Intended for testing
 
     # Setting datafiles to the correct files
     data_files = set()
