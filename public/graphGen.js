@@ -17,7 +17,7 @@ if (svg.empty()) {
 }
 
 // We load the JSON network file.
-d3.json("../output/nogamenolife_pages_current/d3dump.json", function (error, graph) {
+d3.json("data/nogamenolife_pages_current.json", function (error, graph) {
     // Within this block, the network has been loaded
     // and stored in the 'graph' object.
 
