@@ -37,7 +37,7 @@ class NetworkAnalysis:
             json.dump(data, f, indent=4)
 
     def outputNodesAndEdges(self, nodesOut="nodes.txt", edgeOut="edges.txt"):
-        with open(self.outputPath + nodesOut, "w") as nodeOut, open(self.outputPath + edgeOut, "w") as edgeOut:
+        with open(self.outputPath + nodesOut, "w", encoding="utf-8") as nodeOut, open(self.outputPath + edgeOut, "w", encoding="utf-8") as edgeOut:
             node_to_degree = {}
             for e in self.G.edges():
                 edgeOut.write(str(e) + "\n")
