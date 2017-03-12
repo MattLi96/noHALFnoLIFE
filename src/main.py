@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from xml_parser import XMLParser
 from network_parser import NetworkParser
 from network_analysis import NetworkAnalysis
@@ -20,7 +21,7 @@ def get_data_files(dir_path="../data"):
 
 if __name__ == '__main__':
     # Flags for control
-    currentOnly = True
+    currentOnly = False
     noGame = True  # Only use the no game no life wiki. Intended for testing
 
     # Setting datafiles to the correct files
