@@ -1,0 +1,28 @@
+{
+  "name": "cs6850project",
+  "version": "1.0.0",
+  "description": "visualizations of networkx",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techlover10/cs6850project.git"
+  },
+  "dependencies":{
+    "express": "^4.13.1"
+  },
+  "devDependencies":{
+    "nodemon": "*"
+  },
+  "keywords": [
+    "derp"
+  ],
+  "author": "Austin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techlover10/cs6850project/issues"
+  },
+  "homepage": "https://github.com/techlover10/cs6850project#readme"
+}

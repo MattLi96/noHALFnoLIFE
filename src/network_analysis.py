@@ -14,6 +14,7 @@ class NetworkAnalysis:
         self.G = G
         split = re.split('\\ /', fileName)
         fileName = split[0].split(".")[0]
+        self.fileName = fileName
         self.outputPath = "../output/" + fileName + "/"
 
     def d3dump(self, outfile="d3dump.json"):
@@ -26,7 +27,7 @@ class NetworkAnalysis:
         G.nodes(data=True)
 
         data = json_graph.node_link_data(G)
-        with open(self.outputPath + outfile, 'w') as f:
+        with open("../public/data/" + self.fileName+".json", 'w') as f:
             json.dump(data, f, indent=4)
 
     def outputNodesAndEdges(self, nodesOut="nodes.txt", edgeOut="edges.txt"):

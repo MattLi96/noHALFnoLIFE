@@ -3,3 +3,5 @@ venv/
 *.swp
 *.pyc
 output
+node_modules/
+public/data/
