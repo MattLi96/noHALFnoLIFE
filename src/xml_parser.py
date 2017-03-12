@@ -18,9 +18,15 @@ class XMLParser:
             return d
 
     def should_keep(self, node_title):
-        IGNORE_LIST = ['Talk:', 'User:', 'File:', 'Thread:', 'Category:', 'Board Thread:', 'Template:', 'Category talk:', 'MediaWiki:', 'User blog comment:', 'Message Wall:', 'User blog:', 'Forum:', 'Board:', 'Help:', 'User talk:']
-        for item in IGNORE_LIST:
+        IGNORE_LIST_PREFIX = ['Talk:', 'User:', 'File:', 'Thread:', 'Category:', 'Board Thread:', 'Template:', 'Category talk:', 'MediaWiki:', 'User blog comment:', 'Message Wall:', 'User blog:', 'Forum:', 'Board:', 'Help:', 'User talk:']
+        IGNORE_LIST_SUFFIX = [':Templates', ':Copyrights', ':Candidates for speedy deletion', ':Privacy policy', ':Administrators', ':Navigation', ':Bureaucrats', ':Community Portal', ':Terminology List', ':Sandbox', ':Welcome']
+
+        for item in IGNORE_LIST_PREFIX:
             if node_title[0:len(item)] == item:
+                return False
+
+        for item in IGNORE_LIST_SUFFIX:
+            if node_title[len(node_title) - len(item): len(node_title)] == item:
                 return False
             
         return True
