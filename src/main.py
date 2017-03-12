@@ -43,6 +43,7 @@ if __name__ == '__main__':
     for (k, v) in networks.items():
         na = NetworkAnalysis(v, os.path.basename(k))
         na.outputBasicStats()
+        na.outputNodesAndEdges()
         na.generateDrawing()
         na.generateComponentSizes()
         na.d3dump()
