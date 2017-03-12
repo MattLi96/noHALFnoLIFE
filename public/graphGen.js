@@ -6,8 +6,8 @@ function generate(path){
     var color = d3.scale.category10();
 
     var force = d3.layout.force()
-        .charge(-120)
-        .linkDistance(30)
+        .charge(-40)
+        .linkDistance(10)
         .size([width, height]);
 
     try{
@@ -17,6 +17,7 @@ function generate(path){
 
     }
     
+
     var svg = d3.select("#d3-container").select("svg")
     if (svg.empty()) {
         svg = d3.select("#d3-container").append("svg")
