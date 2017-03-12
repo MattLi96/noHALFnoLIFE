@@ -19,7 +19,7 @@ class XMLParser:
     def should_keep(self, node_title):
         IGNORE_LIST_PREFIX = ['Talk:', 'User:', 'File:', 'Thread:', 'Category:', 'Board Thread:', 'Template:',
                               'Category talk:', 'MediaWiki:', 'User blog comment:', 'Message Wall:', 'User blog:',
-                              'Forum:', 'Board:', 'Help:', 'User talk:', 'Blog:']
+                              'Forum:', 'Board:', 'Help:', 'User talk:', 'Blog:', 'Top 10 list:']
         IGNORE_LIST_SUFFIX = [':Templates', ':Copyrights', ':Candidates for speedy deletion', ':Privacy policy',
                               ':Administrators', ':Navigation', ':Bureaucrats', ':Community Portal',
                               ':Terminology List', ':Sandbox', ':Welcome', ':Policy', ':Protected page',

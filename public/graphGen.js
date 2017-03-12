@@ -16,7 +16,7 @@ function generate(path){
             .attr("width", width)
             .attr("height", height);
     }
-
+    
     // We load the JSON network file.
     d3.json(path, function (error, graph) {
         // Within this block, the network has been loaded
