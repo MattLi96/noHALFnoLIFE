@@ -16,13 +16,16 @@ class NetworkAnalysis:
         fileName = split[0].split(".")[0]
         self.outputPath = "../output/" + fileName + "/"
 
+        if not os.path.exists(self.outputPath):
+            os.makedirs(self.outputPath)
+
     def d3dump(self, outfile="d3dump.json"):
         G = self.G.copy()
         # Augment Graph with Metadata
         for ix, deg in G.degree().items():
             G.node[ix]['degree'] = deg
             G.node[ix]['parity'] = (1 - deg % 2)
-        
+
         G.nodes(data=True)
 
         data = json_graph.node_link_data(G)
