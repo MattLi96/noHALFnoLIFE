@@ -31,9 +31,8 @@ class NetworkAnalysis:
         data = json_graph.node_link_data(G)
 
         data_output_dir = "../public/data/"
-        if os.path.exists(data_output_dir):
-            shutil.rmtree(data_output_dir)
-        os.makedirs(data_output_dir)
+        if not os.path.exists(data_output_dir):
+            os.makedirs(data_output_dir)
         with open(data_output_dir + self.fileName + ".json", 'w') as f:
             json.dump(data, f, indent=4)
 
