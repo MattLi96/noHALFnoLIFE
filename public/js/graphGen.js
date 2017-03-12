@@ -1,5 +1,3 @@
-// window.targets = []
-
 $('#graph-container').bind('contextmenu', function (e) {
     return false;
 });
@@ -14,6 +12,21 @@ sigma.classes.graph.addMethod('neighbors', function (nodeId) {
 
     return neighbors;
 });
+
+function resetColors(event) {
+    window.info.selectedNode = null;
+    window.info.selectedPath = null;
+
+    window.s.graph.nodes().forEach(function (n) {
+        n.color = n.originalColor;
+    });
+
+    window.s.graph.edges().forEach(function (e) {
+        e.color = e.originalColor;
+    });
+
+    window.s.refresh();
+}
 
 function generate(path) {
     $("#graph-container").html("")
@@ -49,7 +62,7 @@ function generate(path) {
         });
 
         window.s.bind('clickNode', function (e) {
-            if(window.info.selectedNode == null){
+            if (window.info.selectedNode == null) {
                 window.info.selectedNode = e.data.node;
 
                 var nodeId = e.data.node.id,
@@ -66,12 +79,17 @@ function generate(path) {
 
                 window.s.refresh();
             }
-            else{
+            else {
                 //Path-finding
                 var nodeId = e.data.node.id,
                     toKeep = window.s.graph.astar(nodeId, window.info.selectedNode.id);
 
                 window.info.selectedPath = toKeep;
+
+                if (toKeep == undefined) {
+                    resetColors(null);
+                    return;
+                }
 
                 s.graph.nodes().forEach(function (n) {
                     let keep = !(_.find(toKeep, { 'id': n.id }) == undefined);
@@ -85,41 +103,14 @@ function generate(path) {
                 });
 
                 window.s.refresh();
-
-
-                // console.log(e.data.node);
-                // window.targets.push(e.data.node)
-                // if (window.targets.length > 1) {
-                //     var last = window.targets[window.targets.length - 1]
-                //     var last2 = window.targets[window.targets.length - 2]
-                //     console.log(last)
-                //     console.log(last2)
-                //     console.log(window.s.graph.astar(last.label, last2.label));
-                // }
             }
-            
         });
 
-        window.s.bind('clickStage', function (e) {
-            window.info.selectedNode = null;
-            window.info.selectedPath = null;
-
-            window.s.graph.nodes().forEach(function (n) {
-                n.color = n.originalColor;
-            });
-
-            window.s.graph.edges().forEach(function (e) {
-                e.color = e.originalColor;
-            });
-
-            // Same as in the previous event:
-            window.s.refresh();
-        });
+        window.s.bind('clickStage', resetColors);
 
         // Initialize the dragNodes plugin:
         var dragListener = sigma.plugins.dragNodes(window.s, window.s.renderers[0]);
         dragListener.bind('startdrag', function (event) {
-            // console.log(event);
             window.s.stopForceAtlas2();
             window.info.forceOn = false;
         });
