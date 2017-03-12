@@ -34,10 +34,20 @@ class NetworkAnalysis:
 
     def outputNodesAndEdges(self, nodesOut="nodes.txt", edgeOut="edges.txt"):
         with open(self.outputPath + nodesOut, "w") as nodeOut, open(self.outputPath + edgeOut, "w") as edgeOut:
-            for n in self.G.nodes():
-                nodeOut.write(n + "\n")
+            node_to_degree = {}
             for e in self.G.edges():
                 edgeOut.write(str(e) + "\n")
+                if e[0] not in node_to_degree:
+                    node_to_degree[e[0]] = 0
+                if e[1] not in node_to_degree:
+                    node_to_degree[e[1]] = 0  
+                node_to_degree[e[0]] = node_to_degree[e[0]] + 1
+                node_to_degree[e[1]] = node_to_degree[e[1]] + 1                         
+            for n in self.G.nodes():
+                node_degree = 0
+                if n in node_to_degree:
+                    node_degree = node_to_degree[n] 
+                nodeOut.write(str(node_degree) + ", " + str(n) + "\n")
 
     def generateDrawing(self, outfile="graph.png"):
         nx.draw(self.G, pos=nx.spring_layout(self.G))
