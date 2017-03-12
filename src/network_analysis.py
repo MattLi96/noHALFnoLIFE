@@ -16,7 +16,7 @@ class NetworkAnalysis:
         fileName = split[0].split(".")[0]
         self.outputPath = "../output/" + fileName + "/"
 
-    def d3dump(self):
+    def d3dump(self, outfile="d3dump.json"):
         G = self.G.copy()
         # Augment Graph with Metadata
         for ix, deg in G.degree().items():
@@ -26,11 +26,11 @@ class NetworkAnalysis:
         G.nodes(data=True)
 
         data = json_graph.node_link_data(G)
-        with open(self.outputPath + "d3dump.json", 'w') as f:
+        with open(self.outputPath + outfile, 'w') as f:
             json.dump(data, f, indent=4)
 
-    def outputNodesAndEdges(self):
-        with open(self.outputPath + "nodes.txt", "w") as nodeOut, open(self.outputPath + "edges.txt", "w") as edgeOut:
+    def outputNodesAndEdges(self, nodesOut="nodes.txt", edgeOut="edges.txt"):
+        with open(self.outputPath + nodesOut, "w") as nodeOut, open(self.outputPath + edgeOut, "w") as edgeOut:
             for n in self.G.nodes():
                 nodeOut.write(n + "\n")
             for e in self.G.edges():
