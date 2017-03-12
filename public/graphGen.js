@@ -80,9 +80,17 @@ window.forceOn = false;
 $("#dance").on("click", function(){
     if(window.forceOn){
         window.s.stopForceAtlas2();
+        $(".toggleDance").css({
+            "background-color": "#9e0010",
+            "color": "#ffffff"
+        });
     }
     else{
         window.s.startForceAtlas2(forceConfig);
+        $(".toggleDance").css({
+            "background-color": "#5fed00",
+            "color": "#000000"
+        });
     }
     window.forceOn = !window.forceOn;
 });
