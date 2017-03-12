@@ -1,2 +1,4 @@
 simpsons_pages_current.xml filter=lfs diff=lfs merge=lfs -text
 fma_pages_full.xml filter=lfs diff=lfs merge=lfs -text
+gameofthrones_pages_full.xml filter=lfs diff=lfs merge=lfs -text
+gameofthrones_pages_current.xml filter=lfs diff=lfs merge=lfs -text
