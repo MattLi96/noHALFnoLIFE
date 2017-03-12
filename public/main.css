@@ -1,7 +1,23 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+#info{
+    display: block;
+    float: left;
+    width: 30%;
+    height: 100%;
+
+    margin: 15px;
+    text-align: center;
+}
+
 #graph-container {
-      top: 160px;
+      top: 0;
       bottom: 0;
-      left: 0;
+      left: 30%;
       right: 0;
       position: absolute;
 }
@@ -9,6 +25,14 @@
 div.master {
     padding-left:10px;
     padding-right:5px;
+}
+
+#dance{
+    background-color:darkred;
+    color:white;
+}
+.forceOn{
+    background-color: limegreen !important;
 }
 
 .node {stroke: #fff; stroke-width: 1.5px;}

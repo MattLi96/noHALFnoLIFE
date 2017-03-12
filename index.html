@@ -1,48 +1,58 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-        <title>Fandom Wiki Analysis</title>
 
-        <!-- Bootstrap -->
-        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-        <link rel="stylesheet" href="main.css"> </link>
-    </head>
-    <body>
-        <div class="master">
-            <h1 style="text-align: center"> Fandom Wiki Analysis Project </h1>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Fandom Wiki Analysis</title>
 
-            <div style="text-align: center; padding-top: 10px">
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+        crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans+SC:400,400i,700" rel="stylesheet">
+    <link rel="stylesheet" href="main.css"> </link>
+</head>
+
+<body>
+    <div id="info">
+        <h2> Fandom Wiki Analysis Project </h1>
+            <div style="padding-top: 10px">
                 <div class="dropdown">
                     <span>
-                    <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
-                        Select Data
+                    <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown">
+                        {{currentOption}}
                         <span class="caret"></span>
                     </button>
-                    <button class="btn btn-default toggleDance" style="background-color: lime"id="dance"> Dance </button>
-                    <ul class="dropdown-menu" style="margin-left: 38%"id="options">
+                    <button class="btn btn-default" v-bind:class="{ 'forceOn': forceOn }" id="dance" v-on:click="updateForce()"> Dance </button>
+                    <ul class="dropdown-menu" id="options">
+                        <li v-for="option in options" v-on:click="updateData(option)"><a href=# class="dropDownListItem"> {{option}} </a></li>
                     </ul>
                     </span>
                 </div>
             </div>
+    </div>
 
-            
-            <div id="graph-container"></div>
+    <div id="graph-container"></div>
 
-            <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-            <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-            <!-- Include all compiled plugins (below), or include individual files as needed -->
-            <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-            <script src="//cdnjs.cloudflare.com/ajax/libs/sigma.js/1.2.0/sigma.min.js" charset="utf-8"></script>
-            <script src="https://cdnjs.cloudflare.com/ajax/libs/sigma.js/1.2.0/plugins/sigma.plugins.dragNodes.min.js"></script>
-            <script src="https://cdnjs.cloudflare.com/ajax/libs/sigma.js/1.2.0/plugins/sigma.layout.forceAtlas2.min.js"> </script>
-            <script src="https://cdnjs.cloudflare.com/ajax/libs/sigma.js/1.2.0/plugins/sigma.pathfinding.astar.min.js"> </script>
-            <script src="graphGen.js"></script>
-            <script src="getOptions.js"> </script>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+        crossorigin="anonymous"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/sigma.js/1.2.0/sigma.min.js" charset="utf-8"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/sigma.js/1.2.0/plugins/sigma.plugins.dragNodes.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/sigma.js/1.2.0/plugins/sigma.layout.forceAtlas2.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/sigma.js/1.2.0/plugins/sigma.pathfinding.astar.min.js"></script>
 
-        </div>
-    </body>
+    <script src="//unpkg.com/vue@2.2.2">
+
+    </script>
+
+    <script src="js/components.js"></script>
+    <script src="js/graphGen.js"></script>
+    <script src="js/getOptions.js"></script>
+</body>
+
 </html>
