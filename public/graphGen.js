@@ -10,13 +10,20 @@ function generate(path){
         .linkDistance(30)
         .size([width, height]);
 
+    try{
+        d3.select("#d3-container").select("svg").remove();
+    }
+    catch(err){
+
+    }
+    
     var svg = d3.select("#d3-container").select("svg")
     if (svg.empty()) {
         svg = d3.select("#d3-container").append("svg")
             .attr("width", width)
             .attr("height", height);
     }
-    
+
     // We load the JSON network file.
     d3.json(path, function (error, graph) {
         // Within this block, the network has been loaded
