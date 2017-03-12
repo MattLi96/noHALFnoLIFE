@@ -10,7 +10,7 @@ class NetworkParser:
         self.d = d
 
     def createGraphFromDict(self, d):
-        G = nx.Graph()
+        G = nx.DiGraph()
         for key in d:
             G.add_node(key)
 

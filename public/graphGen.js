@@ -1,77 +1,47 @@
-function generate(path){
-    // Parameter declaration, the height and width of our viz.
-    var width = 800, height = 800;
+function generate(path) {
+    $("#graph-container").html("")
 
-    // Colour scale for node colours.
-    var color = d3.scale.category10();
+    $.getJSON(path, function (data) {
+        var i,
+            N = data["nodes"].length,
+            E = data["edges"].length,
+            g = {
+                nodes: data["nodes"],
+                edges: data["edges"]
+            };
 
-    var force = d3.layout.force()
-        .charge(-40)
-        .linkDistance(10)
-        .size([width, height]);
-
-    try{
-        d3.select("#d3-container").select("svg").remove();
-    }
-    catch(err){
-
-    }
-    
-
-    var svg = d3.select("#d3-container").select("svg")
-    if (svg.empty()) {
-        svg = d3.select("#d3-container").append("svg")
-            .attr("width", width)
-            .attr("height", height);
-    }
-
-    // We load the JSON network file.
-    d3.json(path, function (error, graph) {
-        // Within this block, the network has been loaded
-        // and stored in the 'graph' object.
-
-        // We load the nodes and links into the force-directed
-        // graph and initialise the dynamics.
-        force.nodes(graph.nodes)
-            .links(graph.links)
-            .start();
-
-        // We create a < line> SVG element for each link
-        // in the graph.
-        var link = svg.selectAll(".link")
-            .data(graph.links)
-            .enter().append("line")
-            .attr("class", "link");
-
-        // We create a < circle> SVG element for each node
-        // in the graph, and we specify a few attributes.
-        var node = svg.selectAll(".node")
-            .data(graph.nodes)
-            .enter().append("circle")
-            .attr("class", "node")
-            .attr("r", 5)  // radius
-            .style("fill", function (d) {
-                // We colour the node depending on the degree.
-                return color(d.degree);
-            })
-            .call(force.drag);
-
-        // The label each node its node number from the networkx graph.
-        node.append("title").text(function (d) {
-            return "Node: " + d.id + "\n" + "Degree: " + d.degree + "\n";
+        // Generate a random graph:
+        for (i = 0; i < N; i++) {
+            g.nodes[i]["label"] = g.nodes[i].id;
+            g.nodes[i]["x"] = Math.random();
+            g.nodes[i]["y"] = Math.random();
+            g.nodes[i]["size"] = Math.random();
+            g.nodes[i]["color"] = '#666';
+        }
+        for (i = 0; i < E; i++) {
+            g.edges[i]["id"] = i;
+            g.edges[i]["size"] = Math.random();
+            g.edges[i]["color"] = '#ccc';
+        }
+        sigma.renderers.def = sigma.renderers.canvas
+        // Instantiate sigma:
+        s = new sigma({
+            graph: g,
+            container: 'graph-container'
         });
-
-        // We bind the positions of the SVG elements
-        // to the positions of the dynamic force-directed graph,
-        // at each time step.
-        force.on("tick", function () {
-            link.attr("x1", function (d) { return d.source.x; })
-                .attr("y1", function (d) { return d.source.y; })
-                .attr("x2", function (d) { return d.target.x; })
-                .attr("y2", function (d) { return d.target.y; });
-
-            node.attr("cx", function (d) { return d.x; })
-                .attr("cy", function (d) { return d.y; });
+        // Initialize the dragNodes plugin:
+        var dragListener = sigma.plugins.dragNodes(s, s.renderers[0]);
+        dragListener.bind('startdrag', function (event) {
+            console.log(event);
+        });
+        dragListener.bind('drag', function (event) {
+            console.log(event);
+        });
+        dragListener.bind('drop', function (event) {
+            console.log(event);
+        });
+        dragListener.bind('dragend', function (event) {
+            console.log(event);
         });
     });
 }

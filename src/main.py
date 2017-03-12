@@ -55,5 +55,6 @@ if __name__ == '__main__':
         na.outputBasicStats()
         na.outputNodesAndEdges()
         # na.generateDrawing()
-        na.generateComponentSizes()
+        # generateComponentSizes doesn't work for directed graphs
+        # na.generateComponentSizes()
         na.d3dump()

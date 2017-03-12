@@ -1,6 +1,9 @@
-#d3-container svg{
-    display: block;
-    margin: auto;
+#graph-container {
+      top: 120px;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      position: absolute;
 }
 
 div.master {

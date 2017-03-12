@@ -15,7 +15,7 @@ $(document).on('click', '.dropDownListItem', function(e) {
     loadName.shift()
     loadName = loadName.join("/")
 
-    console.log(loadName)
+    $("#dropdownMenu1").html(loadName + "<span class=\"caret\"></span>");
     generate(loadName)
 });
 
