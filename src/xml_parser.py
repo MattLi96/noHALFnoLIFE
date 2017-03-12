@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
-import sys
-import xmltodict
-import json
 from datetime import datetime
+
+import xmltodict
 
 
 class XMLParser:
@@ -18,8 +17,13 @@ class XMLParser:
             return d
 
     def should_keep(self, node_title):
-        IGNORE_LIST_PREFIX = ['Talk:', 'User:', 'File:', 'Thread:', 'Category:', 'Board Thread:', 'Template:', 'Category talk:', 'MediaWiki:', 'User blog comment:', 'Message Wall:', 'User blog:', 'Forum:', 'Board:', 'Help:', 'User talk:', 'Blog:']
-        IGNORE_LIST_SUFFIX = [':Templates', ':Copyrights', ':Candidates for speedy deletion', ':Privacy policy', ':Administrators', ':Navigation', ':Bureaucrats', ':Community Portal', ':Terminology List', ':Sandbox', ':Welcome', ':Policy', ':Protected page', '/Unofficial chat']
+        IGNORE_LIST_PREFIX = ['Talk:', 'User:', 'File:', 'Thread:', 'Category:', 'Board Thread:', 'Template:',
+                              'Category talk:', 'MediaWiki:', 'User blog comment:', 'Message Wall:', 'User blog:',
+                              'Forum:', 'Board:', 'Help:', 'User talk:', 'Blog:']
+        IGNORE_LIST_SUFFIX = [':Templates', ':Copyrights', ':Candidates for speedy deletion', ':Privacy policy',
+                              ':Administrators', ':Navigation', ':Bureaucrats', ':Community Portal',
+                              ':Terminology List', ':Sandbox', ':Welcome', ':Policy', ':Protected page',
+                              '/Unofficial chat', ':About']
 
         for item in IGNORE_LIST_PREFIX:
             if node_title[0:len(item)] == item:
@@ -28,7 +32,7 @@ class XMLParser:
         for item in IGNORE_LIST_SUFFIX:
             if node_title[len(node_title) - len(item): len(node_title)] == item:
                 return False
-            
+
         return True
 
     def parse_to_dict(self):
@@ -43,7 +47,7 @@ class XMLParser:
                 latest_time = None
                 for item in rev:
                     time = item['timestamp']
-                    #format is 2014-12-17T02:25:15Z
+                    # format is 2014-12-17T02:25:15Z
                     time_obj = datetime.strptime(time, '%Y-%m-%dT%H:%M:%SZ')
                     if latest_time:
                         if (time_obj > latest_time and time_obj < self.time):
@@ -65,4 +69,3 @@ class XMLParser:
             data_return[name] = text
 
         return data_return
-
