@@ -3,10 +3,10 @@ import math
 import os
 import re
 from collections import Counter
-
 import matplotlib.pyplot as plt
 import networkx as nx
 from networkx.readwrite import json_graph
+import shutil
 
 
 class NetworkAnalysis:
@@ -15,9 +15,9 @@ class NetworkAnalysis:
         split = re.split('\\ /', fileName)
         fileName = split[0].split(".")[0]
         self.outputPath = "../output/" + fileName + "/"
-
-        if not os.path.exists(self.outputPath):
-            os.makedirs(self.outputPath)
+        if os.path.exists(self.outputPath):
+            shutil.rmtree(self.outputPath)
+        os.makedirs(self.outputPath)
 
     def d3dump(self, outfile="d3dump.json"):
         G = self.G.copy()
