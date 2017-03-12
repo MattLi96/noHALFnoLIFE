@@ -3,5 +3,10 @@
     margin: auto;
 }
 
+div.master {
+    padding-left:10px;
+    padding-right:5px;
+}
+
 .node {stroke: #fff; stroke-width: 1.5px;}
 .link {stroke: #999; stroke-opacity: .6;}
