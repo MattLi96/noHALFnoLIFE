@@ -50,6 +50,13 @@ function generate(path) {
         dragListener.bind('dragend', function (event) {
             // console.log(event);
         });
+
+        setTimeout(function(){
+            $("#dance").trigger("click");
+            if(!window.forceOn){
+                $("#dance").trigger("click");
+            }
+        }, 300)
     });
 }
 
@@ -66,7 +73,3 @@ $("#dance").on("click", function(){
 });
 
 generate("data/nogamenolife_pages_current.json")
-
-setTimeout(function(){
-    $("#dance").trigger("click");
-}, 200)
