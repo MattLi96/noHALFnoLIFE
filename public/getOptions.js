@@ -1,7 +1,7 @@
 function reloadOptions(){
     $.ajax({url: "./data/filelist", success: function(result){
         result.forEach(function(el){
-            $("#options").append("<li><a href="+"#"+" class="+"dropDownListItem"+">" + result + "</a></li>");
+            $("#options").append("<li><a href="+"#"+" class="+"dropDownListItem"+">" + el + "</a></li>");
         });
     }});
 }
