@@ -40,6 +40,7 @@ if __name__ == '__main__':
         net = NetworkParser(d)
         networks[f] = net.G
 
+    # Graph Analysis
     for (k, v) in networks.items():
         print("Analyzing File:", k)
         na = NetworkAnalysis(v, os.path.basename(k))

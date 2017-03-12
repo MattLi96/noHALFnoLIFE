@@ -31,18 +31,27 @@ class NetworkAnalysis:
         data = json_graph.node_link_data(G)
 
         data_output_dir = "../public/data/"
-        if os.path.exists(data_output_dir):
-            shutil.rmtree(data_output_dir)
-        os.makedirs(data_output_dir)
+        if not os.path.exists(data_output_dir):
+            os.makedirs(data_output_dir)
         with open(data_output_dir + self.fileName + ".json", 'w') as f:
             json.dump(data, f, indent=4)
 
     def outputNodesAndEdges(self, nodesOut="nodes.txt", edgeOut="edges.txt"):
         with open(self.outputPath + nodesOut, "w") as nodeOut, open(self.outputPath + edgeOut, "w") as edgeOut:
-            for n in self.G.nodes():
-                nodeOut.write(n + "\n")
+            node_to_degree = {}
             for e in self.G.edges():
                 edgeOut.write(str(e) + "\n")
+                if e[0] not in node_to_degree:
+                    node_to_degree[e[0]] = 0
+                if e[1] not in node_to_degree:
+                    node_to_degree[e[1]] = 0  
+                node_to_degree[e[0]] = node_to_degree[e[0]] + 1
+                node_to_degree[e[1]] = node_to_degree[e[1]] + 1                         
+            for n in self.G.nodes():
+                node_degree = 0
+                if n in node_to_degree:
+                    node_degree = node_to_degree[n] 
+                nodeOut.write(str(node_degree) + ", " + str(n) + "\n")
 
     def generateDrawing(self, outfile="graph.png"):
         nx.draw(self.G, pos=nx.spring_layout(self.G))
