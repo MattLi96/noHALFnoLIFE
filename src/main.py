@@ -4,7 +4,11 @@ import os
 from network_analysis import NetworkAnalysis
 from network_parser import NetworkParser
 from xml_parser import XMLParser
+import datetime as dt
 
+SNAPSHOT_TIME = "2015-12-05T02:20:10Z"
+ONE_YEAR = 365
+ONE_MONTH = 30
 
 def get_data_files(dir_path="../data"):
     ret = {"current": set(), "full": set()}
@@ -16,6 +20,10 @@ def get_data_files(dir_path="../data"):
             elif f.endswith("_full.xml"):
                 ret['full'].add(rel_path)
     return ret
+
+def get_time():
+    time_obj = dt.datetime.strptime(SNAPSHOT_TIME, '%Y-%m-%dT%H:%M:%SZ')
+    return time_obj
 
 
 if __name__ == '__main__':
@@ -36,7 +44,7 @@ if __name__ == '__main__':
     # Processing networks
     networks = {}
     for f in data_files:
-        d = XMLParser(f).parse_to_dict()
+        d = XMLParser(f, get_time()).parse_to_dict()
         net = NetworkParser(d)
         networks[f] = net.G
 
@@ -46,6 +54,6 @@ if __name__ == '__main__':
         na = NetworkAnalysis(v, os.path.basename(k))
         na.outputBasicStats()
         na.outputNodesAndEdges()
-        na.generateDrawing()
+        # na.generateDrawing()
         na.generateComponentSizes()
         na.d3dump()
