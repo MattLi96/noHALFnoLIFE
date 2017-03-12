@@ -3,6 +3,8 @@ var forceConfig = {
         barnesHutOptimize: true
     };
 
+window.targets = []
+
 function generate(path) {
     $("#graph-container").html("")
 
@@ -50,6 +52,19 @@ function generate(path) {
         dragListener.bind('dragend', function (event) {
             // console.log(event);
         });
+
+        window.s.bind('rightClickNode', function(e){
+            console.log(e.data.node);
+            window.targets.push(e.data.node)
+            if(window.targets.length > 1){
+                var last = window.targets[window.targets.length-1]
+                var last2 = window.targets[window.targets.length-2]
+                console.log(last)
+                console.log(last2)
+                console.log(window.s.graph.astar(last.label, last2.label));
+            }
+        });
+
 
         setTimeout(function(){
             $("#dance").trigger("click");
