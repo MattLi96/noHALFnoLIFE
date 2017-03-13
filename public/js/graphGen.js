@@ -82,7 +82,7 @@ function generate(path) {
             else {
                 //Path-finding
                 var nodeId = e.data.node.id,
-                    toKeep = window.s.graph.astar(nodeId, window.info.selectedNode.id);
+                    toKeep = window.s.graph.astar(window.info.selectedNode.id, nodeId);
 
                 window.info.selectedPath = toKeep;
 
