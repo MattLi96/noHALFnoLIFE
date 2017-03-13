@@ -19,6 +19,7 @@ function resetColors(event) {
 
     window.s.graph.nodes().forEach(function (n) {
         n.color = n.originalColor;
+        n.hidden = 0;
     });
 
     window.s.graph.edges().forEach(function (e) {
@@ -71,6 +72,9 @@ function generate(path) {
 
                 s.graph.nodes().forEach(function (n) {
                     n.color = (toKeep[n.id]) ? n.originalColor : '#eee';
+                    if (!toKeep[n.id] && window.info.$data.componentMode) {
+                        n.hidden = 1;
+                    }
                 });
 
                 s.graph.edges().forEach(function (e) {

@@ -26,6 +26,7 @@
                         <span class="caret"></span>
                 </button>
                 <button class="btn btn-default" v-bind:class="{ 'forceOn': forceOn }" id="dance" v-on:click="updateForce()"> Dance </button>
+                <button class="btn btn-default" v-bind:class="{ 'forceOn': componentMode }" id="componentMode" v-on:click="updateComponentMode()"> Component Mode </button>
                 <ul class="dropdown-menu" id="options">
                     <li v-for="option in options" v-on:click="updateData(option)"><a href=# class="dropDownListItem"> {{option}} </a></li>
                 </ul>

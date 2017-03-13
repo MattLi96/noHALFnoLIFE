@@ -7,6 +7,7 @@ window.info = new Vue({
     el: '#info',
     data: {
         forceOn: false,
+        componentMode: false,
         options: [],
         currentOption: "",
         selectedNode: null,
@@ -16,6 +17,9 @@ window.info = new Vue({
         updateData: function (option) {
             this.currentOption = option;
             generate(option);
+        },
+        updateComponentMode: function () {
+            this.componentMode= !this.componentMode;
         },
         updateForce: function () {
             if (this.forceOn) {
