@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
+
 import os
 import sys
 import datetime as dt
+import logging
+from logging.config import fileConfig
 
 from network_analysis import NetworkAnalysis
 from network_parser import NetworkParser
@@ -11,11 +14,14 @@ SNAPSHOT_TIME = "2015-12-05T02:20:10Z"
 ONE_YEAR = 365
 ONE_MONTH = 30
 
+fileConfig('logging_config.ini')
+logger = logging.getLogger()
+
 def get_data_files(dir_path=None):
     if dir_path is None:
         dir_path = "../dataRaw"
 
-    print("Getting files from " + dir_path)
+    logger.debug("Getting files from " + dir_path)
 
     ret = {"current": set(), "full": set()}
     for f in os.listdir(dir_path):
@@ -25,16 +31,16 @@ def get_data_files(dir_path=None):
                 ret['current'].add(rel_path)
             elif f.endswith("_full.xml"):
                 ret['full'].add(rel_path)
-    print("Received " + str(len(ret["current"])) + " current files" + "\n")
-    print("Received " + str(len(ret["full"])) + " full files" + "\n")
+    logger.debug(str(len(ret["current"])) + " current files")
+    logger.debug(str(len(ret["full"])) + " full files")
     return ret
 
 def get_time():
     return dt.datetime.strptime(SNAPSHOT_TIME, '%Y-%m-%dT%H:%M:%SZ')
 
 if __name__ == '__main__':
-    if len(sys.argv) > 1:
-        print("Sysarg detected")
+    FROM_NODE = len(sys.argv) > 1
+    logger.info("FROM_NODE: " + str(FROM_NODE))
 
     # Flags for control
     currentOnly = False
@@ -60,14 +66,14 @@ if __name__ == '__main__':
 
     # Graph Analysis
     for (k, v) in networks.items():
-        print("Analyzing File:", k)
+        logger.debug("Analyzing File: %s", k)
         na = NetworkAnalysis(v, os.path.basename(k))
         na.outputBasicStats()
         na.outputNodesAndEdges()
         # na.generateDrawing()
         # generateComponentSizes doesn't work for directed graphs
         # na.generateComponentSizes()
-        if len(sys.argv) >= 1:
+        if FROM_NODE:
             na.d3dump("./public/data/")
         else:
             na.d3dump()

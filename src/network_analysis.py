@@ -36,8 +36,9 @@ class NetworkAnalysis:
         # data['edges'] = data.pop('links')
         data['edges'] = list(map(lambda x: {"source": x[0], "target": x[1]}, G.edges()))
 
-        # if not os.path.exists(output):
-        #     os.makedirs(output)
+
+        if not os.path.exists(output) and len(sys.argv) > 1:
+            os.makedirs(output)
         with open(output + self.fileName + ".json", 'w') as f:
             json.dump(data, f, indent=4)
 
