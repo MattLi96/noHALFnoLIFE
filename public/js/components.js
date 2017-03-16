@@ -43,6 +43,7 @@ window.info = new Vue({
             $.ajax("/data", {
                 success: function (data) {
                     console.log(data);
+                    reloadOptions();
                 }
             });
         }
