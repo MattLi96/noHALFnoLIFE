@@ -1,16 +1,22 @@
 #!/usr/bin/env python3
 import os
+import sys
+import datetime as dt
 
 from network_analysis import NetworkAnalysis
 from network_parser import NetworkParser
 from xml_parser import XMLParser
-import datetime as dt
 
 SNAPSHOT_TIME = "2015-12-05T02:20:10Z"
 ONE_YEAR = 365
 ONE_MONTH = 30
 
-def get_data_files(dir_path="../data"):
+def get_data_files(dir_path=None):
+    if dir_path is None:
+        dir_path = "../dataRaw"
+
+    print("Getting files from " + dir_path)
+
     ret = {"current": set(), "full": set()}
     for f in os.listdir(dir_path):
         rel_path = os.path.join(dir_path, f)
@@ -19,21 +25,25 @@ def get_data_files(dir_path="../data"):
                 ret['current'].add(rel_path)
             elif f.endswith("_full.xml"):
                 ret['full'].add(rel_path)
+    print("Received " + str(len(ret["current"])) + " current files" + "\n")
+    print("Received " + str(len(ret["full"])) + " full files" + "\n")
     return ret
 
 def get_time():
-    time_obj = dt.datetime.strptime(SNAPSHOT_TIME, '%Y-%m-%dT%H:%M:%SZ')
-    return time_obj
-
+    return dt.datetime.strptime(SNAPSHOT_TIME, '%Y-%m-%dT%H:%M:%SZ')
 
 if __name__ == '__main__':
+    if len(sys.argv) > 1:
+        print("Sysarg detected")
+
     # Flags for control
     currentOnly = False
     noGame = False  # Only use the no game no life wiki. Intended for testing
 
     # Setting datafiles to the correct files
     data_files = set()
-    for (k, v) in get_data_files().items():
+    parseSet = get_data_files("./dataRaw").items() if len(sys.argv) > 1 else get_data_files().items()
+    for (k, v) in parseSet:
         if not currentOnly:
             data_files.update(v)
         elif k == 'current':
@@ -57,4 +67,7 @@ if __name__ == '__main__':
         # na.generateDrawing()
         # generateComponentSizes doesn't work for directed graphs
         # na.generateComponentSizes()
-        na.d3dump()
+        if len(sys.argv) >= 1:
+            na.d3dump("./public/data/")
+        else:
+            na.d3dump()

@@ -1,5 +1,6 @@
 import json
 import math
+import sys
 import os
 import re
 import shutil
@@ -16,12 +17,15 @@ class NetworkAnalysis:
         split = re.split('\\ /', fileName)
         fileName = split[0].split(".")[0]
         self.fileName = fileName
-        self.outputPath = "../output/" + fileName + "/"
+        self.outputPath = "../output/" + fileName + "/" if len(sys.argv) < 1 else "./output/" + fileName + "/"
         if os.path.exists(self.outputPath):
             shutil.rmtree(self.outputPath)
         os.makedirs(self.outputPath)
 
-    def d3dump(self):
+    def d3dump(self, output = None):
+        if output is None:
+            output = "../public/data/"
+        print("output path: " + output)
         G = self.G.copy()
         # Augment Graph with Metadata
         for ix, deg in G.degree().items():
@@ -32,10 +36,9 @@ class NetworkAnalysis:
         # data['edges'] = data.pop('links')
         data['edges'] = list(map(lambda x: {"source": x[0], "target": x[1]}, G.edges()))
 
-        data_output_dir = "../public/data/"
-        if not os.path.exists(data_output_dir):
-            os.makedirs(data_output_dir)
-        with open(data_output_dir + self.fileName + ".json", 'w') as f:
+        # if not os.path.exists(output):
+        #     os.makedirs(output)
+        with open(output + self.fileName + ".json", 'w') as f:
             json.dump(data, f, indent=4)
 
     def outputNodesAndEdges(self, nodesOut="nodes.txt", edgeOut="edges.txt"):

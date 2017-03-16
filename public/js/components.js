@@ -19,7 +19,7 @@ window.info = new Vue({
             generate(option);
         },
         updateComponentMode: function () {
-            this.componentMode= !this.componentMode;
+            this.componentMode = !this.componentMode;
         },
         updateForce: function () {
             if (this.forceOn) {
@@ -30,14 +30,21 @@ window.info = new Vue({
             }
             this.forceOn = !this.forceOn;
         },
-        pathToString: function(){
+        pathToString: function () {
             let res = "";
-            this.selectedPath.forEach(function(o){
-                res+='->' + o.id;
+            this.selectedPath.forEach(function (o) {
+                res += '->' + o.id;
             })
 
-            res=res.slice(2);
+            res = res.slice(2);
             return res;
+        },
+        recompile: function () {
+            $.ajax("/data", {
+                success: function (data) {
+                    console.log(data);
+                }
+            });
         }
     }
 })

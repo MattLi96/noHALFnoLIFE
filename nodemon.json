@@ -1,0 +1,4 @@
+{
+  "verbose": true,
+  "ignore": ["public/data", "output/"]
+}

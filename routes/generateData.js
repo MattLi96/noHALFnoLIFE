@@ -5,25 +5,35 @@ var PythonShell = require('python-shell');
 var filesystem = require("fs");
 
 /* GET users listing. */
-router.get('/', function(req, res, next) {
-    PythonShell.run('src/main.py', function (err) {
-        if (err) throw err;
+router.get('/', function (req, res, next) {
+    var options = {
+        scriptPath: './src',
+        args: [true]
+    };
+
+    PythonShell.run('main.py', options, function (err, results) {
+        console.log('results: %j', results);
+
+        if (err) {
+            console.log(err);
+            res.send(false)
+        }
+
+        res.send(true)
         console.log('finished');
     });
-    
-    res.send("Hello World");
 });
 
-router.get('/filelist', function(req, res, next){
+router.get('/filelist', function (req, res, next) {
     res.send(getFiles("public/data"));
 });
 
-var getFiles = function(dir) {
+var getFiles = function (dir) {
     var results = [];
 
-    filesystem.readdirSync(dir).forEach(function(file) {
+    filesystem.readdirSync(dir).forEach(function (file) {
 
-        file = dir+'/'+file;
+        file = dir + '/' + file;
         var stat = filesystem.statSync(file);
 
         if (stat && stat.isDirectory()) {
