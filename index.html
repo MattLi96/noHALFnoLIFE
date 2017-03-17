@@ -29,7 +29,7 @@
                 <button class="btn btn-default" v-bind:class="{ 'forceOn': componentMode }" id="componentMode" v-on:click="updateComponentMode()"> Component Mode </button>
                 <button class="btn btn-default" id="recompile" v-on:click="recompile()"> Recompile </button>
                 <ul class="dropdown-menu" id="options">
-                    <li v-for="option in options" v-on:click="updateData(option)"><a href=# class="dropDownListItem"> {{option}} </a></li>
+                    <li v-for="option in options" ><a class="dropDownListItem" v-bind:href="'#'+option"> {{option}} </a></li>
                 </ul>
                 </span>
             </div>
@@ -56,6 +56,10 @@
     <script src="//cdnjs.cloudflare.com/ajax/libs/sigma.js/1.2.0/plugins/sigma.plugins.dragNodes.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/sigma.js/1.2.0/plugins/sigma.layout.forceAtlas2.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/sigma.js/1.2.0/plugins/sigma.pathfinding.astar.min.js"></script>
+
+    <!-- Routing with Hasher -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-signals/1.0.0/js-signals.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/hasher/1.2.0/hasher.min.js"></script>
 
     <script src="//unpkg.com/vue@2.2.2"></script>
 
