@@ -29,6 +29,22 @@ function resetColors(event) {
     window.s.refresh();
 }
 
+// used to interpolate between two colors
+// format is "#rrggbb" as string for both colors 
+function interpolate(color1, color2, frac) {
+    r1 = parseInt(color1.substring(1,3), 16)
+    g1 = parseInt(color1.substring(3,5), 16)
+    b1 = parseInt(color1.substring(5,7), 16)
+    r2 = parseInt(color2.substring(1,3), 16)
+    g2 = parseInt(color2.substring(3,5), 16)
+    b2 = parseInt(color2.substring(5,7), 16)
+    retR = Math.floor(r1*frac + r2*(1-frac))
+    retG = Math.floor(g1*frac + g2*(1-frac))
+    retB = Math.floor(b1*frac + b2*(1-frac))
+    retstr = '#' + retR.toString(16) + retG.toString(16) + retB.toString(16);
+    return retstr;
+}
+
 function generate(path) {
     $("#graph-container").html("")
 
@@ -41,13 +57,21 @@ function generate(path) {
                 edges: data["edges"]
             };
 
+        maxdeg = 0
+        color1 = '#ff0000'
+        color2 = '#ff7878'
+        for (i = 0; i < N; i++) {
+            if (g.nodes[i].degree > maxdeg){
+                maxdeg = g.nodes[i].degree;
+            }
+        }
         for (i = 0; i < N; i++) {
             g.nodes[i]["label"] = g.nodes[i].id;
             g.nodes[i]["x"] = Math.random();
             g.nodes[i]["y"] = Math.random();
-            g.nodes[i]["size"] = Math.random();
-            g.nodes[i]["color"] = '#ff392e';
-            g.nodes[i]["originalColor"] = '#ff392e';
+            g.nodes[i]["size"] = 10;
+            g.nodes[i]["color"] = interpolate(color1, color2, g.nodes[i].degree/maxdeg);
+            g.nodes[i]["originalColor"] = interpolate(color1, color2, g.nodes[i].degree/maxdeg);
         }
         for (i = 0; i < E; i++) {
             g.edges[i]["id"] = i;
