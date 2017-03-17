@@ -38,9 +38,9 @@ function interpolate(color1, color2, frac) {
     r2 = parseInt(color2.substring(1,3), 16)
     g2 = parseInt(color2.substring(3,5), 16)
     b2 = parseInt(color2.substring(5,7), 16)
-    retR = Math.floor(r1*frac + r2*(1-frac))
-    retG = Math.floor(g1*frac + g2*(1-frac))
-    retB = Math.floor(b1*frac + b2*(1-frac))
+    retR = Math.min(Math.floor(r1*frac + r2*(1-frac)), 255)
+    retG = Math.min(Math.floor(g1*frac + g2*(1-frac)), 255)
+    retB = Math.min(Math.floor(b1*frac + b2*(1-frac)), 255)
     retstr = '#' + retR.toString(16) + retG.toString(16) + retB.toString(16);
     return retstr;
 }
@@ -58,8 +58,8 @@ function generate(path) {
             };
 
         maxdeg = 0
-        color1 = '#ff0000'
-        color2 = '#ff7878'
+        color1 = '#cf1515'
+        color2 = '#15cfcf'
         for (i = 0; i < N; i++) {
             if (g.nodes[i].degree > maxdeg){
                 maxdeg = g.nodes[i].degree;
