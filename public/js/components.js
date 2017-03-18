@@ -3,6 +3,20 @@ window.forceConfig = {
     barnesHutOptimize: true
 };
 
+window.handleChanges = function (newHash, oldHash) {
+    window.info.$data.currentOption = newHash;
+    generate(newHash);
+};
+
+$( document ).ready(function () {
+    hasher.init();
+    hasher.changed.add(window.handleChanges);
+    hasher.initialized.add(window.handleChanges);
+    if (hasher.getHash() === ""){
+        hasher.setHash("data/nogamenolife_pages_current.json");
+    }
+});
+
 window.info = new Vue({
     el: '#info',
     data: {
@@ -14,10 +28,10 @@ window.info = new Vue({
         selectedPath: null
     },
     methods: {
-        updateData: function (option) {
-            this.currentOption = option;
-            generate(option);
-        },
+        //updateData: function (option) {
+        //    this.currentOption = option;
+        //    generate(option);
+        //},
         updateComponentMode: function () {
             this.componentMode = !this.componentMode;
         },

@@ -6,8 +6,8 @@ function reloadOptions(){
             return splitVersion.join("/");
         })
         window.info.options = result;
-        window.info.currentOption = window.info.options[0]
-        generate(window.info.currentOption)
+        //window.info.currentOption = window.info.options[0]
+        //generate(window.info.currentOption)
     }});
 }
 
