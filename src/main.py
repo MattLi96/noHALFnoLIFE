@@ -14,14 +14,11 @@ SNAPSHOT_TIME = "2015-12-05T02:20:10Z"
 ONE_YEAR = 365
 ONE_MONTH = 30
 
-fileConfig('logging_config.ini')
-logger = logging.getLogger()
-
 def get_data_files(dir_path=None):
     if dir_path is None:
         dir_path = "../dataRaw"
 
-    logger.debug("Getting files from " + dir_path)
+    output("Getting files from " + dir_path)
 
     ret = {"current": set(), "full": set()}
     for f in os.listdir(dir_path):
@@ -31,8 +28,8 @@ def get_data_files(dir_path=None):
                 ret['current'].add(rel_path)
             elif f.endswith("_full.xml"):
                 ret['full'].add(rel_path)
-    logger.debug(str(len(ret["current"])) + " current files")
-    logger.debug(str(len(ret["full"])) + " full files")
+    output(str(len(ret["current"])) + " current files")
+    output(str(len(ret["full"])) + " full files")
     return ret
 
 def get_time():
@@ -40,7 +37,15 @@ def get_time():
 
 if __name__ == '__main__':
     FROM_NODE = len(sys.argv) > 1
-    logger.info("FROM_NODE: " + str(FROM_NODE))
+
+    if FROM_NODE:
+        output = print
+    else:    
+        fileConfig('logging_config.ini')
+        logger = logging.getLogger()
+        output = logger.debug
+
+    output("FROM_NODE: " + str(FROM_NODE))
 
     # Flags for control
     currentOnly = False
@@ -66,7 +71,7 @@ if __name__ == '__main__':
 
     # Graph Analysis
     for (k, v) in networks.items():
-        logger.debug("Analyzing File: %s", k)
+        output("Analyzing File: %s", k)
         na = NetworkAnalysis(v, os.path.basename(k))
         na.outputBasicStats()
         na.outputNodesAndEdges()

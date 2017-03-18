@@ -57,6 +57,8 @@ function generate(path) {
                 edges: data["edges"]
             };
 
+        window.info.basicInfo = data["basic"]
+        
         maxdeg = 0
         color1 = '#cf1515'
         color2 = '#15cfcf'

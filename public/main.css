@@ -9,7 +9,8 @@ body{
     position:absolute;
     float: left;
     width: 30%;
-    height: 30%;
+    left: 15px;
+    top: 15px;
     background-color: #ffffff;
     margin: 15px;
     text-align: center;

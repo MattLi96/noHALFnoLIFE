@@ -35,7 +35,7 @@ class NetworkAnalysis:
         data = json_graph.node_link_data(G)
         # data['edges'] = data.pop('links')
         data['edges'] = list(map(lambda x: {"source": x[0], "target": x[1]}, G.edges()))
-
+        data['basic'] = self.returnBasicStats()
 
         if not os.path.exists(output) and len(sys.argv) > 1:
             os.makedirs(output)
@@ -63,10 +63,14 @@ class NetworkAnalysis:
         nx.draw(self.G, pos=nx.spring_layout(self.G))
         self.outputPlt(self.outputPath + outfile)
 
+    def returnBasicStats(self):
+        res = {}
+        res['numNodes'] = nx.number_of_nodes(self.G)
+        res['numEdges'] = nx.number_of_edges(self.G)
+        return res
+
     def outputBasicStats(self):
-        print(self.outputPath)
-        print("# nodes: ", nx.number_of_nodes(self.G))
-        print("# edges: ", nx.number_of_edges(self.G))
+        print(self.returnBasicStats())
 
     def generateDegreeDistribution(self, graphpath="graphs/degreeDistribution.png"):
         output = open(self.outputPath + "degreeDistribution.txt", "w")
