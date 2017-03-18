@@ -13,6 +13,28 @@ sigma.classes.graph.addMethod('neighbors', function (nodeId) {
     return neighbors;
 });
 
+function highlightPath(path, graph) {
+    window.info.selectedPath = path;
+
+    if (path == undefined) {
+        resetColors(null);
+        return;
+    }
+
+    graph.nodes().forEach(function (n) {
+        let keep = !(_.find(path, { 'id': n.id }) == undefined);
+        n.color = (keep) ? n.originalColor : '#eee';
+    });
+
+    graph.edges().forEach(function (e) {
+        let keep1 = !(_.find(path, { 'id': e.source }) == undefined);
+        let keep2 = !(_.find(path, { 'id': e.target }) == undefined);
+        e.color = (keep1 && keep2) ? e.originalColor : '#eee';
+    });
+
+    window.s.refresh();
+}
+
 function resetColors(event) {
     window.info.selectedNode = null;
     window.info.selectedPath = null;
@@ -32,15 +54,15 @@ function resetColors(event) {
 // used to interpolate between two colors
 // format is "#rrggbb" as string for both colors 
 function interpolate(color1, color2, frac) {
-    r1 = parseInt(color1.substring(1,3), 16)
-    g1 = parseInt(color1.substring(3,5), 16)
-    b1 = parseInt(color1.substring(5,7), 16)
-    r2 = parseInt(color2.substring(1,3), 16)
-    g2 = parseInt(color2.substring(3,5), 16)
-    b2 = parseInt(color2.substring(5,7), 16)
-    retR = Math.min(Math.floor(r1*frac + r2*(1-frac)), 255)
-    retG = Math.min(Math.floor(g1*frac + g2*(1-frac)), 255)
-    retB = Math.min(Math.floor(b1*frac + b2*(1-frac)), 255)
+    r1 = parseInt(color1.substring(1, 3), 16)
+    g1 = parseInt(color1.substring(3, 5), 16)
+    b1 = parseInt(color1.substring(5, 7), 16)
+    r2 = parseInt(color2.substring(1, 3), 16)
+    g2 = parseInt(color2.substring(3, 5), 16)
+    b2 = parseInt(color2.substring(5, 7), 16)
+    retR = Math.min(Math.floor(r1 * frac + r2 * (1 - frac)), 255)
+    retG = Math.min(Math.floor(g1 * frac + g2 * (1 - frac)), 255)
+    retB = Math.min(Math.floor(b1 * frac + b2 * (1 - frac)), 255)
     retstr = '#' + retR.toString(16) + retG.toString(16) + retB.toString(16);
     return retstr;
 }
@@ -58,12 +80,12 @@ function generate(path) {
             };
 
         window.info.basicInfo = data["basic"]
-        
+
         maxdeg = 0
         color1 = '#cf1515'
         color2 = '#15cfcf'
         for (i = 0; i < N; i++) {
-            if (g.nodes[i].degree > maxdeg){
+            if (g.nodes[i].degree > maxdeg) {
                 maxdeg = g.nodes[i].degree;
             }
         }
@@ -72,8 +94,8 @@ function generate(path) {
             g.nodes[i]["x"] = Math.random();
             g.nodes[i]["y"] = Math.random();
             g.nodes[i]["size"] = 10;
-            g.nodes[i]["color"] = interpolate(color1, color2, g.nodes[i].degree/maxdeg);
-            g.nodes[i]["originalColor"] = interpolate(color1, color2, g.nodes[i].degree/maxdeg);
+            g.nodes[i]["color"] = interpolate(color1, color2, g.nodes[i].degree / maxdeg);
+            g.nodes[i]["originalColor"] = interpolate(color1, color2, g.nodes[i].degree / maxdeg);
         }
         for (i = 0; i < E; i++) {
             g.edges[i]["id"] = i;
@@ -114,25 +136,7 @@ function generate(path) {
                 var nodeId = e.data.node.id,
                     toKeep = window.s.graph.astar(window.info.selectedNode.id, nodeId);
 
-                window.info.selectedPath = toKeep;
-
-                if (toKeep == undefined) {
-                    resetColors(null);
-                    return;
-                }
-
-                s.graph.nodes().forEach(function (n) {
-                    let keep = !(_.find(toKeep, { 'id': n.id }) == undefined);
-                    n.color = (keep) ? n.originalColor : '#eee';
-                });
-
-                s.graph.edges().forEach(function (e) {
-                    let keep1 = !(_.find(toKeep, { 'id': e.source }) == undefined);
-                    let keep2 = !(_.find(toKeep, { 'id': e.target }) == undefined);
-                    e.color = (keep1 && keep2) ? e.originalColor : '#eee';
-                });
-
-                window.s.refresh();
+                highlightPath(toKeep, s.graph)
             }
         });
 
