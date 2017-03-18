@@ -14,8 +14,8 @@ sigma.classes.graph.addMethod('neighbors', function (nodeId) {
 });
 
 function openInNewTab(url) {
-  var win = window.open(url, '_blank');
-  win.focus();
+    var win = window.open(url, '_blank');
+    win.focus();
 }
 
 function highlightPath(path, graph) {
@@ -112,10 +112,16 @@ function generate(path) {
         // Instantiate sigma:
         window.s = new sigma({
             graph: g,
-            container: 'graph-container'
+            renderer: {
+                container: "graph-container",
+                type: "canvas"
+            },
+            settings: {
+                drawLabels: false
+            }
         });
 
-        window.s.bind('rightClickNode', function(e){
+        window.s.bind('rightClickNode', function (e) {
             // console.log(e)
             let url = window.info.links[window.info.currentOption] + e.data.node.id;
             openInNewTab(url)
