@@ -17,6 +17,10 @@ function reloadOptions(){
         }
         hasher.setHash(defaultOption);
     }});
+
+    $.ajax({url:"./res/links.json", success: function(result){
+        window.info.links = result;
+    }});
 }
 
 reloadOptions()

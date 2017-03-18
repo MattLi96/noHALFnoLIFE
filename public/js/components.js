@@ -23,7 +23,8 @@ window.info = new Vue({
         currentOption: "",
         selectedNode: null,
         selectedPath: null,
-        basicInfo: {}
+        basicInfo: {},
+        links: {}
     },
     methods: {
         //updateData: function (option) {

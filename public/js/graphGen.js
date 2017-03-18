@@ -13,6 +13,11 @@ sigma.classes.graph.addMethod('neighbors', function (nodeId) {
     return neighbors;
 });
 
+function openInNewTab(url) {
+  var win = window.open(url, '_blank');
+  win.focus();
+}
+
 function highlightPath(path, graph) {
     window.info.selectedPath = path;
 
@@ -109,6 +114,12 @@ function generate(path) {
             graph: g,
             container: 'graph-container'
         });
+
+        window.s.bind('rightClickNode', function(e){
+            // console.log(e)
+            let url = window.info.links[window.info.currentOption] + e.data.node.id;
+            openInNewTab(url)
+        })
 
         window.s.bind('clickNode', function (e) {
             if (window.info.selectedNode == null) {
