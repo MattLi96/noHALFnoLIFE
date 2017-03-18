@@ -39,11 +39,11 @@ if __name__ == '__main__':
     FROM_NODE = len(sys.argv) > 1
 
     if FROM_NODE:
-        output = print
+        output = lambda x : print(x)
     else:    
         fileConfig('logging_config.ini')
         logger = logging.getLogger()
-        output = logger.debug
+        output = lambda x : logger.debug(x)
 
     output("FROM_NODE: " + str(FROM_NODE))
 
@@ -71,7 +71,7 @@ if __name__ == '__main__':
 
     # Graph Analysis
     for (k, v) in networks.items():
-        output("Analyzing File: %s", k)
+        output("Analyzing File: " +  k)
         na = NetworkAnalysis(v, os.path.basename(k))
         na.outputBasicStats()
         na.outputNodesAndEdges()
