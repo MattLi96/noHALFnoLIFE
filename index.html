@@ -29,7 +29,7 @@
                 <button class="btn btn-default" v-bind:class="{ 'forceOn': componentMode }" id="componentMode" v-on:click="updateComponentMode()"> Component Mode </button>
                 <button class="btn btn-default" id="recompile" v-on:click="recompile()"> Recompile </button>
                 <ul class="dropdown-menu" id="options">
-                    <li v-for="option in options" ><a class="dropDownListItem" v-bind:href="'#'+option"> {{option}} </a></li>
+                    <li v-for="option in options" ><a class="dropDownListItem" v-bind:href="'#/'+option"> {{option}} </a></li>
                 </ul>
                 </span>
             </div>
