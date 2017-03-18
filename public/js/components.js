@@ -12,9 +12,6 @@ $( document ).ready(function () {
     hasher.init();
     hasher.changed.add(window.handleChanges);
     hasher.initialized.add(window.handleChanges);
-    if (hasher.getHash() === ""){
-        hasher.setHash("data/nogamenolife_pages_current.json");
-    }
 });
 
 window.info = new Vue({
