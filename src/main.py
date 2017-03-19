@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 
-import os
-import sys
 import datetime as dt
 import logging
+import os
+import sys
 from logging.config import fileConfig
+from multiprocessing import Pool
 
 from network_analysis import NetworkAnalysis
 from network_parser import NetworkParser
@@ -13,6 +14,7 @@ from xml_parser import XMLParser
 SNAPSHOT_TIME = "2015-12-05T02:20:10Z"
 ONE_YEAR = 365
 ONE_MONTH = 30
+
 
 def get_data_files(dir_path=None):
     if dir_path is None:
@@ -32,24 +34,52 @@ def get_data_files(dir_path=None):
     output(str(len(ret["full"])) + " full files")
     return ret
 
+
 def get_time():
     return dt.datetime.strptime(SNAPSHOT_TIME, '%Y-%m-%dT%H:%M:%SZ')
 
+
+def process_file(data_file):
+    data_files = {data_file}
+    # Processing networks
+    networks = {}
+    for f in data_files:
+        d = XMLParser(f, get_time()).parse_to_dict()
+        net = NetworkParser(d)
+        networks[f] = net.G
+
+    # Graph Analysis
+    for (k, v) in networks.items():
+        output("Analyzing File: " + k)
+        na = NetworkAnalysis(v, os.path.basename(k))
+        na.outputBasicStats()
+        na.outputNodesAndEdges()
+        # na.generateDrawing()
+        # generateComponentSizes doesn't work for directed graphs
+        # na.generateComponentSizes()
+        if len(sys.argv) > 1:
+            na.d3dump("./public/data/")
+        else:
+            na.d3dump()
+
+
+# Main method
 if __name__ == '__main__':
     FROM_NODE = len(sys.argv) > 1
 
     if FROM_NODE:
-        output = lambda x : print(x)
-    else:    
+        output = lambda x: print(x)
+    else:
         fileConfig('logging_config.ini')
         logger = logging.getLogger()
-        output = lambda x : logger.debug(x)
+        output = lambda x: logger.debug(x)
 
     output("FROM_NODE: " + str(FROM_NODE))
 
     # Flags for control
     currentOnly = False
     noGame = False  # Only use the no game no life wiki. Intended for testing
+    threads = 8 # Number of processes to use
 
     # Setting datafiles to the correct files
     data_files = set()
@@ -62,23 +92,5 @@ if __name__ == '__main__':
     if noGame:
         data_files = {f for f in data_files if "nogamenolife" in f}
 
-    # Processing networks
-    networks = {}
-    for f in data_files:
-        d = XMLParser(f, get_time()).parse_to_dict()
-        net = NetworkParser(d)
-        networks[f] = net.G
-
-    # Graph Analysis
-    for (k, v) in networks.items():
-        output("Analyzing File: " +  k)
-        na = NetworkAnalysis(v, os.path.basename(k))
-        na.outputBasicStats()
-        na.outputNodesAndEdges()
-        # na.generateDrawing()
-        # generateComponentSizes doesn't work for directed graphs
-        # na.generateComponentSizes()
-        if FROM_NODE:
-            na.d3dump("./public/data/")
-        else:
-            na.d3dump()
+    with Pool(threads) as p:
+        p.map(process_file, data_files)
