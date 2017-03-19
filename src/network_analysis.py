@@ -63,8 +63,8 @@ class NetworkAnalysis:
                     node_degree = node_to_degree[n]
                 nodeOut.write(str(node_degree) + ", " + str(n) + "\n")
 
-    def generateDrawing(self, outfile="graph.png"):
-        nx.draw(self.G, pos=nx.spring_layout(self.G))
+    def generateDrawing(self, outfile="graph.pdf"):
+        nx.draw_networkx(self.G, pos=nx.spring_layout(self.G), arrows=False, with_labels=False, node_size=20)
         self.outputPlt(self.outputPath + outfile)
 
     def returnBasicStats(self):
