@@ -36,7 +36,7 @@ class NetworkAnalysis:
         # data['edges'] = data.pop('links')
         data['edges'] = list(map(lambda x: {"source": x[0], "target": x[1]}, G.edges()))
         data['basic'] = self.returnBasicStats()
-        # data['basic']['averagePathLength'] = self.getAveragePathLength()
+        data['basic']['averagePathLength'] = self.getAveragePathLength()
 
         if not os.path.exists(output) and len(sys.argv) > 1:
             os.makedirs(output)
@@ -72,6 +72,7 @@ class NetworkAnalysis:
         res['averageInDegree'] = mean(indegree)
         outdegree=  list(nx.DiGraph.out_degree(self.G).values())
         res['averageOutDegree'] = mean(outdegree)
+        res['selfLinks'] = self.G.number_of_selfloops()
         return res
 
     def outputBasicStats(self):
@@ -98,30 +99,6 @@ class NetworkAnalysis:
         self.makePlot('Log Histogram of Degree Frequencies', 'log j', 'log n_j', logx, logy,
                       self.outputPath + graphpath)
 
-    def generateComponentSizes(self, graphpath="graphs/componentDistribution.png"):
-        Gc = max(nx.connected_component_subgraphs(self.G), key=len)
-        graphs = [graph.number_of_nodes() for graph in nx.connected_component_subgraphs(self.G)]
-        C = Counter(graphs)
-        maxSubgraph = Gc.number_of_nodes()
-
-        import heapq
-        res = heapq.nlargest(2, graphs)
-
-        logx = []
-        logy = []
-
-        with open(self.outputPath + "componentDistribution.txt", "w") as output2:
-            output2.write(str(maxSubgraph) + " " + str(self.G.number_of_nodes()) + " " + str(
-                maxSubgraph / self.G.number_of_nodes()) + "\n")
-
-            for i in range(0, res[1] + 1):
-                output2.write(str(i) + " " + str(C[i]) + " " + "\n")
-                if i > 0 and C[i] > 0:
-                    logx.append(math.log(i))
-                    logy.append(math.log(C[i]))
-        self.makePlot('Log Histogram of Connected Components', 'log j', 'log k_j', logx, logy,
-                      self.outputPath + graphpath)
-
     def generatePathLengths(self, start, graphpath="graphs/pathLengths.png"):
         paths = nx.single_source_dijkstra_path_length(self.G, start)
         C = Counter(paths.values())
@@ -138,7 +115,14 @@ class NetworkAnalysis:
         self.makePlot("Nodes at Distance j", 'j', 'r_j', x, y, self.outputPath + graphpath)
 
     def getAveragePathLength(self):
-        return nx.average_shortest_path_length(self.G)
+        try:
+            return nx.average_shortest_path_length(self.G)
+        except:
+            # subs = nx.strongly_connected_components(self.G)
+            # subLengths = list(map(lambda x: len(x), subs))
+            # print(subLengths)
+            subs = max(nx.strongly_connected_component_subgraphs(self.G), key=len)
+            return nx.average_shortest_path_length(subs)
 
     def makePlot(self, title, xaxis, yaxis, xdata, ydata, path):
         fig = plt.figure()

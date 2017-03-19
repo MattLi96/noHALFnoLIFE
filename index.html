@@ -38,6 +38,10 @@
         <div v-if="basicInfo != {}">
             <h4> Number of Nodes: {{basicInfo.numNodes}} </h4>
             <h4> Number of Edges: {{basicInfo.numEdges}} </h4>
+            <h4> Average Path Length: {{basicInfo.averagePathLength}}</h4>
+            <h4> Average In-Degree: {{basicInfo.averageInDegree}}</h4>
+            <h4> Average Out-Degree: {{basicInfo.averageOutDegree}}</h4>
+            <h4> Number of Self-Links: {{basicInfo.selfLinks}}</h4>
         </div>
         <div v-if="selectedNode!=null && selectedPath==null">
             <h4> Selected Node: {{selectedNode.id}}</h4>
