@@ -3,6 +3,7 @@ import re
 
 import networkx as nx
 
+
 class NetworkParser:
     def __init__(self, d):  # TODO any settings for the network parser
         self.G = self.createGraphFromDict(d)
@@ -26,6 +27,7 @@ class NetworkParser:
         for link in bracketed_links:
             cleaned_links.append((link[2:len(link) - 2]).strip())
         return cleaned_links
+
 
 if __name__ == '__main__':
     pass

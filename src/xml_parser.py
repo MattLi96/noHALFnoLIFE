@@ -1,4 +1,5 @@
 import datetime as dt
+
 import xmltodict
 
 
@@ -16,9 +17,11 @@ class XMLParser:
     def should_keep(self, node_title):
         IGNORE_LIST_PREFIX = ['Talk:', 'User:', 'File:', 'Thread:', 'Category:', 'Board Thread:', 'Template:',
                               'Category talk:', 'MediaWiki:', 'User blog comment:', 'Message Wall:', 'User blog:',
-                              'Forum:', 'Board:', 'Help:', 'User talk:', 'Blog:', 'Top 10 list:', 'Template talk:', 'Portal:',
-                              'Top 10 list talk:', 'General Discussion/', 'HOC:', 'Questions and Answers/', 
-                              'News and Announcements/', 'Inception Wiki:', 'Gallery:', 'Apple Wiki:', 'Welcome:', 'Help talk:',
+                              'Forum:', 'Board:', 'Help:', 'User talk:', 'Blog:', 'Top 10 list:', 'Template talk:',
+                              'Portal:',
+                              'Top 10 list talk:', 'General Discussion/', 'HOC:', 'Questions and Answers/',
+                              'News and Announcements/', 'Inception Wiki:', 'Gallery:', 'Apple Wiki:', 'Welcome:',
+                              'Help talk:',
                               'Taylor Swift Wiki/']
         IGNORE_LIST_SUFFIX = [':Templates', ':Copyrights', ':Candidates for speedy deletion', ':Privacy policy',
                               ':Administrators', ':Navigation', ':Bureaucrats', ':Community Portal',
@@ -73,7 +76,7 @@ class XMLParser:
             data_return[name] = text
 
         if is_snapshot:
-            print ("Snapshot Date: " + str(self.time))
+            print("Snapshot Date: " + str(self.time))
         else:
-            print ("Latest Snapshot")
+            print("Latest Snapshot")
         return data_return

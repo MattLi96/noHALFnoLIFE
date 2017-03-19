@@ -40,7 +40,7 @@ def get_time():
 
 
 def process_file(data_file):
-    # Processing network
+    # Parse Into Network
     d = XMLParser(data_file, get_time()).parse_to_dict()
     net = NetworkParser(d)
 
@@ -49,13 +49,14 @@ def process_file(data_file):
     na = NetworkAnalysis(net.G, os.path.basename(data_file))
     na.outputBasicStats()
     na.outputNodesAndEdges()
-    # na.generateDrawing()
+    na.generateDrawing()
     # generateComponentSizes doesn't work for directed graphs
     # na.generateComponentSizes()
     if len(sys.argv) > 1:
         na.d3dump("./public/data/")
     else:
         na.d3dump()
+    output("Completed Analyzing: " + data_file)
 
 
 # Main method
@@ -87,5 +88,6 @@ if __name__ == '__main__':
     if noGame:
         data_files = {f for f in data_files if "nogamenolife" in f}
 
+    # Processing the data_files
     with Pool(threads) as p:
         p.map(process_file, data_files)
