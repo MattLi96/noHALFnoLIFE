@@ -21,6 +21,7 @@ window.info = new Vue({
         componentMode: false,
         options: [],
         currentOption: "",
+        showAllLabels: false,
         selectedNode: null,
         selectedPath: null,
         basicInfo: {},
@@ -33,6 +34,10 @@ window.info = new Vue({
         //},
         updateComponentMode: function () {
             this.componentMode = !this.componentMode;
+        },
+        updateShowAllLabels: function () {
+            this.showAllLabels= !this.showAllLabels;
+            generate(hasher.getHash());
         },
         updateForce: function () {
             if (this.forceOn) {

@@ -117,7 +117,7 @@ function generate(path) {
                 type: "canvas"
             },
             settings: {
-                drawLabels: false
+                drawLabels: window.info.$data.showAllLabels
             }
         });
 
