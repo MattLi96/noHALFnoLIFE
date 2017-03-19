@@ -40,27 +40,22 @@ def get_time():
 
 
 def process_file(data_file):
-    data_files = {data_file}
-    # Processing networks
-    networks = {}
-    for f in data_files:
-        d = XMLParser(f, get_time()).parse_to_dict()
-        net = NetworkParser(d)
-        networks[f] = net.G
+    # Processing network
+    d = XMLParser(data_file, get_time()).parse_to_dict()
+    net = NetworkParser(d)
 
     # Graph Analysis
-    for (k, v) in networks.items():
-        output("Analyzing File: " + k)
-        na = NetworkAnalysis(v, os.path.basename(k))
-        na.outputBasicStats()
-        na.outputNodesAndEdges()
-        # na.generateDrawing()
-        # generateComponentSizes doesn't work for directed graphs
-        # na.generateComponentSizes()
-        if len(sys.argv) > 1:
-            na.d3dump("./public/data/")
-        else:
-            na.d3dump()
+    output("Analyzing File: " + data_file)
+    na = NetworkAnalysis(net.G, os.path.basename(data_file))
+    na.outputBasicStats()
+    na.outputNodesAndEdges()
+    # na.generateDrawing()
+    # generateComponentSizes doesn't work for directed graphs
+    # na.generateComponentSizes()
+    if len(sys.argv) > 1:
+        na.d3dump("./public/data/")
+    else:
+        na.d3dump()
 
 
 # Main method
@@ -79,7 +74,7 @@ if __name__ == '__main__':
     # Flags for control
     currentOnly = False
     noGame = False  # Only use the no game no life wiki. Intended for testing
-    threads = 8 # Number of processes to use
+    threads = 8  # Number of processes to use
 
     # Setting datafiles to the correct files
     data_files = set()

@@ -1,15 +1,16 @@
 import json
 import math
-import sys
 import os
 import re
 import shutil
-from statistics import mean
+import sys
 from collections import Counter
+from statistics import mean
 
 import matplotlib.pyplot as plt
 import networkx as nx
 from networkx.readwrite import json_graph
+
 
 class NetworkAnalysis:
     def __init__(self, G, fileName):  # TODO any settings for the network analysis
@@ -17,12 +18,13 @@ class NetworkAnalysis:
         split = re.split('\\ /', fileName)
         fileName = split[0].split(".")[0]
         self.fileName = fileName
-        self.outputPath = "../output/" + fileName + "/" if len(sys.argv) < 1 else "./output/" + fileName + "/"
+        self.outputPath = "./output/" + fileName + "/" if len(sys.argv) > 1 else "../output/" + fileName + "/"
+        print(self.outputPath)
         if os.path.exists(self.outputPath):
             shutil.rmtree(self.outputPath)
         os.makedirs(self.outputPath)
 
-    def d3dump(self, output = None):
+    def d3dump(self, output=None):
         if output is None:
             output = "../public/data/"
         print("output path: " + output)
@@ -44,20 +46,21 @@ class NetworkAnalysis:
             json.dump(data, f, indent=4)
 
     def outputNodesAndEdges(self, nodesOut="nodes.txt", edgeOut="edges.txt"):
-        with open(self.outputPath + nodesOut, "w", encoding="utf-8") as nodeOut, open(self.outputPath + edgeOut, "w", encoding="utf-8") as edgeOut:
+        with open(self.outputPath + nodesOut, "w", encoding="utf-8") as nodeOut, open(self.outputPath + edgeOut, "w",
+                                                                                      encoding="utf-8") as edgeOut:
             node_to_degree = {}
             for e in self.G.edges():
                 edgeOut.write(str(e) + "\n")
                 if e[0] not in node_to_degree:
                     node_to_degree[e[0]] = 0
                 if e[1] not in node_to_degree:
-                    node_to_degree[e[1]] = 0  
+                    node_to_degree[e[1]] = 0
                 node_to_degree[e[0]] = node_to_degree[e[0]] + 1
-                node_to_degree[e[1]] = node_to_degree[e[1]] + 1                         
+                node_to_degree[e[1]] = node_to_degree[e[1]] + 1
             for n in self.G.nodes():
                 node_degree = 0
                 if n in node_to_degree:
-                    node_degree = node_to_degree[n] 
+                    node_degree = node_to_degree[n]
                 nodeOut.write(str(node_degree) + ", " + str(n) + "\n")
 
     def generateDrawing(self, outfile="graph.png"):
@@ -70,7 +73,7 @@ class NetworkAnalysis:
         res['numEdges'] = nx.number_of_edges(self.G)
         indegree = list(nx.DiGraph.in_degree(self.G).values())
         res['averageInDegree'] = mean(indegree)
-        outdegree=  list(nx.DiGraph.out_degree(self.G).values())
+        outdegree = list(nx.DiGraph.out_degree(self.G).values())
         res['averageOutDegree'] = mean(outdegree)
         res['selfLinks'] = self.G.number_of_selfloops()
         return res
