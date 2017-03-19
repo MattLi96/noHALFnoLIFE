@@ -4,12 +4,12 @@ import sys
 import os
 import re
 import shutil
+from statistics import mean
 from collections import Counter
 
 import matplotlib.pyplot as plt
 import networkx as nx
 from networkx.readwrite import json_graph
-
 
 class NetworkAnalysis:
     def __init__(self, G, fileName):  # TODO any settings for the network analysis
@@ -36,6 +36,7 @@ class NetworkAnalysis:
         # data['edges'] = data.pop('links')
         data['edges'] = list(map(lambda x: {"source": x[0], "target": x[1]}, G.edges()))
         data['basic'] = self.returnBasicStats()
+        # data['basic']['averagePathLength'] = self.getAveragePathLength()
 
         if not os.path.exists(output) and len(sys.argv) > 1:
             os.makedirs(output)
@@ -67,6 +68,10 @@ class NetworkAnalysis:
         res = {}
         res['numNodes'] = nx.number_of_nodes(self.G)
         res['numEdges'] = nx.number_of_edges(self.G)
+        indegree = list(nx.DiGraph.in_degree(self.G).values())
+        res['averageInDegree'] = mean(indegree)
+        outdegree=  list(nx.DiGraph.out_degree(self.G).values())
+        res['averageOutDegree'] = mean(outdegree)
         return res
 
     def outputBasicStats(self):
