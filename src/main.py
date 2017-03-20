@@ -49,7 +49,7 @@ def process_file(data_file):
     na = NetworkAnalysis(net.G, os.path.basename(data_file))
     na.outputBasicStats()
     na.outputNodesAndEdges()
-    na.generateDrawing()
+    # na.generateDrawing()
     # generateComponentSizes doesn't work for directed graphs
     # na.generateComponentSizes()
     if len(sys.argv) > 1:

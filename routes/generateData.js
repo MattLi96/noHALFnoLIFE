@@ -8,6 +8,7 @@ var filesystem = require("fs");
 router.get('/', function (req, res, next) {
     var options = {
         scriptPath: './src',
+        pythonPath: '/usr/bin/python3',
         args: [true]
     };
 

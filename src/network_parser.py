@@ -25,7 +25,11 @@ class NetworkParser:
         bracketed_links = re.findall('\[\[.*?\]\]', text)
         cleaned_links = []
         for link in bracketed_links:
-            cleaned_links.append((link[2:len(link) - 2]).strip())
+            if '|' in link:
+                new_link = link[2:len(link) - 2].split('|')[0].strip()
+                cleaned_links.append(new_link)
+            else:
+                cleaned_links.append((link[2:len(link) - 2]).strip())
         return cleaned_links
 
 
