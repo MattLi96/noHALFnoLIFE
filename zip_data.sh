@@ -35,4 +35,3 @@ if ${unzip} ; then
         gunzip -k *.gz
     fi
 fi
-
