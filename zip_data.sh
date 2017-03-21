@@ -20,18 +20,23 @@ while getopts ":zuf" opt; do
 done
 
 pushd dataRaw
-
 if ${zip} ; then
     if ${force} ; then
         gzip -k -f *.xml
+        mv -f *.gz zipped
     else
         gzip -k *.xml
+        mv *.gz zipped
     fi
 fi
+
+pushd zipped
 if ${unzip} ; then
     if ${force} ; then
         gunzip -k -f *.gz
+        mv -f *.xml ..
     else
         gunzip -k *.gz
+        mv *.xml ..
     fi
 fi
