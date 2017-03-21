@@ -31,7 +31,7 @@ if ${zip} ; then
 
     pushd zipped
     rm -f x*
-    split -a 3 -b 100m zipped.7z
+    split -a 3 -b 90m zipped.7z
     rm -f zipped.7z
     git add x*
     popd
