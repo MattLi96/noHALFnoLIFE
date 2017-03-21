@@ -8,7 +8,8 @@ var filesystem = require("fs");
 router.get('/', function (req, res, next) {
     var options = {
         scriptPath: './src',
-        pythonPath: '/usr/bin/python3',
+        // Uncomment the line below to set python path for recompile
+        //pythonPath: '/usr/bin/python3',
         args: [true]
     };
 
