@@ -21,22 +21,23 @@ done
 
 pushd dataRaw
 pushd zipped
-cat x* > zipped.7z
-mv -f zipped.7z ..
+cat x* > zipped.zip
+mv -f zipped.zip ..
 popd
 
 if ${zip} ; then
-    7z u -mx zipped.7z *.xml
-    cp -f zipped.7z zipped
+    zip zipped.zip *.xml
+    cp -f zipped.zip zipped
 
     pushd zipped
     rm -f x*
-    split -a 3 -b 90m zipped.7z
-    rm -f zipped.7z
+    split -a 3 -b 90m zipped.zip
+    rm -f zipped.zip
     git add x*
     popd
 fi
 
 if ${unzip} ; then
-    7z e zipped.7z
+    ls
+    unzip zipped.zip
 fi
