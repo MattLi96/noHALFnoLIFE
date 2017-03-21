@@ -22,10 +22,10 @@ done
 pushd dataRaw
 if ${zip} ; then
     if ${force} ; then
-        gzip -k -f *.xml
+        gzip -9 -k -f *.xml
         mv -f *.gz zipped
     else
-        gzip -k *.xml
+        gzip -9 -k *.xml
         mv *.gz zipped
     fi
     rm -f *.gz
