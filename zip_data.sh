@@ -28,6 +28,7 @@ if ${zip} ; then
         gzip -k *.xml
         mv *.gz zipped
     fi
+    rm -f *.gz
 fi
 
 pushd zipped
@@ -39,4 +40,5 @@ if ${unzip} ; then
         gunzip -k *.gz
         mv *.xml ..
     fi
+    rm -f *.xml
 fi
