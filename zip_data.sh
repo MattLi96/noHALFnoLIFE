@@ -11,7 +11,7 @@ while getopts ":zuf" opt; do
         u) # unzip all data
             unzip=true
             ;;
-        f) # force the zip/unzip (will delete data)
+        f) # Currently does nothing
             force=true
             ;;
         \?)
@@ -21,24 +21,20 @@ done
 
 pushd dataRaw
 if ${zip} ; then
-    if ${force} ; then
-        gzip -9 -k -f *.xml
-        mv -f *.gz zipped
-    else
-        gzip -9 -k *.xml
-        mv *.gz zipped
-    fi
-    rm -f *.gz
+    7z u -mx zipped.7z *.xml
+    cp -f zipped.7z zipped
+
+    pushd zipped
+    rm -f x*
+    split -a 3 -b 100m zipped.7z
+    git add x*
+    popd
 fi
 
 pushd zipped
 if ${unzip} ; then
-    if ${force} ; then
-        gunzip -k -f *.gz
-        mv -f *.xml ..
-    else
-        gunzip -k *.gz
-        mv *.xml ..
-    fi
-    rm -f *.xml
+    cat x* > zipped.7z
+    mv -f zipped.7z ..
+    popd
+    7z e zipped.7z
 fi
