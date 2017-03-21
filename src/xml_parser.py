@@ -26,7 +26,7 @@ class XMLParser:
         IGNORE_LIST_SUFFIX = [':Templates', ':Copyrights', ':Candidates for speedy deletion', ':Privacy policy',
                               ':Administrators', ':Navigation', ':Bureaucrats', ':Community Portal',
                               ':Terminology List', ':Sandbox', ':Welcome', ':Policy', ':Protected page',
-                              '/Unofficial Chat', ':About']
+                              '/Unofficial Chat', ':About', '/List']
 
         for item in IGNORE_LIST_PREFIX:
             if node_title[0:len(item)] == item:
