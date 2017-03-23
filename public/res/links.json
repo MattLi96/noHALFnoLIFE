@@ -15,6 +15,8 @@
     "data/theoffice_pages_full.json": "http://theoffice.wikia.com/wiki/",
     "data/gameofthrones_pages_current.json": "http://gameofthrones.wikia.com/wiki/",
     "data/gameofthrones_pages_full.json": "http://gameofthrones.wikia.com/wiki/",
+    "data/parksandrecreation_pages_current.json": "http://parksandrecreation.wikia.com/wiki/",
+    "data/parksandrecreation_pages_full.json": "http://parksandrecreation.wikia.com/wiki/",
     "data/weirdal_pages_current.json" : "http://weirdal.wikia.com/wiki/",
     "data/weirdal_pages_full.json" : "http://weirdal.wikia.com/wiki/"
 }
