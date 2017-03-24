@@ -18,10 +18,10 @@ class XMLParser:
         IGNORE_LIST_PREFIX = ['Talk:', 'User:', 'File:', 'Thread:', 'Category:', 'Board Thread:', 'Template:',
                               'Category talk:', 'MediaWiki:', 'User blog comment:', 'Message Wall:', 'User blog:',
                               'Forum:', 'Board:', 'Help:', 'User talk:', 'Blog:', 'Top 10 list:', 'Template talk:',
-                              'Portal:',
+                              'Portal:', 'File talk:', 'League of Legends Wiki:', 'Guide talk:', 'MediaWiki talk:',
                               'Top 10 list talk:', 'General Discussion/', 'HOC:', 'Questions and Answers/',
                               'News and Announcements/', 'Inception Wiki:', 'Gallery:', 'Apple Wiki:', 'Welcome:',
-                              'Help talk:', 'Parks and Recreation Wiki:', 'Module:',
+                              'Help talk:', 'Parks and Recreation Wiki:', 'Module:', 'League of Legends Wiki talk:',
                               'Taylor Swift Wiki/']
         IGNORE_LIST_SUFFIX = [':Templates', ':Copyrights', ':Candidates for speedy deletion', ':Privacy policy',
                               ':Administrators', ':Navigation', ':Bureaucrats', ':Community Portal',
