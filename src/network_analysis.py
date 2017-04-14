@@ -24,7 +24,7 @@ class NetworkAnalysis:
             shutil.rmtree(self.outputPath)
         os.makedirs(self.outputPath)
 
-    def d3dump(self, output=None):
+    def d3dump(self, output=None, curr_time=""):
         if output is None:
             output = "../public/data/"
         print("output path: " + output)
@@ -42,7 +42,7 @@ class NetworkAnalysis:
 
         if not os.path.exists(output) and len(sys.argv) > 1:
             os.makedirs(output)
-        with open(output + self.fileName + ".json", 'w') as f:
+        with open(output + self.fileName + '_' + curr_time + ".json", 'w') as f:
             json.dump(data, f, indent=4)
 
     def outputNodesAndEdges(self, nodesOut="nodes.txt", edgeOut="edges.txt"):

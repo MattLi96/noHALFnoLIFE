@@ -56,9 +56,9 @@ def process_file(data_file):
         # generateComponentSizes doesn't work for directed graphs
         # na.generateComponentSizes()
         if len(sys.argv) > 1:
-            na.d3dump("./public/data/" + str(curr_time))
+            na.d3dump("./public/data/", str(curr_time))
         else:
-            na.d3dump()
+            na.d3dump(None, str(curr_time))
 
         curr_time -= TIME_INCR
     output("Completed Analyzing: " + data_file)
