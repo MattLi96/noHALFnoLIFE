@@ -48,7 +48,8 @@ class Runner:
 
         # Flags for control
         self.current_only = False  # Only use current files
-        self.no_game = True  # Only use the no game no life wiki. Intended for testing
+        self.no_game = False  # Only use the no game no life wiki. Intended for testing
+        self.time_series = False  # If true do time series. Otherwise process file
         self.build_hierarchical_models = True
 
     def time_process(self, data_file):
@@ -109,9 +110,11 @@ class Runner:
             data_files = {f for f in data_files if "nogamenolife" in f}
 
         # Processing the data_files
-        # self.pool.map(Runner.process_file, data_files)
-        for file in data_files:
-            self.time_process(file)
+        if self.time_series:
+            for file in data_files:
+                self.time_process(file)
+        else:
+            self.pool.map(Runner.process_file, data_files)
         self.pool.close()
         self.pool.join()
 
