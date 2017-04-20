@@ -44,6 +44,7 @@ def get_time():
 # basically a class so we can have a thread pool
 class Runner:
     def __init__(self, threads=8):
+        self.threads = threads
         self.pool = Pool(threads)
 
         # Flags for control
@@ -117,6 +118,7 @@ class Runner:
             self.pool.map(Runner.process_file, data_files)
         self.pool.close()
         self.pool.join()
+        self.pool = Pool(self.threads)  # Reset the pool
 
 
 # Main method
