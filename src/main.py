@@ -43,9 +43,9 @@ def get_time():
 
 def time_process(data_file):
 
-    def run_time_analysis(parsed_dict, time, curr_data_file):
+    def run_time_analysis(parsed_dict, time):
         output("Analyzing File " + data_file + ' at time ' + str(curr_time))
-        na = NetworkAnalysis(net.G, os.path.basename(curr_data_file))
+        na = NetworkAnalysis(net.G, os.path.basename(data_file))
         if len(sys.argv) > 1:
             na.d3dump("./public/data/", str(curr_time))
         else:
@@ -61,7 +61,7 @@ def time_process(data_file):
         net = NetworkParser(d)
         curr_time -= TIME_INCR
 
-        run_time_analysis(d, curr_time, data_file)
+        run_time_analysis(d, curr_time)
         d = XMLParser(data_file, curr_time).parse_to_dict()
 
     output("Completed Analyzing: " + data_file)
