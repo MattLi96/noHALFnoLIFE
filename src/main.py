@@ -55,9 +55,10 @@ class Runner:
 
     def time_process(self, data_file):
         def run_time_analysis(time):
-            print('time process')
+            print('running time analysis for '  + str(time))
             d = XMLParser(data_file, time).parse_to_dict()
             if d:
+                net = NetworkParser(d)
                 output("Analyzing File " + data_file + ' at time ' + str(curr_time))
                 na = NetworkAnalysis(net.G, os.path.basename(data_file))
                 if len(sys.argv) > 1:
@@ -67,15 +68,11 @@ class Runner:
 
         curr_time = dt.datetime.now()
 
-        # Parse Into Network
-        d = XMLParser(data_file, curr_time).parse_to_dict()
-
         # run loop
         while curr_time > OLDEST_TIME:
-            net = NetworkParser(d)
             curr_time -= TIME_INCR
-
             self.pool.apply_async(run_time_analysis, (curr_time))
+
         output("Completed Analyzing: " + data_file)
 
     @staticmethod
