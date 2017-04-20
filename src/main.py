@@ -40,28 +40,52 @@ def get_data_files(dir_path=None):
 def get_time():
     return dt.datetime.strptime(SNAPSHOT_TIME, '%Y-%m-%dT%H:%M:%SZ')
 
+def time_process(data_file):
 
-def process_file(data_file):
-    curr_time = get_time()
-    # Parse Into Network
-    d = XMLParser(data_file, curr_time).parse_to_dict()
-    while d and curr_time > OLDEST_TIME:
-        net = NetworkParser(d)
-
-        # Graph Analysis
+    def run_time_analysis(parsed_dict, time, curr_data_file):
         output("Analyzing File " + data_file + ' at time ' + str(curr_time))
-        na = NetworkAnalysis(net.G, os.path.basename(data_file))
-        na.outputBasicStats()
-        na.outputNodesAndEdges()
-        # na.generateDrawing()
-        # generateComponentSizes doesn't work for directed graphs
-        # na.generateComponentSizes()
+        na = NetworkAnalysis(net.G, os.path.basename(curr_data_file))
         if len(sys.argv) > 1:
             na.d3dump("./public/data/", str(curr_time))
         else:
             na.d3dump(None, str(curr_time))
 
+    curr_time = dt.datetime.now()
+
+    # Parse Into Network
+    d = XMLParser(data_file, curr_time).parse_to_dict()
+
+    # run loop
+    while d and curr_time > OLDEST_TIME:
+        net = NetworkParser(d)
         curr_time -= TIME_INCR
+
+        run_time_analysis(d, curr_time, data_file)
+        d = XMLParser(data_file, curr_time).parse_to_dict()
+
+    output("Completed Analyzing: " + data_file)
+
+
+
+def process_file(data_file):
+    curr_time = get_time()
+    # Parse Into Network
+    d = XMLParser(data_file, get_time()).parse_to_dict()
+    net = NetworkParser(d)
+
+    # Graph Analysis
+    output("Analyzing File " + data_file)
+    na = NetworkAnalysis(net.G, os.path.basename(data_file))
+    na.outputBasicStats()
+    na.outputNodesAndEdges()
+    # na.generateDrawing()
+    # generateComponentSizes doesn't work for directed graphs
+    # na.generateComponentSizes()
+    if len(sys.argv) > 1:
+        na.d3dump("./public/data/", str(curr_time))
+    else:
+        na.d3dump(None, str(curr_time))
+
     output("Completed Analyzing: " + data_file)
 
 
@@ -96,4 +120,4 @@ if __name__ == '__main__':
 
     # Processing the data_files
     with Pool(threads) as p:
-        p.map(process_file, data_files)
+        p.map(time_process, data_files)
