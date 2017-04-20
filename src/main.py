@@ -49,18 +49,21 @@ class Runner:
 
         # Flags for control
         self.current_only = False  # Only use current files
-        self.no_game = False  # Only use the no game no life wiki. Intended for testing
-        self.time_series = False  # If true do time series. Otherwise process file
+        self.no_game = True # Only use the no game no life wiki. Intended for testing
+        self.time_series = True # If true do time series. Otherwise process file
         self.build_hierarchical_models = True
 
     def time_process(self, data_file):
-        def run_time_analysis(parsed_dict, time):
-            output("Analyzing File " + data_file + ' at time ' + str(curr_time))
-            na = NetworkAnalysis(net.G, os.path.basename(data_file))
-            if len(sys.argv) > 1:
-                na.d3dump("./public/data/", str(curr_time))
-            else:
-                na.d3dump(None, str(curr_time))
+        def run_time_analysis(time):
+            print('time process')
+            d = XMLParser(data_file, time).parse_to_dict()
+            if d:
+                output("Analyzing File " + data_file + ' at time ' + str(curr_time))
+                na = NetworkAnalysis(net.G, os.path.basename(data_file))
+                if len(sys.argv) > 1:
+                    na.d3dump("./public/data/", str(curr_time))
+                else:
+                    na.d3dump(None, str(curr_time))
 
         curr_time = dt.datetime.now()
 
@@ -68,12 +71,11 @@ class Runner:
         d = XMLParser(data_file, curr_time).parse_to_dict()
 
         # run loop
-        while d and curr_time > OLDEST_TIME:
+        while curr_time > OLDEST_TIME:
             net = NetworkParser(d)
             curr_time -= TIME_INCR
 
-            self.pool.apply_async(run_time_analysis, (d, curr_time))
-            d = XMLParser(data_file, curr_time).parse_to_dict()
+            self.pool.apply_async(run_time_analysis, (curr_time))
         output("Completed Analyzing: " + data_file)
 
     @staticmethod
