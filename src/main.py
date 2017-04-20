@@ -13,8 +13,10 @@ from xml_parser import XMLParser
 from hierarchical_models import CategoryBasedHierarchicalModel
 
 SNAPSHOT_TIME = "2015-12-05T02:20:10Z"
+OLDEST_TIME = dt.datetime(2000,1,1)
 ONE_YEAR = 365
 ONE_MONTH = 30
+TIME_INCR = dt.timedelta(days=30)
 
 
 def get_data_files(dir_path=None):
@@ -41,27 +43,31 @@ def get_time():
 
 
 def process_file(data_file):
+    curr_time = get_time()
     # Parse Into Network
-    d = XMLParser(data_file, get_time()).parse_to_dict()
-    net = NetworkParser(d)
+    d = XMLParser(data_file, curr_time).parse_to_dict()
+    while d and curr_time > OLDEST_TIME:
+        net = NetworkParser(d)
 
-    # Graph Analysis
-    output("Analyzing File: " + data_file)
-    na = NetworkAnalysis(net.G, os.path.basename(data_file))
-    na.outputBasicStats()
-    na.outputNodesAndEdges()
+        # Graph Analysis
+        output("Analyzing File " + data_file + ' at time ' + str(curr_time))
+        na = NetworkAnalysis(net.G, os.path.basename(data_file))
+        na.outputBasicStats()
+        na.outputNodesAndEdges()
 
-    # Build Hierarchical Models
-    if build_hierarchical_models:
-        category_hierarchy = CategoryBasedHierarchicalModel(net.G)
-        category_hierarchy.build_hierarchical_model()
-    # na.generateDrawing()
-    # generateComponentSizes doesn't work for directed graphs
-    # na.generateComponentSizes()
-    if len(sys.argv) > 1:
-        na.d3dump("./public/data/")
-    else:
-        na.d3dump()
+        # Build Hierarchical Models
+        if build_hierarchical_models:
+            category_hierarchy = CategoryBasedHierarchicalModel(net.G)
+            category_hierarchy.build_hierarchical_model()
+        # na.generateDrawing()
+        # generateComponentSizes doesn't work for directed graphs
+        # na.generateComponentSizes()
+        if len(sys.argv) > 1:
+            na.d3dump("./public/data/", str(curr_time))
+        else:
+            na.d3dump(None, str(curr_time))
+
+        curr_time -= TIME_INCR
     output("Completed Analyzing: " + data_file)
 
 
