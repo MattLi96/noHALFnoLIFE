@@ -1,14 +1,14 @@
 import json
-import math
 import os
 import re
 import shutil
-import sys
 from collections import Counter
 from statistics import mean
 
+import math
 import matplotlib.pyplot as plt
 import networkx as nx
+import sys
 from networkx.readwrite import json_graph
 
 
