@@ -7,11 +7,13 @@ class XMLParser:
     def __init__(self, fname, snapshot_time=dt.datetime.now()):
         self.file_name = fname
         self.time = snapshot_time
+        self.data_obj = None
 
     def parse_to_obj(self, xml_attribs=True):
         print("Parsing File: " + self.file_name)
         with open(self.file_name, "rb") as f:  # notice the "rb" mode
             d = xmltodict.parse(f, xml_attribs=xml_attribs)
+            self.data_obj = d
             return d
 
     def should_keep(self, node_title):
@@ -38,10 +40,35 @@ class XMLParser:
 
         return True
 
+    def update_time(new_time):
+        self.time = new_time
+
+    def find_oldest_time(self):
+        oldest_time = None
+        if not self.data_obj:
+            obj = self.parse_to_obj()
+        else:
+            obj = self.data_obj
+        for p in obj["mediawiki"]["page"]:
+            if not 'revision' in p:
+                return oldest_time
+            rev = p['revision']
+            if not 'text' in rev:
+                for item in rev:
+                    time = item['timestamp']
+                    # format is 2014-12-17T02:25:15Z
+                    time_obj = dt.datetime.strptime(time, '%Y-%m-%dT%H:%M:%SZ')
+                    if not oldest_time or time_obj < oldest_time:
+                        oldest_time = time_obj
+        return oldest_time
+
     def parse_to_dict(self):
         is_snapshot = False
         data_return = {}
-        obj = self.parse_to_obj()
+        if not self.data_obj:
+            obj = self.parse_to_obj()
+        else:
+            obj = self.data_obj
         for p in obj["mediawiki"]["page"]:
             if not 'revision' in p:
                 continue

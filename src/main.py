@@ -49,7 +49,7 @@ class Runner:
 
         # Flags for control
         self.current_only = False  # Only use current files. Has no effect in time series mode
-        self.no_game = True  # Only use the no game no life wiki. Intended for testing
+        self.no_game = False # Only use the no game no life wiki. Intended for testing
         self.time_series = True  # If true do time series. Otherwise process file
         self.build_hierarchical_models = True
 
@@ -76,9 +76,10 @@ class Runner:
         output("Completed Analyzing: " + data_file)
 
     @staticmethod
-    def run_time_analysis(file, time):
+    def run_time_analysis(xml_parser_obj, time):
         print('running time analysis for ' + str(time))
-        d = XMLParser(file, time).parse_to_dict()
+        xml_parser_obj.update_time(time)
+        d = xml_parser_obj.parse_to_dict()
         if d:
             net = NetworkParser(d)
             output("Analyzing File " + file + ' at time ' + str(time))
@@ -91,9 +92,11 @@ class Runner:
     def time_process(self, data_file):
         curr_time = dt.datetime.now()
         # run loop
-        while curr_time > OLDEST_TIME:
+        fobj = XMLParser(data_file, curr_time)
+        lim = fobj.find_oldest_time()
+        while curr_time > lim:
             curr_time -= TIME_INCR
-            self.pool.apply_async(Runner.run_time_analysis, (data_file, curr_time))
+            self.pool.apply_async(Runner.run_time_analysis, (fobj, curr_time))
 
         output("Completed Analyzing: " + data_file)
 
