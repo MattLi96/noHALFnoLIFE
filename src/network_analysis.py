@@ -35,8 +35,10 @@ class NetworkAnalysis:
             G.node[ix]['parity'] = (1 - deg % 2)
         G.nodes(data=True)
         data = json_graph.node_link_data(G)
+        for node in data['nodes']:
+            node['id'] = str(node['id'])
         # data['edges'] = data.pop('links')
-        data['edges'] = list(map(lambda x: {"source": x[0], "target": x[1]}, G.edges()))
+        data['edges'] = list(map(lambda x: {"source": x[0].name, "target": x[1].name}, G.edges()))
         data['basic'] = self.returnBasicStats()
         data['basic']['averagePathLength'] = self.getAveragePathLength()
 
