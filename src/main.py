@@ -10,6 +10,7 @@ from multiprocessing import Pool
 from network_analysis import NetworkAnalysis
 from network_parser import NetworkParser
 from xml_parser import XMLParser
+from hierarchical_models import CategoryBasedHierarchicalModel
 
 SNAPSHOT_TIME = "2015-12-05T02:20:10Z"
 ONE_YEAR = 365
@@ -49,6 +50,11 @@ def process_file(data_file):
     na = NetworkAnalysis(net.G, os.path.basename(data_file))
     na.outputBasicStats()
     na.outputNodesAndEdges()
+
+    # Build Hierarchical Models
+    if build_hierarchical_models:
+        category_hierarchy = CategoryBasedHierarchicalModel(net.G)
+        category_hierarchy.build_hierarchical_model()
     # na.generateDrawing()
     # generateComponentSizes doesn't work for directed graphs
     # na.generateComponentSizes()
@@ -74,8 +80,9 @@ if __name__ == '__main__':
 
     # Flags for control
     currentOnly = False
-    noGame = False  # Only use the no game no life wiki. Intended for testing
+    noGame = True  # Only use the no game no life wiki. Intended for testing
     threads = 8  # Number of processes to use
+    build_hierarchical_models = True
 
     # Setting datafiles to the correct files
     data_files = set()
