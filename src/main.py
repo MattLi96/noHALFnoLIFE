@@ -41,77 +41,77 @@ def get_time():
     return dt.datetime.strptime(SNAPSHOT_TIME, '%Y-%m-%dT%H:%M:%SZ')
 
 
-def time_process(data_file):
-    def run_time_analysis(parsed_dict, time):
-        output("Analyzing File " + data_file + ' at time ' + str(curr_time))
-        na = NetworkAnalysis(net.G, os.path.basename(data_file))
-        if len(sys.argv) > 1:
-            na.d3dump("./public/data/", str(curr_time))
-        else:
-            na.d3dump(None, str(curr_time))
-
-    curr_time = dt.datetime.now()
-
-    # Parse Into Network
-    d = XMLParser(data_file, curr_time).parse_to_dict()
-
-    # run loop
-    while d and curr_time > OLDEST_TIME:
-        net = NetworkParser(d)
-        curr_time -= TIME_INCR
-
-        run_time_analysis(d, curr_time)
-        d = XMLParser(data_file, curr_time).parse_to_dict()
-
-    output("Completed Analyzing: " + data_file)
-
-
-def process_file(data_file):
-    curr_time = get_time()
-    # Parse Into Network
-    d = XMLParser(data_file, get_time()).parse_to_dict()
-    net = NetworkParser(d)
-
-    # Graph Analysis
-    output("Analyzing File " + data_file)
-    na = NetworkAnalysis(net.G, os.path.basename(data_file))
-    na.outputBasicStats()
-    na.outputNodesAndEdges()
-    # na.generateDrawing()
-    # generateComponentSizes doesn't work for directed graphs
-    # na.generateComponentSizes()
-    if len(sys.argv) > 1:
-        na.d3dump("./public/data/", str(curr_time))
-    else:
-        na.d3dump(None, str(curr_time))
-
-    output("Completed Analyzing: " + data_file)
-
-
 # basically a class so we can have a thread pool
 class Runner:
     def __init__(self, threads=8):
         self.pool = Pool(threads)
 
-    def main(self):
         # Flags for control
-        currentOnly = False
-        noGame = True  # Only use the no game no life wiki. Intended for testing
-        build_hierarchical_models = True
+        self.current_only = False  # Only use current files
+        self.no_game = True  # Only use the no game no life wiki. Intended for testing
+        self.build_hierarchical_models = True
 
+    def time_process(self, data_file):
+        def run_time_analysis(parsed_dict, time):
+            output("Analyzing File " + data_file + ' at time ' + str(curr_time))
+            na = NetworkAnalysis(net.G, os.path.basename(data_file))
+            if len(sys.argv) > 1:
+                na.d3dump("./public/data/", str(curr_time))
+            else:
+                na.d3dump(None, str(curr_time))
+
+        curr_time = dt.datetime.now()
+
+        # Parse Into Network
+        d = XMLParser(data_file, curr_time).parse_to_dict()
+
+        # run loop
+        while d and curr_time > OLDEST_TIME:
+            net = NetworkParser(d)
+            curr_time -= TIME_INCR
+
+            self.pool.apply_async(run_time_analysis, (d, curr_time))
+            d = XMLParser(data_file, curr_time).parse_to_dict()
+        output("Completed Analyzing: " + data_file)
+
+    @staticmethod
+    def process_file(data_file):
+        curr_time = get_time()
+        # Parse Into Network
+        d = XMLParser(data_file, get_time()).parse_to_dict()
+        net = NetworkParser(d)
+
+        # Graph Analysis
+        output("Analyzing File " + data_file)
+        na = NetworkAnalysis(net.G, os.path.basename(data_file))
+        na.outputBasicStats()
+        na.outputNodesAndEdges()
+        # na.generateDrawing()
+        # generateComponentSizes doesn't work for directed graphs
+        # na.generateComponentSizes()
+        if len(sys.argv) > 1:
+            na.d3dump("./public/data/", str(curr_time))
+        else:
+            na.d3dump(None, str(curr_time))
+
+        output("Completed Analyzing: " + data_file)
+
+    def main(self):
         # Setting datafiles to the correct files
         data_files = set()
-        parseSet = get_data_files("./dataRaw").items() if len(sys.argv) > 1 else get_data_files().items()
-        for (k, v) in parseSet:
-            if not currentOnly:
+        parse_set = get_data_files("./dataRaw").items() if len(sys.argv) > 1 else get_data_files().items()
+        for (k, v) in parse_set:
+            if not self.current_only:
                 data_files.update(v)
             elif k == 'current':
                 data_files.update(v)
-        if noGame:
+        if self.no_game:
             data_files = {f for f in data_files if "nogamenolife" in f}
 
         # Processing the data_files
-        self.pool.map_async(process_file, data_files)
+        # self.pool.map(Runner.process_file, data_files)
+        for file in data_files:
+            self.time_process(file)
         self.pool.close()
         self.pool.join()
 
