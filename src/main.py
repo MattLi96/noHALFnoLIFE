@@ -10,6 +10,7 @@ from multiprocessing import Pool
 from network_analysis import NetworkAnalysis
 from network_parser import NetworkParser
 from xml_parser import XMLParser
+from hierarchical_models import CategoryBasedHierarchicalModel
 
 SNAPSHOT_TIME = "2015-12-05T02:20:10Z"
 OLDEST_TIME = dt.datetime(2000,1,1)
@@ -104,8 +105,9 @@ if __name__ == '__main__':
 
     # Flags for control
     currentOnly = False
-    noGame = False  # Only use the no game no life wiki. Intended for testing
+    noGame = True  # Only use the no game no life wiki. Intended for testing
     threads = 8  # Number of processes to use
+    build_hierarchical_models = True
 
     # Setting datafiles to the correct files
     data_files = set()
