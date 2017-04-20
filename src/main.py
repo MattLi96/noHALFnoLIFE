@@ -3,10 +3,10 @@
 import datetime as dt
 import logging
 import os
-import sys
 from logging.config import fileConfig
 from multiprocessing import Pool
 
+import sys
 from network_analysis import NetworkAnalysis
 from network_parser import NetworkParser
 from xml_parser import XMLParser

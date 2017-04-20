@@ -12,7 +12,7 @@ class Node:
         name - string that should be the title of the page
         categories - set of categories that this page has been tagged with
         """
-        self.name=name
+        self.name = name
         if categories is None:
             self.categories = set()
         else:
@@ -20,6 +20,7 @@ class Node:
 
     def __repr__(self):
         return self.name
+
 
 class NetworkParser:
     def __init__(self, d):  # TODO any settings for the network parser
@@ -60,7 +61,6 @@ class NetworkParser:
             else:
                 cleaned_links.append((link[2:len(link) - 2]).strip())
         return cleaned_links
-
 
 
 if __name__ == '__main__':

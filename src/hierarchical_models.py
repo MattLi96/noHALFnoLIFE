@@ -1,5 +1,5 @@
-import numpy as np
 import networkx as nx
+import numpy as np
 
 
 class CategoryBasedHierarchicalModel:
@@ -25,7 +25,7 @@ class CategoryBasedHierarchicalModel:
         """
         categories = set()
         for node in self.G.nodes():
-            categories =  categories.union(node.categories)
+            categories = categories.union(node.categories)
         return categories
 
     def get_ranked_categories_by_degree_centrality(self):
