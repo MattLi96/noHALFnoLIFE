@@ -48,7 +48,7 @@ class Runner:
         self.pool = Pool(threads)
 
         # Flags for control
-        self.current_only = False  # Only use current files
+        self.current_only = False  # Only use current files. Has no effect in time series mode
         self.no_game = True  # Only use the no game no life wiki. Intended for testing
         self.time_series = True  # If true do time series. Otherwise process file
         self.build_hierarchical_models = True
@@ -102,6 +102,13 @@ class Runner:
         data_files = set()
         parse_set = get_data_files("./dataRaw").items() if len(sys.argv) > 1 else get_data_files().items()
         for (k, v) in parse_set:
+            if self.time_series:  # If doing a time series, only worth checking out full stuff
+                if k == 'full':
+                    data_files.update(v)
+                else:
+                    continue
+
+            # Non-time series
             if not self.current_only:
                 data_files.update(v)
             elif k == 'current':
