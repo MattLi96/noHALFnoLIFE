@@ -40,7 +40,7 @@ class XMLParser:
 
         return True
 
-    def update_time(new_time):
+    def update_time(self, new_time):
         self.time = new_time
 
     def find_oldest_time(self):

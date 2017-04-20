@@ -40,7 +40,10 @@ class NetworkAnalysis:
         # data['edges'] = data.pop('links')
         data['edges'] = list(map(lambda x: {"source": x[0].name, "target": x[1].name}, G.edges()))
         data['basic'] = self.returnBasicStats()
-        data['basic']['averagePathLength'] = self.getAveragePathLength()
+        try:
+            data['basic']['averagePathLength'] = self.getAveragePathLength()
+        except:
+            pass
 
         if not os.path.exists(output) and len(sys.argv) > 1:
             os.makedirs(output)

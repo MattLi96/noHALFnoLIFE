@@ -43,7 +43,7 @@ def get_time():
 
 # basically a class so we can have a thread pool
 class Runner:
-    def __init__(self, threads=8):
+    def __init__(self, threads=1):
         self.threads = threads
         self.pool = Pool(threads)
 
@@ -76,7 +76,7 @@ class Runner:
         output("Completed Analyzing: " + data_file)
 
     @staticmethod
-    def run_time_analysis(xml_parser_obj, time):
+    def run_time_analysis(xml_parser_obj, file, time):
         print('running time analysis for ' + str(time))
         xml_parser_obj.update_time(time)
         d = xml_parser_obj.parse_to_dict()
@@ -96,7 +96,8 @@ class Runner:
         lim = fobj.find_oldest_time()
         while curr_time > lim:
             curr_time -= TIME_INCR
-            self.pool.apply_async(Runner.run_time_analysis, (fobj, curr_time))
+            Runner.run_time_analysis(fobj, data_file, curr_time)
+            #self.pool.apply_async(Runner.run_time_analysis, (fobj, curr_time))
 
         output("Completed Analyzing: " + data_file)
 
