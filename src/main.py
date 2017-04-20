@@ -10,10 +10,9 @@ from multiprocessing import Pool
 from network_analysis import NetworkAnalysis
 from network_parser import NetworkParser
 from xml_parser import XMLParser
-from hierarchical_models import CategoryBasedHierarchicalModel
 
 SNAPSHOT_TIME = "2015-12-05T02:20:10Z"
-OLDEST_TIME = dt.datetime(2000,1,1)
+OLDEST_TIME = dt.datetime(2000, 1, 1)
 ONE_YEAR = 365
 ONE_MONTH = 30
 TIME_INCR = dt.timedelta(days=30)
@@ -41,8 +40,8 @@ def get_data_files(dir_path=None):
 def get_time():
     return dt.datetime.strptime(SNAPSHOT_TIME, '%Y-%m-%dT%H:%M:%SZ')
 
-def time_process(data_file):
 
+def time_process(data_file):
     def run_time_analysis(parsed_dict, time):
         output("Analyzing File " + data_file + ' at time ' + str(curr_time))
         na = NetworkAnalysis(net.G, os.path.basename(data_file))
@@ -67,7 +66,6 @@ def time_process(data_file):
     output("Completed Analyzing: " + data_file)
 
 
-
 def process_file(data_file):
     curr_time = get_time()
     # Parse Into Network
@@ -90,6 +88,34 @@ def process_file(data_file):
     output("Completed Analyzing: " + data_file)
 
 
+# basically a class so we can have a thread pool
+class Runner:
+    def __init__(self, threads=8):
+        self.pool = Pool(threads)
+
+    def main(self):
+        # Flags for control
+        currentOnly = False
+        noGame = True  # Only use the no game no life wiki. Intended for testing
+        build_hierarchical_models = True
+
+        # Setting datafiles to the correct files
+        data_files = set()
+        parseSet = get_data_files("./dataRaw").items() if len(sys.argv) > 1 else get_data_files().items()
+        for (k, v) in parseSet:
+            if not currentOnly:
+                data_files.update(v)
+            elif k == 'current':
+                data_files.update(v)
+        if noGame:
+            data_files = {f for f in data_files if "nogamenolife" in f}
+
+        # Processing the data_files
+        self.pool.map_async(process_file, data_files)
+        self.pool.close()
+        self.pool.join()
+
+
 # Main method
 if __name__ == '__main__':
     FROM_NODE = len(sys.argv) > 1
@@ -103,23 +129,4 @@ if __name__ == '__main__':
 
     output("FROM_NODE: " + str(FROM_NODE))
 
-    # Flags for control
-    currentOnly = False
-    noGame = True  # Only use the no game no life wiki. Intended for testing
-    threads = 8  # Number of processes to use
-    build_hierarchical_models = True
-
-    # Setting datafiles to the correct files
-    data_files = set()
-    parseSet = get_data_files("./dataRaw").items() if len(sys.argv) > 1 else get_data_files().items()
-    for (k, v) in parseSet:
-        if not currentOnly:
-            data_files.update(v)
-        elif k == 'current':
-            data_files.update(v)
-    if noGame:
-        data_files = {f for f in data_files if "nogamenolife" in f}
-
-    # Processing the data_files
-    with Pool(threads) as p:
-        p.map(time_process, data_files)
+    Runner().main()  # Runs the actual processing.
