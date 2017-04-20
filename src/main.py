@@ -12,6 +12,7 @@ from network_parser import NetworkParser
 from xml_parser import XMLParser
 
 SNAPSHOT_TIME = "2015-12-05T02:20:10Z"
+OLDEST_TIME = dt.datetime(2000,1,1)
 ONE_YEAR = 365
 ONE_MONTH = 30
 TIME_INCR = dt.timedelta(days=30)
@@ -44,7 +45,7 @@ def process_file(data_file):
     curr_time = get_time()
     # Parse Into Network
     d = XMLParser(data_file, curr_time).parse_to_dict()
-    while d:
+    while d and curr_time > OLDEST_TIME:
         net = NetworkParser(d)
 
         # Graph Analysis
