@@ -49,31 +49,9 @@ class Runner:
 
         # Flags for control
         self.current_only = False  # Only use current files
-        self.no_game = True # Only use the no game no life wiki. Intended for testing
-        self.time_series = True # If true do time series. Otherwise process file
+        self.no_game = True  # Only use the no game no life wiki. Intended for testing
+        self.time_series = True  # If true do time series. Otherwise process file
         self.build_hierarchical_models = True
-
-    def time_process(self, data_file):
-        def run_time_analysis(time):
-            print('running time analysis for '  + str(time))
-            d = XMLParser(data_file, time).parse_to_dict()
-            if d:
-                net = NetworkParser(d)
-                output("Analyzing File " + data_file + ' at time ' + str(curr_time))
-                na = NetworkAnalysis(net.G, os.path.basename(data_file))
-                if len(sys.argv) > 1:
-                    na.d3dump("./public/data/", str(curr_time))
-                else:
-                    na.d3dump(None, str(curr_time))
-
-        curr_time = dt.datetime.now()
-
-        # run loop
-        while curr_time > OLDEST_TIME:
-            curr_time -= TIME_INCR
-            self.pool.apply_async(run_time_analysis, (curr_time))
-
-        output("Completed Analyzing: " + data_file)
 
     @staticmethod
     def process_file(data_file):
@@ -94,6 +72,28 @@ class Runner:
             na.d3dump("./public/data/", str(curr_time))
         else:
             na.d3dump(None, str(curr_time))
+
+        output("Completed Analyzing: " + data_file)
+
+    @staticmethod
+    def run_time_analysis(file, time):
+        print('running time analysis for ' + str(time))
+        d = XMLParser(file, time).parse_to_dict()
+        if d:
+            net = NetworkParser(d)
+            output("Analyzing File " + file + ' at time ' + str(time))
+            na = NetworkAnalysis(net.G, os.path.basename(file))
+            if len(sys.argv) > 1:
+                na.d3dump("./public/data/", str(time))
+            else:
+                na.d3dump(None, str(time))
+
+    def time_process(self, data_file):
+        curr_time = dt.datetime.now()
+        # run loop
+        while curr_time > OLDEST_TIME:
+            curr_time -= TIME_INCR
+            self.pool.apply_async(Runner.run_time_analysis, (data_file, curr_time))
 
         output("Completed Analyzing: " + data_file)
 
