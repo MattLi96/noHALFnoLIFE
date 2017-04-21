@@ -43,7 +43,7 @@ def get_time():
 
 # basically a class so we can have a thread pool
 class Runner:
-    def __init__(self, threads=1):
+    def __init__(self, threads=16):
         self.threads = threads
         self.pool = Pool(threads)
 
@@ -76,28 +76,24 @@ class Runner:
         output("Completed Analyzing: " + data_file)
 
     @staticmethod
-    def run_time_analysis(xml_parser_obj, file, time):
-        print('running time analysis for ' + str(time))
-        xml_parser_obj.update_time(time)
-        d = xml_parser_obj.parse_to_dict()
-        if d:
-            net = NetworkParser(d)
-            output("Analyzing File " + file + ' at time ' + str(time))
-            na = NetworkAnalysis(net.G, os.path.basename(file))
-            if len(sys.argv) > 1:
-                na.d3dump("./public/data/", str(time))
-            else:
-                na.d3dump(None, str(time))
-
-    def time_process(self, data_file):
+    def time_process(data_file):
         curr_time = dt.datetime.now()
         # run loop
         fobj = XMLParser(data_file, curr_time)
         lim = fobj.find_oldest_time()
         while curr_time > lim:
             curr_time -= TIME_INCR
-            Runner.run_time_analysis(fobj, data_file, curr_time)
-            #self.pool.apply_async(Runner.run_time_analysis, (fobj, curr_time))
+            print('running time analysis for ' + str(curr_time))
+            fobj.update_time(curr_time)
+            d = fobj.parse_to_dict()
+            if d:
+                net = NetworkParser(d)
+                output("Analyzing File " + data_file + ' at time ' + str(curr_time))
+                na = NetworkAnalysis(net.G, os.path.basename(data_file))
+                if len(sys.argv) > 1:
+                    na.d3dump("./public/data/", str(curr_time))
+                else:
+                    na.d3dump(None, str(curr_time))
 
         output("Completed Analyzing: " + data_file)
 
@@ -122,8 +118,7 @@ class Runner:
 
         # Processing the data_files
         if self.time_series:
-            for file in data_files:
-                self.time_process(file)
+            self.pool.map(Runner.time_process, data_files)
         else:
             self.pool.map(Runner.process_file, data_files)
         self.pool.close()
