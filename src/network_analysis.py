@@ -1,14 +1,13 @@
 import json
+import math
 import os
 import re
-import shutil
+import sys
 from collections import Counter
 from statistics import mean
 
-import math
 import matplotlib.pyplot as plt
 import networkx as nx
-import sys
 from networkx.readwrite import json_graph
 
 
@@ -20,8 +19,6 @@ class NetworkAnalysis:
         self.fileName = fileName
         self.outputPath = "./output/" + fileName + "/" if len(sys.argv) > 1 else "../output/" + fileName + "/"
         print(self.outputPath)
-        if os.path.exists(self.outputPath):
-            shutil.rmtree(self.outputPath)
         os.makedirs(self.outputPath)
 
     def d3dump(self, output=None, curr_time=""):

@@ -3,15 +3,16 @@
 import datetime as dt
 import logging
 import os
+import shutil
+import sys
 from logging.config import fileConfig
 from multiprocessing import Pool
 
-import sys
+from decentralized_search import HierarchicalDecentralizedSearch
+from hierarchical_models import CategoryBasedHierarchicalModel
 from network_analysis import NetworkAnalysis
 from network_parser import NetworkParser
 from xml_parser import XMLParser
-from hierarchical_models import CategoryBasedHierarchicalModel
-from decentralized_search import HierarchicalDecentralizedSearch
 
 SNAPSHOT_TIME = "2015-12-05T02:20:10Z"
 OLDEST_TIME = dt.datetime(2000, 1, 1)
@@ -46,14 +47,17 @@ def get_time():
 # basically a class so we can have a thread pool
 class Runner:
     run_decentralized_search = True
+    from_node = False
 
     def __init__(self, threads=16):
         self.threads = threads
         self.pool = Pool(threads)
 
+        self.output_path = "./output/" if Runner.from_node else "../output/"
+
         # Flags for control
         self.current_only = False  # Only use current files. Has no effect in time series mode
-        self.no_game = True # Only use the no game no life wiki. Intended for testing
+        self.no_game = True  # Only use the no game no life wiki. Intended for testing
         self.time_series = False  # If true do time series. Otherwise process file
 
     @staticmethod
@@ -76,7 +80,7 @@ class Runner:
         # na.generateDrawing()
         # generateComponentSizes doesn't work for directed graphs
         # na.generateComponentSizes()
-        if len(sys.argv) > 1:
+        if Runner.from_node:
             na.d3dump("./public/data/", str(curr_time))
         else:
             na.d3dump(None, str(curr_time))
@@ -98,7 +102,7 @@ class Runner:
                 net = NetworkParser(d)
                 output("Analyzing File " + data_file + ' at time ' + str(curr_time))
                 na = NetworkAnalysis(net.G, os.path.basename(data_file))
-                if len(sys.argv) > 1:
+                if Runner.from_node:
                     na.d3dump("./public/data/", str(curr_time))
                 else:
                     na.d3dump(None, str(curr_time))
@@ -108,7 +112,7 @@ class Runner:
     def main(self):
         # Setting datafiles to the correct files
         data_files = set()
-        parse_set = get_data_files("./dataRaw").items() if len(sys.argv) > 1 else get_data_files().items()
+        parse_set = get_data_files("./dataRaw").items() if Runner.from_node else get_data_files().items()
         for (k, v) in parse_set:
             if self.time_series:  # If doing a time series, only worth checking out full stuff
                 if k == 'full':
@@ -124,6 +128,10 @@ class Runner:
         if self.no_game:
             data_files = {f for f in data_files if "nogamenolife" in f}
 
+        # Clear output
+        if os.path.exists(self.output_path):
+            shutil.rmtree(self.output_path)
+
         # Processing the data_files
         if self.time_series:
             self.pool.map(Runner.time_process, data_files)
@@ -132,7 +140,6 @@ class Runner:
 
         self.pool.close()
         self.pool.join()
-        self.pool = Pool(self.threads)  # Reset the pool
 
 
 # Main method
@@ -147,5 +154,7 @@ if __name__ == '__main__':
         output = lambda x: logger.debug(x)
 
     output("FROM_NODE: " + str(FROM_NODE))
+
+    Runner.from_node = FROM_NODE
 
     Runner().main()  # Runs the actual processing.
