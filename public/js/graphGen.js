@@ -73,9 +73,16 @@ function interpolate(color1, color2, frac) {
 }
 
 function generate(path) {
+    if(window.info.$data.currentTime == ""){
+        path = "public/" + path;
+        path = window.info.$data.fullOptions[path][0]
+        path = path.slice(7);
+        window.info.$data.currentTime = path;
+    }
+
     $("#graph-container").html("")
 
-    $.getJSON(path, function (data) {
+    $.getJSON(decodeURI(path), function (data) {
         var i,
             N = data["nodes"].length,
             E = data["edges"].length,

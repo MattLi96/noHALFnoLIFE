@@ -45,9 +45,12 @@ class NetworkAnalysis:
         except:
             pass
 
+        fileName = output + self.fileName + '_' + curr_time + ".json"
+        fileName = re.sub(r"\s+", '-', fileName)
+
         if not os.path.exists(output) and len(sys.argv) > 1:
             os.makedirs(output)
-        with open(output + self.fileName + '_' + curr_time + ".json", 'w') as f:
+        with open(fileName, 'w') as f:
             json.dump(data, f, indent=4)
 
     def outputNodesAndEdges(self, nodesOut="nodes.txt", edgeOut="edges.txt"):

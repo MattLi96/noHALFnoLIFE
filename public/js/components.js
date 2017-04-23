@@ -3,16 +3,16 @@ window.forceConfig = {
     barnesHutOptimize: true
 };
 
-window.handleChanges = function (newHash, oldHash) {
-    window.info.$data.currentOption = newHash;
-    generate(newHash);
-};
+// window.handleChanges = function (newHash, oldHash) {
+//     window.info.$data.currentOption = newHash;
+//     generate(newHash);
+// };
 
-$( document ).ready(function () {
-    hasher.init();
-    hasher.changed.add(window.handleChanges);
-    hasher.initialized.add(window.handleChanges);
-});
+// $( document ).ready(function () {
+//     hasher.init();
+//     hasher.changed.add(window.handleChanges);
+//     hasher.initialized.add(window.handleChanges);
+// });
 
 window.info = new Vue({
     el: '#info',
@@ -20,7 +20,10 @@ window.info = new Vue({
         forceOn: false,
         componentMode: false,
         options: [],
+        fullOptions: {},
         currentOption: "",
+        currentTime: "",
+        timeOptions: "",
         showAllLabels: false,
         selectedNode: null,
         selectedPath: null,
@@ -28,10 +31,23 @@ window.info = new Vue({
         links: {}
     },
     methods: {
-        //updateData: function (option) {
-        //    this.currentOption = option;
-        //    generate(option);
-        //},
+        updateData: function (option) {
+           this.currentOption = option;
+           this.currentTime = "";
+
+           let timeOpts = this.fullOptions["public/" + option];
+           this.timeOptions = timeOpts.map(function(el){
+                let splitVersion = el.split("/");
+                splitVersion.shift();
+                return splitVersion.join("/");
+            });
+           
+           generate(option);
+        },
+        updateTime: function(newTime){
+            this.currentTime = newTime;
+            generate(newTime);
+        },
         updateComponentMode: function () {
             this.componentMode = !this.componentMode;
         },

@@ -5,3 +5,7 @@ venv/
 output
 node_modules/
 public/data/
+bin/
+lib/
+include/
+share/
