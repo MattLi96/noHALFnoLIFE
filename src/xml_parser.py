@@ -24,7 +24,7 @@ class XMLParser:
                               'Top 10 list talk:', 'General Discussion/', 'HOC:', 'Questions and Answers/',
                               'News and Announcements/', 'Inception Wiki:', 'Gallery:', 'Apple Wiki:', 'Welcome:',
                               'Help talk:', 'Parks and Recreation Wiki:', 'Module:', 'League of Legends Wiki talk:',
-                              'Taylor Swift Wiki/']
+                              'Taylor Swift Wiki/', 'Fanon talk:', 'Film talk:', 'Fanon:']
         IGNORE_LIST_SUFFIX = [':Templates', ':Copyrights', ':Candidates for speedy deletion', ':Privacy policy',
                               ':Administrators', ':Navigation', ':Bureaucrats', ':Community Portal',
                               ':Terminology List', ':Sandbox', ':Welcome', ':Policy', ':Protected page',

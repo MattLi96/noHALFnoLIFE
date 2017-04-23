@@ -1,28 +1,26 @@
 import json
+import math
 import os
 import re
-import shutil
+import sys
 from collections import Counter
 from statistics import mean
 
-import math
 import matplotlib.pyplot as plt
 import networkx as nx
-import sys
 from networkx.readwrite import json_graph
 
 
 class NetworkAnalysis:
-    def __init__(self, G, fileName):  # TODO any settings for the network analysis
+    def __init__(self, G, fileName, outputBase):  # TODO any settings for the network analysis
         self.G = G
         split = re.split('\\ /', fileName)
         fileName = split[0].split(".")[0]
         self.fileName = fileName
-        self.outputPath = "./output/" + fileName + "/" if len(sys.argv) > 1 else "../output/" + fileName + "/"
+        self.outputPath = outputBase + fileName + "/"
         print(self.outputPath)
-        if os.path.exists(self.outputPath):
-            shutil.rmtree(self.outputPath)
-        os.makedirs(self.outputPath)
+        if not os.path.exists(self.outputPath):
+            os.makedirs(self.outputPath)
 
     def d3dump(self, output=None, curr_time=""):
         if output is None:
