@@ -12,12 +12,12 @@ from networkx.readwrite import json_graph
 
 
 class NetworkAnalysis:
-    def __init__(self, G, fileName):  # TODO any settings for the network analysis
+    def __init__(self, G, fileName, outputBase):  # TODO any settings for the network analysis
         self.G = G
         split = re.split('\\ /', fileName)
         fileName = split[0].split(".")[0]
         self.fileName = fileName
-        self.outputPath = "./output/" + fileName + "/" if len(sys.argv) > 1 else "../output/" + fileName + "/"
+        self.outputPath = outputBase + fileName + "/"
         print(self.outputPath)
         os.makedirs(self.outputPath)
 

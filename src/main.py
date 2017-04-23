@@ -48,12 +48,11 @@ def get_time():
 class Runner:
     run_decentralized_search = True
     from_node = False
+    output_path = ""
 
     def __init__(self, threads=16):
         self.threads = threads
         self.pool = Pool(threads)
-
-        self.output_path = "./output/" if Runner.from_node else "../output/"
 
         # Flags for control
         self.current_only = False  # Only use current files. Has no effect in time series mode
@@ -68,7 +67,7 @@ class Runner:
         net = NetworkParser(d)
         # Graph Analysis
         output("Analyzing File " + data_file)
-        na = NetworkAnalysis(net.G, os.path.basename(data_file))
+        na = NetworkAnalysis(net.G, os.path.basename(data_file), Runner.output_path)
         na.outputBasicStats()
         na.outputNodesAndEdges()
         # Run Decentralized Search
@@ -101,7 +100,7 @@ class Runner:
             if d:
                 net = NetworkParser(d)
                 output("Analyzing File " + data_file + ' at time ' + str(curr_time))
-                na = NetworkAnalysis(net.G, os.path.basename(data_file))
+                na = NetworkAnalysis(net.G, os.path.basename(data_file), Runner.output_path)
                 if Runner.from_node:
                     na.d3dump("./public/data/", str(curr_time))
                 else:
@@ -129,8 +128,8 @@ class Runner:
             data_files = {f for f in data_files if "nogamenolife" in f}
 
         # Clear output
-        if os.path.exists(self.output_path):
-            shutil.rmtree(self.output_path)
+        if os.path.exists(Runner.output_path):
+            shutil.rmtree(Runner.output_path)
 
         # Processing the data_files
         if self.time_series:
@@ -156,5 +155,6 @@ if __name__ == '__main__':
     output("FROM_NODE: " + str(FROM_NODE))
 
     Runner.from_node = FROM_NODE
+    Runner.output_path = "./output/" if Runner.from_node else "../output/"
 
     Runner().main()  # Runs the actual processing.
