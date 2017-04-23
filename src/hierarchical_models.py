@@ -43,8 +43,8 @@ class CategoryBasedHierarchicalModel:
 
     def get_category_similarity_matrix_by_co_occurrence(self):
         """
-        Builds a category similarity matrix based on co-occurrence of tags, where a row is a list of all categories
-        ordered from most to least similar
+        Builds a category similarity matrix based on co-occurrence of catgories, where the (i,j) entry is the count of
+        co-occurence between the ith category and the jth category
         """
         similarity_matrix_counts = np.zeros((len(self.categories), len(self.categories)), dtype=np.int)
         for node in self.G.nodes():
@@ -52,14 +52,7 @@ class CategoryBasedHierarchicalModel:
                 for j in range(i + 1, len(node.categories)):
                     similarity_matrix_counts[i][j] += 1
                     similarity_matrix_counts[j][i] += 1
-        similarity_matrix = np.empty((len(self.categories), len(self.categories)), dtype='object')
-        for k in range(len(similarity_matrix)):
-            sorted_similarity_indices = np.argsort(similarity_matrix_counts[k])[::-1]
-            row_categories_order = []
-            for index in sorted_similarity_indices:
-                row_categories_order.append(self.index_to_category[index])
-            similarity_matrix[k] = row_categories_order
-        return similarity_matrix
+        return similarity_matrix_counts
 
     def build_hierarchical_model(self):
         """
@@ -67,22 +60,34 @@ class CategoryBasedHierarchicalModel:
         on a centrality of the measure) and the category similarity matrix
         """
         self.hierarchy = nx.Graph()
+        # Current categories that have been added to the hierarchy
         categories_used = set()
+        # Mapping from category to its level in the hierarchy
         category_to_level = {}
+        # Categories that have no child categories in the hierarchy
+        leaf_categories = set()
         self.hierarchy.add_node(self.ranked_categories[0])
         category_to_level[self.ranked_categories[0]] = 0
         categories_used.add(self.ranked_categories[0])
+        leaf_categories.add(self.ranked_categories[0])
         for i in range(1, len(self.ranked_categories)):
             self.hierarchy.add_node(self.ranked_categories[i])
             # Find most similar node in hierarchy (according to the category similarity matrix) and add the current node
             # as a child of that node
-            for category in self.category_similarity_matrix[i]:
+            sorted_similarity_indices = np.argsort(self.category_similarity_matrix[i])[::-1]
+            similar_categories = []
+            for index in sorted_similarity_indices:
+                similar_categories.append(self.index_to_category[index])
+            for category in similar_categories:
                 if category in categories_used:
                     self.hierarchy.add_edge(category, self.ranked_categories[i])
                     category_to_level[self.ranked_categories[i]] = category_to_level[category] + 1
+                    if category in leaf_categories:
+                        leaf_categories.remove(category)
                     break
             categories_used.add(self.ranked_categories[i])
-        # Print the nodes at each level in the hierarchy
+            leaf_categories.add(self.ranked_categories[i])
+        # Print the categories at each level in the hierarchy
         level_to_categories = {}
         for category in category_to_level:
             if category_to_level[category] not in level_to_categories:
@@ -90,3 +95,27 @@ class CategoryBasedHierarchicalModel:
             level_to_categories[category_to_level[category]].append(category)
         for level in level_to_categories:
             print("Level " + str(level) + ": " + str(level_to_categories[level]))
+        # Assign wikia pages as leaves in the hierarchy
+        for node in self.G.nodes():
+            paths_to_leaf_categories = []
+            for category in leaf_categories:
+                path = nx.shortest_path(self.hierarchy, source=self.ranked_categories[0],
+                                                         target=category)
+                paths_to_leaf_categories.append(path)
+            if len(node.categories) > 0:
+                max_category_count = 0 #the most number of categories in common with the node
+                max_category_path = [] #the path that has the most number of categories in common with the node
+                for path in paths_to_leaf_categories:
+                    current_category_count = 0
+                    for category in path:
+                        if category in node.categories:
+                            current_category_count += 1
+                    if current_category_count > max_category_count:
+                        max_category_count = current_category_count
+                        max_category_path = path
+                self.hierarchy.add_node(node)
+                self.hierarchy.add_edge(max_category_path[len(max_category_path) - 1], node)
+
+
+
+

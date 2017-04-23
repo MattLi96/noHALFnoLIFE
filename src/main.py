@@ -10,6 +10,7 @@ import sys
 from network_analysis import NetworkAnalysis
 from network_parser import NetworkParser
 from xml_parser import XMLParser
+from hierarchical_models import CategoryBasedHierarchicalModel
 
 SNAPSHOT_TIME = "2015-12-05T02:20:10Z"
 OLDEST_TIME = dt.datetime(2000, 1, 1)
@@ -43,15 +44,16 @@ def get_time():
 
 # basically a class so we can have a thread pool
 class Runner:
+    build_hierarchical_models = True
+
     def __init__(self, threads=16):
         self.threads = threads
         self.pool = Pool(threads)
 
         # Flags for control
         self.current_only = False  # Only use current files. Has no effect in time series mode
-        self.no_game = False # Only use the no game no life wiki. Intended for testing
-        self.time_series = True  # If true do time series. Otherwise process file
-        self.build_hierarchical_models = True
+        self.no_game = True # Only use the no game no life wiki. Intended for testing
+        self.time_series = False  # If true do time series. Otherwise process file
 
     @staticmethod
     def process_file(data_file):
@@ -59,12 +61,15 @@ class Runner:
         # Parse Into Network
         d = XMLParser(data_file, get_time()).parse_to_dict()
         net = NetworkParser(d)
-
         # Graph Analysis
         output("Analyzing File " + data_file)
         na = NetworkAnalysis(net.G, os.path.basename(data_file))
         na.outputBasicStats()
         na.outputNodesAndEdges()
+        # Builds Hierarchical Models for Decentralized Search
+        if Runner.build_hierarchical_models:
+            category_hierarchy = CategoryBasedHierarchicalModel(net.G)
+            category_hierarchy.build_hierarchical_model()
         # na.generateDrawing()
         # generateComponentSizes doesn't work for directed graphs
         # na.generateComponentSizes()
@@ -121,6 +126,7 @@ class Runner:
             self.pool.map(Runner.time_process, data_files)
         else:
             self.pool.map(Runner.process_file, data_files)
+
         self.pool.close()
         self.pool.join()
         self.pool = Pool(self.threads)  # Reset the pool
