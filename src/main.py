@@ -11,6 +11,7 @@ from network_analysis import NetworkAnalysis
 from network_parser import NetworkParser
 from xml_parser import XMLParser
 from hierarchical_models import CategoryBasedHierarchicalModel
+from decentralized_search import HierarchicalDecentralizedSearch
 
 SNAPSHOT_TIME = "2015-12-05T02:20:10Z"
 OLDEST_TIME = dt.datetime(2000, 1, 1)
@@ -44,7 +45,7 @@ def get_time():
 
 # basically a class so we can have a thread pool
 class Runner:
-    build_hierarchical_models = True
+    run_decentralized_search = True
 
     def __init__(self, threads=16):
         self.threads = threads
@@ -66,10 +67,12 @@ class Runner:
         na = NetworkAnalysis(net.G, os.path.basename(data_file))
         na.outputBasicStats()
         na.outputNodesAndEdges()
-        # Builds Hierarchical Models for Decentralized Search
-        if Runner.build_hierarchical_models:
+        # Run Decentralized Search
+        if Runner.run_decentralized_search:
             category_hierarchy = CategoryBasedHierarchicalModel(net.G)
             category_hierarchy.build_hierarchical_model()
+            decentralized_search_model = HierarchicalDecentralizedSearch(net.G, category_hierarchy.hierarchy)
+            decentralized_search_model.run_decentralized_search(1000)
         # na.generateDrawing()
         # generateComponentSizes doesn't work for directed graphs
         # na.generateComponentSizes()
