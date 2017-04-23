@@ -22,26 +22,46 @@ class HierarchicalDecentralizedSearch:
         Uses decentralized search to get the path between two given nodes
         """
         print(node1.name + " to " + node2.name)
+        last_node = None
         current_node = node1
         decentralized_search_path = []
         decentralized_search_path.append(current_node)
-        visited_nodes = set()
+        visited_edges = set()
         while current_node != node2:
+            if len(decentralized_search_path) >= len(self.G.nodes()):
+                return None
+            print ("CURRENT NODE: " + str(current_node))
             current_neighbors = self.G.neighbors(current_node)
+            print (len(current_neighbors))
             min_distance = float("inf")
             min_distance_node = None
             for neighbor in current_neighbors:
-                if len(neighbor.categories) > 0 and (neighbor not in visited_nodes):
-                    current_distance = self.get_hierarchy_distance(current_node, neighbor)
+                # Check if a neighbor is the destination node before utilizing the hierarchical scores
+                if neighbor == node2:
+                    min_distance_node = neighbor
+                    break
+                elif len(neighbor.categories) > 0 and ((current_node, neighbor) not in visited_edges):
+                    try:
+                        current_distance = self.get_hierarchy_distance(current_node, neighbor)
+                    except Exception as e:
+                        return None
                     if current_distance < min_distance:
                         min_distance = current_distance
                         min_distance_node = neighbor
             if min_distance_node is None:
-                while (min_distance_node is None) or (len(min_distance_node.categories) == 0):
-                    min_distance_node = current_neighbors[random.randint(0, len(current_neighbors) - 1)]
+                if len(current_neighbors) == 0:
+                    # Pop this page and return to the last page
+                    min_distance_node = last_node
+                elif len(current_neighbors) == 1:
+                    min_distance_node = current_neighbors[0]
+                else:
+                    while (min_distance_node is None) or (len(min_distance_node.categories) == 0):
+                        min_distance_node = current_neighbors[random.randint(0, len(current_neighbors) - 1)]
             decentralized_search_path.append(min_distance_node)
+            visited_edges.add((current_node, min_distance_node))
+            last_node = current_node
             current_node = min_distance_node
-            visited_nodes.add(current_node)
+        print (len(decentralized_search_path))
         return decentralized_search_path
 
     def run_decentralized_search(self, num_times):
@@ -66,12 +86,20 @@ class HierarchicalDecentralizedSearch:
                         node2 = nodes[rand2_index]
                         break
             search_path = self.get_decentralized_search_path(node1, node2)
-            print("Decentralized Search " + str(i + 1) + ": Length " + str(len(search_path)))
+            if search_path is None:
+                print ("Couldn't find path for " + str(i + 1))
+            else:
+                print("Decentralized Search " + str(i + 1) + ": Length " + str(len(search_path)))
             decentralized_search_paths.append(search_path)
         mean_path_length = 0.0
+        num_paths_found = 0
         for search_path in decentralized_search_paths:
-            mean_path_length += len(search_path)
-        mean_path_length = float(mean_path_length) / len(decentralized_search_paths)
+            if search_path is not None:
+                mean_path_length += len(search_path)
+                num_paths_found = num_paths_found + 1
+        mean_path_length = float(mean_path_length) / num_paths_found
+        print ("Num Paths Found " + str(num_paths_found))
+        print ("Num Paths Not Found" + str(len(decentralized_search_paths) - num_paths_found))
         print ("Mean Path Length of Decentralized Search " + str(mean_path_length))
 
 
