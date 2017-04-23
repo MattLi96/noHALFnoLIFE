@@ -19,7 +19,8 @@ class NetworkAnalysis:
         self.fileName = fileName
         self.outputPath = outputBase + fileName + "/"
         print(self.outputPath)
-        os.makedirs(self.outputPath)
+        if not os.path.exists(self.outputPath):
+            os.makedirs(self.outputPath)
 
     def d3dump(self, output=None, curr_time=""):
         if output is None:
