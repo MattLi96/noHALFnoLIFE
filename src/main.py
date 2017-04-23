@@ -125,7 +125,7 @@ class Runner:
             elif k == 'current':
                 data_files.update(v)
         if self.no_game:
-            data_files = {f for f in data_files if "taylorswift219" in f}
+            data_files = {f for f in data_files if "nogamenolife" in f}
 
         # Clear output
         if os.path.exists(Runner.output_path):
