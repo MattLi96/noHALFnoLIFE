@@ -23,7 +23,7 @@ window.info = new Vue({
         fullOptions: {},
         currentOption: "",
         currentTime: "",
-        timeOptions: "",
+        timeOptions: [],
         showAllLabels: false,
         selectedNode: null,
         selectedPath: null,
@@ -41,7 +41,11 @@ window.info = new Vue({
                 splitVersion.shift();
                 return splitVersion.join("/");
             });
-           
+
+           $("#timeSlider").slider('setAttribute', 'max', this.timeOptions.length-1);
+           $("#timeSlider").slider('setValue', 0);
+           $("#timeSliderValLabel").text(window.info.$data.timeOptions[0])
+
            generate(option);
         },
         updateTime: function(newTime){
@@ -83,3 +87,10 @@ window.info = new Vue({
         }
     }
 })
+
+$("#timeSlider").slider();
+$("#timeSlider").on("slideStop", function(slideEvt) {
+    let num = slideEvt.value
+    window.info.updateTime(window.info.$data.timeOptions[num])
+    $("#timeSliderValLabel").text(window.info.$data.timeOptions[num])
+});

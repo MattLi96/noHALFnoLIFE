@@ -11,7 +11,8 @@
     <!-- Bootstrap -->
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
         crossorigin="anonymous">
-    <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans+SC:400,400i,700" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css?family=Alegreya+Sans+SC:400,400i,700" rel="stylesheet">
+    <link href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/9.7.3/css/bootstrap-slider.min.css" rel="stylesheet">
     <link rel="stylesheet" href="main.css"> </link>
 </head>
 
@@ -52,16 +53,8 @@
             <h4> Path: {{pathToString()}}</h4>
             <h4> Length: {{selectedPath.length}}</h4>
         </div>
-        <div class="dropdown">
-            <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown">
-                {{currentTime}}
-                <span class="caret"></span>
-            </button>
-            <ul class="dropdown-menu" id="times">
-                <h1> NUTS </h1>
-                <li v-for="option in timeOptions" ><a class="dropDownListItem" v-on:click="updateTime(option)"> {{option}} </a></li>
-            </ul>
-        </div>
+        <input id="timeSlider" type="text" data-slider-min="0" data-slider-max = "0" data-slider-step="1" data-slider-value="0"/>
+        <span id="timeSliderValLabel"> </span>
     </div>
 
     <div id="graph-container"></div>
@@ -82,6 +75,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/hasher/1.2.0/hasher.min.js"></script> -->
 
     <script src="//unpkg.com/vue@2.2.2"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/9.7.3/bootstrap-slider.min.js"> </script>
 
     <script src="js/components.js"></script>
     <script src="js/graphGen.js"></script>
