@@ -46,7 +46,7 @@ def get_time():
 
 # basically a class so we can have a thread pool
 class Runner:
-    run_decentralized_search = True
+    run_decentralized_search = False
     from_node = False
     output_path = ""
 
@@ -70,6 +70,7 @@ class Runner:
         na = NetworkAnalysis(net.G, os.path.basename(data_file), Runner.output_path)
         na.outputBasicStats()
         na.outputNodesAndEdges()
+        na.nodeRemoval()
         # Run Decentralized Search
         if Runner.run_decentralized_search:
             category_hierarchy = CategoryBasedHierarchicalModel(net.G)

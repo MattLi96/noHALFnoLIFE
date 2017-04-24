@@ -156,6 +156,62 @@ class NetworkAnalysis:
         plt.savefig(path)
         plt.close()
 
+    def nodeRemoval(self):
+        res = {}
+        def returnBasicStats(graph):
+            res = {}
+            res['numNodes'] = nx.number_of_nodes(graph)
+            res['numEdges'] = nx.number_of_edges(graph)
+            indegree = list(nx.DiGraph.in_degree(graph).values())
+            res['averageInDegree'] = mean(indegree)
+            outdegree = list(nx.DiGraph.out_degree(graph).values())
+            res['averageOutDegree'] = mean(outdegree)
+            res['selfLinks'] = graph.number_of_selfloops()
+            return res
+
+        def getAveragePathLength(graph):
+            try:
+                return nx.average_shortest_path_length(graph)
+            except:
+                # subs = nx.strongly_connected_components(self.G)
+                # subLengths = list(map(lambda x: len(x), subs))
+                # print(subLengths)
+                subs = max(nx.strongly_connected_component_subgraphs(graph), key=len)
+                return nx.average_shortest_path_length(subs)
+
+        def removeLargestDegree(graph):
+            nlist = sorted(graph.degree_iter(), key=lambda x: x[1])
+            # print(nlist)
+            nodeRemove = nlist[len(nlist)-1]
+            # print(nodeRemove)
+            graph.remove_node(nodeRemove[0])
+            return graph, nodeRemove[0]
+
+        G = self.G.copy()
+
+        for i in range(0, 5):
+            G, nodeRemoved = removeLargestDegree(G)
+
+            startingPt = returnBasicStats(G)
+            startingPt["removed"] = str(nodeRemoved)
+            try:
+                startingPt['averagePathLength'] = self.getAveragePathLength()
+            except:
+                pass
+            res[i] = startingPt
+
+            # listComponents = sorted(nx.strongly_connected_component_subgraphs(G), key=len, reverse=True)
+            # print("derp", len(listComponents[0]))
+            # print("derp2", len(listComponents[1]))
+
+
+        fileName = self.outputPath + "nodeRemove.json"
+        
+        print(fileName)
+        with open(fileName, 'w') as f:
+            json.dump(res, f, indent=4)        
+
+        return res
 
 if __name__ == '__main__':
     pass
