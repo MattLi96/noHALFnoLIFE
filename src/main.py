@@ -75,7 +75,7 @@ class Runner:
             category_hierarchy = CategoryBasedHierarchicalModel(net.G)
             category_hierarchy.build_hierarchical_model()
             decentralized_search_model = HierarchicalDecentralizedSearch(net.G, category_hierarchy.hierarchy)
-            decentralized_search_model.run_decentralized_search(100)
+            decentralized_search_model.run_decentralized_search(1000)
         # na.generateDrawing()
         # generateComponentSizes doesn't work for directed graphs
         # na.generateComponentSizes()

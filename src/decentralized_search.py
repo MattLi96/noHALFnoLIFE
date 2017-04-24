@@ -27,6 +27,8 @@ class HierarchicalDecentralizedSearch:
         decentralized_search_path = []
         decentralized_search_path.append(current_node)
         visited_edges = set()
+        unique_pages = set()
+        unique_pages.add(current_node)
         while current_node != node2:
             if len(decentralized_search_path) >= len(self.G.nodes()):
                 return None
@@ -44,7 +46,7 @@ class HierarchicalDecentralizedSearch:
                     try:
                         current_distance = self.get_hierarchy_distance(current_node, neighbor)
                     except Exception as e:
-                        return None
+                        continue
                     if current_distance < min_distance:
                         min_distance = current_distance
                         min_distance_node = neighbor
@@ -61,8 +63,9 @@ class HierarchicalDecentralizedSearch:
             visited_edges.add((current_node, min_distance_node))
             last_node = current_node
             current_node = min_distance_node
-        print (len(decentralized_search_path))
-        return decentralized_search_path
+            unique_pages.add(current_node)
+        print(len(decentralized_search_path))
+        return (decentralized_search_path, unique_pages)
 
     def run_decentralized_search(self, num_times):
         """
@@ -71,6 +74,7 @@ class HierarchicalDecentralizedSearch:
         """
         nodes = self.G.nodes()
         decentralized_search_paths = []
+        decentralized_search_paths_unique_nodes = []
         for i in range(num_times):
             node1 = None
             node2 = None
@@ -85,12 +89,17 @@ class HierarchicalDecentralizedSearch:
                     if rand2_index != rand1_index and len(nodes[rand2_index].categories) > 0:
                         node2 = nodes[rand2_index]
                         break
-            search_path = self.get_decentralized_search_path(node1, node2)
-            if search_path is None:
+            results = self.get_decentralized_search_path(node1, node2)
+            if results is None:
+                search_path = None
+                search_path_unique_nodes = None
                 print ("Couldn't find path for " + str(i + 1))
             else:
+                search_path, search_path_unique_nodes = results
                 print("Decentralized Search " + str(i + 1) + ": Length " + str(len(search_path)))
             decentralized_search_paths.append(search_path)
+            decentralized_search_paths_unique_nodes.append(search_path_unique_nodes)
+        # Calculate mean path length
         mean_path_length = 0.0
         num_paths_found = 0
         for search_path in decentralized_search_paths:
@@ -98,10 +107,16 @@ class HierarchicalDecentralizedSearch:
                 mean_path_length += len(search_path)
                 num_paths_found = num_paths_found + 1
         mean_path_length = float(mean_path_length) / num_paths_found
-        print ("Num Paths Found " + str(num_paths_found))
-        print ("Num Paths Not Found" + str(len(decentralized_search_paths) - num_paths_found))
-        print ("Mean Path Length of Decentralized Search " + str(mean_path_length))
-
+        # Calculate mean unique nodes for each path
+        mean_unique_nodes = 0.0
+        for path_unique_nodes in decentralized_search_paths_unique_nodes:
+            if path_unique_nodes is not None:
+                mean_unique_nodes += len(path_unique_nodes)
+        mean_unique_nodes = float(mean_unique_nodes) / num_paths_found
+        print ("Num Paths Found: " + str(num_paths_found))
+        print ("Num Paths Not Found: " + str(len(decentralized_search_paths) - num_paths_found))
+        print ("Mean Path Length of Decentralized Search: " + str(mean_path_length))
+        print ("Mean Unique Nodes of Path of Decentralized Search: " + str(mean_unique_nodes))
 
 
 
