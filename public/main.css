@@ -27,6 +27,10 @@ body{
       position: absolute;
 }
 
+.slider.slider-horizontal {
+    width: 100% !important;
+}
+
 div.master {
     padding-left:10px;
     padding-right:5px;
