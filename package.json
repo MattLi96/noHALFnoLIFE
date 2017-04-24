@@ -4,7 +4,8 @@
   "description": "visualizations of networkx",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon index.js",
+    "unzip": "node commands/unzip.js"
   },
   "repository": {
     "type": "git",
@@ -15,7 +16,9 @@
     "python-shell": "*"
   },
   "devDependencies":{
-    "nodemon": "*"
+    "nodemon": "*",
+    "split-file": "*",
+    "unzip": "*"
   },
   "keywords": [
     "derp"
