@@ -14,6 +14,18 @@ window.forceConfig = {
 //     hasher.initialized.add(window.handleChanges);
 // });
 
+function formatDate(dateString){
+    //Chop off the beginning
+    dateString = dateString.substring(dateString.lastIndexOf("_")+1, dateString.length-1);
+    //Remove the .json tail
+    dateString = dateString.substring(0, dateString.lastIndexOf("."));
+    let divide = dateString.split("-");
+
+    dateString = divide[1] + "/" + divide[2] + "/" + divide[0] + " at " + divide[3];
+
+    return dateString;
+}
+
 window.info = new Vue({
     el: '#info',
     data: {
@@ -44,7 +56,7 @@ window.info = new Vue({
 
            $("#timeSlider").slider('setAttribute', 'max', this.timeOptions.length-1);
            $("#timeSlider").slider('setValue', 0);
-           $("#timeSliderValLabel").text(window.info.$data.timeOptions[0])
+           $("#timeSliderValLabel").text(formatDate(window.info.$data.timeOptions[0]))
 
            generate(option);
         },
@@ -92,5 +104,5 @@ $("#timeSlider").slider();
 $("#timeSlider").on("slideStop", function(slideEvt) {
     let num = slideEvt.value
     window.info.updateTime(window.info.$data.timeOptions[num])
-    $("#timeSliderValLabel").text(window.info.$data.timeOptions[num])
+    $("#timeSliderValLabel").text(formatDate(window.info.$data.timeOptions[num]))
 });
