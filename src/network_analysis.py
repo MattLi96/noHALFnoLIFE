@@ -189,7 +189,12 @@ class NetworkAnalysis:
 
         G = self.G.copy()
 
-        for i in range(0, 5):
+        listComponents = sorted(nx.strongly_connected_component_subgraphs(G), key=len, reverse=True)
+        largestComponentSize = len(listComponents[0])
+        currentSize = largestComponentSize
+        i = 0
+
+        while currentSize > 0.5 * largestComponentSize:
             G, nodeRemoved = removeLargestDegree(G)
 
             startingPt = returnBasicStats(G)
@@ -198,11 +203,14 @@ class NetworkAnalysis:
                 startingPt['averagePathLength'] = self.getAveragePathLength()
             except:
                 pass
-            res[i] = startingPt
+            
+            listComponents = sorted(nx.strongly_connected_component_subgraphs(G), key=len, reverse=True)
+            currentSize = len(listComponents[0])
 
-            # listComponents = sorted(nx.strongly_connected_component_subgraphs(G), key=len, reverse=True)
-            # print("derp", len(listComponents[0]))
-            # print("derp2", len(listComponents[1]))
+            startingPt["sizeLargest"] = currentSize
+
+            res[i] = startingPt
+            i += 1
 
 
         fileName = self.outputPath + "nodeRemove.json"
