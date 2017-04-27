@@ -46,7 +46,13 @@ def get_time():
 
 # basically a class so we can have a thread pool
 class Runner:
-    run_decentralized_search = False
+    category_hierarchical_model_settings = {
+        "similarity_matrix_type": "cosine similarity",
+    }
+    decentralized_search_settings = {
+        "run_decentralized_search": True,
+        "detailed_print": False
+    }
     from_node = False
     output_path = ""
 
@@ -72,10 +78,13 @@ class Runner:
         na.outputNodesAndEdges()
         na.nodeRemoval()
         # Run Decentralized Search
-        if Runner.run_decentralized_search:
-            category_hierarchy = CategoryBasedHierarchicalModel(net.G)
+        if Runner.decentralized_search_settings["run_decentralized_search"]:
+            category_hierarchy = CategoryBasedHierarchicalModel(net.G,
+                similarity_matrix_type=Runner.category_hierarchical_model_settings["similarity_matrix_type"],
+            )
             category_hierarchy.build_hierarchical_model()
-            decentralized_search_model = HierarchicalDecentralizedSearch(net.G, category_hierarchy.hierarchy)
+            decentralized_search_model = HierarchicalDecentralizedSearch(net.G, category_hierarchy.hierarchy,
+                detailed_print=Runner.decentralized_search_settings["detailed_print"])
             decentralized_search_model.run_decentralized_search(1000)
         # na.generateDrawing()
         # generateComponentSizes doesn't work for directed graphs

@@ -3,13 +3,14 @@ import random
 
 
 class HierarchicalDecentralizedSearch:
-    def __init__(self, G, hierarchy):
+    def __init__(self, G, hierarchy, detailed_print=True):
         """
         Initializations for hierarchy-based decentralized search, which requires a graph of nodes and a hierarchy
         that expresses "distance" between any pair of nodes
         """
         self.G = G
         self.hierarchy = hierarchy
+        self.detailed_print = detailed_print
 
     def get_hierarchy_distance(self, node1, node2):
         """
@@ -21,7 +22,8 @@ class HierarchicalDecentralizedSearch:
         """
         Uses decentralized search to get the path between two given nodes
         """
-        print(node1.name + " to " + node2.name)
+        if self.detailed_print:
+            print(node1.name + " to " + node2.name)
         last_node = None
         current_node = node1
         decentralized_search_path = []
@@ -32,9 +34,13 @@ class HierarchicalDecentralizedSearch:
         while current_node != node2:
             if len(decentralized_search_path) >= len(self.G.nodes()):
                 return None
-            print ("CURRENT NODE: " + str(current_node))
+            if self.detailed_print:
+                try:
+                    print ("CURRENT NODE: " + str(current_node) + " , DISTANCE: " +
+                           str(self.get_hierarchy_distance(current_node, node2)))
+                except Exception as e:
+                    print("CURRENT NODE: " + str(current_node))
             current_neighbors = self.G.neighbors(current_node)
-            print (len(current_neighbors))
             min_distance = float("inf")
             min_distance_node = None
             for neighbor in current_neighbors:
@@ -64,7 +70,6 @@ class HierarchicalDecentralizedSearch:
             last_node = current_node
             current_node = min_distance_node
             unique_pages.add(current_node)
-        print(len(decentralized_search_path))
         return (decentralized_search_path, unique_pages)
 
     def run_decentralized_search(self, num_times):
@@ -93,10 +98,12 @@ class HierarchicalDecentralizedSearch:
             if results is None:
                 search_path = None
                 search_path_unique_nodes = None
-                print ("Couldn't find path for " + str(i + 1))
+                if self.detailed_print:
+                    print ("Couldn't find path for " + str(i + 1))
             else:
                 search_path, search_path_unique_nodes = results
-                print("Decentralized Search " + str(i + 1) + ": Length " + str(len(search_path)))
+                if self.detailed_print:
+                    print("Decentralized Search " + str(i + 1) + ": Length " + str(len(search_path)))
             decentralized_search_paths.append(search_path)
             decentralized_search_paths_unique_nodes.append(search_path_unique_nodes)
         # Calculate mean path length

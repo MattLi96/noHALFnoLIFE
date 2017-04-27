@@ -3,7 +3,7 @@ import numpy as np
 
 
 class CategoryBasedHierarchicalModel:
-    def __init__(self, G, similarity_matrix_type="cooccurrence"):
+    def __init__(self, G, similarity_matrix_type="cooccurrence", detail_print = True):
         """
         Initializations for a hierarchical model based on categories of the wikia pages; note the similarity_matrix_type
         matrix specifies the type of the category similarity matrix to build, and the options are "cooccurrence" or
@@ -53,18 +53,21 @@ class CategoryBasedHierarchicalModel:
         Builds a category similarity matrix based on the cosine similarity of the categories, where for each category
         the vector used has dimension equal to the number of pages/nodes and the ith element is 1 if the ith node has
         that category, 0 otherwise; thus the (i,j) entry in the category similarity matrix is the cosine similarity
-        between the vector of the ith category and the vector of the jth categroy
-
-        graph_nodes = self.G.nodes()
-        similarity_matrix_cosine = np.zeros((len(self.categories), len(self.categories)), dtype=np.float)
-        category_cosine_vectors = np.zeros((len(self.categories), len(graph_nodes)), dtype=np.int)
-        category_index_dict = {}
-        #for
-        for i in range(len(graph_nodes)):
-            for j in range(len(graph_nodes[i].categories)):
-                category_cosine_vectors[i]
+        between the vector of the ith category and the vector of the jth category
         """
-        pass
+        graph_nodes = list(self.G.nodes())
+        similarity_matrix_cosine = np.zeros((len(self.categories), len(self.categories)), dtype=np.float)
+        category_vectors = np.zeros((len(self.categories), len(graph_nodes)), dtype=np.int)
+        for i in range(len(graph_nodes)):
+            for category in graph_nodes[i].categories:
+                category_vectors[self.category_to_index[category]][i] = 1
+        for j in range(len(category_vectors)):
+            for k in range(j + 1, len(category_vectors)):
+                c1 = category_vectors[j]
+                c2 = category_vectors[k]
+                similarity_matrix_cosine[j][k] = float(c1.dot(c2)) / (np.linalg.norm(c1) * np.linalg.norm(c2))
+                similarity_matrix_cosine[k][j] = similarity_matrix_cosine[j][k]
+        return similarity_matrix_cosine
 
     def get_category_similarity_matrix_by_co_occurrence(self):
         """
