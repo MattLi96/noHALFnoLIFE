@@ -44,7 +44,7 @@ class HierarchicalDecentralizedSearch:
                     break
                 elif len(neighbor.categories) > 0 and ((current_node, neighbor) not in visited_edges):
                     try:
-                        current_distance = self.get_hierarchy_distance(current_node, neighbor)
+                        current_distance = self.get_hierarchy_distance(neighbor, node2)
                     except Exception as e:
                         continue
                     if current_distance < min_distance:
