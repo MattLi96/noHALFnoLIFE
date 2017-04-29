@@ -33,8 +33,12 @@
                 <button class="btn btn-default" v-bind:class="{ 'forceOn': showAllLabels}" id="showAllLabels" v-on:click="updateShowAllLabels()"> Show All Labels </button>
                 <button class="btn btn-default" v-bind:class="{ 'forceOn': componentMode }" id="componentMode" v-on:click="updateComponentMode()"> Component Mode </button>
                 <button class="btn btn-default" id="recompile" v-on:click="recompile()"> Recompile </button>
-                
                 </span>
+
+                <div class="input-group" id="searchBox">
+                  <input type="text" class="form-control" placeholder="Search for a Node" v-model="searchTerm">
+                  <span class="input-group-addon" id="basic-addon2" v-on:click="search(searchTerm)"> Go! </span>
+                </div>
             </div>
         </div>
         <div v-if="basicInfo != {}">

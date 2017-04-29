@@ -27,6 +27,13 @@ body{
       position: absolute;
 }
 
+#searchBox{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 10%;
+    width: 80%;
+}
+
 .slider.slider-horizontal {
     width: 100% !important;
 }

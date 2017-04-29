@@ -40,7 +40,8 @@ window.info = new Vue({
         selectedNode: null,
         selectedPath: null,
         basicInfo: {},
-        links: {}
+        links: {},
+        searchTerm: ""
     },
     methods: {
         updateData: function (option) {
@@ -96,6 +97,17 @@ window.info = new Vue({
                     reloadOptions();
                 }
             });
+        },
+        search: function(nodeName){            
+            let found = (_.find(window.s.graph.nodes(), { 'id': nodeName }));
+
+            if(found == undefined){
+                alert("Node not found...")
+            }
+            else{
+                colorNeighbors(found);
+            }
+        
         }
     }
 })

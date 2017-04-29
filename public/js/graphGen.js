@@ -56,6 +56,42 @@ function resetColors(event) {
     window.s.refresh();
 }
 
+function colorNeighbors(node){
+    var nodeId = node.id,
+        toKeep = window.s.graph.neighbors(nodeId);
+
+        toKeep[nodeId] = node;
+
+        window.s.graph.nodes().forEach(function (n) {
+            n.color = (toKeep[n.id]) ? n.originalColor : '#eee';
+            if (!toKeep[n.id] && window.info.$data.componentMode) {
+                n.hidden = 1;
+            }
+        });
+
+        window.s.graph.edges().forEach(function (e) {
+            e.color = (toKeep[e.source] && toKeep[e.target]) ? e.originalColor : '#eee';
+        });
+
+        window.s.refresh();
+}
+
+function focus(e){
+    if (window.info.selectedNode == null) {
+        window.info.selectedNode = e.data.node;
+
+        console.log(e.data.node)
+        colorNeighbors(e.data.node)
+    }
+    else {
+        //Path-finding
+        var nodeId = e.data.node.id,
+            toKeep = window.s.graph.astar(window.info.selectedNode.id, nodeId);
+
+        highlightPath(toKeep, s.graph)
+    }
+}
+
 // used to interpolate between two colors
 // format is "#rrggbb" as string for both colors 
 function interpolate(color1, color2, frac) {
@@ -134,36 +170,7 @@ function generate(path) {
             openInNewTab(url)
         })
 
-        window.s.bind('clickNode', function (e) {
-            if (window.info.selectedNode == null) {
-                window.info.selectedNode = e.data.node;
-
-                var nodeId = e.data.node.id,
-                    toKeep = s.graph.neighbors(nodeId);
-                toKeep[nodeId] = e.data.node;
-
-                s.graph.nodes().forEach(function (n) {
-                    n.color = (toKeep[n.id]) ? n.originalColor : '#eee';
-                    if (!toKeep[n.id] && window.info.$data.componentMode) {
-                        n.hidden = 1;
-                    }
-                });
-
-                s.graph.edges().forEach(function (e) {
-                    e.color = (toKeep[e.source] && toKeep[e.target]) ? e.originalColor : '#eee';
-                });
-
-                window.s.refresh();
-            }
-            else {
-                //Path-finding
-                var nodeId = e.data.node.id,
-                    toKeep = window.s.graph.astar(window.info.selectedNode.id, nodeId);
-
-                highlightPath(toKeep, s.graph)
-            }
-        });
-
+        window.s.bind('clickNode', focus);
         window.s.bind('clickStage', resetColors);
 
         // Initialize the dragNodes plugin:
