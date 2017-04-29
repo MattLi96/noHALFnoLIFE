@@ -26,6 +26,17 @@ function formatDate(dateString){
     return dateString;
 }
 
+function searchNode(nodeName){           
+    let found = (_.find(window.s.graph.nodes(), { 'id': nodeName }));
+
+    if(found == undefined){
+        alert("Node not found...")
+    }
+    else{
+        colorNeighbors(found);
+    }
+}
+
 window.info = new Vue({
     el: '#info',
     data: {
@@ -98,16 +109,43 @@ window.info = new Vue({
                 }
             });
         },
-        search: function(nodeName){            
-            let found = (_.find(window.s.graph.nodes(), { 'id': nodeName }));
+        search: searchNode,
+        runNodeRemoval: function(){
+            let sorted = window.s.graph.nodes().sort(function(x,y){
+                return y.degree - x.degree;
+            });
 
-            if(found == undefined){
-                alert("Node not found...")
+            sorted = sorted.map(function(x){ return x.id });
+
+            let timeout = 2000;
+
+            function findStage(list){
+                if(list.length === 0){
+                    console.log("done")
+                    return;
+                }
+                searchNode(list[0])
+                setTimeout(function(){
+                    console.log("nxet")
+                    removeStage(list);
+                }, timeout)
             }
-            else{
-                colorNeighbors(found);
+
+            function removeStage(list){
+                let remaining = list;
+                let first = remaining.shift();
+
+                //Get rid of first
+                window.s.graph.dropNode(first);
+                resetColors();
+
+                setTimeout(function(){
+                    console.log("nxet")
+                    findStage(remaining);
+                }, timeout)
             }
-        
+
+            findStage(sorted);
         }
     }
 })

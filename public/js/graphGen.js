@@ -47,6 +47,7 @@ function resetColors(event) {
     window.s.graph.nodes().forEach(function (n) {
         n.color = n.originalColor;
         n.hidden = 0;
+        n.size = 10;
     });
 
     window.s.graph.edges().forEach(function (e) {
@@ -63,6 +64,11 @@ function colorNeighbors(node){
         toKeep[nodeId] = node;
 
         window.s.graph.nodes().forEach(function (n) {
+            if(n.id === nodeId){
+                n.color = "#000";
+                return;
+            }
+
             n.color = (toKeep[n.id]) ? n.originalColor : '#eee';
             if (!toKeep[n.id] && window.info.$data.componentMode) {
                 n.hidden = 1;
