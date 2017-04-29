@@ -3,11 +3,20 @@ import random
 
 
 class HierarchicalDecentralizedSearch:
-    def __init__(self, G, hierarchy, detailed_print=True):
+    def __init__(self, G, hierarchy, detailed_print=True, hierarchy_nodes_only=True):
         """
         Initializations for hierarchy-based decentralized search, which requires a graph of nodes and a hierarchy
         that expresses "distance" between any pair of nodes
         """
+        if hierarchy_nodes_only:
+            i = 0
+            total_nodes = len(G.nodes())
+            for node in G.nodes():
+                if len(node.categories) == 0:
+                    G.remove_node(node)
+                    i += 1
+            print ("Performing decentralized search only on pages in the hierarchy (" + str(total_nodes - i) +
+                   " of " + str(total_nodes) + " nodes)")
         self.G = G
         self.hierarchy = hierarchy
         self.detailed_print = detailed_print

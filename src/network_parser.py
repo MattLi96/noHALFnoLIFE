@@ -14,7 +14,7 @@ class Node:
         """
         self.name = name
         if categories is None:
-            self.categories = set()
+            self.categories = list()
         else:
             self.categories = categories
 
@@ -45,7 +45,7 @@ class NetworkParser:
             links = self.getLinksFromText(d[node.name])
             for link in links:
                 if link.startswith("Category:"):
-                    node.categories.add(link[link.find(":") + 1:])
+                    node.categories.append(link[link.find(":") + 1:])
             edgeList = [(node, name_to_node[l]) for l in links if l in name_to_node]
             G.add_edges_from(edgeList)
 

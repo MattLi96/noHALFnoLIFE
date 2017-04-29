@@ -47,11 +47,14 @@ def get_time():
 # basically a class so we can have a thread pool
 class Runner:
     category_hierarchical_model_settings = {
-        "similarity_matrix_type": "cosine similarity",
+        "similarity_matrix_type": "cooccurrence",
+        "max_branching_factor_root": 1  # specifies the root for the max branching factor function (max branching factor
+        # calculated as kth root of number of page nodes (leaf nodes) in the hierarchy)
     }
     decentralized_search_settings = {
         "run_decentralized_search": True,
-        "detailed_print": False
+        "detailed_print": False,
+        "hierarchy_nodes_only": True,
     }
     from_node = False
     output_path = ""
@@ -81,10 +84,12 @@ class Runner:
         if Runner.decentralized_search_settings["run_decentralized_search"]:
             category_hierarchy = CategoryBasedHierarchicalModel(net.G,
                 similarity_matrix_type=Runner.category_hierarchical_model_settings["similarity_matrix_type"],
+                max_branching_factor_root=Runner.category_hierarchical_model_settings["max_branching_factor_root"]
             )
             category_hierarchy.build_hierarchical_model()
             decentralized_search_model = HierarchicalDecentralizedSearch(net.G, category_hierarchy.hierarchy,
-                detailed_print=Runner.decentralized_search_settings["detailed_print"])
+                detailed_print=Runner.decentralized_search_settings["detailed_print"],
+                hierarchy_nodes_only=Runner.decentralized_search_settings["hierarchy_nodes_only"])
             decentralized_search_model.run_decentralized_search(1000)
         # na.generateDrawing()
         # generateComponentSizes doesn't work for directed graphs
@@ -135,7 +140,7 @@ class Runner:
             elif k == 'current':
                 data_files.update(v)
         if self.no_game:
-            data_files = {f for f in data_files if "nogamenolife" in f}
+            data_files = {f for f in data_files if "theoffice" in f}
 
         # Clear output
         if os.path.exists(Runner.output_path):
