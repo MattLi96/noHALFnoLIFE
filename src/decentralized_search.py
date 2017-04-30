@@ -32,7 +32,7 @@ class HierarchicalDecentralizedSearch:
         Uses decentralized search to get the path between two given nodes
         """
         if self.detailed_print:
-            print(node1.name + " to " + node2.name)
+            print("\n" + node1.name + " to " + node2.name)
         last_node = None
         current_node = node1
         decentralized_search_path = []
@@ -52,19 +52,25 @@ class HierarchicalDecentralizedSearch:
             current_neighbors = self.G.neighbors(current_node)
             min_distance = float("inf")
             min_distance_node = None
+            equal_distance_nodes = []
             for neighbor in current_neighbors:
                 # Check if a neighbor is the destination node before utilizing the hierarchical scores
                 if neighbor == node2:
                     min_distance_node = neighbor
                     break
                 elif len(neighbor.categories) > 0 and ((current_node, neighbor) not in visited_edges):
+                    # Try to use more than just hierarchy
                     try:
                         current_distance = self.get_hierarchy_distance(neighbor, node2)
                     except Exception as e:
                         continue
+                    if current_distance == min_distance:
+                        equal_distance_nodes.append(neighbor.name)
                     if current_distance < min_distance:
+                        equal_distance_nodes = []
                         min_distance = current_distance
                         min_distance_node = neighbor
+            print("possibilities: " + str(equal_distance_nodes) + "\n")
             if min_distance_node is None:
                 if len(current_neighbors) == 0:
                     # Pop this page and return to the last page
