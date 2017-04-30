@@ -40,6 +40,7 @@ function searchNode(nodeName){
 window.info = new Vue({
     el: '#info',
     data: {
+        currentTab: 0, 
         forceOn: false,
         componentMode: false,
         options: [],
@@ -117,7 +118,7 @@ window.info = new Vue({
 
             sorted = sorted.map(function(x){ return x.id });
 
-            let timeout = 2000;
+            let timeout = 500;
 
             function findStage(list){
                 if(list.length === 0){

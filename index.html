@@ -19,9 +19,15 @@
 <body>
     <div id="info">
         <h2> Fandom Wiki Analysis Project </h2>
-        <div style="padding-top: 10px">
+        <ul class="nav nav-tabs nav-justified">
+        <!-- v-bind:class="{ 'active': currentTab === 0 }" v-on:click="currentTab === 0" -->
+            <li v-bind:class="{ 'active': currentTab === 0 }" v-on:click="currentTab = 0"> <a href="#"> Main Options </a> </li>
+            <li v-bind:class="{ 'active': currentTab === 1 }" v-on:click="currentTab = 1"> <a href="#"> Basic Stats </a> </li>
+            <li v-bind:class="{ 'active': currentTab === 2 }" v-on:click="currentTab = 2"> <a href="#"> Advanced Features </a> </li>
+        </ul>
+        <div class="displayTab" v-show="currentTab === 0" id="mainOptions">
             <div class="dropdown">
-                <span>
+                <h5> Dataset: </h5>
                 <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown">
                         {{currentOption}}
                         <span class="caret"></span>
@@ -29,40 +35,64 @@
                 <ul class="dropdown-menu" id="options">
                     <li v-for="option in options" ><a class="dropDownListItem" v-on:click="updateData(option)"> {{option}} </a></li>
                 </ul>
+            </div>
+            <div class="btn-group-vertical" role="group">
+                <h5> Options: </h5>
                 <button class="btn btn-default" v-bind:class="{ 'forceOn': forceOn }" id="dance" v-on:click="updateForce()"> Dance </button>
                 <button class="btn btn-default" v-bind:class="{ 'forceOn': showAllLabels}" id="showAllLabels" v-on:click="updateShowAllLabels()"> Show All Labels </button>
                 <button class="btn btn-default" v-bind:class="{ 'forceOn': componentMode }" id="componentMode" v-on:click="updateComponentMode()"> Component Mode </button>
-                <button class="btn btn-default" id="recompile" v-on:click="recompile()"> Recompile </button>
-                </span>
-
-                <div class="input-group" id="searchBox">
-                  <input type="text" class="form-control" placeholder="Search for a Node" v-model="searchTerm">
-                  <span class="input-group-addon" id="basic-addon2" v-on:click="search(searchTerm)"> Go! </span>
-                </div>
+                <button class="btn btn-default" id="recompile" v-on:click="recompile()"> Recompile </button> 
             </div>
         </div>
-        <div v-if="basicInfo != {}">
+        <div v-if="basicInfo != {} && currentTab === 1">
+            <h5> Graph Structure:</h5>
             <h4> Number of Nodes: {{basicInfo.numNodes}} </h4>
             <h4> Number of Edges: {{basicInfo.numEdges}} </h4>
+
+            <h5> Path Features:</h5>
             <h4> Average Path Length: {{basicInfo.averagePathLength}}</h4>
+
+            <h5> Degree: </h5>
             <h4> Average In-Degree: {{basicInfo.averageInDegree}}</h4>
             <h4> Average Out-Degree: {{basicInfo.averageOutDegree}}</h4>
+
+            <h5> Other: </h5>
             <h4> Number of Self-Links: {{basicInfo.selfLinks}}</h4>
+
+
+            <div v-if="selectedNode!=null && selectedPath==null">
+                <h5> Selection: </h5>
+                <h4> Selected Node: {{selectedNode.id}}</h4>
+                <h4> Degree: {{selectedNode.degree}}</h4>
+            </div>
+            <div v-if="selectedPath!=null">
+                <h5> Selected Path:</h5>
+                <h4> Path: {{pathToString()}}</h4>
+                <h4> Length: {{selectedPath.length}}</h4>
+            </div>
         </div>
-        <div v-if="selectedNode!=null && selectedPath==null">
-            <h4> Selected Node: {{selectedNode.id}}</h4>
-            <h4> Degree: {{selectedNode.degree}}</h4>
+        <div class="displayTab" v-show="currentTab === 2">
+            <h5> Search: </h5>
+            <div class="input-group" id="searchBox">
+                <input type="text" class="form-control" placeholder="Search for a Node" v-model="searchTerm">
+                <span class="input-group-addon" id="basic-addon2" v-on:click="search(searchTerm)"> Go! </span>
+            </div>
+
+            <h5> Time Analysis: </h5>
+            <div>
+                <input id="timeSlider" type="text" data-slider-min="0" data-slider-max = "0" data-slider-step="1" data-slider-value="0"/>
+                <span id="timeSliderValLabel"> </span>
+            </div>
+
+            <br/>
+
+            <h5> Node Removal: </h5>
+            <button class="btn btn-default" id="nodeRemoval" v-on:click="runNodeRemoval()"> Node Removal </button>
+
+            <br/>
         </div>
-        <div v-if="selectedPath!=null">
-            <h4> Path: {{pathToString()}}</h4>
-            <h4> Length: {{selectedPath.length}}</h4>
-        </div>
-        <input id="timeSlider" type="text" data-slider-min="0" data-slider-max = "0" data-slider-step="1" data-slider-value="0"/>
-        <span id="timeSliderValLabel"> </span>
 
         <br/>
-
-        <button class="btn btn-default" id="nodeRemoval" v-on:click="runNodeRemoval()"> Node Removal </button>
     </div>
 
     <div id="graph-container"></div>

@@ -4,6 +4,12 @@ body{
     font-family: 'Alegreya Sans SC', sans-serif;
 }
 
+h5{
+    font-weight: bold;
+    text-align: left;
+    padding-left: 10px;
+}
+
 #info{
     display: block;
     position:absolute;
@@ -51,5 +57,30 @@ div.master {
     background-color: limegreen !important;
 }
 
+.displayTab{
+    padding-top: 10px;
+}
+
 .node {stroke: #fff; stroke-width: 1.5px;}
 .link {stroke: #999; stroke-opacity: .6;}
+
+#mainOptions{
+    text-align: left;
+    margin: 15px;
+}
+
+#mainOptions .dropdown{
+    padding-left: 10px; 
+    display: block;
+    float: left;
+    width: 20%;
+}
+
+
+#mainOptions .btn-group-vertical{
+    display: block;
+    float: left;
+    width: 42%;
+    margin-left: 35%;
+    padding-bottom: 20px;
+}
