@@ -34,7 +34,7 @@ class HierarchicalDecentralizedSearch:
         if self.detailed_print:
             print("\n" + node1.name + " to " + node2.name)
 
-        widen_target = True
+        widen_target = False
 
         last_node = None
         current_node = node1
@@ -45,7 +45,14 @@ class HierarchicalDecentralizedSearch:
         target_zone.add(node2)
 
         if widen_target:
-            target_zone.update(self.G.neighbors(node2))
+            all_nodes = list(map(lambda x: (x, self.get_hierarchy_distance(x, node2)), self.G.nodes()))
+            sorted_by_hierarchy = sorted(all_nodes, key=lambda tup: tup[1])
+            for i in range(0,3):
+                print(sorted_by_hierarchy[i])
+                target_zone.add(sorted_by_hierarchy[i][0])
+                
+            # If you know the neighbors
+            # target_zone.update(self.G.neighbors(node2))
         
         print("TARGET ZONE: " + str(target_zone))
 
