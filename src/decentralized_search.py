@@ -1,6 +1,8 @@
 import networkx as nx
 import random
-
+import os
+from collections import Counter
+import matplotlib.pyplot as plt
 
 class HierarchicalDecentralizedSearch:
     def __init__(self, G, hierarchy, detailed_print=True, hierarchy_nodes_only=True):
@@ -27,14 +29,12 @@ class HierarchicalDecentralizedSearch:
         """
         return len(nx.shortest_path(self.hierarchy, source=node1, target=node2))
 
-    def get_decentralized_search_path(self, node1, node2):
+    def get_decentralized_search_path(self, node1, node2, widen_target):
         """
         Uses decentralized search to get the path between two given nodes
         """
         if self.detailed_print:
             print("\n" + node1.name + " to " + node2.name)
-
-        widen_target = False
 
         last_node = None
         current_node = node1
@@ -50,7 +50,7 @@ class HierarchicalDecentralizedSearch:
             for i in range(0,3):
                 print(sorted_by_hierarchy[i])
                 target_zone.add(sorted_by_hierarchy[i][0])
-                
+
             # If you know the neighbors
             # target_zone.update(self.G.neighbors(node2))
         
@@ -111,7 +111,7 @@ class HierarchicalDecentralizedSearch:
             unique_pages.add(current_node)
         return (decentralized_search_path, unique_pages)
 
-    def run_decentralized_search(self, num_times):
+    def run_decentralized_search(self, num_times, widen_target):
         """
         Runs decentralized search the specified number of times (num_times) by randomly selecting a pair of nodes
         for each run
@@ -133,7 +133,7 @@ class HierarchicalDecentralizedSearch:
                     if rand2_index != rand1_index and len(nodes[rand2_index].categories) > 0:
                         node2 = nodes[rand2_index]
                         break
-            results = self.get_decentralized_search_path(node1, node2)
+            results = self.get_decentralized_search_path(node1, node2, widen_target)
             if results is None:
                 search_path = None
                 search_path_unique_nodes = None
@@ -150,11 +150,22 @@ class HierarchicalDecentralizedSearch:
         # Calculate mean path length
         mean_path_length = 0.0
         num_paths_found = 0
+        path_distribution = []
+
         for search_path in decentralized_search_paths:
             if search_path is not None:
+                path_distribution.append(len(search_path))
                 mean_path_length += len(search_path)
                 num_paths_found = num_paths_found + 1
         mean_path_length = float(mean_path_length) / num_paths_found
+
+        # Path Length Distribution
+        distro = Counter(path_distribution).most_common()
+        xdata = list(map(lambda x: x[0],distro))
+        ydata = list(map(lambda x: x[1],distro))
+
+        self.makePlot("Decentralized Path Distribution (" + str(widen_target) + ")", "Path Length", "Occurances", xdata, ydata, "./derp.png")
+
         # Calculate mean unique nodes for each path
         mean_unique_nodes = 0.0
         for path_unique_nodes in decentralized_search_paths_unique_nodes:
@@ -166,5 +177,22 @@ class HierarchicalDecentralizedSearch:
         print ("Mean Path Length of Decentralized Search: " + str(mean_path_length))
         print ("Mean Unique Nodes of Path of Decentralized Search: " + str(mean_unique_nodes))
 
+    def makePlot(self, title, xaxis, yaxis, xdata, ydata, path):
+        fig = plt.figure()
+        fig.suptitle(title, fontsize=14, fontweight='bold')
 
+        ax = fig.add_subplot(111)
+        fig.subplots_adjust(top=0.85)
 
+        ax.set_xlabel(xaxis)
+        ax.set_ylabel(yaxis)
+
+        ax.scatter(x=xdata, y=ydata)
+        plt.scatter(x=xdata, y=ydata)
+
+        directory = os.path.dirname(path)
+        if not os.path.exists(directory):
+            os.makedirs(directory)
+
+        plt.savefig(path)
+        plt.close()

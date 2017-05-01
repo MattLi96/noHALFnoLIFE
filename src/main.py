@@ -53,8 +53,9 @@ class Runner:
     }
     decentralized_search_settings = {
         "run_decentralized_search": True,
-        "detailed_print": False,
+        "detailed_print": True,
         "hierarchy_nodes_only": True,
+        "widen_search": True
     }
     from_node = False
     output_path = ""
@@ -64,7 +65,7 @@ class Runner:
         self.pool = Pool(threads)
 
         # Flags for control
-        self.current_only = False  # Only use current files. Has no effect in time series mode
+        self.current_only = True  # Only use current files. Has no effect in time series mode
         self.no_game = True  # Only use the no game no life wiki. Intended for testing
         self.time_series = False  # If true do time series. Otherwise process file
 
@@ -90,7 +91,7 @@ class Runner:
             decentralized_search_model = HierarchicalDecentralizedSearch(net.G, category_hierarchy.hierarchy,
                 detailed_print=Runner.decentralized_search_settings["detailed_print"],
                 hierarchy_nodes_only=Runner.decentralized_search_settings["hierarchy_nodes_only"])
-            decentralized_search_model.run_decentralized_search(1000)
+            decentralized_search_model.run_decentralized_search(10, Runner.decentralized_search_settings["widen_search"])
         # na.generateDrawing()
         # generateComponentSizes doesn't work for directed graphs
         # na.generateComponentSizes()
@@ -140,7 +141,7 @@ class Runner:
             elif k == 'current':
                 data_files.update(v)
         if self.no_game:
-            data_files = {f for f in data_files if "theoffice" in f}
+            data_files = {f for f in data_files if "nogamenolife" in f}
 
         # Clear output
         if os.path.exists(Runner.output_path):
