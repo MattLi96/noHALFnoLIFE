@@ -33,12 +33,22 @@ class HierarchicalDecentralizedSearch:
         """
         if self.detailed_print:
             print("\n" + node1.name + " to " + node2.name)
+
+        widen_target = True
+
         last_node = None
         current_node = node1
-        decentralized_search_path = []
-        decentralized_search_path.append(current_node)
-        visited_edges = set()
-        unique_pages = set()
+        decentralized_search_path = [current_node]
+        visited_edges, unique_pages = set(), set()
+
+        target_zone = set()
+        target_zone.add(node2)
+
+        if widen_target:
+            target_zone.update(self.G.neighbors(node2))
+        
+        print("TARGET ZONE: " + str(target_zone))
+
         unique_pages.add(current_node)
         while current_node != node2:
             if len(decentralized_search_path) >= len(self.G.nodes()):
@@ -49,10 +59,13 @@ class HierarchicalDecentralizedSearch:
                            str(self.get_hierarchy_distance(current_node, node2)))
                 except Exception as e:
                     print("CURRENT NODE: " + str(current_node))
+
             current_neighbors = self.G.neighbors(current_node)
             min_distance = float("inf")
             min_distance_node = None
             equal_distance_nodes = []
+            print("CURRENT NEIGHBORS: " + str(list(map(lambda x: (x, self.get_hierarchy_distance(x, node2)), current_neighbors))))
+
             for neighbor in current_neighbors:
                 # Check if a neighbor is the destination node before utilizing the hierarchical scores
                 if neighbor == node2:
@@ -62,6 +75,10 @@ class HierarchicalDecentralizedSearch:
                     # Try to use more than just hierarchy
                     try:
                         current_distance = self.get_hierarchy_distance(neighbor, node2)
+                        current_distance_target = list(map(lambda x: self.get_hierarchy_distance(neighbor, x), target_zone))
+                        target_min = min(current_distance_target)
+
+                        current_distance = min(current_distance, target_min)
                     except Exception as e:
                         continue
                     if current_distance == min_distance:
@@ -70,7 +87,7 @@ class HierarchicalDecentralizedSearch:
                         equal_distance_nodes = []
                         min_distance = current_distance
                         min_distance_node = neighbor
-            print("possibilities: " + str(equal_distance_nodes) + "\n")
+            print("OTHER POSSIBILITIES: " + str(equal_distance_nodes) + "\n")
             if min_distance_node is None:
                 if len(current_neighbors) == 0:
                     # Pop this page and return to the last page
@@ -118,7 +135,9 @@ class HierarchicalDecentralizedSearch:
             else:
                 search_path, search_path_unique_nodes = results
                 if self.detailed_print:
+                    print(str(search_path))
                     print("Decentralized Search " + str(i + 1) + ": Length " + str(len(search_path)))
+                    print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
             decentralized_search_paths.append(search_path)
             decentralized_search_paths_unique_nodes.append(search_path_unique_nodes)
         # Calculate mean path length
