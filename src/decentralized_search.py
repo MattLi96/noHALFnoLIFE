@@ -5,7 +5,7 @@ from collections import Counter
 import matplotlib.pyplot as plt
 
 class HierarchicalDecentralizedSearch:
-    def __init__(self, G, hierarchy, detailed_print=True, hierarchy_nodes_only=True):
+    def __init__(self, G, hierarchy, detailed_print=True, hierarchy_nodes_only=True, apply_weighted_score=False):
         """
         Initializations for hierarchy-based decentralized search, which requires a graph of nodes and a hierarchy
         that expresses "distance" between any pair of nodes
@@ -22,12 +22,22 @@ class HierarchicalDecentralizedSearch:
         self.G = G
         self.hierarchy = hierarchy
         self.detailed_print = detailed_print
+        self.apply_weighted_score = apply_weighted_score
 
     def get_hierarchy_distance(self, node1, node2):
         """
         Gets the distance between two nodes in the hierarchy
         """
         return len(nx.shortest_path(self.hierarchy, source=node1, target=node2))
+
+    def get_weighting_value(self, current_node, neighbor_node):
+        """
+        Returns a weighting value for the hierarchical score of a neighbor_node of a current_node based on the
+        neighbor's link location on the page corresponding to current_node
+        """
+        node_index = current_node.neighbor_to_location[neighbor_node.name]
+        num_links = len(current_node.neighbor_to_location)
+        return float(1.0) / (((float(-2) * node_index) / float(num_links * num_links)) + float(2.0)/float(num_links))
 
     def get_decentralized_search_path(self, node1, node2, widen_target):
         """
@@ -83,10 +93,19 @@ class HierarchicalDecentralizedSearch:
                 elif len(neighbor.categories) > 0 and ((current_node, neighbor) not in visited_edges):
                     # Try to use more than just hierarchy
                     try:
-                        current_distance = self.get_hierarchy_distance(neighbor, node2)
-                        current_distance_target = list(map(lambda x: self.get_hierarchy_distance(neighbor, x), target_zone))
+                        if self.apply_weighted_score:
+                            current_distance = self.get_weighting_value(current_node, neighbor) * \
+                                               self.get_hierarchy_distance(neighbor, node2)
+                        else:
+                            current_distance = self.get_hierarchy_distance(neighbor, node2)
+                        if self.apply_weighted_score:
+                            current_distance_target = list(map(lambda x: self.get_weighting_value(current_node,
+                                                           neighbor) * self.get_hierarchy_distance(neighbor, x),
+                                                           target_zone))
+                        else:
+                            current_distance_target = list(map(lambda x: self.get_hierarchy_distance(neighbor, x),
+                                                               target_zone))
                         target_min = min(current_distance_target)
-
                         current_distance = min(current_distance, target_min)
                     except Exception as e:
                         continue
