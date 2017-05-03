@@ -17,6 +17,7 @@ class Node:
             self.categories = list()
         else:
             self.categories = categories
+        self.neighbor_to_location = dict() # mapping from each neighbor node's name to its index/location on the page
 
     def __repr__(self):
         return self.name
@@ -43,9 +44,13 @@ class NetworkParser:
 
         for node in G.nodes():
             links = self.getLinksFromText(d[node.name])
+            current_link_index = 0
             for link in links:
                 if link.startswith("Category:"):
                     node.categories.append(link[link.find(":") + 1:])
+                if link in name_to_node:
+                    node.neighbor_to_location[link] = current_link_index
+                    current_link_index += 1
             edgeList = [(node, name_to_node[l]) for l in links if l in name_to_node]
             G.add_edges_from(edgeList)
 
