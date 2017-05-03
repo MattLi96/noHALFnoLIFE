@@ -200,7 +200,7 @@ class NetworkAnalysis:
             startingPt = returnBasicStats(G)
             startingPt["removed"] = str(nodeRemoved)
             try:
-                startingPt['averagePathLength'] = self.getAveragePathLength()
+                startingPt['averagePathLength'] = getAveragePathLength(G)
             except:
                 pass
             
