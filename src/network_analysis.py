@@ -13,7 +13,7 @@ from networkx.readwrite import json_graph
 
 class NetworkAnalysis:
     def __init__(self, G, fileName, outputBase):  # TODO any settings for the network analysis
-        self.G = G
+        self.G = G.copy()
         split = re.split('\\ /', fileName)
         fileName = split[0].split(".")[0]
         self.fileName = fileName
@@ -158,6 +158,7 @@ class NetworkAnalysis:
 
     def nodeRemoval(self):
         res = {}
+
         def returnBasicStats(graph):
             res = {}
             res['numNodes'] = nx.number_of_nodes(graph)
@@ -182,7 +183,7 @@ class NetworkAnalysis:
         def removeLargestDegree(graph):
             nlist = sorted(graph.degree_iter(), key=lambda x: x[1])
             # print(nlist)
-            nodeRemove = nlist[len(nlist)-1]
+            nodeRemove = nlist[len(nlist) - 1]
             # print(nodeRemove)
             graph.remove_node(nodeRemove[0])
             return graph, nodeRemove[0]
@@ -203,7 +204,7 @@ class NetworkAnalysis:
                 startingPt['averagePathLength'] = getAveragePathLength(G)
             except:
                 pass
-            
+
             listComponents = sorted(nx.strongly_connected_component_subgraphs(G), key=len, reverse=True)
             currentSize = len(listComponents[0])
 
@@ -212,14 +213,14 @@ class NetworkAnalysis:
             res[i] = startingPt
             i += 1
 
-
         fileName = self.outputPath + "nodeRemove.json"
-        
+
         print(fileName)
         with open(fileName, 'w') as f:
-            json.dump(res, f, indent=4)        
+            json.dump(res, f, indent=4)
 
         return res
+
 
 if __name__ == '__main__':
     pass

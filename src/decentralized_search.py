@@ -13,16 +13,17 @@ class HierarchicalDecentralizedSearch:
         Initializations for hierarchy-based decentralized search, which requires a graph of nodes and a hierarchy
         that expresses "distance" between any pair of nodes
         """
+        self.G = G.copy()
         if hierarchy_nodes_only:
             i = 0
-            total_nodes = len(G.nodes())
-            for node in G.nodes():
+            total_nodes = len(self.G.nodes())
+            for node in self.G.nodes():
                 if len(node.categories) == 0:
-                    G.remove_node(node)
+                    self.G.remove_node(node)
                     i += 1
             print("Performing decentralized search only on pages in the hierarchy (" + str(total_nodes - i) +
                   " of " + str(total_nodes) + " nodes)")
-        self.G = G
+
         self.hierarchy = hierarchy
         self.detailed_print = detailed_print
         self.apply_weighted_score = apply_weighted_score
@@ -48,9 +49,11 @@ class HierarchicalDecentralizedSearch:
         Returns a weighting value for the hierarchical score of a neighbor_node of a current_node based on the
         neighbor's link location on the page corresponding to current_node
         """
-        node_index = current_node.neighbor_to_location[neighbor_node.name]
-        num_links = len(current_node.neighbor_to_location)
-        return float(1.0) / (((float(-2) * node_index) / float(num_links * num_links)) + float(2.0) / float(num_links))
+        x = current_node.neighbor_to_location[neighbor_node.name]  # current link position
+        n = len(current_node.neighbor_to_location)  # number of links
+
+        # Linear: a = -2/(n(n-1)), b = 2/n. Designed so sum is 1
+        return 1 if n == 1 else -2 / (n * (n - 1)) * x + 2 / n
 
     def get_decentralized_search_path(self, node1, node2, widen_target):
         """
