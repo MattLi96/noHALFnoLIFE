@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+
 import datetime as dt
 import logging
 import os
@@ -12,6 +13,7 @@ from decentralized_search import HierarchicalDecentralizedSearch
 from hierarchical_models import CategoryBasedHierarchicalModel
 from network_analysis import NetworkAnalysis
 from network_parser import NetworkParser
+from settings import *
 from xml_parser import XMLParser
 
 SNAPSHOT_TIME = "2015-12-05T02:20:10Z"
@@ -46,23 +48,7 @@ def get_time():
 
 # basically a class so we can have a thread pool
 class Runner:
-    category_hierarchical_model_settings = {
-        "similarity_matrix_type": "cooccurrence",
-        "max_branching_factor_root": 1  # specifies the root for the max branching factor function (max branching factor
-        # calculated as kth root of number of page nodes (leaf nodes) in the hierarchy)
-    }
-    decentralized_search_settings = {
-        "run_decentralized_search": True,
-        "detailed_print": False,
-        "hierarchy_nodes_only": True,
-        "widen_search": False,
-        "apply_weighted_score": True,
-        "plots": False
-    }
-    from_node = False
-    output_path = ""
-
-    def __init__(self, threads=16):
+    def __init__(self):
         self.threads = threads
         self.pool = Pool(threads)
 
@@ -79,25 +65,25 @@ class Runner:
         net = NetworkParser(d)
         # Graph Analysis
         output("Analyzing File " + data_file)
-        na = NetworkAnalysis(net.G, os.path.basename(data_file), Runner.output_path)
+        na = NetworkAnalysis(net.G, os.path.basename(data_file), output_path)
         na.outputBasicStats()
         na.outputNodesAndEdges()
         na.nodeRemoval()
         # Run Decentralized Search
         augmentBasic = {}
-        if Runner.decentralized_search_settings["run_decentralized_search"]:
+        if decentralized_search_settings["run_decentralized_search"]:
             category_hierarchy = CategoryBasedHierarchicalModel(net.G,
-                similarity_matrix_type=Runner.category_hierarchical_model_settings["similarity_matrix_type"],
-                max_branching_factor_root=Runner.category_hierarchical_model_settings["max_branching_factor_root"]
+                similarity_matrix_type=category_hierarchical_model_settings["similarity_matrix_type"],
+                max_branching_factor_root=category_hierarchical_model_settings["max_branching_factor_root"]
             )
             category_hierarchy.build_hierarchical_model()
             decentralized_search_model = HierarchicalDecentralizedSearch(net.G, category_hierarchy.hierarchy,
-                detailed_print=Runner.decentralized_search_settings["detailed_print"],
-                hierarchy_nodes_only=Runner.decentralized_search_settings["hierarchy_nodes_only"],
-                apply_weighted_score=Runner.decentralized_search_settings["apply_weighted_score"],
+                detailed_print=decentralized_search_settings["detailed_print"],
+                hierarchy_nodes_only=decentralized_search_settings["hierarchy_nodes_only"],
+                apply_weighted_score=decentralized_search_settings["apply_weighted_score"],
             )
             n_found, n_missing, av_path_len, av_unique_nodes = decentralized_search_model.run_decentralized_search(1000,
-                Runner.decentralized_search_settings["widen_search"], Runner.decentralized_search_settings["plots"])
+                decentralized_search_settings["widen_search"], decentralized_search_settings["plots"])
 
             augmentBasic["decentralized"] = {
                 "num_paths_found": n_found,
@@ -105,11 +91,11 @@ class Runner:
                 "average_decentralized_path_length": av_path_len,
                 "average_num_unique_nodes": av_unique_nodes
             }
-        
+
         # na.generateDrawing()
         # generateComponentSizes doesn't work for directed graphs
         # na.generateComponentSizes()
-        if Runner.from_node:
+        if from_node:
             na.d3dump("./public/data/", str(curr_time), augmentBasic)
         else:
             na.d3dump(None, str(curr_time), augmentBasic)
@@ -130,8 +116,8 @@ class Runner:
             if d:
                 net = NetworkParser(d)
                 output("Analyzing File " + data_file + ' at time ' + str(curr_time))
-                na = NetworkAnalysis(net.G, os.path.basename(data_file), Runner.output_path)
-                if Runner.from_node:
+                na = NetworkAnalysis(net.G, os.path.basename(data_file), output_path)
+                if from_node:
                     na.d3dump("./public/data/", str(curr_time))
                 else:
                     na.d3dump(None, str(curr_time))
@@ -141,7 +127,7 @@ class Runner:
     def main(self):
         # Setting datafiles to the correct files
         data_files = set()
-        parse_set = get_data_files("./dataRaw").items() if Runner.from_node else get_data_files().items()
+        parse_set = get_data_files("./dataRaw").items() if from_node else get_data_files().items()
         for (k, v) in parse_set:
             if self.time_series:  # If doing a time series, only worth checking out full stuff
                 if k == 'full':
@@ -158,8 +144,8 @@ class Runner:
             data_files = {f for f in data_files if "nogamenolife" in f}
 
         # Clear output
-        if os.path.exists(Runner.output_path):
-            shutil.rmtree(Runner.output_path)
+        if os.path.exists(output_path):
+            shutil.rmtree(output_path)
 
         # Processing the data_files
         if self.time_series:
@@ -184,7 +170,7 @@ if __name__ == '__main__':
 
     output("FROM_NODE: " + str(FROM_NODE))
 
-    Runner.from_node = FROM_NODE
-    Runner.output_path = "./output/" if Runner.from_node else "../output/"
+    from_node = FROM_NODE
+    output_path = "./output/" if from_node else "../output/"
 
     Runner().main()  # Runs the actual processing.
