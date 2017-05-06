@@ -2,6 +2,7 @@ import numpy as np
 from sklearn.gaussian_process import GaussianProcessRegressor
 import os
 import json
+from sklearn.cross_validation import train_test_split
 
 def retrieve_basic_dicts(dir, current_only=True):
 	files = os.listdir(dir)
@@ -39,5 +40,19 @@ def convert_json_to_numpy(li):
  	return x, distributed_path_len, num_paths_found
 
 if __name__ == '__main__':
+	path_reg = True
+
+
 	listed_data = retrieve_basic_dicts("../public/data/")
 	x, distributed_path_lengths, num_paths_found = convert_json_to_numpy(listed_data)
+
+	# Splitting data
+	y = distributed_path_lengths if path_reg else num_paths_found 
+	x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2)
+	x_test, x_val, y_test, y_val = train_test_split(x_test, y_test, test_size=0.5)
+
+	gpr = GaussianProcessRegressor(kernel=None)
+	gpr.fit(x_train, y_train)
+	print(gpr.score(x_val, y_val))
+
+
