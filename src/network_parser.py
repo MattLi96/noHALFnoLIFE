@@ -47,19 +47,11 @@ class NetworkParser:
             for link in links:
                 if link.startswith("Category:"):
                     node.categories.append(link[link.find(":") + 1:])
-                if link in name_to_node:
+                if link in name_to_node and link not in node.neighbor_to_location:
                     node.neighbor_to_location[link] = current_link_index
                     current_link_index += 1
-
-            link_set = set()
-            edge_list = []
-            counter = 0
-            for l in links:
-                if l in name_to_node and l not in link_set:
-                    link_set.add(l)
-                    edge_list.append((node, name_to_node[l], {'page_loc': counter}))
-                    counter += 1
-            G.add_edges_from(edge_list)
+            edgeList = [(node, name_to_node[l]) for l in links if l in name_to_node]
+            G.add_edges_from(edgeList)
 
         return G
 

@@ -1,11 +1,14 @@
-import networkx as nx
-import random
 import os
+import random
 from collections import Counter
+
 import matplotlib.pyplot as plt
+import networkx as nx
+
 
 class HierarchicalDecentralizedSearch:
-    def __init__(self, G, hierarchy, detailed_print=True, hierarchy_nodes_only=True, apply_weighted_score=False):
+    def __init__(self, G, hierarchy, detailed_print=True, hierarchy_nodes_only=True, apply_weighted_score=False,
+                 plots=False):
         """
         Initializations for hierarchy-based decentralized search, which requires a graph of nodes and a hierarchy
         that expresses "distance" between any pair of nodes
@@ -17,18 +20,28 @@ class HierarchicalDecentralizedSearch:
                 if len(node.categories) == 0:
                     G.remove_node(node)
                     i += 1
-            print ("Performing decentralized search only on pages in the hierarchy (" + str(total_nodes - i) +
-                   " of " + str(total_nodes) + " nodes)")
+            print("Performing decentralized search only on pages in the hierarchy (" + str(total_nodes - i) +
+                  " of " + str(total_nodes) + " nodes)")
         self.G = G
         self.hierarchy = hierarchy
         self.detailed_print = detailed_print
         self.apply_weighted_score = apply_weighted_score
+        self.plots = plots
 
     def get_hierarchy_distance(self, node1, node2):
         """
         Gets the distance between two nodes in the hierarchy
         """
         return len(nx.shortest_path(self.hierarchy, source=node1, target=node2))
+
+    def score_function(self, node1, node2, weight_value):
+        """
+        Gets the score between two neighbors with some weight applied
+        """
+        hierarchy_value = self.get_hierarchy_distance(node1, node2)
+        if not self.apply_weighted_score:
+            return hierarchy_value
+        return hierarchy_value * weight_value
 
     def get_weighting_value(self, current_node, neighbor_node):
         """
@@ -37,7 +50,7 @@ class HierarchicalDecentralizedSearch:
         """
         node_index = current_node.neighbor_to_location[neighbor_node.name]
         num_links = len(current_node.neighbor_to_location)
-        return float(1.0) / (((float(-2) * node_index) / float(num_links * num_links)) + float(2.0)/float(num_links))
+        return float(1.0) / (((float(-2) * node_index) / float(num_links * num_links)) + float(2.0) / float(num_links))
 
     def get_decentralized_search_path(self, node1, node2, widen_target):
         """
@@ -57,13 +70,13 @@ class HierarchicalDecentralizedSearch:
         if widen_target:
             all_nodes = list(map(lambda x: (x, self.get_hierarchy_distance(x, node2)), self.G.nodes()))
             sorted_by_hierarchy = sorted(all_nodes, key=lambda tup: tup[1])
-            for i in range(0,3):
+            for i in range(0, 3):
                 if self.detailed_print:
                     print(sorted_by_hierarchy[i])
                 target_zone.add(sorted_by_hierarchy[i][0])
 
-            # If you know the neighbors
-            # target_zone.update(self.G.neighbors(node2))
+                # If you know the neighbors
+                # target_zone.update(self.G.neighbors(node2))
         if self.detailed_print:
             print("TARGET ZONE: " + str(target_zone))
 
@@ -73,8 +86,8 @@ class HierarchicalDecentralizedSearch:
                 return None
             if self.detailed_print:
                 try:
-                    print ("CURRENT NODE: " + str(current_node) + " , DISTANCE: " +
-                           str(self.get_hierarchy_distance(current_node, node2)))
+                    print("CURRENT NODE: " + str(current_node) + " , DISTANCE: " +
+                          str(self.get_hierarchy_distance(current_node, node2)))
                 except Exception as e:
                     print("CURRENT NODE: " + str(current_node))
 
@@ -83,7 +96,8 @@ class HierarchicalDecentralizedSearch:
             min_distance_node = None
             equal_distance_nodes = []
             if self.detailed_print:
-                print("CURRENT NEIGHBORS: " + str(list(map(lambda x: (x, self.get_hierarchy_distance(x, node2)), current_neighbors))))
+                print("CURRENT NEIGHBORS: " + str(
+                    list(map(lambda x: (x, self.get_hierarchy_distance(x, node2)), current_neighbors))))
 
             for neighbor in current_neighbors:
                 # Check if a neighbor is the destination node before utilizing the hierarchical scores
@@ -93,18 +107,9 @@ class HierarchicalDecentralizedSearch:
                 elif len(neighbor.categories) > 0 and ((current_node, neighbor) not in visited_edges):
                     # Try to use more than just hierarchy
                     try:
-                        if self.apply_weighted_score:
-                            current_distance = self.get_weighting_value(current_node, neighbor) * \
-                                               self.get_hierarchy_distance(neighbor, node2)
-                        else:
-                            current_distance = self.get_hierarchy_distance(neighbor, node2)
-                        if self.apply_weighted_score:
-                            current_distance_target = list(map(lambda x: self.get_weighting_value(current_node,
-                                                           neighbor) * self.get_hierarchy_distance(neighbor, x),
-                                                           target_zone))
-                        else:
-                            current_distance_target = list(map(lambda x: self.get_hierarchy_distance(neighbor, x),
-                                                               target_zone))
+                        weight = self.get_weighting_value(current_node, neighbor) if self.apply_weighted_score else 1
+                        current_distance = self.score_function(neighbor, node2, weight)
+                        current_distance_target = map(lambda x: self.score_function(neighbor, x, weight), target_zone)
                         target_min = min(current_distance_target)
                         current_distance = min(current_distance, target_min)
                     except Exception as e:
@@ -160,7 +165,7 @@ class HierarchicalDecentralizedSearch:
                 search_path = None
                 search_path_unique_nodes = None
                 if self.detailed_print:
-                    print ("Couldn't find path for " + str(i + 1))
+                    print("Couldn't find path for " + str(i + 1))
             else:
                 search_path, search_path_unique_nodes = results
                 if self.detailed_print:
@@ -187,22 +192,24 @@ class HierarchicalDecentralizedSearch:
 
         # Path Length Distribution
         distro = sorted(Counter(path_distribution).items())
-        xdata = list(map(lambda x: x[0],distro))
-        ydata = list(map(lambda x: x[1],distro))
-        ydata = [float(i)/sum(ydata) for i in ydata]
+        xdata = list(map(lambda x: x[0], distro))
+        ydata = list(map(lambda x: x[1], distro))
+        ydata = [float(i) / sum(ydata) for i in ydata]
 
-        cdf = [0]*len(ydata)
+        cdf = [0] * len(ydata)
         for i in range(0, len(ydata)):
-            cdf[i] = sum(ydata[:i+1])
+            cdf[i] = sum(ydata[:i + 1])
 
-        self.makePlot("Decentralized Path Distribution (" + str(widen_target) + ")", "Path Length", "Occurances", xdata, ydata, "./derp.png")
-        self.makePlot("CDF of Decentralized Path Distribution (" + str(widen_target) + ")", "Path Length", "Occurances", xdata, cdf, "./derp2.png")
-
-        with open('./cdfdump.json', 'w') as out:
-            print(xdata)
-            print(ydata)
-            print(list(zip(xdata, cdf)))
-            out.write('\n'.join('%s %s' % x for x in zip(xdata, cdf)))
+        if self.plots:
+            self.makePlot("Decentralized Path Distribution (" + str(widen_target) + ")", "Path Length", "Occurances",
+                          xdata, ydata, "./derp.png")
+            self.makePlot("CDF of Decentralized Path Distribution (" + str(widen_target) + ")", "Path Length",
+                          "Occurances", xdata, cdf, "./derp2.png")
+            with open('./cdfdump.json', 'w') as out:
+                print(xdata)
+                print(ydata)
+                print(list(zip(xdata, cdf)))
+                out.write('\n'.join('%s %s' % x for x in zip(xdata, cdf)))
 
         # Calculate mean unique nodes for each path
         mean_unique_nodes = 0.0
@@ -210,10 +217,11 @@ class HierarchicalDecentralizedSearch:
             if path_unique_nodes is not None:
                 mean_unique_nodes += len(path_unique_nodes)
         mean_unique_nodes = float(mean_unique_nodes) / num_paths_found
-        print ("Num Paths Found: " + str(num_paths_found))
-        print ("Num Paths Not Found: " + str(len(decentralized_search_paths) - num_paths_found))
-        print ("Mean Path Length of Decentralized Search: " + str(mean_path_length))
-        print ("Mean Unique Nodes of Path of Decentralized Search: " + str(mean_unique_nodes))
+        print("Num Paths Found:", num_paths_found)
+        print("Num Paths Not Found:", len(decentralized_search_paths) - num_paths_found)
+        print("Mean Path Length of Decentralized Search:", mean_path_length)
+        print("Mean Unique Nodes of Path of Decentralized Search:", mean_unique_nodes)
+        return num_paths_found, len(decentralized_search_paths) - num_paths_found, mean_path_length, mean_unique_nodes
 
     def makePlot(self, title, xaxis, yaxis, xdata, ydata, path):
         fig = plt.figure()
