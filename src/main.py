@@ -84,6 +84,7 @@ class Runner:
         na.outputNodesAndEdges()
         na.nodeRemoval()
         # Run Decentralized Search
+        augmentBasic = {}
         if Runner.decentralized_search_settings["run_decentralized_search"]:
             category_hierarchy = CategoryBasedHierarchicalModel(net.G,
                 similarity_matrix_type=Runner.category_hierarchical_model_settings["similarity_matrix_type"],
@@ -95,15 +96,23 @@ class Runner:
                 hierarchy_nodes_only=Runner.decentralized_search_settings["hierarchy_nodes_only"],
                 apply_weighted_score=Runner.decentralized_search_settings["apply_weighted_score"],
             )
-            decentralized_search_model.run_decentralized_search(1000,
+            n_found, n_missing, av_path_len, av_unique_nodes = decentralized_search_model.run_decentralized_search(1000,
                 Runner.decentralized_search_settings["widen_search"], Runner.decentralized_search_settings["plots"])
+
+            augmentBasic["decentralized"] = {
+                "num_paths_found": n_found,
+                "num_paths_missing": n_missing,
+                "average_decentralized_path_length": av_path_len,
+                "average_num_unique_nodes": av_unique_nodes
+            }
+        
         # na.generateDrawing()
         # generateComponentSizes doesn't work for directed graphs
         # na.generateComponentSizes()
         if Runner.from_node:
-            na.d3dump("./public/data/", str(curr_time))
+            na.d3dump("./public/data/", str(curr_time), augmentBasic)
         else:
-            na.d3dump(None, str(curr_time))
+            na.d3dump(None, str(curr_time), augmentBasic)
 
         output("Completed Analyzing: " + data_file)
 

@@ -22,7 +22,7 @@ class NetworkAnalysis:
         if not os.path.exists(self.outputPath):
             os.makedirs(self.outputPath)
 
-    def d3dump(self, output=None, curr_time=""):
+    def d3dump(self, output=None, curr_time="", augment={}):
         if output is None:
             output = "../public/data/"
         print("output path: " + output)
@@ -40,6 +40,11 @@ class NetworkAnalysis:
         data['basic'] = self.returnBasicStats()
         try:
             data['basic']['averagePathLength'] = self.getAveragePathLength()
+        except:
+            pass
+
+        try:
+            data['basic'].update(augment)
         except:
             pass
 
