@@ -1,4 +1,3 @@
-import json
 import re
 
 import networkx as nx
@@ -17,7 +16,7 @@ class Node:
             self.categories = list()
         else:
             self.categories = categories
-        self.neighbor_to_location = dict() # mapping from each neighbor node's name to its index/location on the page
+        self.neighbor_to_location = dict()  # mapping from each neighbor node's name to its index/location on the page
 
     def __repr__(self):
         return self.name
@@ -51,8 +50,16 @@ class NetworkParser:
                 if link in name_to_node:
                     node.neighbor_to_location[link] = current_link_index
                     current_link_index += 1
-            edgeList = [(node, name_to_node[l]) for l in links if l in name_to_node]
-            G.add_edges_from(edgeList)
+
+            link_set = set()
+            edge_list = []
+            counter = 0
+            for l in links:
+                if l in name_to_node and l not in link_set:
+                    link_set.add(l)
+                    edge_list.append((node, name_to_node[l], {'rank': counter}))
+                    counter += 1
+            G.add_edges_from(edge_list)
 
         return G
 
