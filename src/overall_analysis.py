@@ -43,6 +43,44 @@ def convert_json_to_numpy(li):
     return x, distributed_path_len, num_paths_found
 
 
+def grid_search(gpr, n_steps):
+    maxMins = [(0, 20), (100, 10000), (1, 10), (1, 10), (100, 20000), (1, 10)]
+    values = list(map(lambda x: x[0], maxMins))
+
+    ret = {}
+    maxY = ("", -9999)
+
+    while values[0] <= maxMins[0][1]:
+        values[1] = maxMins[1][0]
+        while values[1] <= maxMins[1][1]:
+            values[2] = maxMins[2][0]
+            while values[2] <= maxMins[2][1]:
+                values[3] = maxMins[3][0]
+                while values[3] <= maxMins[3][1]:
+                    values[4] = maxMins[4][0]
+                    while values[4] <= maxMins[4][1]:
+                        values[5] = maxMins[5][0]
+                        while values[5] <= maxMins[5][1]:
+                            testPt = np.array(values)
+                            yres, sig= gpr.predict(testPt, return_std=True)
+                            k = str(testPt)
+
+                            if np.asscalar(yres) > maxY[1]:
+                                maxY = (k, np.asscalar(yres))
+
+                            ret[k] = {
+                                "pred": np.asscalar(yres),
+                                "deviation": np.asscalar(sig)
+                            }
+                            values[5] += float(maxMins[5][0]+maxMins[5][1])/n_steps
+                        values[4] += float(maxMins[4][0]+maxMins[4][1])/n_steps
+                    values[3] += float(maxMins[5][0]+maxMins[3][1])/n_steps
+                values[2] += float(maxMins[2][0]+maxMins[2][1])/n_steps
+            values[1] += float(maxMins[1][0]+maxMins[1][1])/n_steps
+        values[0] += float(maxMins[0][0]+maxMins[0][1])/n_steps
+
+    return ret, maxY
+
 if __name__ == '__main__':
     path_reg = True
 
@@ -54,6 +92,11 @@ if __name__ == '__main__':
     x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2)
     x_test, x_val, y_test, y_val = train_test_split(x_test, y_test, test_size=0.5)
 
-    gpr = GaussianProcessRegressor(kernel=None)
+    gpr = GaussianProcessRegressor(kernel=None, normalize_y =True)
     gpr.fit(x_train, y_train)
-    print(gpr.score(x_val, y_val))
+    print("Score on Validation: ", gpr.score(x_val, y_val))
+    # print(gpr.predict([1, 1170, 6.4, 2.7, 1200, 6.4]))
+    
+    grid, max = grid_search(gpr, 2)
+    with open('./grid_dump.json', 'w') as outfile:
+        json.dump(grid, outfile)
