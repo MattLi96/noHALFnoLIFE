@@ -7,8 +7,7 @@ import networkx as nx
 
 
 class HierarchicalDecentralizedSearch:
-    def __init__(self, G, hierarchy, detailed_print=True, hierarchy_nodes_only=True, apply_weighted_score=False,
-                 plots=False):
+    def __init__(self, G, hierarchy, detailed_print=True, hierarchy_nodes_only=True, apply_weighted_score=False):
         """
         Initializations for hierarchy-based decentralized search, which requires a graph of nodes and a hierarchy
         that expresses "distance" between any pair of nodes
@@ -27,7 +26,6 @@ class HierarchicalDecentralizedSearch:
         self.hierarchy = hierarchy
         self.detailed_print = detailed_print
         self.apply_weighted_score = apply_weighted_score
-        self.plots = plots
 
     def get_hierarchy_distance(self, node1, node2):
         """
@@ -141,7 +139,7 @@ class HierarchicalDecentralizedSearch:
             unique_pages.add(current_node)
         return (decentralized_search_path, unique_pages)
 
-    def run_decentralized_search(self, num_times, widen_target):
+    def run_decentralized_search(self, num_times, widen_target, plots=False):
         """
         Runs decentralized search the specified number of times (num_times) by randomly selecting a pair of nodes
         for each run
@@ -203,11 +201,11 @@ class HierarchicalDecentralizedSearch:
         for i in range(0, len(ydata)):
             cdf[i] = sum(ydata[:i + 1])
 
-        if self.plots:
+        if plots:
             self.makePlot("Decentralized Path Distribution (" + str(widen_target) + ")", "Path Length", "Occurances",
-                          xdata, ydata, "./derp.png")
+                xdata, ydata, "./derp.png")
             self.makePlot("CDF of Decentralized Path Distribution (" + str(widen_target) + ")", "Path Length",
-                          "Occurances", xdata, cdf, "./derp2.png")
+                "Occurances", xdata, cdf, "./derp2.png")
             with open('./cdfdump.json', 'w') as out:
                 print(xdata)
                 print(ydata)

@@ -56,7 +56,8 @@ class Runner:
         "detailed_print": False,
         "hierarchy_nodes_only": True,
         "widen_search": False,
-        "apply_weighted_score": True
+        "apply_weighted_score": True,
+        "plots": False
     }
     from_node = False
     output_path = ""
@@ -92,8 +93,10 @@ class Runner:
             decentralized_search_model = HierarchicalDecentralizedSearch(net.G, category_hierarchy.hierarchy,
                 detailed_print=Runner.decentralized_search_settings["detailed_print"],
                 hierarchy_nodes_only=Runner.decentralized_search_settings["hierarchy_nodes_only"],
-                apply_weighted_score=Runner.decentralized_search_settings["apply_weighted_score"])
-            decentralized_search_model.run_decentralized_search(1000, Runner.decentralized_search_settings["widen_search"])
+                apply_weighted_score=Runner.decentralized_search_settings["apply_weighted_score"],
+            )
+            decentralized_search_model.run_decentralized_search(1000,
+                Runner.decentralized_search_settings["widen_search"], Runner.decentralized_search_settings["plots"])
         # na.generateDrawing()
         # generateComponentSizes doesn't work for directed graphs
         # na.generateComponentSizes()
