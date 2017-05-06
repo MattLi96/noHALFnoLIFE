@@ -65,7 +65,7 @@ class Runner:
         na.outputNodesAndEdges()
         na.nodeRemoval()
 
-        basic = na.d3dump("./public/data/" if from_node else "../public/data/", str(curr_time))
+        basic = na.d3dump("../public/data/", str(curr_time))
 
         # Run Decentralized Search
         if decentralized_search_settings["run_decentralized_search"]:
@@ -112,14 +112,14 @@ class Runner:
                 net = NetworkParser(d)
                 output("Analyzing File " + data_file + ' at time ' + str(curr_time))
                 na = NetworkAnalysis(net.G, os.path.basename(data_file), output_path)
-                na.d3dump("./public/data/" if from_node else "../public/data/", str(curr_time))
+                na.d3dump("../public/data/", str(curr_time))
 
         output("Completed Analyzing: " + data_file)
 
     def main(self):
         # Setting datafiles to the correct files
         data_files = set()
-        parse_set = get_data_files("./dataRaw").items() if from_node else get_data_files().items()
+        parse_set = get_data_files().items()
         for (k, v) in parse_set:
             if time_series:  # If doing a time series, only worth checking out full stuff
                 if k == 'full':
@@ -152,16 +152,10 @@ class Runner:
 
 # Main method
 if __name__ == '__main__':
-    from_node = len(sys.argv) > 1
+    fileConfig('logging_config.ini')
+    logger = logging.getLogger()
+    output = lambda x: logger.debug(x)\
 
-    if from_node:
-        output = lambda x: print(x)
-    else:
-        fileConfig('logging_config.ini')
-        logger = logging.getLogger()
-        output = lambda x: logger.debug(x)
-    output("FROM_NODE: " + str(from_node))
-
-    output_path = "./output/" if from_node else "../output/"
+    output_path = "../output/"
 
     Runner().main()  # Runs the actual processing.

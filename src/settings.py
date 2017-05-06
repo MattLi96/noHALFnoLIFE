@@ -12,8 +12,8 @@ decentralized_search_settings = {
     "apply_weighted_score": True,
     "plots": False
 }
-from_node = False  # set in main.py
-output_path = ""  # set in main.py
+output_path = "../output/"
+
 current_only = True  # Only use current files. Has no effect in time series mode
 no_game = True  # Only use the no game no life wiki. Intended for testing
 no_game_name = "nogamenolife"
