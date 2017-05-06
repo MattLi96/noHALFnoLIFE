@@ -45,7 +45,7 @@ def grid_search(gpr, n_steps):
     values = list(map(lambda x: x[0], maxMins))
 
     ret = {}
-    maxY = ("", -9999)
+    minY = ("", 9999)
 
     while values[0] <= maxMins[0][1]:
         values[1] = maxMins[1][0]
@@ -62,8 +62,8 @@ def grid_search(gpr, n_steps):
                             yres, sig= gpr.predict(testPt, return_std=True)
                             k = str(testPt)
 
-                            if np.asscalar(yres) > maxY[1]:
-                                maxY = (k, np.asscalar(yres))
+                            if np.asscalar(yres) < minY[1]:
+                                minY = (k, np.asscalar(yres))
 
                             ret[k] = {
                                 "pred": np.asscalar(yres),
@@ -76,7 +76,7 @@ def grid_search(gpr, n_steps):
             values[1] += float(maxMins[1][0]+maxMins[1][1])/n_steps
         values[0] += float(maxMins[0][0]+maxMins[0][1])/n_steps
 
-    return ret, maxY
+    return ret, minY
 
 if __name__ == '__main__':
     path_reg = True
@@ -94,10 +94,10 @@ if __name__ == '__main__':
     print("Score on Validation: ", gpr.score(x_val, y_val))
     # print(gpr.predict([1, 1170, 6.4, 2.7, 1200, 6.4]))
     
-    grid, max = grid_search(gpr, 2)
+    grid, minY = grid_search(gpr, 2)
 
     print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
-    print(max)
+    print(minY)
     print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
 
     with open('./grid_dump.json', 'w') as outfile:
