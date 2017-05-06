@@ -13,13 +13,11 @@ def retrieve_basic_dicts(dir, current_only=True):
     list_to_analyze = only_current if current_only else files
 
     ret = []
-
     for f in list_to_analyze:
         full_path = os.path.join(dir, f)
         with open(full_path) as json_data:
             d = json.load(json_data)
-            ret.append(d['basic'])
-
+            ret.append(d)
     return ret
 
 
@@ -84,7 +82,7 @@ def grid_search(gpr, n_steps):
 if __name__ == '__main__':
     path_reg = True
 
-    listed_data = retrieve_basic_dicts("../public/data/")
+    listed_data = retrieve_basic_dicts("../data/")
     x, distributed_path_lengths, num_paths_found = convert_json_to_numpy(listed_data)
 
     # Splitting data

@@ -52,11 +52,6 @@ class Runner:
         self.threads = threads
         self.pool = Pool(threads)
 
-        # Flags for control
-        self.current_only = True  # Only use current files. Has no effect in time series mode
-        self.no_game = True  # Only use the no game no life wiki. Intended for testing
-        self.time_series = False  # If true do time series. Otherwise process file
-
     @staticmethod
     def process_file(data_file):
         curr_time = get_time()
@@ -69,8 +64,10 @@ class Runner:
         na.outputBasicStats()
         na.outputNodesAndEdges()
         na.nodeRemoval()
+
+        basic = na.d3dump("./public/data/" if from_node else "../public/data/", str(curr_time))
+
         # Run Decentralized Search
-        augmentBasic = {}
         if decentralized_search_settings["run_decentralized_search"]:
             category_hierarchy = CategoryBasedHierarchicalModel(net.G,
                 similarity_matrix_type=category_hierarchical_model_settings["similarity_matrix_type"],
@@ -85,20 +82,18 @@ class Runner:
             n_found, n_missing, av_path_len, av_unique_nodes = decentralized_search_model.run_decentralized_search(1000,
                 decentralized_search_settings["widen_search"], decentralized_search_settings["plots"])
 
-            augmentBasic["decentralized"] = {
+            basic["decentralized"] = {
                 "num_paths_found": n_found,
                 "num_paths_missing": n_missing,
                 "average_decentralized_path_length": av_path_len,
                 "average_num_unique_nodes": av_unique_nodes
             }
 
+        na.write_permanent_data_json("../data/", basic)
+
         # na.generateDrawing()
         # generateComponentSizes doesn't work for directed graphs
         # na.generateComponentSizes()
-        if from_node:
-            na.d3dump("./public/data/", str(curr_time), augmentBasic)
-        else:
-            na.d3dump(None, str(curr_time), augmentBasic)
 
         output("Completed Analyzing: " + data_file)
 
@@ -117,10 +112,7 @@ class Runner:
                 net = NetworkParser(d)
                 output("Analyzing File " + data_file + ' at time ' + str(curr_time))
                 na = NetworkAnalysis(net.G, os.path.basename(data_file), output_path)
-                if from_node:
-                    na.d3dump("./public/data/", str(curr_time))
-                else:
-                    na.d3dump(None, str(curr_time))
+                na.d3dump("./public/data/" if from_node else "../public/data/", str(curr_time))
 
         output("Completed Analyzing: " + data_file)
 
@@ -129,26 +121,27 @@ class Runner:
         data_files = set()
         parse_set = get_data_files("./dataRaw").items() if from_node else get_data_files().items()
         for (k, v) in parse_set:
-            if self.time_series:  # If doing a time series, only worth checking out full stuff
+            if time_series:  # If doing a time series, only worth checking out full stuff
                 if k == 'full':
                     data_files.update(v)
                 else:
                     continue
 
             # Non-time series
-            if not self.current_only:
+            if not current_only:
                 data_files.update(v)
             elif k == 'current':
                 data_files.update(v)
-        if self.no_game:
-            data_files = {f for f in data_files if "nogamenolife" in f}
+        print(data_files)
+        if no_game:
+            data_files = {f for f in data_files if no_game_name in f}
 
         # Clear output
         if os.path.exists(output_path):
             shutil.rmtree(output_path)
 
         # Processing the data_files
-        if self.time_series:
+        if time_series:
             self.pool.map(Runner.time_process, data_files)
         else:
             self.pool.map(Runner.process_file, data_files)
@@ -159,18 +152,16 @@ class Runner:
 
 # Main method
 if __name__ == '__main__':
-    FROM_NODE = len(sys.argv) > 1
+    from_node = len(sys.argv) > 1
 
-    if FROM_NODE:
+    if from_node:
         output = lambda x: print(x)
     else:
         fileConfig('logging_config.ini')
         logger = logging.getLogger()
         output = lambda x: logger.debug(x)
+    output("FROM_NODE: " + str(from_node))
 
-    output("FROM_NODE: " + str(FROM_NODE))
-
-    from_node = FROM_NODE
     output_path = "./output/" if from_node else "../output/"
 
     Runner().main()  # Runs the actual processing.

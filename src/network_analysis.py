@@ -16,15 +16,13 @@ class NetworkAnalysis:
         self.G = G.copy()
         split = re.split('\\ /', fileName)
         fileName = split[0].split(".")[0]
-        self.fileName = fileName
+        self.fileName = str(fileName)
         self.outputPath = outputBase + fileName + "/"
         print(self.outputPath)
         if not os.path.exists(self.outputPath):
             os.makedirs(self.outputPath)
 
-    def d3dump(self, output=None, curr_time="", augment={}):
-        if output is None:
-            output = "../public/data/"
+    def d3dump(self, output, curr_time=""):
         print("output path: " + output)
         G = self.G.copy()
         # Augment Graph with Metadata
@@ -43,11 +41,6 @@ class NetworkAnalysis:
         except:
             pass
 
-        try:
-            data['basic'].update(augment)
-        except:
-            pass
-
         fileName = output + self.fileName + '_' + curr_time + ".json"
         fileName = re.sub(r"\s+", '-', fileName)
 
@@ -56,9 +49,23 @@ class NetworkAnalysis:
         with open(fileName, 'w') as f:
             json.dump(data, f, indent=4)
 
+        return data['basic']
+
+    def write_data_json(self, outfile, data):
+        with open(self.outputPath + outfile, 'w') as f:
+            json.dump(data, f, indent=2)
+
+    def write_permanent_data_json(self, output, data, tag=''):
+        fileName = output + self.fileName + ('_' + tag if tag != '' else '') + ".json"
+        fileName = re.sub(r"\s+", '-', fileName)
+        if not os.path.exists(output):
+            os.makedirs(output)
+        with open(fileName, 'w') as f:
+            json.dump(data, f, indent=2)
+
     def outputNodesAndEdges(self, nodesOut="nodes.txt", edgeOut="edges.txt"):
         with open(self.outputPath + nodesOut, "w", encoding="utf-8") as nodeOut, open(self.outputPath + edgeOut, "w",
-                                                                                      encoding="utf-8") as edgeOut:
+                encoding="utf-8") as edgeOut:
             node_to_degree = {}
             for e in self.G.edges():
                 edgeOut.write(str(e) + "\n")
@@ -111,7 +118,7 @@ class NetworkAnalysis:
 
         output.close()
         self.makePlot('Log Histogram of Degree Frequencies', 'log j', 'log n_j', logx, logy,
-                      self.outputPath + graphpath)
+            self.outputPath + graphpath)
 
     def generatePathLengths(self, start, graphpath="graphs/pathLengths.png"):
         paths = nx.single_source_dijkstra_path_length(self.G, start)
