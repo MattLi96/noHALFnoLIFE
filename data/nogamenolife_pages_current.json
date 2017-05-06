@@ -6,9 +6,9 @@
   "selfLinks": 1,
   "averagePathLength": 2.7028222730739895,
   "decentralized": {
-    "num_paths_found": 950,
-    "num_paths_missing": 50,
-    "average_decentralized_path_length": 16.44105263157895,
-    "average_num_unique_nodes": 11.797894736842105
+    "num_paths_found": 955,
+    "num_paths_missing": 45,
+    "average_decentralized_path_length": 16.453403141361257,
+    "average_num_unique_nodes": 11.950785340314136
   }
 }

@@ -13,11 +13,12 @@
     "type": "git",
     "url": "git+https://github.com/techlover10/cs6850project.git"
   },
-  "dependencies":{
+  "dependencies": {
     "express": "^4.13.1",
-    "python-shell": "*"
+    "python-shell": "*",
+    "child_process": "*"
   },
-  "devDependencies":{
+  "devDependencies": {
     "nodemon": "*",
     "split-file": "*",
     "unzip": "*"

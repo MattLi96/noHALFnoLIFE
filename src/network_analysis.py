@@ -2,7 +2,6 @@ import json
 import math
 import os
 import re
-import sys
 from collections import Counter
 from statistics import mean
 
@@ -44,7 +43,7 @@ class NetworkAnalysis:
         fileName = output + self.fileName + '_' + curr_time + ".json"
         fileName = re.sub(r"\s+", '-', fileName)
 
-        if not os.path.exists(output) and len(sys.argv) > 1:
+        if not os.path.exists(output):
             os.makedirs(output)
         with open(fileName, 'w') as f:
             json.dump(data, f, indent=4)
