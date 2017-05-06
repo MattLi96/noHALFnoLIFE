@@ -1,0 +1,14 @@
+{
+  "numNodes": 1291,
+  "numEdges": 13169,
+  "averageInDegree": 10.200619674670797,
+  "decentralized": {
+    "average_decentralized_path_length": 67.77505330490405,
+    "num_paths_found": 938,
+    "num_paths_missing": 62,
+    "average_num_unique_nodes": 44.217484008528785
+  },
+  "averageOutDegree": 10.200619674670797,
+  "averagePathLength": 2.9793485739619587,
+  "selfLinks": 0
+}
