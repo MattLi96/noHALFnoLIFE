@@ -5,7 +5,6 @@ import numpy as np
 from sklearn.cross_validation import train_test_split
 from sklearn.gaussian_process import GaussianProcessRegressor
 
-
 def retrieve_basic_dicts(dir, current_only=True):
     files = os.listdir(dir)
     only_current = list(filter(lambda x: "current" in x, files))
@@ -96,5 +95,10 @@ if __name__ == '__main__':
     # print(gpr.predict([1, 1170, 6.4, 2.7, 1200, 6.4]))
     
     grid, max = grid_search(gpr, 2)
+
+    print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
+    print(max)
+    print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
+
     with open('./grid_dump.json', 'w') as outfile:
         json.dump(grid, outfile)
