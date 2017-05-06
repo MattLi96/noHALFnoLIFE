@@ -57,7 +57,7 @@ class NetworkParser:
             for l in links:
                 if l in name_to_node and l not in link_set:
                     link_set.add(l)
-                    edge_list.append((node, name_to_node[l], {'rank': counter}))
+                    edge_list.append((node, name_to_node[l], {'page_loc': counter}))
                     counter += 1
             G.add_edges_from(edge_list)
 
