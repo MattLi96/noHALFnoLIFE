@@ -4,6 +4,8 @@ import os
 import numpy as np
 from sklearn.cross_validation import train_test_split
 from sklearn.gaussian_process import GaussianProcessRegressor
+from sklearn.linear_model import LogisticRegression
+from sklearn import metrics
 
 def retrieve_basic_dicts(dir, current_only=True):
     files = os.listdir(dir)
@@ -41,7 +43,7 @@ def convert_json_to_numpy(li):
 
 
 def grid_search(gpr, n_steps):
-    maxMins = [(0, 20), (100, 10000), (1, 10), (1, 10), (100, 20000), (1, 10)]
+    maxMins = [(0, 95), (200, 4000), (2, 22), (2, 7), (1000, 100000), (13, 22)]
     values = list(map(lambda x: x[0], maxMins))
 
     ret = {}
@@ -91,14 +93,32 @@ if __name__ == '__main__':
 
     gpr = GaussianProcessRegressor(kernel=None, normalize_y =True)
     gpr.fit(x_train, y_train)
+
+    print("Predicted: ", gpr.predict(x_test))
+    print("Actual: ", y_test)
+
+    print("Score on Test: ", gpr.score(x_test, y_test))
     print("Score on Validation: ", gpr.score(x_val, y_val))
-    # print(gpr.predict([1, 1170, 6.4, 2.7, 1200, 6.4]))
-    
-    grid, minY = grid_search(gpr, 2)
 
-    print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
-    print(minY)
-    print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
+    # Logistic regression
+    # regModel = LogisticRegression()
+    # regModel.fit(x_train, y_train)
+    # print("Score on Validation: ", regModel.score(x_train, y_train))
 
-    with open('./grid_dump.json', 'w') as outfile:
-        json.dump(grid, outfile)
+    # predicted = model2.predict(x_test)
+    # print("Predicted: ", predicted)
+    # print("Actual: ", y_test)
+
+    # probs = model2.predict_proba(x_test)
+
+    # print(metrics.accuracy_score(y_test, predicted))
+    # print(metrics.roc_auc_score(y_test, probs[:, 1]))
+
+    # grid, minY = grid_search(gpr, 2)
+
+    # print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
+    # print(minY)
+    # print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
+
+    # with open('./grid_dump.json', 'w') as outfile:
+    #     json.dump(grid, outfile)
