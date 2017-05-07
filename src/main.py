@@ -112,7 +112,7 @@ class Runner:
                 net = NetworkParser(d)
                 output("Analyzing File " + data_file + ' at time ' + str(curr_time))
                 na = NetworkAnalysis(net.G, os.path.basename(data_file), output_path)
-                na.d3dump("../public/data/", str(curr_time))
+                basic = na.d3dump("../public/data/", str(curr_time))
 
                 # Run Decentralized Search
                 if decentralized_search_settings["run_decentralized_search"]:
@@ -136,7 +136,7 @@ class Runner:
                         "average_num_unique_nodes": av_unique_nodes
                     }
 
-                na.write_permanent_data_json("../data/", basic, tag=curr_time)
+                na.write_permanent_data_json("../data/", basic, tag=str(curr_time))
 
         output("Completed Analyzing: " + data_file)
 
