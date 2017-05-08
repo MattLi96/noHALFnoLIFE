@@ -15,7 +15,7 @@ from network_parser import NetworkParser
 from settings import *
 from xml_parser import XMLParser
 
-SNAPSHOT_TIME = "2015-12-05T02:20:10Z"
+SNAPSHOT_TIME = dt.datetime.now()
 OLDEST_TIME = dt.datetime(2000, 1, 1)
 ONE_YEAR = 365
 ONE_MONTH = 30
@@ -42,7 +42,7 @@ def get_data_files(dir_path=None):
 
 
 def get_time():
-    return dt.datetime.strptime(SNAPSHOT_TIME, '%Y-%m-%dT%H:%M:%SZ')
+    return SNAPSHOT_TIME
 
 
 # basically a class so we can have a thread pool
@@ -64,7 +64,7 @@ class Runner:
         na.outputNodesAndEdges()
         na.nodeRemoval()
 
-        basic = na.d3dump("../public/data/", str(curr_time))
+        basic = na.d3dump(public_out_path, str(curr_time))
 
         # Run Decentralized Search
         if decentralized_search_settings["run_decentralized_search"]:
@@ -120,6 +120,10 @@ class Runner:
         # Clear output
         if os.path.exists(output_path):
             shutil.rmtree(output_path)
+        os.makedirs(output_path)
+        if os.path.exists(public_out_path):
+            shutil.rmtree(public_out_path)
+        os.makedirs(public_out_path)
 
         # Setting datafiles to the correct files
         data_files = set()
@@ -136,7 +140,6 @@ class Runner:
                 data_files.update(v)
             elif k == 'current':
                 data_files.update(v)
-        print(data_files)
         if no_game:
             data_files = {f for f in data_files if no_game_name in f}
 

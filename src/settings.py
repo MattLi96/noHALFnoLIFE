@@ -14,6 +14,7 @@ decentralized_search_settings = {
 }
 
 output_path = "../output/"
+public_out_path = "../public/data/"
 
 current_only = True  # Only use current files. Has no effect in time series mode
 no_game = True  # Only use the no game no life wiki. Intended for testing

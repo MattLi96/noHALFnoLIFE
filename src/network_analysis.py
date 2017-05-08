@@ -22,7 +22,6 @@ class NetworkAnalysis:
             os.makedirs(self.outputPath)
 
     def d3dump(self, output, curr_time=""):
-        print("output path: " + output)
         G = self.G.copy()
         # Augment Graph with Metadata
         for ix, deg in G.degree().items():
