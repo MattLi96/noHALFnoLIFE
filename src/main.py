@@ -5,7 +5,6 @@ import datetime as dt
 import logging
 import os
 import shutil
-import sys
 from logging.config import fileConfig
 from multiprocessing import Pool
 
@@ -89,7 +88,7 @@ class Runner:
                 "average_num_unique_nodes": av_unique_nodes
             }
 
-        na.write_permanent_data_json("../data/", basic)
+            na.write_permanent_data_json("../data/", basic)  # write out decentralized results
 
         # na.generateDrawing()
         # generateComponentSizes doesn't work for directed graphs
@@ -117,6 +116,10 @@ class Runner:
         output("Completed Analyzing: " + data_file)
 
     def main(self):
+        # Clear output
+        if os.path.exists(output_path):
+            shutil.rmtree(output_path)
+
         # Setting datafiles to the correct files
         data_files = set()
         parse_set = get_data_files().items()
@@ -136,10 +139,6 @@ class Runner:
         if no_game:
             data_files = {f for f in data_files if no_game_name in f}
 
-        # Clear output
-        if os.path.exists(output_path):
-            shutil.rmtree(output_path)
-
         # Processing the data_files
         if time_series:
             self.pool.map(Runner.time_process, data_files)
@@ -154,8 +153,6 @@ class Runner:
 if __name__ == '__main__':
     fileConfig('logging_config.ini')
     logger = logging.getLogger()
-    output = lambda x: logger.debug(x)\
-
-    output_path = "../output/"
+    output = lambda x: logger.debug(x)
 
     Runner().main()  # Runs the actual processing.
