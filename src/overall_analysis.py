@@ -1,11 +1,11 @@
 import json
 import os
 
+import matplotlib.pyplot as plt
 import numpy as np
 from sklearn.cross_validation import train_test_split
 from sklearn.gaussian_process import GaussianProcessRegressor
-from sklearn.linear_model import LogisticRegression
-from sklearn import metrics
+
 
 def retrieve_basic_dicts(dir, current_only=True):
     files = os.listdir(dir)
@@ -61,7 +61,7 @@ def grid_search(gpr, n_steps):
                         values[5] = maxMins[5][0]
                         while values[5] <= maxMins[5][1]:
                             testPt = np.array(values)
-                            yres, sig= gpr.predict(testPt, return_std=True)
+                            yres, sig = gpr.predict(testPt, return_std=True)
                             k = str(testPt)
 
                             if np.asscalar(yres) < minY[1]:
@@ -71,14 +71,40 @@ def grid_search(gpr, n_steps):
                                 "pred": np.asscalar(yres),
                                 "deviation": np.asscalar(sig)
                             }
-                            values[5] += float(maxMins[5][0]+maxMins[5][1])/n_steps
-                        values[4] += float(maxMins[4][0]+maxMins[4][1])/n_steps
-                    values[3] += float(maxMins[5][0]+maxMins[3][1])/n_steps
-                values[2] += float(maxMins[2][0]+maxMins[2][1])/n_steps
-            values[1] += float(maxMins[1][0]+maxMins[1][1])/n_steps
-        values[0] += float(maxMins[0][0]+maxMins[0][1])/n_steps
+                            values[5] += float(maxMins[5][0] + maxMins[5][1]) / n_steps
+                        values[4] += float(maxMins[4][0] + maxMins[4][1]) / n_steps
+                    values[3] += float(maxMins[5][0] + maxMins[3][1]) / n_steps
+                values[2] += float(maxMins[2][0] + maxMins[2][1]) / n_steps
+            values[1] += float(maxMins[1][0] + maxMins[1][1]) / n_steps
+        values[0] += float(maxMins[0][0] + maxMins[0][1]) / n_steps
 
     return ret, minY
+
+
+def visualize(x, y):
+    pass
+
+
+def makePlot(title, xaxis, yaxis, xdata, ydata, out_path):
+    fig = plt.figure()
+    fig.suptitle(title, fontsize=14, fontweight='bold')
+
+    ax = fig.add_subplot(111)
+    fig.subplots_adjust(top=0.85)
+
+    ax.set_xlabel(xaxis)
+    ax.set_ylabel(yaxis)
+
+    ax.scatter(x=xdata, y=ydata)
+    plt.scatter(x=xdata, y=ydata)
+
+    directory = os.path.dirname(out_path)
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+
+    plt.savefig(out_path)
+    plt.close()
+
 
 if __name__ == '__main__':
     path_reg = True
@@ -91,7 +117,7 @@ if __name__ == '__main__':
     x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2)
     x_test, x_val, y_test, y_val = train_test_split(x_test, y_test, test_size=0.5)
 
-    gpr = GaussianProcessRegressor(kernel=None, normalize_y =True)
+    gpr = GaussianProcessRegressor(kernel=None, normalize_y=True)
     gpr.fit(x_train, y_train)
 
     print("Predicted: ", gpr.predict(x_test))
