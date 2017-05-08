@@ -3,16 +3,13 @@ import os
 
 import matplotlib.pyplot as plt
 import numpy as np
+from sklearn import linear_model
 from sklearn.cross_validation import train_test_split
+from sklearn.ensemble import AdaBoostRegressor
 from sklearn.gaussian_process import GaussianProcessRegressor
-from sklearn.linear_model import LogisticRegression
 from sklearn.neighbors import KNeighborsRegressor
 from sklearn.tree import DecisionTreeRegressor
 
-from sklearn.ensemble import AdaBoostRegressor
-
-from sklearn import linear_model
-from sklearn import metrics
 
 def retrieve_basic_dicts(dir, current_only=True):
     files = os.listdir(dir)
@@ -68,7 +65,7 @@ def grid_search(gpr, n_steps):
                         values[5] = maxMins[5][0]
                         while values[5] <= maxMins[5][1]:
                             testPt = np.array(values)
-                            yres= gpr.predict(testPt)
+                            yres = gpr.predict(testPt)
                             k = str(testPt)
 
                             if np.asscalar(yres) < minY[1]:
@@ -77,14 +74,15 @@ def grid_search(gpr, n_steps):
                             ret[k] = {
                                 "pred": np.asscalar(yres)
                             }
-                            values[5] += float(maxMins[5][0]+maxMins[5][1])/n_steps
-                        values[4] += float(maxMins[4][0]+maxMins[4][1])/n_steps
-                    values[3] += float(maxMins[5][0]+maxMins[3][1])/n_steps
-                values[2] += float(maxMins[2][0]+maxMins[2][1])/n_steps
-            values[1] += float(maxMins[1][0]+maxMins[1][1])/n_steps
-        values[0] += float(maxMins[0][0]+maxMins[0][1])/n_steps
+                            values[5] += float(maxMins[5][0] + maxMins[5][1]) / n_steps
+                        values[4] += float(maxMins[4][0] + maxMins[4][1]) / n_steps
+                    values[3] += float(maxMins[5][0] + maxMins[3][1]) / n_steps
+                values[2] += float(maxMins[2][0] + maxMins[2][1]) / n_steps
+            values[1] += float(maxMins[1][0] + maxMins[1][1]) / n_steps
+        values[0] += float(maxMins[0][0] + maxMins[0][1]) / n_steps
 
     return ret, minY
+
 
 def linearReg(x_train, y_train, x_test, y_test):
     # LINEAR ATTEMPT
@@ -107,8 +105,9 @@ def linearReg(x_train, y_train, x_test, y_test):
 
     return regr
 
+
 def gpr(x_train, y_train, x_test, y_test):
-    gpr = GaussianProcessRegressor(kernel=None, normalize_y =True)
+    gpr = GaussianProcessRegressor(kernel=None, normalize_y=True)
     gpr.fit(x_train, y_train)
 
     print("Predicted: ", gpr.predict(x_test))
@@ -119,6 +118,7 @@ def gpr(x_train, y_train, x_test, y_test):
 
     return gpr
 
+
 def knn(x_train, y_train, x_test, y_test):
     knn = KNeighborsRegressor(3, 'distance', algorithm='auto')
     knn.fit(x_train, y_train)
@@ -128,19 +128,20 @@ def knn(x_train, y_train, x_test, y_test):
 
     return knn
 
+
 def jiggle(x_train, y_train, epsilon):
     n, d = x_train.shape
 
-    new_x = np.zeros((3*n, d))
-    new_y = np.zeros(3*n)
+    new_x = np.zeros((3 * n, d))
+    new_y = np.zeros(3 * n)
 
     for i in range(0, n):
         new_x[i] = x_train[i]
         new_y[i] = y_train[i]
 
-    for i in range(n, 3*n, 2):
-        dim = random.randint(0, d-1)
-        cop = random.randint(0, n-1)
+    for i in range(n, 3 * n, 2):
+        dim = random.randint(0, d - 1)
+        cop = random.randint(0, n - 1)
 
         toadd = np.zeros(d)
         toadd[dim] += epsilon
@@ -148,16 +149,16 @@ def jiggle(x_train, y_train, epsilon):
         new_x[i] = x_train[cop] + toadd
         new_y[i] = y_train[cop]
 
-        new_x[i+1] = x_train[cop] - toadd
-        new_y[i+1] = y_train[cop]
-
+        new_x[i + 1] = x_train[cop] - toadd
+        new_y[i + 1] = y_train[cop]
 
     return new_x, new_y
+
 
 def BOOSTING(x_train, y_train, x_test, y_test):
     rng = np.random.RandomState(1)
     regr = AdaBoostRegressor(DecisionTreeRegressor(max_depth=4),
-                          n_estimators=3000, random_state=rng)
+        n_estimators=3000, random_state=rng)
     # Train the model using the training sets
     regr.fit(x_train, y_train)
     print("Predictions: ", regr.predict(x_test))
@@ -217,7 +218,7 @@ if __name__ == '__main__':
     with open('./grid_dump.json', 'w') as outfile:
         json.dump(grid, outfile)
 
-    #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
     # Logistic regression
     # regModel = LogisticRegression()
@@ -242,4 +243,4 @@ if __name__ == '__main__':
     # with open('./grid_dump.json', 'w') as outfile:
     #     json.dump(grid, outfile)
 
-    #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
