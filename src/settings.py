@@ -1,4 +1,5 @@
-#!/usr/bin/env python3
+import os
+
 category_hierarchical_model_settings = {
     "similarity_matrix_type": "cooccurrence",
     "max_branching_factor_root": 1  # specifies the root for the max branching factor function (max branching factor
@@ -23,4 +24,5 @@ time_series = False  # If true do time series. Otherwise process file
 
 generate_data = False
 
-threads = 16
+cpu = os.cpu_count() if os.cpu_count() else 4
+threads = cpu  # Adjust depending on how CPU/RAM intensive task is

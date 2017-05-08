@@ -48,8 +48,8 @@ def get_time():
 # basically a class so we can have a thread pool
 class Runner:
     def __init__(self):
-        self.threads = threads
-        self.pool = Pool(threads)
+        self.pool = Pool(threads, maxtasksperchild=1)
+        output(str(threads) + " Threads")
 
     @staticmethod
     def process_file(data_file):
