@@ -62,7 +62,7 @@ def makePlot(title, xaxis, yaxis, xdata, ydata, out):
 
 
 if __name__ == '__main__':
-    listed_data = retrieve_basic_dicts("../data/")
+    listed_data = retrieve_basic_dicts(DATA_PATH)
 
     if os.path.exists(OUTPUT_PATH):
         shutil.rmtree(OUTPUT_PATH)
