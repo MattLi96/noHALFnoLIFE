@@ -70,15 +70,14 @@ def grid_search(gpr, n_steps):
                         values[5] = maxMins[5][0]
                         while values[5] <= maxMins[5][1]:
                             testPt = np.array(values)
-                            yres, sig= gpr.predict(testPt, return_std=True)
+                            yres= gpr.predict(testPt)
                             k = str(testPt)
 
                             if np.asscalar(yres) < minY[1]:
                                 minY = (k, np.asscalar(yres))
 
                             ret[k] = {
-                                "pred": np.asscalar(yres),
-                                "deviation": np.asscalar(sig)
+                                "pred": np.asscalar(yres)
                             }
                             values[5] += float(maxMins[5][0]+maxMins[5][1])/n_steps
                         values[4] += float(maxMins[4][0]+maxMins[4][1])/n_steps
@@ -108,6 +107,8 @@ def linearReg(x_train, y_train, x_test, y_test):
     print("Predictions: ", regr.predict(x_test))
     print("Actual: ", y_test)
 
+    return regr
+
 def gpr(x_train, y_train, x_test, y_test):
     gpr = GaussianProcessRegressor(kernel=None, normalize_y =True)
     gpr.fit(x_train, y_train)
@@ -118,12 +119,16 @@ def gpr(x_train, y_train, x_test, y_test):
     print("Score on Test: ", gpr.score(x_test, y_test))
     print("Score on Validation: ", gpr.score(x_val, y_val))
 
+    return gpr
+
 def knn(x_train, y_train, x_test, y_test):
     knn = KNeighborsRegressor(3, 'distance', algorithm='auto')
     knn.fit(x_train, y_train)
 
     print("Predictions: ", knn.predict(x_test))
     print("Actual: ", y_test)
+
+    return knn
 
 def jiggle(x_train, y_train, epsilon):
     n, d = x_train.shape
@@ -154,11 +159,13 @@ def jiggle(x_train, y_train, epsilon):
 def BOOSTING(x_train, y_train, x_test, y_test):
     rng = np.random.RandomState(1)
     regr = AdaBoostRegressor(DecisionTreeRegressor(max_depth=4),
-                          n_estimators=2700, random_state=rng)
+                          n_estimators=3000, random_state=rng)
     # Train the model using the training sets
     regr.fit(x_train, y_train)
     print("Predictions: ", regr.predict(x_test))
     print("Actual: ", y_test)
+
+    return regr
 
 if __name__ == '__main__':
     path_reg = True
@@ -180,7 +187,11 @@ if __name__ == '__main__':
     # print("jiggle")
     # knn(jiggled_x, jiggled_y, x_test, y_test)
 
-    BOOSTING(x_train, y_train, x_test, y_test)
+    regr = BOOSTING(x_train, y_train, x_test, y_test)
+    grid, minY = grid_search(regr, 2)
+    print(minY)
+    with open('./grid_dump.json', 'w') as outfile:
+        json.dump(grid, outfile)
 
     #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
