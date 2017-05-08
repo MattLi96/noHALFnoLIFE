@@ -88,6 +88,7 @@ class Runner:
                 "average_num_unique_nodes": av_unique_nodes
             }
 
+        if generate_data:
             na.write_permanent_data_json("../data/", basic)  # write out decentralized results
 
         # na.generateDrawing()

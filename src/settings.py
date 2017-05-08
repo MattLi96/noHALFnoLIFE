@@ -10,13 +10,16 @@ decentralized_search_settings = {
     "hierarchy_nodes_only": True,
     "widen_search": False,
     "apply_weighted_score": True,
-    "plots": False
+    "plots": True,
 }
+
 output_path = "../output/"
 
 current_only = True  # Only use current files. Has no effect in time series mode
-no_game = False  # Only use the no game no life wiki. Intended for testing
+no_game = True  # Only use the no game no life wiki. Intended for testing
 no_game_name = "nogamenolife"
 time_series = False  # If true do time series. Otherwise process file\
+
+generate_data = False
 
 threads = 16
