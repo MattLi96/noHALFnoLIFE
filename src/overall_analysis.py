@@ -5,7 +5,10 @@ import numpy as np
 from sklearn.cross_validation import train_test_split
 from sklearn.gaussian_process import GaussianProcessRegressor
 from sklearn.linear_model import LogisticRegression
+from sklearn import linear_model
 from sklearn import metrics
+
+import matplotlib.pyplot as plt
 
 def retrieve_basic_dicts(dir, current_only=True):
     files = os.listdir(dir)
@@ -91,14 +94,17 @@ if __name__ == '__main__':
     x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2)
     x_test, x_val, y_test, y_val = train_test_split(x_test, y_test, test_size=0.5)
 
-    gpr = GaussianProcessRegressor(kernel=None, normalize_y =True)
-    gpr.fit(x_train, y_train)
+    # gpr = GaussianProcessRegressor(kernel=None, normalize_y =True)
+    # gpr.fit(x_train, y_train)
 
-    print("Predicted: ", gpr.predict(x_test))
-    print("Actual: ", y_test)
+    # print("Predicted: ", gpr.predict(x_test))
+    # print("Actual: ", y_test)
 
-    print("Score on Test: ", gpr.score(x_test, y_test))
-    print("Score on Validation: ", gpr.score(x_val, y_val))
+    # print("Score on Test: ", gpr.score(x_test, y_test))
+    # print("Score on Validation: ", gpr.score(x_val, y_val))
+
+
+    #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
     # Logistic regression
     # regModel = LogisticRegression()
@@ -122,3 +128,23 @@ if __name__ == '__main__':
 
     # with open('./grid_dump.json', 'w') as outfile:
     #     json.dump(grid, outfile)
+
+    #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+    # LINEAR ATTEMPT
+    # Create linear regression object
+    regr = linear_model.LinearRegression()
+
+    # Train the model using the training sets
+    regr.fit(x_train, y_train)
+
+    # The coefficients
+    print('Coefficients: \n', regr.coef_)
+    # The mean squared error
+    print("Mean squared error: %.2f"
+          % np.mean((regr.predict(x_test) - y_test) ** 2))
+    # Explained variance score: 1 is perfect prediction
+    print('Variance score: %.2f' % regr.score(x_test, y_test))
+
+    print("Predictions: ", regr.predict(x_test))
+    print("Actual: ", y_test)
