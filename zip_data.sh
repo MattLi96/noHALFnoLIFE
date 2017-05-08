@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 
-force=false
 zip=false
 unzip=false
 ignore=false
@@ -12,9 +11,6 @@ while getopts ":zufi" opt; do
         u) # unzip all data
             unzip=true
             ;;
-        f) # Currently does nothing
-            force=true
-            ;;
         i) # Ignore the current contents of the zipped folder. Use if data is corrupted
             ignore=true
             ;;
@@ -24,25 +20,26 @@ while getopts ":zufi" opt; do
 done
 
 pushd dataRaw
+rm -f zipped.7z
 if ! ${ignore} ; then
     pushd zipped
-    cat x* > zipped.zip
-    mv -f zipped.zip ..
+    cat x* > zipped.7z
+    mv -f zipped.7z ..
     popd
 fi
 
 if ${zip} ; then
-    zip zipped.zip *.xml
-    mv -f zipped.zip zipped
+    7z u -mx=9 zipped.7z *.xml
+    mv -f zipped.7z zipped
 
     pushd zipped
     rm -f x*
-    split -a 3 -b 90m zipped.zip
-    mv -f zipped.zip ..
+    split -a 3 -b 90m zipped.7z
+    mv -f zipped.7z ..
     git add x*
     popd
 fi
 
 if ${unzip} ; then
-    unzip zipped.zip
+    7z e zipped.7z
 fi
