@@ -1,13 +1,12 @@
-import os
 import random
 from collections import Counter
 
-import matplotlib.pyplot as plt
 import networkx as nx
 
 
 class HierarchicalDecentralizedSearch:
-    def __init__(self, G, hierarchy, detailed_print=True, hierarchy_nodes_only=True, apply_weighted_score=False):
+    def __init__(self, G, hierarchy, network_analysis, detailed_print=True, hierarchy_nodes_only=True,
+                 apply_weighted_score=False):
         """
         Initializations for hierarchy-based decentralized search, which requires a graph of nodes and a hierarchy
         that expresses "distance" between any pair of nodes
@@ -24,6 +23,7 @@ class HierarchicalDecentralizedSearch:
                   " of " + str(total_nodes) + " nodes)")
 
         self.hierarchy = hierarchy
+        self.network_analysis = network_analysis
         self.detailed_print = detailed_print
         self.apply_weighted_score = apply_weighted_score
 
@@ -202,15 +202,11 @@ class HierarchicalDecentralizedSearch:
             cdf[i] = sum(ydata[:i + 1])
 
         if plots:
-            self.makePlot("Decentralized Path Distribution (" + str(widen_target) + ")", "Path Length", "Occurances",
-                xdata, ydata, "./derp.png")
-            self.makePlot("CDF of Decentralized Path Distribution (" + str(widen_target) + ")", "Path Length",
-                "Occurances", xdata, cdf, "./derp2.png")
-            with open('./cdfdump.json', 'w') as out:
-                print(xdata)
-                print(ydata)
-                print(list(zip(xdata, cdf)))
-                out.write('\n'.join('%s %s' % x for x in zip(xdata, cdf)))
+            self.network_analysis.makePlot("Decentralized Path Distribution (" + str(widen_target) + ")", "Path Length",
+                "Occurances", xdata, ydata, "path_pdf.png")
+            self.network_analysis.makePlot("CDF of Decentralized Path Distribution (" + str(widen_target) + ")",
+                "Path Length", "Occurances", xdata, cdf, "path_cdf.png")
+            self.network_analysis.write_data_json("cdfdump.json", dict(zip(xdata, cdf)))
 
         # Calculate mean unique nodes for each path
         mean_unique_nodes = 0.0
@@ -223,23 +219,3 @@ class HierarchicalDecentralizedSearch:
         print("Mean Path Length of Decentralized Search:", mean_path_length)
         print("Mean Unique Nodes of Path of Decentralized Search:", mean_unique_nodes)
         return num_paths_found, len(decentralized_search_paths) - num_paths_found, mean_path_length, mean_unique_nodes
-
-    def makePlot(self, title, xaxis, yaxis, xdata, ydata, path):
-        fig = plt.figure()
-        fig.suptitle(title, fontsize=14, fontweight='bold')
-
-        ax = fig.add_subplot(111)
-        fig.subplots_adjust(top=0.85)
-
-        ax.set_xlabel(xaxis)
-        ax.set_ylabel(yaxis)
-
-        ax.scatter(x=xdata, y=ydata)
-        plt.scatter(x=xdata, y=ydata)
-
-        directory = os.path.dirname(path)
-        if not os.path.exists(directory):
-            os.makedirs(directory)
-
-        plt.savefig(path)
-        plt.close()
