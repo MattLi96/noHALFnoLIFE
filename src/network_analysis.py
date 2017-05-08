@@ -17,12 +17,10 @@ class NetworkAnalysis:
         fileName = split[0].split(".")[0]
         self.fileName = str(fileName)
         self.outputPath = outputBase + fileName + "/"
-        print(self.outputPath)
         if not os.path.exists(self.outputPath):
             os.makedirs(self.outputPath)
 
     def d3dump(self, output, curr_time=""):
-        print("output path: " + output)
         G = self.G.copy()
         # Augment Graph with Metadata
         for ix, deg in G.degree().items():
@@ -116,8 +114,7 @@ class NetworkAnalysis:
                 logy.append(math.log(freq))
 
         output.close()
-        self.makePlot('Log Histogram of Degree Frequencies', 'log j', 'log n_j', logx, logy,
-            self.outputPath + graphpath)
+        self.makePlot('Log Histogram of Degree Frequencies', 'log j', 'log n_j', logx, logy, graphpath)
 
     def generatePathLengths(self, start, graphpath="graphs/pathLengths.png"):
         paths = nx.single_source_dijkstra_path_length(self.G, start)
@@ -132,7 +129,7 @@ class NetworkAnalysis:
                 output3.write(str(i) + " " + str(C[i]) + "\n")
                 x.append(i)
                 y.append(C[i])
-        self.makePlot("Nodes at Distance j", 'j', 'r_j', x, y, self.outputPath + graphpath)
+        self.makePlot("Nodes at Distance j", 'j', 'r_j', x, y, graphpath)
 
     def getAveragePathLength(self):
         try:
@@ -157,7 +154,7 @@ class NetworkAnalysis:
         ax.scatter(x=xdata, y=ydata)
         plt.scatter(x=xdata, y=ydata)
 
-        self.outputPlt(path)
+        self.outputPlt(self.outputPath + path)
 
     def outputPlt(self, path):
         directory = os.path.dirname(path)
@@ -224,12 +221,7 @@ class NetworkAnalysis:
             res[i] = startingPt
             i += 1
 
-        fileName = self.outputPath + "nodeRemove.json"
-
-        print(fileName)
-        with open(fileName, 'w') as f:
-            json.dump(res, f, indent=4)
-
+        self.write_data_json("nodeRemove.json", res)
         return res
 
 

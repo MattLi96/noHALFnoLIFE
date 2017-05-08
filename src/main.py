@@ -5,7 +5,6 @@ import datetime as dt
 import logging
 import os
 import shutil
-import sys
 from logging.config import fileConfig
 from multiprocessing import Pool
 
@@ -16,7 +15,7 @@ from network_parser import NetworkParser
 from settings import *
 from xml_parser import XMLParser
 
-SNAPSHOT_TIME = "2015-12-05T02:20:10Z"
+SNAPSHOT_TIME = dt.datetime.now()
 OLDEST_TIME = dt.datetime(2000, 1, 1)
 ONE_YEAR = 365
 ONE_MONTH = 30
@@ -43,14 +42,14 @@ def get_data_files(dir_path=None):
 
 
 def get_time():
-    return dt.datetime.strptime(SNAPSHOT_TIME, '%Y-%m-%dT%H:%M:%SZ')
+    return SNAPSHOT_TIME
 
 
 # basically a class so we can have a thread pool
 class Runner:
     def __init__(self):
-        self.threads = threads
-        self.pool = Pool(threads)
+        self.pool = Pool(threads, maxtasksperchild=1)
+        output(str(threads) + " Threads")
 
     @staticmethod
     def process_file(data_file):
@@ -65,7 +64,7 @@ class Runner:
         na.outputNodesAndEdges()
         na.nodeRemoval()
 
-        basic = na.d3dump("../public/data/", str(curr_time))
+        basic = na.d3dump(public_out_path, str(curr_time))
 
         # Run Decentralized Search
         if decentralized_search_settings["run_decentralized_search"]:
@@ -74,7 +73,7 @@ class Runner:
                 max_branching_factor_root=category_hierarchical_model_settings["max_branching_factor_root"]
             )
             category_hierarchy.build_hierarchical_model()
-            decentralized_search_model = HierarchicalDecentralizedSearch(net.G, category_hierarchy.hierarchy,
+            decentralized_search_model = HierarchicalDecentralizedSearch(net.G, category_hierarchy.hierarchy, na,
                 detailed_print=decentralized_search_settings["detailed_print"],
                 hierarchy_nodes_only=decentralized_search_settings["hierarchy_nodes_only"],
                 apply_weighted_score=decentralized_search_settings["apply_weighted_score"],
@@ -89,7 +88,8 @@ class Runner:
                 "average_num_unique_nodes": av_unique_nodes
             }
 
-        na.write_permanent_data_json("../data/", basic)
+        if generate_data:
+            na.write_permanent_data_json("../data/", basic)  # write out decentralized results
 
         # na.generateDrawing()
         # generateComponentSizes doesn't work for directed graphs
@@ -117,6 +117,14 @@ class Runner:
         output("Completed Analyzing: " + data_file)
 
     def main(self):
+        # Clear output
+        if os.path.exists(output_path):
+            shutil.rmtree(output_path)
+        os.makedirs(output_path)
+        if os.path.exists(public_out_path):
+            shutil.rmtree(public_out_path)
+        os.makedirs(public_out_path)
+
         # Setting datafiles to the correct files
         data_files = set()
         parse_set = get_data_files().items()
@@ -132,13 +140,8 @@ class Runner:
                 data_files.update(v)
             elif k == 'current':
                 data_files.update(v)
-        print(data_files)
         if no_game:
             data_files = {f for f in data_files if no_game_name in f}
-
-        # Clear output
-        if os.path.exists(output_path):
-            shutil.rmtree(output_path)
 
         # Processing the data_files
         if time_series:
@@ -154,8 +157,6 @@ class Runner:
 if __name__ == '__main__':
     fileConfig('logging_config.ini')
     logger = logging.getLogger()
-    output = lambda x: logger.debug(x)\
-
-    output_path = "../output/"
+    output = lambda x: logger.debug(x)
 
     Runner().main()  # Runs the actual processing.
