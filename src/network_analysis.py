@@ -17,7 +17,6 @@ class NetworkAnalysis:
         fileName = split[0].split(".")[0]
         self.fileName = str(fileName)
         self.outputPath = outputBase + fileName + "/"
-        print(self.outputPath)
         if not os.path.exists(self.outputPath):
             os.makedirs(self.outputPath)
 
