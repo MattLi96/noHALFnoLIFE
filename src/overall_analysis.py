@@ -167,31 +167,6 @@ def BOOSTING(x_train, y_train, x_test, y_test):
     return regr
 
 
-def visualize(x, y):
-    pass
-
-
-def makePlot(title, xaxis, yaxis, xdata, ydata, out_path):
-    fig = plt.figure()
-    fig.suptitle(title, fontsize=14, fontweight='bold')
-
-    ax = fig.add_subplot(111)
-    fig.subplots_adjust(top=0.85)
-
-    ax.set_xlabel(xaxis)
-    ax.set_ylabel(yaxis)
-
-    ax.scatter(x=xdata, y=ydata)
-    plt.scatter(x=xdata, y=ydata)
-
-    directory = os.path.dirname(out_path)
-    if not os.path.exists(directory):
-        os.makedirs(directory)
-
-    plt.savefig(out_path)
-    plt.close()
-
-
 if __name__ == '__main__':
     path_reg = True
 
