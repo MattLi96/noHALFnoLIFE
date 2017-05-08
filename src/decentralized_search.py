@@ -69,6 +69,8 @@ class HierarchicalDecentralizedSearch:
         target_zone.add(node2)
 
         if widen_target:
+            # If you know the neighbors
+            # target_zone.update(self.G.predecessors(node2))
             all_nodes = list(map(lambda x: (x, self.get_hierarchy_distance(x, node2)), self.G.nodes()))
             sorted_by_hierarchy = sorted(all_nodes, key=lambda tup: tup[1])
             for i in range(0, 3):
@@ -76,8 +78,6 @@ class HierarchicalDecentralizedSearch:
                     print(sorted_by_hierarchy[i])
                 target_zone.add(sorted_by_hierarchy[i][0])
 
-                # If you know the neighbors
-                # target_zone.update(self.G.neighbors(node2))
         if self.detailed_print:
             print("TARGET ZONE: " + str(target_zone))
 
@@ -139,7 +139,7 @@ class HierarchicalDecentralizedSearch:
             unique_pages.add(current_node)
         return (decentralized_search_path, unique_pages)
 
-    def run_decentralized_search(self, num_times, widen_target, plots=False):
+    def run_decentralized_search(self, num_times, widen_target, plots):
         """
         Runs decentralized search the specified number of times (num_times) by randomly selecting a pair of nodes
         for each run
@@ -202,10 +202,10 @@ class HierarchicalDecentralizedSearch:
             cdf[i] = sum(ydata[:i + 1])
 
         if plots:
-            self.network_analysis.makePlot("Decentralized Path Distribution (" + str(widen_target) + ")", "Path Length",
-                "Occurances", xdata, ydata, "path_pdf.png")
-            self.network_analysis.makePlot("CDF of Decentralized Path Distribution (" + str(widen_target) + ")",
-                "Path Length", "Occurances", xdata, cdf, "path_cdf.png")
+            self.network_analysis.makePlot("Decentralized Path Distribution", "Path Length", "Occurances", xdata, ydata,
+                "path_pdf.png")
+            self.network_analysis.makePlot("CDF of Decentralized Path Distribution", "Path Length", "Occurances", xdata,
+                cdf, "path_cdf.png")
             self.network_analysis.write_data_json("cdfdump.json", dict(zip(xdata, cdf)))
 
         # Calculate mean unique nodes for each path
