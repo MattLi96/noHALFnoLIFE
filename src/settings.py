@@ -22,7 +22,7 @@ no_game = True  # Only use the no game no life wiki. Intended for testing
 no_game_name = "nogamenolife"
 time_series = False  # If true do time series. Otherwise process file
 
-generate_data = False  # True to generate data folder items
+generate_data = True  # True to generate data folder items
 
 cpu = os.cpu_count() if os.cpu_count() else 4
 threads = cpu  # Adjust depending on how CPU/RAM intensive task is
