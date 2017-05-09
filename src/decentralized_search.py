@@ -139,7 +139,7 @@ class HierarchicalDecentralizedSearch:
             last_node = current_node
             current_node = min_distance_node
             unique_pages.add(current_node)
-        return (decentralized_search_path, unique_pages)
+        return decentralized_search_path, unique_pages
 
     def run_decentralized_search(self, num_times, widen_target, plots):
         """
