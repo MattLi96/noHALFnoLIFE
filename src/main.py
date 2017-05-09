@@ -3,7 +3,6 @@
 
 import datetime as dt
 import logging
-import os
 import shutil
 from logging.config import fileConfig
 from multiprocessing import Pool
@@ -81,12 +80,12 @@ class Runner:
             n_found, n_missing, av_path_len, av_unique_nodes = decentralized_search_model.run_decentralized_search(1000,
                 decentralized_search_settings["widen_search"], decentralized_search_settings["plots"])
 
-            basic["decentralized"] = {
-                "num_paths_found": n_found,
-                "num_paths_missing": n_missing,
-                "average_decentralized_path_length": av_path_len,
-                "average_num_unique_nodes": av_unique_nodes
-            }
+            basic.update({
+                "decentralized_num_paths_found": n_found,
+                "decentralized_num_paths_missing": n_missing,
+                "decentralized_average_decentralized_path_length": av_path_len,
+                "decentralized_average_num_unique_nodes": av_unique_nodes
+            })
 
         if generate_data:
             na.write_permanent_data_json("../data/", basic)  # write out decentralized results
