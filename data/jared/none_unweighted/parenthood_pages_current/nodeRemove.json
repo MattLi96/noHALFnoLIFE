@@ -1,0 +1,82 @@
+{
+  "0": {
+    "numEdges": 400,
+    "selfLinks": 0,
+    "sizeLargest": 34,
+    "averageInDegree": 5.2631578947368425,
+    "removed": "Season 2",
+    "averagePathLength": 2.622994652406417,
+    "numNodes": 76,
+    "averageOutDegree": 5.2631578947368425
+  },
+  "1": {
+    "numEdges": 356,
+    "selfLinks": 0,
+    "sizeLargest": 34,
+    "averageInDegree": 4.746666666666667,
+    "removed": "Season 1",
+    "averagePathLength": 2.622994652406417,
+    "numNodes": 75,
+    "averageOutDegree": 4.746666666666667
+  },
+  "2": {
+    "numEdges": 318,
+    "selfLinks": 0,
+    "sizeLargest": 20,
+    "averageInDegree": 4.297297297297297,
+    "removed": "Drew Holt",
+    "averagePathLength": 1.6973684210526316,
+    "numNodes": 74,
+    "averageOutDegree": 4.297297297297297
+  },
+  "3": {
+    "numEdges": 284,
+    "selfLinks": 0,
+    "sizeLargest": 20,
+    "averageInDegree": 3.8904109589041096,
+    "removed": "The Deep End of the Pool",
+    "averagePathLength": 1.6973684210526316,
+    "numNodes": 73,
+    "averageOutDegree": 3.8904109589041096
+  },
+  "4": {
+    "numEdges": 251,
+    "selfLinks": 0,
+    "sizeLargest": 20,
+    "averageInDegree": 3.486111111111111,
+    "removed": "Pilot",
+    "averagePathLength": 1.6973684210526316,
+    "numNodes": 72,
+    "averageOutDegree": 3.486111111111111
+  },
+  "5": {
+    "numEdges": 220,
+    "selfLinks": 0,
+    "sizeLargest": 19,
+    "averageInDegree": 3.0985915492957745,
+    "removed": "Crosby Braverman",
+    "averagePathLength": 1.760233918128655,
+    "numNodes": 71,
+    "averageOutDegree": 3.0985915492957745
+  },
+  "6": {
+    "numEdges": 191,
+    "selfLinks": 0,
+    "sizeLargest": 18,
+    "averageInDegree": 2.7285714285714286,
+    "removed": "Jabbar Trussell-Braverman",
+    "averagePathLength": 1.934640522875817,
+    "numNodes": 70,
+    "averageOutDegree": 2.7285714285714286
+  },
+  "7": {
+    "numEdges": 166,
+    "selfLinks": 0,
+    "sizeLargest": 15,
+    "averageInDegree": 2.4057971014492754,
+    "removed": "Amber Holt",
+    "averagePathLength": 1.938095238095238,
+    "numNodes": 69,
+    "averageOutDegree": 2.4057971014492754
+  }
+}

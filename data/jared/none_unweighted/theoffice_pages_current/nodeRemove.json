@@ -1,0 +1,1932 @@
+{
+  "0": {
+    "numEdges": 17330,
+    "selfLinks": 2,
+    "sizeLargest": 823,
+    "averageInDegree": 15.29567519858782,
+    "removed": "Jim Halpert",
+    "averagePathLength": 3.450001921638537,
+    "numNodes": 1133,
+    "averageOutDegree": 15.29567519858782
+  },
+  "1": {
+    "numEdges": 16979,
+    "selfLinks": 2,
+    "sizeLargest": 813,
+    "averageInDegree": 14.999116607773852,
+    "removed": "Michael Scott",
+    "averagePathLength": 3.4616726955446895,
+    "numNodes": 1132,
+    "averageOutDegree": 14.999116607773852
+  },
+  "2": {
+    "numEdges": 16634,
+    "selfLinks": 2,
+    "sizeLargest": 809,
+    "averageInDegree": 14.707338638373121,
+    "removed": "Ryan Howard",
+    "averagePathLength": 3.4910872731278073,
+    "numNodes": 1131,
+    "averageOutDegree": 14.707338638373121
+  },
+  "3": {
+    "numEdges": 16290,
+    "selfLinks": 2,
+    "sizeLargest": 807,
+    "averageInDegree": 14.415929203539823,
+    "removed": "Dwight Schrute",
+    "averagePathLength": 3.510746538507661,
+    "numNodes": 1130,
+    "averageOutDegree": 14.415929203539823
+  },
+  "4": {
+    "numEdges": 15969,
+    "selfLinks": 2,
+    "sizeLargest": 804,
+    "averageInDegree": 14.144375553587246,
+    "removed": "Creed Bratton",
+    "averagePathLength": 3.531049608743332,
+    "numNodes": 1129,
+    "averageOutDegree": 14.144375553587246
+  },
+  "5": {
+    "numEdges": 15654,
+    "selfLinks": 2,
+    "sizeLargest": 800,
+    "averageInDegree": 13.877659574468085,
+    "removed": "Angela Martin",
+    "averagePathLength": 3.54694774718398,
+    "numNodes": 1128,
+    "averageOutDegree": 13.877659574468085
+  },
+  "6": {
+    "numEdges": 15347,
+    "selfLinks": 2,
+    "sizeLargest": 796,
+    "averageInDegree": 13.61756876663709,
+    "removed": "Kevin Malone",
+    "averagePathLength": 3.5799105590847318,
+    "numNodes": 1127,
+    "averageOutDegree": 13.61756876663709
+  },
+  "7": {
+    "numEdges": 15069,
+    "selfLinks": 2,
+    "sizeLargest": 794,
+    "averageInDegree": 13.382770870337477,
+    "removed": "Meredith Palmer",
+    "averagePathLength": 3.5913630285146163,
+    "numNodes": 1126,
+    "averageOutDegree": 13.382770870337477
+  },
+  "8": {
+    "numEdges": 14795,
+    "selfLinks": 2,
+    "sizeLargest": 792,
+    "averageInDegree": 13.151111111111112,
+    "removed": "Kelly Kapoor",
+    "averagePathLength": 3.6196573829317193,
+    "numNodes": 1125,
+    "averageOutDegree": 13.151111111111112
+  },
+  "9": {
+    "numEdges": 14525,
+    "selfLinks": 2,
+    "sizeLargest": 787,
+    "averageInDegree": 12.922597864768683,
+    "removed": "Andy Bernard",
+    "averagePathLength": 3.6454762666873592,
+    "numNodes": 1124,
+    "averageOutDegree": 12.922597864768683
+  },
+  "10": {
+    "numEdges": 14263,
+    "selfLinks": 2,
+    "sizeLargest": 784,
+    "averageInDegree": 12.70080142475512,
+    "removed": "Oscar Martinez",
+    "averagePathLength": 3.6635536398467434,
+    "numNodes": 1123,
+    "averageOutDegree": 12.70080142475512
+  },
+  "11": {
+    "numEdges": 14022,
+    "selfLinks": 2,
+    "sizeLargest": 770,
+    "averageInDegree": 12.497326203208557,
+    "removed": "The Office",
+    "averagePathLength": 3.752252039248138,
+    "numNodes": 1122,
+    "averageOutDegree": 12.497326203208557
+  },
+  "12": {
+    "numEdges": 13791,
+    "selfLinks": 2,
+    "sizeLargest": 765,
+    "averageInDegree": 12.302408563782338,
+    "removed": "Stanley Hudson",
+    "averagePathLength": 3.760671388974438,
+    "numNodes": 1121,
+    "averageOutDegree": 12.302408563782338
+  },
+  "13": {
+    "numEdges": 13569,
+    "selfLinks": 2,
+    "sizeLargest": 762,
+    "averageInDegree": 12.115178571428572,
+    "removed": "Toby Flenderson",
+    "averagePathLength": 3.797167354737688,
+    "numNodes": 1120,
+    "averageOutDegree": 12.115178571428572
+  },
+  "14": {
+    "numEdges": 13352,
+    "selfLinks": 2,
+    "sizeLargest": 757,
+    "averageInDegree": 11.932082216264522,
+    "removed": "Darryl Philbin",
+    "averagePathLength": 3.835701005780266,
+    "numNodes": 1119,
+    "averageOutDegree": 11.932082216264522
+  },
+  "15": {
+    "numEdges": 13141,
+    "selfLinks": 2,
+    "sizeLargest": 757,
+    "averageInDegree": 11.754025044722718,
+    "removed": "Brian Baumgartner",
+    "averagePathLength": 3.835701005780266,
+    "numNodes": 1118,
+    "averageOutDegree": 11.754025044722718
+  },
+  "16": {
+    "numEdges": 12931,
+    "selfLinks": 2,
+    "sizeLargest": 757,
+    "averageInDegree": 11.576544315129812,
+    "removed": "Angela Kinsey",
+    "averagePathLength": 3.835701005780266,
+    "numNodes": 1117,
+    "averageOutDegree": 11.576544315129812
+  },
+  "17": {
+    "numEdges": 12728,
+    "selfLinks": 2,
+    "sizeLargest": 756,
+    "averageInDegree": 11.405017921146953,
+    "removed": "Rainn Wilson",
+    "averagePathLength": 3.8418129577069973,
+    "numNodes": 1116,
+    "averageOutDegree": 11.405017921146953
+  },
+  "18": {
+    "numEdges": 12530,
+    "selfLinks": 2,
+    "sizeLargest": 756,
+    "averageInDegree": 11.237668161434977,
+    "removed": "Oscar Nunez",
+    "averagePathLength": 3.8418129577069973,
+    "numNodes": 1115,
+    "averageOutDegree": 11.237668161434977
+  },
+  "19": {
+    "numEdges": 12334,
+    "selfLinks": 2,
+    "sizeLargest": 756,
+    "averageInDegree": 11.071813285457809,
+    "removed": "Creed Bratton (actor)",
+    "averagePathLength": 3.8418129577069973,
+    "numNodes": 1114,
+    "averageOutDegree": 11.071813285457809
+  },
+  "20": {
+    "numEdges": 12139,
+    "selfLinks": 2,
+    "sizeLargest": 756,
+    "averageInDegree": 10.906558849955076,
+    "removed": "Kate Flannery",
+    "averagePathLength": 3.8418129577069973,
+    "numNodes": 1113,
+    "averageOutDegree": 10.906558849955076
+  },
+  "21": {
+    "numEdges": 11947,
+    "selfLinks": 2,
+    "sizeLargest": 756,
+    "averageInDegree": 10.743705035971223,
+    "removed": "John Krasinski",
+    "averagePathLength": 3.8418129577069973,
+    "numNodes": 1112,
+    "averageOutDegree": 10.743705035971223
+  },
+  "22": {
+    "numEdges": 11755,
+    "selfLinks": 2,
+    "sizeLargest": 756,
+    "averageInDegree": 10.58055805580558,
+    "removed": "Jenna Fischer",
+    "averagePathLength": 3.8418129577069973,
+    "numNodes": 1111,
+    "averageOutDegree": 10.58055805580558
+  },
+  "23": {
+    "numEdges": 11566,
+    "selfLinks": 2,
+    "sizeLargest": 755,
+    "averageInDegree": 10.41981981981982,
+    "removed": "Mindy Kaling",
+    "averagePathLength": 3.8491559365503187,
+    "numNodes": 1110,
+    "averageOutDegree": 10.41981981981982
+  },
+  "24": {
+    "numEdges": 11378,
+    "selfLinks": 2,
+    "sizeLargest": 754,
+    "averageInDegree": 10.259693417493237,
+    "removed": "Phyllis Smith",
+    "averagePathLength": 3.850134387296085,
+    "numNodes": 1109,
+    "averageOutDegree": 10.259693417493237
+  },
+  "25": {
+    "numEdges": 11190,
+    "selfLinks": 2,
+    "sizeLargest": 754,
+    "averageInDegree": 10.09927797833935,
+    "removed": "Leslie David Baker",
+    "averagePathLength": 3.850134387296085,
+    "numNodes": 1108,
+    "averageOutDegree": 10.09927797833935
+  },
+  "26": {
+    "numEdges": 11005,
+    "selfLinks": 2,
+    "sizeLargest": 746,
+    "averageInDegree": 9.941282746160795,
+    "removed": "Pam Halpert",
+    "averagePathLength": 3.889979667848211,
+    "numNodes": 1107,
+    "averageOutDegree": 9.941282746160795
+  },
+  "27": {
+    "numEdges": 10820,
+    "selfLinks": 2,
+    "sizeLargest": 746,
+    "averageInDegree": 9.783001808318264,
+    "removed": "B.J. Novak",
+    "averagePathLength": 3.889979667848211,
+    "numNodes": 1106,
+    "averageOutDegree": 9.783001808318264
+  },
+  "28": {
+    "numEdges": 10636,
+    "selfLinks": 2,
+    "sizeLargest": 742,
+    "averageInDegree": 9.625339366515837,
+    "removed": "Phyllis Vance",
+    "averagePathLength": 3.9188591944301976,
+    "numNodes": 1105,
+    "averageOutDegree": 9.625339366515837
+  },
+  "29": {
+    "numEdges": 10462,
+    "selfLinks": 2,
+    "sizeLargest": 741,
+    "averageInDegree": 9.476449275362318,
+    "removed": "Paul Lieberstein",
+    "averagePathLength": 3.9470255680781996,
+    "numNodes": 1104,
+    "averageOutDegree": 9.476449275362318
+  },
+  "30": {
+    "numEdges": 10292,
+    "selfLinks": 2,
+    "sizeLargest": 741,
+    "averageInDegree": 9.330915684496826,
+    "removed": "Pam Beesly",
+    "averagePathLength": 3.9470255680781996,
+    "numNodes": 1103,
+    "averageOutDegree": 9.330915684496826
+  },
+  "31": {
+    "numEdges": 10134,
+    "selfLinks": 2,
+    "sizeLargest": 741,
+    "averageInDegree": 9.19600725952813,
+    "removed": "Ed Helms",
+    "averagePathLength": 3.9470255680781996,
+    "numNodes": 1102,
+    "averageOutDegree": 9.19600725952813
+  },
+  "32": {
+    "numEdges": 9976,
+    "selfLinks": 2,
+    "sizeLargest": 739,
+    "averageInDegree": 9.060853769300635,
+    "removed": "Steve Carell",
+    "averagePathLength": 3.948872533380273,
+    "numNodes": 1101,
+    "averageOutDegree": 9.060853769300635
+  },
+  "33": {
+    "numEdges": 9824,
+    "selfLinks": 2,
+    "sizeLargest": 739,
+    "averageInDegree": 8.930909090909092,
+    "removed": "The Office (US)",
+    "averagePathLength": 3.948872533380273,
+    "numNodes": 1100,
+    "averageOutDegree": 8.930909090909092
+  },
+  "34": {
+    "numEdges": 9674,
+    "selfLinks": 2,
+    "sizeLargest": 737,
+    "averageInDegree": 8.802547770700636,
+    "removed": "Erin Hannon",
+    "averagePathLength": 3.970123444044599,
+    "numNodes": 1099,
+    "averageOutDegree": 8.802547770700636
+  },
+  "35": {
+    "numEdges": 9531,
+    "selfLinks": 2,
+    "sizeLargest": 733,
+    "averageInDegree": 8.680327868852459,
+    "removed": "David Wallace",
+    "averagePathLength": 3.999450197183519,
+    "numNodes": 1098,
+    "averageOutDegree": 8.680327868852459
+  },
+  "36": {
+    "numEdges": 9408,
+    "selfLinks": 2,
+    "sizeLargest": 733,
+    "averageInDegree": 8.576116681859617,
+    "removed": "Craig Robinson",
+    "averagePathLength": 3.999450197183519,
+    "numNodes": 1097,
+    "averageOutDegree": 8.576116681859617
+  },
+  "37": {
+    "numEdges": 9290,
+    "selfLinks": 2,
+    "sizeLargest": 733,
+    "averageInDegree": 8.476277372262773,
+    "removed": "100 Episodes, 100 Moments",
+    "averagePathLength": 3.999450197183519,
+    "numNodes": 1096,
+    "averageOutDegree": 8.476277372262773
+  },
+  "38": {
+    "numEdges": 9172,
+    "selfLinks": 2,
+    "sizeLargest": 730,
+    "averageInDegree": 8.376255707762557,
+    "removed": "Gabe Lewis",
+    "averagePathLength": 4.015429280117256,
+    "numNodes": 1095,
+    "averageOutDegree": 8.376255707762557
+  },
+  "39": {
+    "numEdges": 9054,
+    "selfLinks": 2,
+    "sizeLargest": 729,
+    "averageInDegree": 8.276051188299817,
+    "removed": "Season 6",
+    "averagePathLength": 4.050677203454981,
+    "numNodes": 1094,
+    "averageOutDegree": 8.276051188299817
+  },
+  "40": {
+    "numEdges": 8939,
+    "selfLinks": 2,
+    "sizeLargest": 729,
+    "averageInDegree": 8.178408051235133,
+    "removed": "Michael",
+    "averagePathLength": 4.050677203454981,
+    "numNodes": 1093,
+    "averageOutDegree": 8.178408051235133
+  },
+  "41": {
+    "numEdges": 8826,
+    "selfLinks": 2,
+    "sizeLargest": 729,
+    "averageInDegree": 8.082417582417582,
+    "removed": "Dwight",
+    "averagePathLength": 4.050677203454981,
+    "numNodes": 1092,
+    "averageOutDegree": 8.082417582417582
+  },
+  "42": {
+    "numEdges": 8715,
+    "selfLinks": 2,
+    "sizeLargest": 727,
+    "averageInDegree": 7.988084326306141,
+    "removed": "The Office Nielsen Ratings",
+    "averagePathLength": 4.051597000390298,
+    "numNodes": 1091,
+    "averageOutDegree": 7.988084326306141
+  },
+  "43": {
+    "numEdges": 8604,
+    "selfLinks": 2,
+    "sizeLargest": 727,
+    "averageInDegree": 7.893577981651376,
+    "removed": "Jim",
+    "averagePathLength": 4.051597000390298,
+    "numNodes": 1090,
+    "averageOutDegree": 7.893577981651376
+  },
+  "44": {
+    "numEdges": 8496,
+    "selfLinks": 2,
+    "sizeLargest": 720,
+    "averageInDegree": 7.801652892561983,
+    "removed": "Dunder Mifflin Scranton",
+    "averagePathLength": 4.075150672229949,
+    "numNodes": 1089,
+    "averageOutDegree": 7.801652892561983
+  },
+  "45": {
+    "numEdges": 8390,
+    "selfLinks": 2,
+    "sizeLargest": 720,
+    "averageInDegree": 7.711397058823529,
+    "removed": "Ellie Kemper",
+    "averagePathLength": 4.075150672229949,
+    "numNodes": 1088,
+    "averageOutDegree": 7.711397058823529
+  },
+  "46": {
+    "numEdges": 8284,
+    "selfLinks": 2,
+    "sizeLargest": 720,
+    "averageInDegree": 7.62097516099356,
+    "removed": "Pam",
+    "averagePathLength": 4.075150672229949,
+    "numNodes": 1087,
+    "averageOutDegree": 7.62097516099356
+  },
+  "47": {
+    "numEdges": 8182,
+    "selfLinks": 2,
+    "sizeLargest": 712,
+    "averageInDegree": 7.5340699815837935,
+    "removed": "Jan Levenson",
+    "averagePathLength": 4.111107160353356,
+    "numNodes": 1086,
+    "averageOutDegree": 7.5340699815837935
+  },
+  "48": {
+    "numEdges": 8086,
+    "selfLinks": 2,
+    "sizeLargest": 710,
+    "averageInDegree": 7.452534562211982,
+    "removed": "List of songs that appear in episodes",
+    "averagePathLength": 4.11179800949562,
+    "numNodes": 1085,
+    "averageOutDegree": 7.452534562211982
+  },
+  "49": {
+    "numEdges": 7995,
+    "selfLinks": 2,
+    "sizeLargest": 710,
+    "averageInDegree": 7.375461254612546,
+    "removed": "List of the days of the week episodes take place",
+    "averagePathLength": 4.11179800949562,
+    "numNodes": 1084,
+    "averageOutDegree": 7.375461254612546
+  },
+  "50": {
+    "numEdges": 7904,
+    "selfLinks": 2,
+    "sizeLargest": 701,
+    "averageInDegree": 7.298245614035087,
+    "removed": "List of Jim's pranks",
+    "averagePathLength": 4.091622172406765,
+    "numNodes": 1083,
+    "averageOutDegree": 7.298245614035087
+  },
+  "51": {
+    "numEdges": 7813,
+    "selfLinks": 2,
+    "sizeLargest": 701,
+    "averageInDegree": 7.220887245841035,
+    "removed": "List of errors",
+    "averagePathLength": 4.091622172406765,
+    "numNodes": 1082,
+    "averageOutDegree": 7.220887245841035
+  },
+  "52": {
+    "numEdges": 7730,
+    "selfLinks": 2,
+    "sizeLargest": 700,
+    "averageInDegree": 7.150786308973173,
+    "removed": "Season 7",
+    "averagePathLength": 4.106272225628449,
+    "numNodes": 1081,
+    "averageOutDegree": 7.150786308973173
+  },
+  "53": {
+    "numEdges": 7649,
+    "selfLinks": 2,
+    "sizeLargest": 700,
+    "averageInDegree": 7.082407407407407,
+    "removed": "List of cold opens",
+    "averagePathLength": 4.106272225628449,
+    "numNodes": 1080,
+    "averageOutDegree": 7.082407407407407
+  },
+  "54": {
+    "numEdges": 7569,
+    "selfLinks": 2,
+    "sizeLargest": 699,
+    "averageInDegree": 7.014828544949027,
+    "removed": "Greg Daniels",
+    "averagePathLength": 4.127396485359765,
+    "numNodes": 1079,
+    "averageOutDegree": 7.014828544949027
+  },
+  "55": {
+    "numEdges": 7490,
+    "selfLinks": 2,
+    "sizeLargest": 696,
+    "averageInDegree": 6.9480519480519485,
+    "removed": "Holly Flax",
+    "averagePathLength": 4.145311337137187,
+    "numNodes": 1078,
+    "averageOutDegree": 6.9480519480519485
+  },
+  "56": {
+    "numEdges": 7412,
+    "selfLinks": 2,
+    "sizeLargest": 695,
+    "averageInDegree": 6.882079851439183,
+    "removed": "Season 3",
+    "averagePathLength": 4.163255447515187,
+    "numNodes": 1077,
+    "averageOutDegree": 6.882079851439183
+  },
+  "57": {
+    "numEdges": 7334,
+    "selfLinks": 2,
+    "sizeLargest": 692,
+    "averageInDegree": 6.815985130111524,
+    "removed": "Scranton",
+    "averagePathLength": 4.183772784688355,
+    "numNodes": 1076,
+    "averageOutDegree": 6.815985130111524
+  },
+  "58": {
+    "numEdges": 7256,
+    "selfLinks": 2,
+    "sizeLargest": 691,
+    "averageInDegree": 6.749767441860465,
+    "removed": "Nellie Bertram",
+    "averagePathLength": 4.200652278781015,
+    "numNodes": 1075,
+    "averageOutDegree": 6.749767441860465
+  },
+  "59": {
+    "numEdges": 7182,
+    "selfLinks": 2,
+    "sizeLargest": 691,
+    "averageInDegree": 6.687150837988827,
+    "removed": "Andy",
+    "averagePathLength": 4.200652278781015,
+    "numNodes": 1074,
+    "averageOutDegree": 6.687150837988827
+  },
+  "60": {
+    "numEdges": 7108,
+    "selfLinks": 2,
+    "sizeLargest": 690,
+    "averageInDegree": 6.624417520969245,
+    "removed": "Season 5",
+    "averagePathLength": 4.220687406659515,
+    "numNodes": 1073,
+    "averageOutDegree": 6.624417520969245
+  },
+  "61": {
+    "numEdges": 7035,
+    "selfLinks": 2,
+    "sizeLargest": 688,
+    "averageInDegree": 6.5625,
+    "removed": "Season 8",
+    "averagePathLength": 4.233874107173081,
+    "numNodes": 1072,
+    "averageOutDegree": 6.5625
+  },
+  "62": {
+    "numEdges": 6963,
+    "selfLinks": 2,
+    "sizeLargest": 688,
+    "averageInDegree": 6.50140056022409,
+    "removed": "Phyllis Lapin",
+    "averagePathLength": 4.233874107173081,
+    "numNodes": 1071,
+    "averageOutDegree": 6.50140056022409
+  },
+  "63": {
+    "numEdges": 6891,
+    "selfLinks": 2,
+    "sizeLargest": 685,
+    "averageInDegree": 6.440186915887851,
+    "removed": "Bob Vance",
+    "averagePathLength": 4.268376232552184,
+    "numNodes": 1070,
+    "averageOutDegree": 6.440186915887851
+  },
+  "64": {
+    "numEdges": 6820,
+    "selfLinks": 2,
+    "sizeLargest": 680,
+    "averageInDegree": 6.37979420018709,
+    "removed": "Dunder Mifflin Paper Company",
+    "averagePathLength": 4.294806376158711,
+    "numNodes": 1069,
+    "averageOutDegree": 6.37979420018709
+  },
+  "65": {
+    "numEdges": 6751,
+    "selfLinks": 2,
+    "sizeLargest": 672,
+    "averageInDegree": 6.321161048689139,
+    "removed": "Karen Filippelli",
+    "averagePathLength": 4.3107524306294795,
+    "numNodes": 1068,
+    "averageOutDegree": 6.321161048689139
+  },
+  "66": {
+    "numEdges": 6683,
+    "selfLinks": 2,
+    "sizeLargest": 670,
+    "averageInDegree": 6.2633552014995315,
+    "removed": "Goodbye, Toby",
+    "averagePathLength": 4.323148829841823,
+    "numNodes": 1067,
+    "averageOutDegree": 6.2633552014995315
+  },
+  "67": {
+    "numEdges": 6620,
+    "selfLinks": 2,
+    "sizeLargest": 667,
+    "averageInDegree": 6.210131332082551,
+    "removed": "Roy Anderson",
+    "averagePathLength": 4.356895876386131,
+    "numNodes": 1066,
+    "averageOutDegree": 6.210131332082551
+  },
+  "68": {
+    "numEdges": 6557,
+    "selfLinks": 2,
+    "sizeLargest": 665,
+    "averageInDegree": 6.156807511737089,
+    "removed": "Company Picnic",
+    "averagePathLength": 4.3753555575686205,
+    "numNodes": 1065,
+    "averageOutDegree": 6.156807511737089
+  },
+  "69": {
+    "numEdges": 6495,
+    "selfLinks": 2,
+    "sizeLargest": 665,
+    "averageInDegree": 6.1043233082706765,
+    "removed": "Jan Levinson",
+    "averagePathLength": 4.3753555575686205,
+    "numNodes": 1064,
+    "averageOutDegree": 6.1043233082706765
+  },
+  "70": {
+    "numEdges": 6434,
+    "selfLinks": 2,
+    "sizeLargest": 663,
+    "averageInDegree": 6.052681091251176,
+    "removed": "Pilot",
+    "averagePathLength": 4.399853271543337,
+    "numNodes": 1063,
+    "averageOutDegree": 6.052681091251176
+  },
+  "71": {
+    "numEdges": 6375,
+    "selfLinks": 2,
+    "sizeLargest": 659,
+    "averageInDegree": 6.002824858757062,
+    "removed": "Sabre",
+    "averagePathLength": 4.414607653670709,
+    "numNodes": 1062,
+    "averageOutDegree": 6.002824858757062
+  },
+  "72": {
+    "numEdges": 6316,
+    "selfLinks": 2,
+    "sizeLargest": 658,
+    "averageInDegree": 5.952874646559849,
+    "removed": "Season 2",
+    "averagePathLength": 4.437726980425902,
+    "numNodes": 1061,
+    "averageOutDegree": 5.952874646559849
+  },
+  "73": {
+    "numEdges": 6257,
+    "selfLinks": 2,
+    "sizeLargest": 653,
+    "averageInDegree": 5.902830188679245,
+    "removed": "Happy Hour",
+    "averagePathLength": 4.442835802666316,
+    "numNodes": 1060,
+    "averageOutDegree": 5.902830188679245
+  },
+  "74": {
+    "numEdges": 6200,
+    "selfLinks": 2,
+    "sizeLargest": 645,
+    "averageInDegree": 5.854579792256846,
+    "removed": "Niagara",
+    "averagePathLength": 4.451302421878761,
+    "numNodes": 1059,
+    "averageOutDegree": 5.854579792256846
+  },
+  "75": {
+    "numEdges": 6144,
+    "selfLinks": 2,
+    "sizeLargest": 641,
+    "averageInDegree": 5.80718336483932,
+    "removed": "The Delivery",
+    "averagePathLength": 4.474358911856474,
+    "numNodes": 1058,
+    "averageOutDegree": 5.80718336483932
+  },
+  "76": {
+    "numEdges": 6088,
+    "selfLinks": 2,
+    "sizeLargest": 640,
+    "averageInDegree": 5.759697256385998,
+    "removed": "Season 9",
+    "averagePathLength": 4.480330594679186,
+    "numNodes": 1057,
+    "averageOutDegree": 5.759697256385998
+  },
+  "77": {
+    "numEdges": 6034,
+    "selfLinks": 2,
+    "sizeLargest": 639,
+    "averageInDegree": 5.714015151515151,
+    "removed": "Zach Woods",
+    "averagePathLength": 4.4886504677665435,
+    "numNodes": 1056,
+    "averageOutDegree": 5.714015151515151
+  },
+  "78": {
+    "numEdges": 5981,
+    "selfLinks": 2,
+    "sizeLargest": 638,
+    "averageInDegree": 5.669194312796209,
+    "removed": "Valentine's Day",
+    "averagePathLength": 4.505221379605616,
+    "numNodes": 1055,
+    "averageOutDegree": 5.669194312796209
+  },
+  "79": {
+    "numEdges": 5929,
+    "selfLinks": 2,
+    "sizeLargest": 636,
+    "averageInDegree": 5.625237191650854,
+    "removed": "Dinner Party",
+    "averagePathLength": 4.519749418115189,
+    "numNodes": 1054,
+    "averageOutDegree": 5.625237191650854
+  },
+  "80": {
+    "numEdges": 5878,
+    "selfLinks": 2,
+    "sizeLargest": 636,
+    "averageInDegree": 5.582146248812916,
+    "removed": "Kelly",
+    "averagePathLength": 4.519749418115189,
+    "numNodes": 1053,
+    "averageOutDegree": 5.582146248812916
+  },
+  "81": {
+    "numEdges": 5829,
+    "selfLinks": 2,
+    "sizeLargest": 634,
+    "averageInDegree": 5.5408745247148286,
+    "removed": "Secret Santa",
+    "averagePathLength": 4.531690263678542,
+    "numNodes": 1052,
+    "averageOutDegree": 5.5408745247148286
+  },
+  "82": {
+    "numEdges": 5781,
+    "selfLinks": 2,
+    "sizeLargest": 631,
+    "averageInDegree": 5.500475737392959,
+    "removed": "Hank Tate",
+    "averagePathLength": 4.556081302040098,
+    "numNodes": 1051,
+    "averageOutDegree": 5.500475737392959
+  },
+  "83": {
+    "numEdges": 5733,
+    "selfLinks": 2,
+    "sizeLargest": 630,
+    "averageInDegree": 5.46,
+    "removed": "Gay Witch Hunt",
+    "averagePathLength": 4.571294824236,
+    "numNodes": 1050,
+    "averageOutDegree": 5.46
+  },
+  "84": {
+    "numEdges": 5685,
+    "selfLinks": 2,
+    "sizeLargest": 628,
+    "averageInDegree": 5.419447092469018,
+    "removed": "Todd Packer",
+    "averagePathLength": 4.623967634778898,
+    "numNodes": 1049,
+    "averageOutDegree": 5.419447092469018
+  },
+  "85": {
+    "numEdges": 5638,
+    "selfLinks": 2,
+    "sizeLargest": 627,
+    "averageInDegree": 5.379770992366412,
+    "removed": "Aaron Shure",
+    "averagePathLength": 4.6329063291397246,
+    "numNodes": 1048,
+    "averageOutDegree": 5.379770992366412
+  },
+  "86": {
+    "numEdges": 5591,
+    "selfLinks": 2,
+    "sizeLargest": 626,
+    "averageInDegree": 5.340019102196752,
+    "removed": "Gene Stupnitsky",
+    "averagePathLength": 4.638711821086262,
+    "numNodes": 1047,
+    "averageOutDegree": 5.340019102196752
+  },
+  "87": {
+    "numEdges": 5544,
+    "selfLinks": 2,
+    "sizeLargest": 626,
+    "averageInDegree": 5.30019120458891,
+    "removed": "Kevin",
+    "averagePathLength": 4.638711821086262,
+    "numNodes": 1046,
+    "averageOutDegree": 5.30019120458891
+  },
+  "88": {
+    "numEdges": 5497,
+    "selfLinks": 2,
+    "sizeLargest": 626,
+    "averageInDegree": 5.260287081339713,
+    "removed": "Ryan",
+    "averagePathLength": 4.638711821086262,
+    "numNodes": 1045,
+    "averageOutDegree": 5.260287081339713
+  },
+  "89": {
+    "numEdges": 5451,
+    "selfLinks": 2,
+    "sizeLargest": 624,
+    "averageInDegree": 5.221264367816092,
+    "removed": "Robert California",
+    "averagePathLength": 4.652832654237149,
+    "numNodes": 1044,
+    "averageOutDegree": 5.221264367816092
+  },
+  "90": {
+    "numEdges": 5405,
+    "selfLinks": 2,
+    "sizeLargest": 623,
+    "averageInDegree": 5.182166826462129,
+    "removed": "The Office UK",
+    "averagePathLength": 4.67156637574644,
+    "numNodes": 1043,
+    "averageOutDegree": 5.182166826462129
+  },
+  "91": {
+    "numEdges": 5360,
+    "selfLinks": 2,
+    "sizeLargest": 623,
+    "averageInDegree": 5.143953934740883,
+    "removed": "Dunder Mifflin family members and loved ones",
+    "averagePathLength": 4.67156637574644,
+    "numNodes": 1042,
+    "averageOutDegree": 5.143953934740883
+  },
+  "92": {
+    "numEdges": 5315,
+    "selfLinks": 2,
+    "sizeLargest": 623,
+    "averageInDegree": 5.10566762728146,
+    "removed": "Melora Hardin",
+    "averagePathLength": 4.67156637574644,
+    "numNodes": 1041,
+    "averageOutDegree": 5.10566762728146
+  },
+  "93": {
+    "numEdges": 5270,
+    "selfLinks": 2,
+    "sizeLargest": 620,
+    "averageInDegree": 5.0673076923076925,
+    "removed": "Pete Miller",
+    "averagePathLength": 4.673966856011257,
+    "numNodes": 1040,
+    "averageOutDegree": 5.0673076923076925
+  },
+  "94": {
+    "numEdges": 5226,
+    "selfLinks": 2,
+    "sizeLargest": 620,
+    "averageInDegree": 5.029836381135707,
+    "removed": "Oscar",
+    "averagePathLength": 4.673966856011257,
+    "numNodes": 1039,
+    "averageOutDegree": 5.029836381135707
+  },
+  "95": {
+    "numEdges": 5182,
+    "selfLinks": 2,
+    "sizeLargest": 616,
+    "averageInDegree": 4.992292870905588,
+    "removed": "Office Olympics",
+    "averagePathLength": 4.686817653890825,
+    "numNodes": 1038,
+    "averageOutDegree": 4.992292870905588
+  },
+  "96": {
+    "numEdges": 5138,
+    "selfLinks": 2,
+    "sizeLargest": 615,
+    "averageInDegree": 4.954676952748312,
+    "removed": "The Merger",
+    "averagePathLength": 4.7115780832075425,
+    "numNodes": 1037,
+    "averageOutDegree": 4.954676952748312
+  },
+  "97": {
+    "numEdges": 5094,
+    "selfLinks": 2,
+    "sizeLargest": 615,
+    "averageInDegree": 4.916988416988417,
+    "removed": "Dunder Mifflin",
+    "averagePathLength": 4.7115780832075425,
+    "numNodes": 1036,
+    "averageOutDegree": 4.916988416988417
+  },
+  "98": {
+    "numEdges": 5051,
+    "selfLinks": 2,
+    "sizeLargest": 614,
+    "averageInDegree": 4.880193236714976,
+    "removed": "Lee Eisenberg",
+    "averagePathLength": 4.751730954190158,
+    "numNodes": 1035,
+    "averageOutDegree": 4.880193236714976
+  },
+  "99": {
+    "numEdges": 5008,
+    "selfLinks": 2,
+    "sizeLargest": 611,
+    "averageInDegree": 4.843326885880077,
+    "removed": "A Benihana Christmas",
+    "averagePathLength": 4.762096536180945,
+    "numNodes": 1034,
+    "averageOutDegree": 4.843326885880077
+  },
+  "100": {
+    "numEdges": 4965,
+    "selfLinks": 2,
+    "sizeLargest": 611,
+    "averageInDegree": 4.806389157792837,
+    "removed": "Angela",
+    "averagePathLength": 4.762096536180945,
+    "numNodes": 1033,
+    "averageOutDegree": 4.806389157792837
+  },
+  "101": {
+    "numEdges": 4922,
+    "selfLinks": 2,
+    "sizeLargest": 609,
+    "averageInDegree": 4.76937984496124,
+    "removed": "Clark Green",
+    "averagePathLength": 4.768429694926972,
+    "numNodes": 1032,
+    "averageOutDegree": 4.76937984496124
+  },
+  "102": {
+    "numEdges": 4880,
+    "selfLinks": 2,
+    "sizeLargest": 608,
+    "averageInDegree": 4.7332686711930165,
+    "removed": "Threat Level Midnight",
+    "averagePathLength": 4.777667887800225,
+    "numNodes": 1031,
+    "averageOutDegree": 4.7332686711930165
+  },
+  "103": {
+    "numEdges": 4839,
+    "selfLinks": 2,
+    "sizeLargest": 607,
+    "averageInDegree": 4.6980582524271846,
+    "removed": "The Job",
+    "averagePathLength": 4.791220143431147,
+    "numNodes": 1030,
+    "averageOutDegree": 4.6980582524271846
+  },
+  "104": {
+    "numEdges": 4798,
+    "selfLinks": 2,
+    "sizeLargest": 606,
+    "averageInDegree": 4.662779397473275,
+    "removed": "Branch Wars",
+    "averagePathLength": 4.799680877178627,
+    "numNodes": 1029,
+    "averageOutDegree": 4.662779397473275
+  },
+  "105": {
+    "numEdges": 4757,
+    "selfLinks": 2,
+    "sizeLargest": 604,
+    "averageInDegree": 4.627431906614786,
+    "removed": "Did I Stutter?",
+    "averagePathLength": 4.824566461291775,
+    "numNodes": 1028,
+    "averageOutDegree": 4.627431906614786
+  },
+  "106": {
+    "numEdges": 4717,
+    "selfLinks": 2,
+    "sizeLargest": 603,
+    "averageInDegree": 4.592989289191821,
+    "removed": "Free Family Portrait Studio",
+    "averagePathLength": 4.8367575191594625,
+    "numNodes": 1027,
+    "averageOutDegree": 4.592989289191821
+  },
+  "107": {
+    "numEdges": 4677,
+    "selfLinks": 2,
+    "sizeLargest": 600,
+    "averageInDegree": 4.558479532163743,
+    "removed": "Money",
+    "averagePathLength": 4.8500973845297715,
+    "numNodes": 1026,
+    "averageOutDegree": 4.558479532163743
+  },
+  "108": {
+    "numEdges": 4638,
+    "selfLinks": 2,
+    "sizeLargest": 578,
+    "averageInDegree": 4.524878048780487,
+    "removed": "St. Patrick's Day",
+    "averagePathLength": 4.803169957961776,
+    "numNodes": 1025,
+    "averageOutDegree": 4.524878048780487
+  },
+  "109": {
+    "numEdges": 4599,
+    "selfLinks": 2,
+    "sizeLargest": 574,
+    "averageInDegree": 4.4912109375,
+    "removed": "Season 2 DVD",
+    "averagePathLength": 4.809481243653124,
+    "numNodes": 1024,
+    "averageOutDegree": 4.4912109375
+  },
+  "110": {
+    "numEdges": 4561,
+    "selfLinks": 2,
+    "sizeLargest": 573,
+    "averageInDegree": 4.458455522971652,
+    "removed": "Casino Night",
+    "averagePathLength": 4.834745969562723,
+    "numNodes": 1023,
+    "averageOutDegree": 4.458455522971652
+  },
+  "111": {
+    "numEdges": 4523,
+    "selfLinks": 2,
+    "sizeLargest": 572,
+    "averageInDegree": 4.425636007827789,
+    "removed": "Justin Spitzer",
+    "averagePathLength": 4.856974024224462,
+    "numNodes": 1022,
+    "averageOutDegree": 4.425636007827789
+  },
+  "112": {
+    "numEdges": 4485,
+    "selfLinks": 2,
+    "sizeLargest": 570,
+    "averageInDegree": 4.392752203721841,
+    "removed": "Charles Miner",
+    "averagePathLength": 4.868821878950452,
+    "numNodes": 1021,
+    "averageOutDegree": 4.392752203721841
+  },
+  "113": {
+    "numEdges": 4448,
+    "selfLinks": 2,
+    "sizeLargest": 569,
+    "averageInDegree": 4.36078431372549,
+    "removed": "David Brent",
+    "averagePathLength": 4.876364513973118,
+    "numNodes": 1020,
+    "averageOutDegree": 4.36078431372549
+  },
+  "114": {
+    "numEdges": 4411,
+    "selfLinks": 2,
+    "sizeLargest": 563,
+    "averageInDegree": 4.328753680078508,
+    "removed": "Take Your Daughter to Work Day",
+    "averagePathLength": 4.888791615835351,
+    "numNodes": 1019,
+    "averageOutDegree": 4.328753680078508
+  },
+  "115": {
+    "numEdges": 4374,
+    "selfLinks": 2,
+    "sizeLargest": 559,
+    "averageInDegree": 4.296660117878193,
+    "removed": "Season 3 DVD",
+    "averagePathLength": 4.897467956732773,
+    "numNodes": 1018,
+    "averageOutDegree": 4.296660117878193
+  },
+  "116": {
+    "numEdges": 4337,
+    "selfLinks": 2,
+    "sizeLargest": 558,
+    "averageInDegree": 4.264503441494592,
+    "removed": "Launch Party",
+    "averagePathLength": 4.914621982844604,
+    "numNodes": 1017,
+    "averageOutDegree": 4.264503441494592
+  },
+  "117": {
+    "numEdges": 4301,
+    "selfLinks": 2,
+    "sizeLargest": 557,
+    "averageInDegree": 4.233267716535433,
+    "removed": "Christmas Party",
+    "averagePathLength": 4.938228950053602,
+    "numNodes": 1016,
+    "averageOutDegree": 4.233267716535433
+  },
+  "118": {
+    "numEdges": 4265,
+    "selfLinks": 2,
+    "sizeLargest": 555,
+    "averageInDegree": 4.201970443349754,
+    "removed": "Stress Relief",
+    "averagePathLength": 4.950983835821381,
+    "numNodes": 1015,
+    "averageOutDegree": 4.201970443349754
+  },
+  "119": {
+    "numEdges": 4229,
+    "selfLinks": 2,
+    "sizeLargest": 550,
+    "averageInDegree": 4.170611439842209,
+    "removed": "Manager and Salesman",
+    "averagePathLength": 4.978257989733399,
+    "numNodes": 1014,
+    "averageOutDegree": 4.170611439842209
+  },
+  "120": {
+    "numEdges": 4194,
+    "selfLinks": 2,
+    "sizeLargest": 549,
+    "averageInDegree": 4.140177690029615,
+    "removed": "Background Employees",
+    "averagePathLength": 4.977028572188319,
+    "numNodes": 1013,
+    "averageOutDegree": 4.140177690029615
+  },
+  "121": {
+    "numEdges": 4159,
+    "selfLinks": 2,
+    "sizeLargest": 548,
+    "averageInDegree": 4.109683794466403,
+    "removed": "Randall Einhorn",
+    "averagePathLength": 5.038234430670278,
+    "numNodes": 1012,
+    "averageOutDegree": 4.109683794466403
+  },
+  "122": {
+    "numEdges": 4124,
+    "selfLinks": 2,
+    "sizeLargest": 545,
+    "averageInDegree": 4.079129574678536,
+    "removed": "Fun Run",
+    "averagePathLength": 5.0105875607123584,
+    "numNodes": 1011,
+    "averageOutDegree": 4.079129574678536
+  },
+  "123": {
+    "numEdges": 4089,
+    "selfLinks": 2,
+    "sizeLargest": 540,
+    "averageInDegree": 4.048514851485148,
+    "removed": "Phyllis' Wedding",
+    "averagePathLength": 5.015233972376829,
+    "numNodes": 1010,
+    "averageOutDegree": 4.048514851485148
+  },
+  "124": {
+    "numEdges": 4055,
+    "selfLinks": 2,
+    "sizeLargest": 540,
+    "averageInDegree": 4.018830525272547,
+    "removed": "List of Guest Stars",
+    "averagePathLength": 5.015233972376829,
+    "numNodes": 1009,
+    "averageOutDegree": 4.018830525272547
+  },
+  "125": {
+    "numEdges": 4021,
+    "selfLinks": 2,
+    "sizeLargest": 539,
+    "averageInDegree": 3.9890873015873014,
+    "removed": "Halloween",
+    "averagePathLength": 5.036843666158589,
+    "numNodes": 1008,
+    "averageOutDegree": 3.9890873015873014
+  },
+  "126": {
+    "numEdges": 3988,
+    "selfLinks": 2,
+    "sizeLargest": 535,
+    "averageInDegree": 3.9602780536246276,
+    "removed": "Grief Counseling",
+    "averagePathLength": 5.047919073121215,
+    "numNodes": 1007,
+    "averageOutDegree": 3.9602780536246276
+  },
+  "127": {
+    "numEdges": 3955,
+    "selfLinks": 2,
+    "sizeLargest": 534,
+    "averageInDegree": 3.9314115308151094,
+    "removed": "The Dundies",
+    "averagePathLength": 5.063196098685274,
+    "numNodes": 1006,
+    "averageOutDegree": 3.9314115308151094
+  },
+  "128": {
+    "numEdges": 3923,
+    "selfLinks": 2,
+    "sizeLargest": 531,
+    "averageInDegree": 3.9034825870646768,
+    "removed": "New Boss",
+    "averagePathLength": 5.07842092172121,
+    "numNodes": 1005,
+    "averageOutDegree": 3.9034825870646768
+  },
+  "129": {
+    "numEdges": 3891,
+    "selfLinks": 2,
+    "sizeLargest": 530,
+    "averageInDegree": 3.8754980079681274,
+    "removed": "Diversity Day",
+    "averagePathLength": 5.0922602275564435,
+    "numNodes": 1004,
+    "averageOutDegree": 3.8754980079681274
+  },
+  "130": {
+    "numEdges": 3859,
+    "selfLinks": 2,
+    "sizeLargest": 527,
+    "averageInDegree": 3.847457627118644,
+    "removed": "Basketball",
+    "averagePathLength": 5.102903297956003,
+    "numNodes": 1003,
+    "averageOutDegree": 3.847457627118644
+  },
+  "131": {
+    "numEdges": 3827,
+    "selfLinks": 2,
+    "sizeLargest": 526,
+    "averageInDegree": 3.81936127744511,
+    "removed": "Safety Training",
+    "averagePathLength": 5.124935723338766,
+    "numNodes": 1002,
+    "averageOutDegree": 3.81936127744511
+  },
+  "132": {
+    "numEdges": 3796,
+    "selfLinks": 2,
+    "sizeLargest": 519,
+    "averageInDegree": 3.792207792207792,
+    "removed": "Tim Canterbury",
+    "averagePathLength": 5.108788805320597,
+    "numNodes": 1001,
+    "averageOutDegree": 3.792207792207792
+  },
+  "133": {
+    "numEdges": 3765,
+    "selfLinks": 2,
+    "sizeLargest": 517,
+    "averageInDegree": 3.765,
+    "removed": "Mose Schrute",
+    "averagePathLength": 5.218999745100685,
+    "numNodes": 1000,
+    "averageOutDegree": 3.765
+  },
+  "134": {
+    "numEdges": 3734,
+    "selfLinks": 2,
+    "sizeLargest": 516,
+    "averageInDegree": 3.7377377377377377,
+    "removed": "Weight Loss",
+    "averagePathLength": 5.233672010235568,
+    "numNodes": 999,
+    "averageOutDegree": 3.7377377377377377
+  },
+  "135": {
+    "numEdges": 3703,
+    "selfLinks": 2,
+    "sizeLargest": 511,
+    "averageInDegree": 3.7104208416833666,
+    "removed": "Booze Cruise",
+    "averagePathLength": 5.2481792717086835,
+    "numNodes": 998,
+    "averageOutDegree": 3.7104208416833666
+  },
+  "136": {
+    "numEdges": 3673,
+    "selfLinks": 2,
+    "sizeLargest": 506,
+    "averageInDegree": 3.6840521564694084,
+    "removed": "Email Surveillance",
+    "averagePathLength": 5.276167181935585,
+    "numNodes": 997,
+    "averageOutDegree": 3.6840521564694084
+  },
+  "137": {
+    "numEdges": 3643,
+    "selfLinks": 2,
+    "sizeLargest": 503,
+    "averageInDegree": 3.6576305220883536,
+    "removed": "Search Committee",
+    "averagePathLength": 5.296812749003984,
+    "numNodes": 996,
+    "averageOutDegree": 3.6576305220883536
+  },
+  "138": {
+    "numEdges": 3613,
+    "selfLinks": 2,
+    "sizeLargest": 503,
+    "averageInDegree": 3.631155778894472,
+    "removed": "Toby",
+    "averagePathLength": 5.296812749003984,
+    "numNodes": 995,
+    "averageOutDegree": 3.631155778894472
+  },
+  "139": {
+    "numEdges": 3583,
+    "selfLinks": 2,
+    "sizeLargest": 503,
+    "averageInDegree": 3.6046277665995974,
+    "removed": "Creed",
+    "averagePathLength": 5.296812749003984,
+    "numNodes": 994,
+    "averageOutDegree": 3.6046277665995974
+  },
+  "140": {
+    "numEdges": 3554,
+    "selfLinks": 2,
+    "sizeLargest": 502,
+    "averageInDegree": 3.579053373615307,
+    "removed": "Brent Forrester",
+    "averagePathLength": 5.366227703954641,
+    "numNodes": 993,
+    "averageOutDegree": 3.579053373615307
+  },
+  "141": {
+    "numEdges": 3525,
+    "selfLinks": 2,
+    "sizeLargest": 497,
+    "averageInDegree": 3.5534274193548385,
+    "removed": "Chair Model",
+    "averagePathLength": 5.402284675796715,
+    "numNodes": 992,
+    "averageOutDegree": 3.5534274193548385
+  },
+  "142": {
+    "numEdges": 3496,
+    "selfLinks": 2,
+    "sizeLargest": 491,
+    "averageInDegree": 3.5277497477295663,
+    "removed": "Beach Games",
+    "averagePathLength": 5.413317261731576,
+    "numNodes": 991,
+    "averageOutDegree": 3.5277497477295663
+  },
+  "143": {
+    "numEdges": 3467,
+    "selfLinks": 2,
+    "sizeLargest": 491,
+    "averageInDegree": 3.502020202020202,
+    "removed": "Stanley",
+    "averagePathLength": 5.413317261731576,
+    "numNodes": 990,
+    "averageOutDegree": 3.502020202020202
+  },
+  "144": {
+    "numEdges": 3438,
+    "selfLinks": 2,
+    "sizeLargest": 488,
+    "averageInDegree": 3.4762386248736097,
+    "removed": "Sexual Harassment",
+    "averagePathLength": 5.438267916652641,
+    "numNodes": 989,
+    "averageOutDegree": 3.4762386248736097
+  },
+  "145": {
+    "numEdges": 3409,
+    "selfLinks": 2,
+    "sizeLargest": 487,
+    "averageInDegree": 3.450404858299595,
+    "removed": "Season 5 DVD",
+    "averagePathLength": 5.458564656374376,
+    "numNodes": 988,
+    "averageOutDegree": 3.450404858299595
+  },
+  "146": {
+    "numEdges": 3380,
+    "selfLinks": 2,
+    "sizeLargest": 483,
+    "averageInDegree": 3.42451874366768,
+    "removed": "The Deposition",
+    "averagePathLength": 5.478153484016735,
+    "numNodes": 987,
+    "averageOutDegree": 3.42451874366768
+  },
+  "147": {
+    "numEdges": 3351,
+    "selfLinks": 2,
+    "sizeLargest": 481,
+    "averageInDegree": 3.398580121703854,
+    "removed": "Health Care",
+    "averagePathLength": 5.540038115038115,
+    "numNodes": 986,
+    "averageOutDegree": 3.398580121703854
+  },
+  "148": {
+    "numEdges": 3322,
+    "selfLinks": 2,
+    "sizeLargest": 481,
+    "averageInDegree": 3.3725888324873097,
+    "removed": "Phyllis",
+    "averagePathLength": 5.540038115038115,
+    "numNodes": 985,
+    "averageOutDegree": 3.3725888324873097
+  },
+  "149": {
+    "numEdges": 3293,
+    "selfLinks": 2,
+    "sizeLargest": 479,
+    "averageInDegree": 3.3465447154471546,
+    "removed": "Whistleblower",
+    "averagePathLength": 5.60132249019488,
+    "numNodes": 984,
+    "averageOutDegree": 3.3465447154471546
+  },
+  "150": {
+    "numEdges": 3265,
+    "selfLinks": 2,
+    "sizeLargest": 477,
+    "averageInDegree": 3.3214649033570702,
+    "removed": "Dunder Mifflin Infinity",
+    "averagePathLength": 5.610816024523016,
+    "numNodes": 983,
+    "averageOutDegree": 3.3214649033570702
+  },
+  "151": {
+    "numEdges": 3237,
+    "selfLinks": 2,
+    "sizeLargest": 476,
+    "averageInDegree": 3.296334012219959,
+    "removed": "Ricky Gervais",
+    "averagePathLength": 5.626050420168068,
+    "numNodes": 982,
+    "averageOutDegree": 3.296334012219959
+  },
+  "152": {
+    "numEdges": 3209,
+    "selfLinks": 2,
+    "sizeLargest": 474,
+    "averageInDegree": 3.271151885830785,
+    "removed": "Cocktails",
+    "averagePathLength": 5.661073496222157,
+    "numNodes": 981,
+    "averageOutDegree": 3.271151885830785
+  },
+  "153": {
+    "numEdges": 3181,
+    "selfLinks": 2,
+    "sizeLargest": 472,
+    "averageInDegree": 3.2459183673469387,
+    "removed": "Nate",
+    "averagePathLength": 5.711711468566699,
+    "numNodes": 980,
+    "averageOutDegree": 3.2459183673469387
+  },
+  "154": {
+    "numEdges": 3153,
+    "selfLinks": 2,
+    "sizeLargest": 470,
+    "averageInDegree": 3.2206332992849847,
+    "removed": "Hot Girl",
+    "averagePathLength": 5.738311482103162,
+    "numNodes": 979,
+    "averageOutDegree": 3.2206332992849847
+  },
+  "155": {
+    "numEdges": 3126,
+    "selfLinks": 2,
+    "sizeLargest": 470,
+    "averageInDegree": 3.196319018404908,
+    "removed": "NBC",
+    "averagePathLength": 5.738311482103162,
+    "numNodes": 978,
+    "averageOutDegree": 3.196319018404908
+  },
+  "156": {
+    "numEdges": 3099,
+    "selfLinks": 2,
+    "sizeLargest": 470,
+    "averageInDegree": 3.171954964176049,
+    "removed": "Gareth Keenan",
+    "averagePathLength": 5.738311482103162,
+    "numNodes": 977,
+    "averageOutDegree": 3.171954964176049
+  },
+  "157": {
+    "numEdges": 3072,
+    "selfLinks": 2,
+    "sizeLargest": 470,
+    "averageInDegree": 3.1475409836065573,
+    "removed": "Main Characters",
+    "averagePathLength": 5.738311482103162,
+    "numNodes": 976,
+    "averageOutDegree": 3.1475409836065573
+  },
+  "158": {
+    "numEdges": 3045,
+    "selfLinks": 2,
+    "sizeLargest": 468,
+    "averageInDegree": 3.123076923076923,
+    "removed": "Sabre (company)",
+    "averagePathLength": 5.785620161423159,
+    "numNodes": 975,
+    "averageOutDegree": 3.123076923076923
+  },
+  "159": {
+    "numEdges": 3018,
+    "selfLinks": 2,
+    "sizeLargest": 465,
+    "averageInDegree": 3.0985626283367558,
+    "removed": "Diwali",
+    "averagePathLength": 5.798785687801261,
+    "numNodes": 974,
+    "averageOutDegree": 3.0985626283367558
+  },
+  "160": {
+    "numEdges": 2991,
+    "selfLinks": 2,
+    "sizeLargest": 463,
+    "averageInDegree": 3.0739979445015417,
+    "removed": "Season 7 DVD",
+    "averagePathLength": 5.804731985077558,
+    "numNodes": 973,
+    "averageOutDegree": 3.0739979445015417
+  },
+  "161": {
+    "numEdges": 2964,
+    "selfLinks": 2,
+    "sizeLargest": 459,
+    "averageInDegree": 3.049382716049383,
+    "removed": "Party Planning Committee",
+    "averagePathLength": 5.858245093282339,
+    "numNodes": 972,
+    "averageOutDegree": 3.049382716049383
+  },
+  "162": {
+    "numEdges": 2937,
+    "selfLinks": 2,
+    "sizeLargest": 459,
+    "averageInDegree": 3.024716786817714,
+    "removed": "Catherine Tate",
+    "averagePathLength": 5.858245093282339,
+    "numNodes": 971,
+    "averageOutDegree": 3.024716786817714
+  },
+  "163": {
+    "numEdges": 2911,
+    "selfLinks": 2,
+    "sizeLargest": 457,
+    "averageInDegree": 3.0010309278350515,
+    "removed": "Cathy Simms",
+    "averagePathLength": 5.876924258128911,
+    "numNodes": 970,
+    "averageOutDegree": 3.0010309278350515
+  },
+  "164": {
+    "numEdges": 2885,
+    "selfLinks": 2,
+    "sizeLargest": 456,
+    "averageInDegree": 2.977296181630547,
+    "removed": "Crime Aid",
+    "averagePathLength": 5.91088297667245,
+    "numNodes": 969,
+    "averageOutDegree": 2.977296181630547
+  },
+  "165": {
+    "numEdges": 2859,
+    "selfLinks": 2,
+    "sizeLargest": 453,
+    "averageInDegree": 2.9535123966942147,
+    "removed": "The Convention",
+    "averagePathLength": 6.070010158432476,
+    "numNodes": 968,
+    "averageOutDegree": 2.9535123966942147
+  },
+  "166": {
+    "numEdges": 2833,
+    "selfLinks": 2,
+    "sizeLargest": 449,
+    "averageInDegree": 2.9296794208893484,
+    "removed": "Golden Ticket",
+    "averagePathLength": 6.090329700922686,
+    "numNodes": 967,
+    "averageOutDegree": 2.9296794208893484
+  },
+  "167": {
+    "numEdges": 2808,
+    "selfLinks": 2,
+    "sizeLargest": 449,
+    "averageInDegree": 2.906832298136646,
+    "removed": "Michael Schur",
+    "averagePathLength": 6.090329700922686,
+    "numNodes": 966,
+    "averageOutDegree": 2.906832298136646
+  },
+  "168": {
+    "numEdges": 2783,
+    "selfLinks": 2,
+    "sizeLargest": 448,
+    "averageInDegree": 2.883937823834197,
+    "removed": "The Office: The Accountants",
+    "averagePathLength": 6.168599193032918,
+    "numNodes": 965,
+    "averageOutDegree": 2.883937823834197
+  },
+  "169": {
+    "numEdges": 2759,
+    "selfLinks": 2,
+    "sizeLargest": 444,
+    "averageInDegree": 2.862033195020747,
+    "removed": "Boys and Girls",
+    "averagePathLength": 6.215906086673581,
+    "numNodes": 964,
+    "averageOutDegree": 2.862033195020747
+  },
+  "170": {
+    "numEdges": 2735,
+    "selfLinks": 2,
+    "sizeLargest": 442,
+    "averageInDegree": 2.8400830737279334,
+    "removed": "Dunder Mifflin Stamford",
+    "averagePathLength": 6.284688234268066,
+    "numNodes": 963,
+    "averageOutDegree": 2.8400830737279334
+  },
+  "171": {
+    "numEdges": 2711,
+    "selfLinks": 2,
+    "sizeLargest": 440,
+    "averageInDegree": 2.818087318087318,
+    "removed": "Drug Testing",
+    "averagePathLength": 6.3705373783392005,
+    "numNodes": 962,
+    "averageOutDegree": 2.818087318087318
+  },
+  "172": {
+    "numEdges": 2687,
+    "selfLinks": 2,
+    "sizeLargest": 439,
+    "averageInDegree": 2.7960457856399583,
+    "removed": "The Alliance",
+    "averagePathLength": 6.49702000187225,
+    "numNodes": 961,
+    "averageOutDegree": 2.7960457856399583
+  },
+  "173": {
+    "numEdges": 2663,
+    "selfLinks": 2,
+    "sizeLargest": 439,
+    "averageInDegree": 2.7739583333333333,
+    "removed": "Meredith",
+    "averagePathLength": 6.49702000187225,
+    "numNodes": 960,
+    "averageOutDegree": 2.7739583333333333
+  },
+  "174": {
+    "numEdges": 2640,
+    "selfLinks": 2,
+    "sizeLargest": 436,
+    "averageInDegree": 2.7528675703858188,
+    "removed": "The Fire",
+    "averagePathLength": 6.573067594643045,
+    "numNodes": 959,
+    "averageOutDegree": 2.7528675703858188
+  },
+  "175": {
+    "numEdges": 2617,
+    "selfLinks": 2,
+    "sizeLargest": 432,
+    "averageInDegree": 2.731732776617954,
+    "removed": "The Meeting",
+    "averagePathLength": 6.597292042622669,
+    "numNodes": 958,
+    "averageOutDegree": 2.731732776617954
+  },
+  "176": {
+    "numEdges": 2594,
+    "selfLinks": 2,
+    "sizeLargest": 432,
+    "averageInDegree": 2.7105538140020897,
+    "removed": "Dawn Tinsley",
+    "averagePathLength": 6.597292042622669,
+    "numNodes": 957,
+    "averageOutDegree": 2.7105538140020897
+  },
+  "177": {
+    "numEdges": 2571,
+    "selfLinks": 2,
+    "sizeLargest": 430,
+    "averageInDegree": 2.6893305439330546,
+    "removed": "The Inner Circle",
+    "averagePathLength": 6.631219168428471,
+    "numNodes": 956,
+    "averageOutDegree": 2.6893305439330546
+  },
+  "178": {
+    "numEdges": 2548,
+    "selfLinks": 2,
+    "sizeLargest": 429,
+    "averageInDegree": 2.668062827225131,
+    "removed": "Stephen Merchant",
+    "averagePathLength": 6.660338104263338,
+    "numNodes": 955,
+    "averageOutDegree": 2.668062827225131
+  },
+  "179": {
+    "numEdges": 2525,
+    "selfLinks": 2,
+    "sizeLargest": 429,
+    "averageInDegree": 2.646750524109015,
+    "removed": "Erin",
+    "averagePathLength": 6.660338104263338,
+    "numNodes": 954,
+    "averageOutDegree": 2.646750524109015
+  },
+  "180": {
+    "numEdges": 2502,
+    "selfLinks": 2,
+    "sizeLargest": 428,
+    "averageInDegree": 2.625393494228751,
+    "removed": "Branch Closing",
+    "averagePathLength": 6.7117686970605615,
+    "numNodes": 953,
+    "averageOutDegree": 2.625393494228751
+  },
+  "181": {
+    "numEdges": 2479,
+    "selfLinks": 2,
+    "sizeLargest": 427,
+    "averageInDegree": 2.6039915966386555,
+    "removed": "Jake Lacy",
+    "averagePathLength": 6.718760651339732,
+    "numNodes": 952,
+    "averageOutDegree": 2.6039915966386555
+  },
+  "182": {
+    "numEdges": 2457,
+    "selfLinks": 2,
+    "sizeLargest": 426,
+    "averageInDegree": 2.583596214511041,
+    "removed": "Survivor Man",
+    "averagePathLength": 6.770439105219553,
+    "numNodes": 951,
+    "averageOutDegree": 2.583596214511041
+  },
+  "183": {
+    "numEdges": 2435,
+    "selfLinks": 2,
+    "sizeLargest": 423,
+    "averageInDegree": 2.5631578947368423,
+    "removed": "The Coup",
+    "averagePathLength": 6.8313446046631485,
+    "numNodes": 950,
+    "averageOutDegree": 2.5631578947368423
+  },
+  "184": {
+    "numEdges": 2413,
+    "selfLinks": 2,
+    "sizeLargest": 422,
+    "averageInDegree": 2.542676501580611,
+    "removed": "Clark Duke",
+    "averagePathLength": 6.8536546926185675,
+    "numNodes": 949,
+    "averageOutDegree": 2.542676501580611
+  },
+  "185": {
+    "numEdges": 2391,
+    "selfLinks": 2,
+    "sizeLargest": 421,
+    "averageInDegree": 2.5221518987341773,
+    "removed": "Andy Buckley",
+    "averagePathLength": 6.895147607736681,
+    "numNodes": 948,
+    "averageOutDegree": 2.5221518987341773
+  },
+  "186": {
+    "numEdges": 2370,
+    "selfLinks": 2,
+    "sizeLargest": 419,
+    "averageInDegree": 2.5026399155227033,
+    "removed": "Michael Scott Paper Company",
+    "averagePathLength": 6.933436868369665,
+    "numNodes": 947,
+    "averageOutDegree": 2.5026399155227033
+  },
+  "187": {
+    "numEdges": 2349,
+    "selfLinks": 2,
+    "sizeLargest": 418,
+    "averageInDegree": 2.483086680761099,
+    "removed": "Lecture Circuit Part 1",
+    "averagePathLength": 6.973971062384543,
+    "numNodes": 946,
+    "averageOutDegree": 2.483086680761099
+  },
+  "188": {
+    "numEdges": 2328,
+    "selfLinks": 2,
+    "sizeLargest": 416,
+    "averageInDegree": 2.4634920634920636,
+    "removed": "Sex Ed",
+    "averagePathLength": 7.023522937905468,
+    "numNodes": 945,
+    "averageOutDegree": 2.4634920634920636
+  },
+  "189": {
+    "numEdges": 2307,
+    "selfLinks": 2,
+    "sizeLargest": 416,
+    "averageInDegree": 2.4438559322033897,
+    "removed": "James Spader",
+    "averagePathLength": 7.023522937905468,
+    "numNodes": 944,
+    "averageOutDegree": 2.4438559322033897
+  },
+  "190": {
+    "numEdges": 2286,
+    "selfLinks": 2,
+    "sizeLargest": 416,
+    "averageInDegree": 2.4241781548250265,
+    "removed": "Darryl",
+    "averagePathLength": 7.023522937905468,
+    "numNodes": 943,
+    "averageOutDegree": 2.4241781548250265
+  },
+  "191": {
+    "numEdges": 2265,
+    "selfLinks": 2,
+    "sizeLargest": 414,
+    "averageInDegree": 2.4044585987261144,
+    "removed": "Back From Vacation",
+    "averagePathLength": 7.077668994397071,
+    "numNodes": 942,
+    "averageOutDegree": 2.4044585987261144
+  },
+  "192": {
+    "numEdges": 2245,
+    "selfLinks": 2,
+    "sizeLargest": 411,
+    "averageInDegree": 2.385759829968119,
+    "removed": "The Fight",
+    "averagePathLength": 7.221826597828022,
+    "numNodes": 941,
+    "averageOutDegree": 2.385759829968119
+  }
+}

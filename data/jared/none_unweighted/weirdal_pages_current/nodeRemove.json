@@ -1,0 +1,112 @@
+{
+  "0": {
+    "numEdges": 2146,
+    "selfLinks": 2,
+    "sizeLargest": 374,
+    "averageInDegree": 1.9403254972875226,
+    "removed": "Concert History",
+    "averagePathLength": 6.402582041834526,
+    "numNodes": 1106,
+    "averageOutDegree": 1.9403254972875226
+  },
+  "1": {
+    "numEdges": 2049,
+    "selfLinks": 2,
+    "sizeLargest": 311,
+    "averageInDegree": 1.8542986425339367,
+    "removed": "\"Weird Al\" Yankovic",
+    "averagePathLength": 6.804843895861425,
+    "numNodes": 1105,
+    "averageOutDegree": 1.8542986425339367
+  },
+  "2": {
+    "numEdges": 1982,
+    "selfLinks": 2,
+    "sizeLargest": 311,
+    "averageInDegree": 1.7952898550724639,
+    "removed": "Complete Song List (Wikipedia)",
+    "averagePathLength": 6.804843895861425,
+    "numNodes": 1104,
+    "averageOutDegree": 1.7952898550724639
+  },
+  "3": {
+    "numEdges": 1937,
+    "selfLinks": 2,
+    "sizeLargest": 308,
+    "averageInDegree": 1.7561196736174072,
+    "removed": "Album:The Essential \"Weird Al\" Yankovic",
+    "averagePathLength": 6.7979081179406915,
+    "numNodes": 1103,
+    "averageOutDegree": 1.7561196736174072
+  },
+  "4": {
+    "numEdges": 1894,
+    "selfLinks": 2,
+    "sizeLargest": 308,
+    "averageInDegree": 1.718693284936479,
+    "removed": "Album:The Essential \"Weird Al\" Yankovic 3.0",
+    "averagePathLength": 6.7979081179406915,
+    "numNodes": 1102,
+    "averageOutDegree": 1.718693284936479
+  },
+  "5": {
+    "numEdges": 1862,
+    "selfLinks": 2,
+    "sizeLargest": 289,
+    "averageInDegree": 1.6911898274296095,
+    "removed": "Television",
+    "averagePathLength": 7.218233371780085,
+    "numNodes": 1101,
+    "averageOutDegree": 1.6911898274296095
+  },
+  "6": {
+    "numEdges": 1830,
+    "selfLinks": 2,
+    "sizeLargest": 267,
+    "averageInDegree": 1.6636363636363636,
+    "removed": "\"Weird Al\" Yankovic: The Ultimate Video Collection",
+    "averagePathLength": 7.620765396637662,
+    "numNodes": 1100,
+    "averageOutDegree": 1.6636363636363636
+  },
+  "7": {
+    "numEdges": 1799,
+    "selfLinks": 2,
+    "sizeLargest": 234,
+    "averageInDegree": 1.6369426751592357,
+    "removed": "Food Medley",
+    "averagePathLength": 7.5298411650342985,
+    "numNodes": 1099,
+    "averageOutDegree": 1.6369426751592357
+  },
+  "8": {
+    "numEdges": 1769,
+    "selfLinks": 2,
+    "sizeLargest": 234,
+    "averageInDegree": 1.6111111111111112,
+    "removed": "Concert Only Songs",
+    "averagePathLength": 7.5298411650342985,
+    "numNodes": 1098,
+    "averageOutDegree": 1.6111111111111112
+  },
+  "9": {
+    "numEdges": 1739,
+    "selfLinks": 2,
+    "sizeLargest": 215,
+    "averageInDegree": 1.585232452142206,
+    "removed": "Album:\"Weird Al\" Yankovic",
+    "averagePathLength": 7.72749402303847,
+    "numNodes": 1097,
+    "averageOutDegree": 1.585232452142206
+  },
+  "10": {
+    "numEdges": 1711,
+    "selfLinks": 2,
+    "sizeLargest": 183,
+    "averageInDegree": 1.561131386861314,
+    "removed": "27",
+    "averagePathLength": 7.652254848976161,
+    "numNodes": 1096,
+    "averageOutDegree": 1.561131386861314
+  }
+}

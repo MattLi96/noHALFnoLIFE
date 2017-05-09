@@ -1,0 +1,602 @@
+{
+  "0": {
+    "numEdges": 7792,
+    "selfLinks": 1,
+    "sizeLargest": 520,
+    "averageInDegree": 10.897902097902097,
+    "removed": "Twin Peaks",
+    "averagePathLength": 2.8568771305765526,
+    "numNodes": 715,
+    "averageOutDegree": 10.897902097902097
+  },
+  "1": {
+    "numEdges": 7490,
+    "selfLinks": 1,
+    "sizeLargest": 513,
+    "averageInDegree": 10.490196078431373,
+    "removed": "Dale Cooper",
+    "averagePathLength": 2.9222062317251463,
+    "numNodes": 714,
+    "averageOutDegree": 10.490196078431373
+  },
+  "2": {
+    "numEdges": 7200,
+    "selfLinks": 1,
+    "sizeLargest": 467,
+    "averageInDegree": 10.098176718092567,
+    "removed": "Twin Peaks (2017)",
+    "averagePathLength": 2.9397900947514497,
+    "numNodes": 713,
+    "averageOutDegree": 10.098176718092567
+  },
+  "3": {
+    "numEdges": 6970,
+    "selfLinks": 1,
+    "sizeLargest": 463,
+    "averageInDegree": 9.789325842696629,
+    "removed": "Harry S. Truman",
+    "averagePathLength": 2.9672566454423905,
+    "numNodes": 712,
+    "averageOutDegree": 9.789325842696629
+  },
+  "4": {
+    "numEdges": 6754,
+    "selfLinks": 1,
+    "sizeLargest": 451,
+    "averageInDegree": 9.49929676511955,
+    "removed": "Twin Peaks: Fire Walk with Me",
+    "averagePathLength": 3.048622813500862,
+    "numNodes": 711,
+    "averageOutDegree": 9.49929676511955
+  },
+  "5": {
+    "numEdges": 6563,
+    "selfLinks": 1,
+    "sizeLargest": 445,
+    "averageInDegree": 9.243661971830987,
+    "removed": "Pilot",
+    "averagePathLength": 3.0840014171474848,
+    "numNodes": 710,
+    "averageOutDegree": 9.243661971830987
+  },
+  "6": {
+    "numEdges": 6392,
+    "selfLinks": 1,
+    "sizeLargest": 444,
+    "averageInDegree": 9.015514809590973,
+    "removed": "Laura Palmer",
+    "averagePathLength": 3.1035425945132493,
+    "numNodes": 709,
+    "averageOutDegree": 9.015514809590973
+  },
+  "7": {
+    "numEdges": 6235,
+    "selfLinks": 1,
+    "sizeLargest": 442,
+    "averageInDegree": 8.806497175141242,
+    "removed": "Donna Hayward",
+    "averagePathLength": 3.1237571951857666,
+    "numNodes": 708,
+    "averageOutDegree": 8.806497175141242
+  },
+  "8": {
+    "numEdges": 6081,
+    "selfLinks": 1,
+    "sizeLargest": 437,
+    "averageInDegree": 8.601131541725602,
+    "removed": "Benjamin Horne",
+    "averagePathLength": 3.1299414271618415,
+    "numNodes": 707,
+    "averageOutDegree": 8.601131541725602
+  },
+  "9": {
+    "numEdges": 5930,
+    "selfLinks": 1,
+    "sizeLargest": 430,
+    "averageInDegree": 8.39943342776204,
+    "removed": "Andy Brennan",
+    "averagePathLength": 3.139355992844365,
+    "numNodes": 706,
+    "averageOutDegree": 8.39943342776204
+  },
+  "10": {
+    "numEdges": 5781,
+    "selfLinks": 1,
+    "sizeLargest": 418,
+    "averageInDegree": 8.2,
+    "removed": "Episode 29",
+    "averagePathLength": 3.1345449955824813,
+    "numNodes": 705,
+    "averageOutDegree": 8.2
+  },
+  "11": {
+    "numEdges": 5636,
+    "selfLinks": 1,
+    "sizeLargest": 418,
+    "averageInDegree": 8.005681818181818,
+    "removed": "List of characters in Twin Peaks",
+    "averagePathLength": 3.1345449955824813,
+    "numNodes": 704,
+    "averageOutDegree": 8.005681818181818
+  },
+  "12": {
+    "numEdges": 5494,
+    "selfLinks": 1,
+    "sizeLargest": 413,
+    "averageInDegree": 7.8150782361308675,
+    "removed": "Will Hayward",
+    "averagePathLength": 3.1434448388537577,
+    "numNodes": 703,
+    "averageOutDegree": 7.8150782361308675
+  },
+  "13": {
+    "numEdges": 5356,
+    "selfLinks": 1,
+    "sizeLargest": 411,
+    "averageInDegree": 7.62962962962963,
+    "removed": "Audrey Horne",
+    "averagePathLength": 3.159385199691413,
+    "numNodes": 702,
+    "averageOutDegree": 7.62962962962963
+  },
+  "14": {
+    "numEdges": 5221,
+    "selfLinks": 1,
+    "sizeLargest": 404,
+    "averageInDegree": 7.44793152639087,
+    "removed": "Hawk",
+    "averagePathLength": 3.174520305628578,
+    "numNodes": 701,
+    "averageOutDegree": 7.44793152639087
+  },
+  "15": {
+    "numEdges": 5088,
+    "selfLinks": 1,
+    "sizeLargest": 398,
+    "averageInDegree": 7.268571428571429,
+    "removed": "Twin Peaks, Washington",
+    "averagePathLength": 3.1862777362884955,
+    "numNodes": 700,
+    "averageOutDegree": 7.268571428571429
+  },
+  "16": {
+    "numEdges": 4956,
+    "selfLinks": 1,
+    "sizeLargest": 391,
+    "averageInDegree": 7.090128755364807,
+    "removed": "Episode 8",
+    "averagePathLength": 3.2029116663387764,
+    "numNodes": 699,
+    "averageOutDegree": 7.090128755364807
+  },
+  "17": {
+    "numEdges": 4837,
+    "selfLinks": 1,
+    "sizeLargest": 387,
+    "averageInDegree": 6.929799426934097,
+    "removed": "Lucy Moran",
+    "averagePathLength": 3.2211846139427776,
+    "numNodes": 698,
+    "averageOutDegree": 6.929799426934097
+  },
+  "18": {
+    "numEdges": 4721,
+    "selfLinks": 1,
+    "sizeLargest": 383,
+    "averageInDegree": 6.773314203730273,
+    "removed": "Norma Jennings",
+    "averagePathLength": 3.2378508058452833,
+    "numNodes": 697,
+    "averageOutDegree": 6.773314203730273
+  },
+  "19": {
+    "numEdges": 4611,
+    "selfLinks": 1,
+    "sizeLargest": 379,
+    "averageInDegree": 6.625,
+    "removed": "Bobby Briggs",
+    "averagePathLength": 3.25270483449903,
+    "numNodes": 696,
+    "averageOutDegree": 6.625
+  },
+  "20": {
+    "numEdges": 4502,
+    "selfLinks": 0,
+    "sizeLargest": 373,
+    "averageInDegree": 6.477697841726619,
+    "removed": "The Secret History of Twin Peaks",
+    "averagePathLength": 3.3048228545071923,
+    "numNodes": 695,
+    "averageOutDegree": 6.477697841726619
+  },
+  "21": {
+    "numEdges": 4397,
+    "selfLinks": 0,
+    "sizeLargest": 371,
+    "averageInDegree": 6.335734870317003,
+    "removed": "Leland Palmer",
+    "averagePathLength": 3.3247832738398775,
+    "numNodes": 694,
+    "averageOutDegree": 6.335734870317003
+  },
+  "22": {
+    "numEdges": 4295,
+    "selfLinks": 0,
+    "sizeLargest": 369,
+    "averageInDegree": 6.1976911976911975,
+    "removed": "Episode 1",
+    "averagePathLength": 3.3442102627548014,
+    "numNodes": 693,
+    "averageOutDegree": 6.1976911976911975
+  },
+  "23": {
+    "numEdges": 4196,
+    "selfLinks": 0,
+    "sizeLargest": 365,
+    "averageInDegree": 6.063583815028902,
+    "removed": "James Hurley",
+    "averagePathLength": 3.366739424958603,
+    "numNodes": 692,
+    "averageOutDegree": 6.063583815028902
+  },
+  "24": {
+    "numEdges": 4099,
+    "selfLinks": 0,
+    "sizeLargest": 362,
+    "averageInDegree": 5.931982633863965,
+    "removed": "Pete Martell",
+    "averagePathLength": 3.377182779571785,
+    "numNodes": 691,
+    "averageOutDegree": 5.931982633863965
+  },
+  "25": {
+    "numEdges": 4004,
+    "selfLinks": 0,
+    "sizeLargest": 359,
+    "averageInDegree": 5.802898550724637,
+    "removed": "Shelly Johnson",
+    "averagePathLength": 3.4016588599617186,
+    "numNodes": 690,
+    "averageOutDegree": 5.802898550724637
+  },
+  "26": {
+    "numEdges": 3911,
+    "selfLinks": 0,
+    "sizeLargest": 357,
+    "averageInDegree": 5.6763425253991295,
+    "removed": "Episode 18",
+    "averagePathLength": 3.411119503981368,
+    "numNodes": 689,
+    "averageOutDegree": 5.6763425253991295
+  },
+  "27": {
+    "numEdges": 3819,
+    "selfLinks": 0,
+    "sizeLargest": 356,
+    "averageInDegree": 5.550872093023256,
+    "removed": "Episode 21",
+    "averagePathLength": 3.426618135780978,
+    "numNodes": 688,
+    "averageOutDegree": 5.550872093023256
+  },
+  "28": {
+    "numEdges": 3728,
+    "selfLinks": 0,
+    "sizeLargest": 354,
+    "averageInDegree": 5.426491994177583,
+    "removed": "Episode 3",
+    "averagePathLength": 3.435892511323442,
+    "numNodes": 687,
+    "averageOutDegree": 5.426491994177583
+  },
+  "29": {
+    "numEdges": 3639,
+    "selfLinks": 0,
+    "sizeLargest": 351,
+    "averageInDegree": 5.30466472303207,
+    "removed": "Episode 19",
+    "averagePathLength": 3.4557671957671956,
+    "numNodes": 686,
+    "averageOutDegree": 5.30466472303207
+  },
+  "30": {
+    "numEdges": 3551,
+    "selfLinks": 0,
+    "sizeLargest": 348,
+    "averageInDegree": 5.183941605839416,
+    "removed": "Episode 17",
+    "averagePathLength": 3.4682831494915365,
+    "numNodes": 685,
+    "averageOutDegree": 5.183941605839416
+  },
+  "31": {
+    "numEdges": 3463,
+    "selfLinks": 0,
+    "sizeLargest": 347,
+    "averageInDegree": 5.062865497076023,
+    "removed": "Episode 2",
+    "averagePathLength": 3.484349752627809,
+    "numNodes": 684,
+    "averageOutDegree": 5.062865497076023
+  },
+  "32": {
+    "numEdges": 3377,
+    "selfLinks": 0,
+    "sizeLargest": 345,
+    "averageInDegree": 4.9443631039531475,
+    "removed": "Episode 14",
+    "averagePathLength": 3.502140208965285,
+    "numNodes": 683,
+    "averageOutDegree": 4.9443631039531475
+  },
+  "33": {
+    "numEdges": 3296,
+    "selfLinks": 0,
+    "sizeLargest": 342,
+    "averageInDegree": 4.832844574780059,
+    "removed": "Episode 9",
+    "averagePathLength": 3.5178611239731783,
+    "numNodes": 682,
+    "averageOutDegree": 4.832844574780059
+  },
+  "34": {
+    "numEdges": 3215,
+    "selfLinks": 0,
+    "sizeLargest": 341,
+    "averageInDegree": 4.720998531571219,
+    "removed": "Episode 5",
+    "averagePathLength": 3.5527686734517854,
+    "numNodes": 681,
+    "averageOutDegree": 4.720998531571219
+  },
+  "35": {
+    "numEdges": 3137,
+    "selfLinks": 0,
+    "sizeLargest": 338,
+    "averageInDegree": 4.613235294117647,
+    "removed": "Episode 4",
+    "averagePathLength": 3.5684248415360034,
+    "numNodes": 680,
+    "averageOutDegree": 4.613235294117647
+  },
+  "36": {
+    "numEdges": 3060,
+    "selfLinks": 0,
+    "sizeLargest": 335,
+    "averageInDegree": 4.506627393225331,
+    "removed": "Episode 28",
+    "averagePathLength": 3.574796675306104,
+    "numNodes": 679,
+    "averageOutDegree": 4.506627393225331
+  },
+  "37": {
+    "numEdges": 2984,
+    "selfLinks": 0,
+    "sizeLargest": 333,
+    "averageInDegree": 4.40117994100295,
+    "removed": "Episode 20",
+    "averagePathLength": 3.594196606244799,
+    "numNodes": 678,
+    "averageOutDegree": 4.40117994100295
+  },
+  "38": {
+    "numEdges": 2909,
+    "selfLinks": 0,
+    "sizeLargest": 318,
+    "averageInDegree": 4.296898079763663,
+    "removed": "David Lynch",
+    "averagePathLength": 3.5904311251314405,
+    "numNodes": 677,
+    "averageOutDegree": 4.296898079763663
+  },
+  "39": {
+    "numEdges": 2835,
+    "selfLinks": 0,
+    "sizeLargest": 315,
+    "averageInDegree": 4.193786982248521,
+    "removed": "Episode 16",
+    "averagePathLength": 3.6149529875644526,
+    "numNodes": 676,
+    "averageOutDegree": 4.193786982248521
+  },
+  "40": {
+    "numEdges": 2764,
+    "selfLinks": 0,
+    "sizeLargest": 313,
+    "averageInDegree": 4.094814814814815,
+    "removed": "Episode 27",
+    "averagePathLength": 3.6310211354141066,
+    "numNodes": 675,
+    "averageOutDegree": 4.094814814814815
+  },
+  "41": {
+    "numEdges": 2694,
+    "selfLinks": 0,
+    "sizeLargest": 312,
+    "averageInDegree": 3.9970326409495547,
+    "removed": "Episode 6",
+    "averagePathLength": 3.644055569296727,
+    "numNodes": 674,
+    "averageOutDegree": 3.9970326409495547
+  },
+  "42": {
+    "numEdges": 2624,
+    "selfLinks": 0,
+    "sizeLargest": 311,
+    "averageInDegree": 3.898959881129272,
+    "removed": "Episode 10",
+    "averagePathLength": 3.661207343636552,
+    "numNodes": 673,
+    "averageOutDegree": 3.898959881129272
+  },
+  "43": {
+    "numEdges": 2556,
+    "selfLinks": 0,
+    "sizeLargest": 309,
+    "averageInDegree": 3.8035714285714284,
+    "removed": "Episode 11",
+    "averagePathLength": 3.677131929559114,
+    "numNodes": 672,
+    "averageOutDegree": 3.8035714285714284
+  },
+  "44": {
+    "numEdges": 2489,
+    "selfLinks": 0,
+    "sizeLargest": 307,
+    "averageInDegree": 3.709388971684054,
+    "removed": "Episode 24",
+    "averagePathLength": 3.685369696195525,
+    "numNodes": 671,
+    "averageOutDegree": 3.709388971684054
+  },
+  "45": {
+    "numEdges": 2422,
+    "selfLinks": 0,
+    "sizeLargest": 306,
+    "averageInDegree": 3.6149253731343283,
+    "removed": "Episode 26",
+    "averagePathLength": 3.7089896067716706,
+    "numNodes": 670,
+    "averageOutDegree": 3.6149253731343283
+  },
+  "46": {
+    "numEdges": 2356,
+    "selfLinks": 0,
+    "sizeLargest": 304,
+    "averageInDegree": 3.521674140508221,
+    "removed": "Hank Jennings",
+    "averagePathLength": 3.753593451450408,
+    "numNodes": 669,
+    "averageOutDegree": 3.521674140508221
+  },
+  "47": {
+    "numEdges": 2292,
+    "selfLinks": 0,
+    "sizeLargest": 301,
+    "averageInDegree": 3.431137724550898,
+    "removed": "Episode 13",
+    "averagePathLength": 3.7686600221483944,
+    "numNodes": 668,
+    "averageOutDegree": 3.431137724550898
+  },
+  "48": {
+    "numEdges": 2231,
+    "selfLinks": 0,
+    "sizeLargest": 300,
+    "averageInDegree": 3.3448275862068964,
+    "removed": "Episode 25",
+    "averagePathLength": 3.79974358974359,
+    "numNodes": 667,
+    "averageOutDegree": 3.3448275862068964
+  },
+  "49": {
+    "numEdges": 2170,
+    "selfLinks": 0,
+    "sizeLargest": 295,
+    "averageInDegree": 3.2582582582582584,
+    "removed": "Episode 12",
+    "averagePathLength": 3.803724201545025,
+    "numNodes": 666,
+    "averageOutDegree": 3.2582582582582584
+  },
+  "50": {
+    "numEdges": 2110,
+    "selfLinks": 0,
+    "sizeLargest": 289,
+    "averageInDegree": 3.172932330827068,
+    "removed": "Episode 22",
+    "averagePathLength": 3.8172457708573626,
+    "numNodes": 665,
+    "averageOutDegree": 3.172932330827068
+  },
+  "51": {
+    "numEdges": 2051,
+    "selfLinks": 0,
+    "sizeLargest": 286,
+    "averageInDegree": 3.088855421686747,
+    "removed": "Episode 7",
+    "averagePathLength": 3.836878910563121,
+    "numNodes": 664,
+    "averageOutDegree": 3.088855421686747
+  },
+  "52": {
+    "numEdges": 1993,
+    "selfLinks": 0,
+    "sizeLargest": 282,
+    "averageInDegree": 3.0060331825037707,
+    "removed": "Episode 15",
+    "averagePathLength": 3.8773377754221245,
+    "numNodes": 663,
+    "averageOutDegree": 3.0060331825037707
+  },
+  "53": {
+    "numEdges": 1936,
+    "selfLinks": 0,
+    "sizeLargest": 278,
+    "averageInDegree": 2.9244712990936557,
+    "removed": "Episode 23",
+    "averagePathLength": 3.928473105991741,
+    "numNodes": 662,
+    "averageOutDegree": 2.9244712990936557
+  },
+  "54": {
+    "numEdges": 1883,
+    "selfLinks": 0,
+    "sizeLargest": 275,
+    "averageInDegree": 2.848714069591528,
+    "removed": "Windom Earle",
+    "averagePathLength": 3.977783676177837,
+    "numNodes": 661,
+    "averageOutDegree": 2.848714069591528
+  },
+  "55": {
+    "numEdges": 1831,
+    "selfLinks": 0,
+    "sizeLargest": 271,
+    "averageInDegree": 2.7742424242424244,
+    "removed": "Twin Peaks: The Entire Mystery",
+    "averagePathLength": 3.961008610086101,
+    "numNodes": 660,
+    "averageOutDegree": 2.7742424242424244
+  },
+  "56": {
+    "numEdges": 1782,
+    "selfLinks": 0,
+    "sizeLargest": 269,
+    "averageInDegree": 2.7040971168437027,
+    "removed": "Gordon Cole",
+    "averagePathLength": 4.0178660600344,
+    "numNodes": 659,
+    "averageOutDegree": 2.7040971168437027
+  },
+  "57": {
+    "numEdges": 1736,
+    "selfLinks": 0,
+    "sizeLargest": 265,
+    "averageInDegree": 2.6382978723404253,
+    "removed": "Teresa Banks",
+    "averagePathLength": 4.065937678673528,
+    "numNodes": 658,
+    "averageOutDegree": 2.6382978723404253
+  },
+  "58": {
+    "numEdges": 1690,
+    "selfLinks": 0,
+    "sizeLargest": 265,
+    "averageInDegree": 2.5722983257229832,
+    "removed": "Twin Peaks in popular culture",
+    "averagePathLength": 4.065937678673528,
+    "numNodes": 657,
+    "averageOutDegree": 2.5722983257229832
+  },
+  "59": {
+    "numEdges": 1645,
+    "selfLinks": 0,
+    "sizeLargest": 262,
+    "averageInDegree": 2.5076219512195124,
+    "removed": "Lawrence Jacoby",
+    "averagePathLength": 4.108420344535111,
+    "numNodes": 656,
+    "averageOutDegree": 2.5076219512195124
+  }
+}

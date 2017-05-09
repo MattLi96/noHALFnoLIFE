@@ -1,0 +1,852 @@
+{
+  "0": {
+    "numEdges": 9510,
+    "selfLinks": 1,
+    "sizeLargest": 754,
+    "averageInDegree": 9.885654885654885,
+    "removed": "Walter White",
+    "averagePathLength": 3.2952011582317944,
+    "numNodes": 962,
+    "averageOutDegree": 9.885654885654885
+  },
+  "1": {
+    "numEdges": 9179,
+    "selfLinks": 1,
+    "sizeLargest": 741,
+    "averageInDegree": 9.551508844953174,
+    "removed": "Breaking Bad",
+    "averagePathLength": 3.3291169712222346,
+    "numNodes": 961,
+    "averageOutDegree": 9.551508844953174
+  },
+  "2": {
+    "numEdges": 8860,
+    "selfLinks": 0,
+    "sizeLargest": 736,
+    "averageInDegree": 9.229166666666666,
+    "removed": "Jesse Pinkman",
+    "averagePathLength": 3.3833425761608993,
+    "numNodes": 960,
+    "averageOutDegree": 9.229166666666666
+  },
+  "3": {
+    "numEdges": 8624,
+    "selfLinks": 0,
+    "sizeLargest": 733,
+    "averageInDegree": 8.992700729927007,
+    "removed": "Hank Schrader",
+    "averagePathLength": 3.4147880183988253,
+    "numNodes": 959,
+    "averageOutDegree": 8.992700729927007
+  },
+  "4": {
+    "numEdges": 8412,
+    "selfLinks": 0,
+    "sizeLargest": 729,
+    "averageInDegree": 8.78079331941545,
+    "removed": "Gustavo Fring",
+    "averagePathLength": 3.4395962405221665,
+    "numNodes": 958,
+    "averageOutDegree": 8.78079331941545
+  },
+  "5": {
+    "numEdges": 8205,
+    "selfLinks": 0,
+    "sizeLargest": 727,
+    "averageInDegree": 8.573667711598747,
+    "removed": "Season 5",
+    "averagePathLength": 3.476404030299241,
+    "numNodes": 957,
+    "averageOutDegree": 8.573667711598747
+  },
+  "6": {
+    "numEdges": 8015,
+    "selfLinks": 0,
+    "sizeLargest": 723,
+    "averageInDegree": 8.383891213389122,
+    "removed": "Mike Ehrmantraut",
+    "averagePathLength": 3.5116167247119763,
+    "numNodes": 956,
+    "averageOutDegree": 8.383891213389122
+  },
+  "7": {
+    "numEdges": 7826,
+    "selfLinks": 0,
+    "sizeLargest": 722,
+    "averageInDegree": 8.19476439790576,
+    "removed": "Season 2",
+    "averagePathLength": 3.5741602345157735,
+    "numNodes": 955,
+    "averageOutDegree": 8.19476439790576
+  },
+  "8": {
+    "numEdges": 7646,
+    "selfLinks": 0,
+    "sizeLargest": 720,
+    "averageInDegree": 8.014675052410901,
+    "removed": "Season 3",
+    "averagePathLength": 3.6069579663112346,
+    "numNodes": 954,
+    "averageOutDegree": 8.014675052410901
+  },
+  "9": {
+    "numEdges": 7478,
+    "selfLinks": 0,
+    "sizeLargest": 718,
+    "averageInDegree": 7.8467995802728225,
+    "removed": "Season 4",
+    "averagePathLength": 3.71804330174862,
+    "numNodes": 953,
+    "averageOutDegree": 7.8467995802728225
+  },
+  "10": {
+    "numEdges": 7316,
+    "selfLinks": 0,
+    "sizeLargest": 713,
+    "averageInDegree": 7.684873949579832,
+    "removed": "Skyler White",
+    "averagePathLength": 3.7372098428857337,
+    "numNodes": 952,
+    "averageOutDegree": 7.684873949579832
+  },
+  "11": {
+    "numEdges": 7170,
+    "selfLinks": 0,
+    "sizeLargest": 709,
+    "averageInDegree": 7.539432176656152,
+    "removed": "Saul Goodman",
+    "averagePathLength": 3.765901285330656,
+    "numNodes": 951,
+    "averageOutDegree": 7.539432176656152
+  },
+  "12": {
+    "numEdges": 7042,
+    "selfLinks": 0,
+    "sizeLargest": 637,
+    "averageInDegree": 7.4126315789473685,
+    "removed": "Season 1",
+    "averagePathLength": 3.5758987194297167,
+    "numNodes": 950,
+    "averageOutDegree": 7.4126315789473685
+  },
+  "13": {
+    "numEdges": 6921,
+    "selfLinks": 0,
+    "sizeLargest": 636,
+    "averageInDegree": 7.292939936775554,
+    "removed": "List of deaths on Breaking Bad",
+    "averagePathLength": 3.6078789679591936,
+    "numNodes": 949,
+    "averageOutDegree": 7.292939936775554
+  },
+  "14": {
+    "numEdges": 6802,
+    "selfLinks": 0,
+    "sizeLargest": 633,
+    "averageInDegree": 7.175105485232067,
+    "removed": "Albuquerque",
+    "averagePathLength": 3.6663042174095626,
+    "numNodes": 948,
+    "averageOutDegree": 7.175105485232067
+  },
+  "15": {
+    "numEdges": 6691,
+    "selfLinks": 0,
+    "sizeLargest": 626,
+    "averageInDegree": 7.065469904963042,
+    "removed": "Steven Gomez",
+    "averagePathLength": 3.674893290734824,
+    "numNodes": 947,
+    "averageOutDegree": 7.065469904963042
+  },
+  "16": {
+    "numEdges": 6582,
+    "selfLinks": 0,
+    "sizeLargest": 622,
+    "averageInDegree": 6.957716701902749,
+    "removed": "Marie Schrader",
+    "averagePathLength": 3.693731197995143,
+    "numNodes": 946,
+    "averageOutDegree": 6.957716701902749
+  },
+  "17": {
+    "numEdges": 6477,
+    "selfLinks": 0,
+    "sizeLargest": 616,
+    "averageInDegree": 6.853968253968254,
+    "removed": "Walter White Jr.",
+    "averagePathLength": 3.7001689367543027,
+    "numNodes": 945,
+    "averageOutDegree": 6.853968253968254
+  },
+  "18": {
+    "numEdges": 6375,
+    "selfLinks": 0,
+    "sizeLargest": 616,
+    "averageInDegree": 6.753177966101695,
+    "removed": "Episode Title Meanings",
+    "averagePathLength": 3.7001689367543027,
+    "numNodes": 944,
+    "averageOutDegree": 6.753177966101695
+  },
+  "19": {
+    "numEdges": 6277,
+    "selfLinks": 0,
+    "sizeLargest": 613,
+    "averageInDegree": 6.656415694591728,
+    "removed": "Granite State",
+    "averagePathLength": 3.7253889048822355,
+    "numNodes": 943,
+    "averageOutDegree": 6.656415694591728
+  },
+  "20": {
+    "numEdges": 6182,
+    "selfLinks": 0,
+    "sizeLargest": 609,
+    "averageInDegree": 6.562632696390658,
+    "removed": "Blood Money",
+    "averagePathLength": 3.7498325555267478,
+    "numNodes": 942,
+    "averageOutDegree": 6.562632696390658
+  },
+  "21": {
+    "numEdges": 6090,
+    "selfLinks": 0,
+    "sizeLargest": 607,
+    "averageInDegree": 6.471838469713071,
+    "removed": "Blue Sky",
+    "averagePathLength": 3.794569407517358,
+    "numNodes": 941,
+    "averageOutDegree": 6.471838469713071
+  },
+  "22": {
+    "numEdges": 6001,
+    "selfLinks": 0,
+    "sizeLargest": 607,
+    "averageInDegree": 6.384042553191489,
+    "removed": "List of Breaking Bad episodes",
+    "averagePathLength": 3.794569407517358,
+    "numNodes": 940,
+    "averageOutDegree": 6.384042553191489
+  },
+  "23": {
+    "numEdges": 5915,
+    "selfLinks": 0,
+    "sizeLargest": 595,
+    "averageInDegree": 6.299254526091587,
+    "removed": "Pilot",
+    "averagePathLength": 3.809487027134086,
+    "numNodes": 939,
+    "averageOutDegree": 6.299254526091587
+  },
+  "24": {
+    "numEdges": 5831,
+    "selfLinks": 0,
+    "sizeLargest": 590,
+    "averageInDegree": 6.2164179104477615,
+    "removed": "Felina",
+    "averagePathLength": 3.8266956346579954,
+    "numNodes": 938,
+    "averageOutDegree": 6.2164179104477615
+  },
+  "25": {
+    "numEdges": 5749,
+    "selfLinks": 0,
+    "sizeLargest": 587,
+    "averageInDegree": 6.135538954108858,
+    "removed": "To'hajiilee",
+    "averagePathLength": 3.835430342285352,
+    "numNodes": 937,
+    "averageOutDegree": 6.135538954108858
+  },
+  "26": {
+    "numEdges": 5668,
+    "selfLinks": 0,
+    "sizeLargest": 584,
+    "averageInDegree": 6.055555555555555,
+    "removed": "Buried",
+    "averagePathLength": 3.8467803519819546,
+    "numNodes": 936,
+    "averageOutDegree": 6.055555555555555
+  },
+  "27": {
+    "numEdges": 5589,
+    "selfLinks": 0,
+    "sizeLargest": 582,
+    "averageInDegree": 5.977540106951872,
+    "removed": "Gliding Over All",
+    "averagePathLength": 3.862350728392214,
+    "numNodes": 935,
+    "averageOutDegree": 5.977540106951872
+  },
+  "28": {
+    "numEdges": 5511,
+    "selfLinks": 0,
+    "sizeLargest": 577,
+    "averageInDegree": 5.900428265524625,
+    "removed": "Ju\u00e1rez Cartel",
+    "averagePathLength": 3.8711095465049103,
+    "numNodes": 934,
+    "averageOutDegree": 5.900428265524625
+  },
+  "29": {
+    "numEdges": 5434,
+    "selfLinks": 0,
+    "sizeLargest": 572,
+    "averageInDegree": 5.82422293676313,
+    "removed": "Madrigal",
+    "averagePathLength": 3.916261496821917,
+    "numNodes": 933,
+    "averageOutDegree": 5.82422293676313
+  },
+  "30": {
+    "numEdges": 5358,
+    "selfLinks": 0,
+    "sizeLargest": 569,
+    "averageInDegree": 5.74892703862661,
+    "removed": "Ozymandias",
+    "averagePathLength": 3.939726230847298,
+    "numNodes": 932,
+    "averageOutDegree": 5.74892703862661
+  },
+  "31": {
+    "numEdges": 5283,
+    "selfLinks": 0,
+    "sizeLargest": 566,
+    "averageInDegree": 5.674543501611171,
+    "removed": "Tuco Salamanca",
+    "averagePathLength": 3.9617968041527254,
+    "numNodes": 931,
+    "averageOutDegree": 5.674543501611171
+  },
+  "32": {
+    "numEdges": 5210,
+    "selfLinks": 0,
+    "sizeLargest": 565,
+    "averageInDegree": 5.602150537634409,
+    "removed": "Salud",
+    "averagePathLength": 3.9806062888344944,
+    "numNodes": 930,
+    "averageOutDegree": 5.602150537634409
+  },
+  "33": {
+    "numEdges": 5139,
+    "selfLinks": 0,
+    "sizeLargest": 565,
+    "averageInDegree": 5.531754574811625,
+    "removed": "Antagonists",
+    "averagePathLength": 3.9806062888344944,
+    "numNodes": 929,
+    "averageOutDegree": 5.531754574811625
+  },
+  "34": {
+    "numEdges": 5069,
+    "selfLinks": 0,
+    "sizeLargest": 561,
+    "averageInDegree": 5.462284482758621,
+    "removed": "Confessions",
+    "averagePathLength": 3.9877196333078686,
+    "numNodes": 928,
+    "averageOutDegree": 5.462284482758621
+  },
+  "35": {
+    "numEdges": 5000,
+    "selfLinks": 0,
+    "sizeLargest": 558,
+    "averageInDegree": 5.393743257820928,
+    "removed": "Hermanos",
+    "averagePathLength": 4.0003635708448355,
+    "numNodes": 927,
+    "averageOutDegree": 5.393743257820928
+  },
+  "36": {
+    "numEdges": 4933,
+    "selfLinks": 0,
+    "sizeLargest": 557,
+    "averageInDegree": 5.327213822894168,
+    "removed": "DEA",
+    "averagePathLength": 4.006722808467768,
+    "numNodes": 926,
+    "averageOutDegree": 5.327213822894168
+  },
+  "37": {
+    "numEdges": 4866,
+    "selfLinks": 0,
+    "sizeLargest": 555,
+    "averageInDegree": 5.26054054054054,
+    "removed": "Caballo Sin Nombre",
+    "averagePathLength": 4.01945230428985,
+    "numNodes": 925,
+    "averageOutDegree": 5.26054054054054
+  },
+  "38": {
+    "numEdges": 4800,
+    "selfLinks": 0,
+    "sizeLargest": 547,
+    "averageInDegree": 5.194805194805195,
+    "removed": "Lydia Rodarte-Quayle",
+    "averagePathLength": 4.0197078972216085,
+    "numNodes": 924,
+    "averageOutDegree": 5.194805194805195
+  },
+  "39": {
+    "numEdges": 4735,
+    "selfLinks": 0,
+    "sizeLargest": 546,
+    "averageInDegree": 5.130010834236186,
+    "removed": "Crawl Space",
+    "averagePathLength": 4.030147528312666,
+    "numNodes": 923,
+    "averageOutDegree": 5.130010834236186
+  },
+  "40": {
+    "numEdges": 4673,
+    "selfLinks": 0,
+    "sizeLargest": 542,
+    "averageInDegree": 5.068329718004338,
+    "removed": "Breakage",
+    "averagePathLength": 4.037394874872963,
+    "numNodes": 922,
+    "averageOutDegree": 5.068329718004338
+  },
+  "41": {
+    "numEdges": 4612,
+    "selfLinks": 0,
+    "sizeLargest": 533,
+    "averageInDegree": 5.007600434310532,
+    "removed": "Face Off",
+    "averagePathLength": 4.044023050120611,
+    "numNodes": 921,
+    "averageOutDegree": 5.007600434310532
+  },
+  "42": {
+    "numEdges": 4551,
+    "selfLinks": 0,
+    "sizeLargest": 532,
+    "averageInDegree": 4.946739130434783,
+    "removed": "Mandala",
+    "averagePathLength": 4.056022825425145,
+    "numNodes": 920,
+    "averageOutDegree": 4.946739130434783
+  },
+  "43": {
+    "numEdges": 4490,
+    "selfLinks": 0,
+    "sizeLargest": 531,
+    "averageInDegree": 4.885745375408052,
+    "removed": "Sunset",
+    "averagePathLength": 4.078293003588814,
+    "numNodes": 919,
+    "averageOutDegree": 4.885745375408052
+  },
+  "44": {
+    "numEdges": 4430,
+    "selfLinks": 0,
+    "sizeLargest": 531,
+    "averageInDegree": 4.825708061002179,
+    "removed": "Weapons",
+    "averagePathLength": 4.078293003588814,
+    "numNodes": 918,
+    "averageOutDegree": 4.825708061002179
+  },
+  "45": {
+    "numEdges": 4370,
+    "selfLinks": 0,
+    "sizeLargest": 522,
+    "averageInDegree": 4.7655398037077425,
+    "removed": "ABQ",
+    "averagePathLength": 4.084736102837897,
+    "numNodes": 917,
+    "averageOutDegree": 4.7655398037077425
+  },
+  "46": {
+    "numEdges": 4311,
+    "selfLinks": 0,
+    "sizeLargest": 518,
+    "averageInDegree": 4.706331877729258,
+    "removed": "Negro y Azul",
+    "averagePathLength": 4.097428735726608,
+    "numNodes": 916,
+    "averageOutDegree": 4.706331877729258
+  },
+  "47": {
+    "numEdges": 4252,
+    "selfLinks": 0,
+    "sizeLargest": 515,
+    "averageInDegree": 4.646994535519125,
+    "removed": "Todd Alquist",
+    "averagePathLength": 4.117539949378565,
+    "numNodes": 915,
+    "averageOutDegree": 4.646994535519125
+  },
+  "48": {
+    "numEdges": 4194,
+    "selfLinks": 0,
+    "sizeLargest": 515,
+    "averageInDegree": 4.588621444201313,
+    "removed": "List of bit parts",
+    "averagePathLength": 4.117539949378565,
+    "numNodes": 914,
+    "averageOutDegree": 4.588621444201313
+  },
+  "49": {
+    "numEdges": 4136,
+    "selfLinks": 0,
+    "sizeLargest": 512,
+    "averageInDegree": 4.530120481927711,
+    "removed": "I.F.T.",
+    "averagePathLength": 4.131608518835616,
+    "numNodes": 913,
+    "averageOutDegree": 4.530120481927711
+  },
+  "50": {
+    "numEdges": 4078,
+    "selfLinks": 0,
+    "sizeLargest": 507,
+    "averageInDegree": 4.4714912280701755,
+    "removed": "Bit by a Dead Bee",
+    "averagePathLength": 4.147242946574051,
+    "numNodes": 912,
+    "averageOutDegree": 4.4714912280701755
+  },
+  "51": {
+    "numEdges": 4020,
+    "selfLinks": 0,
+    "sizeLargest": 506,
+    "averageInDegree": 4.4127332601536775,
+    "removed": "Abiqui\u00fa",
+    "averagePathLength": 4.162204046491605,
+    "numNodes": 911,
+    "averageOutDegree": 4.4127332601536775
+  },
+  "52": {
+    "numEdges": 3964,
+    "selfLinks": 0,
+    "sizeLargest": 501,
+    "averageInDegree": 4.356043956043956,
+    "removed": "The Cousins",
+    "averagePathLength": 4.183924151696607,
+    "numNodes": 910,
+    "averageOutDegree": 4.356043956043956
+  },
+  "53": {
+    "numEdges": 3908,
+    "selfLinks": 0,
+    "sizeLargest": 500,
+    "averageInDegree": 4.299229922992299,
+    "removed": "Hazard Pay",
+    "averagePathLength": 4.222276553106212,
+    "numNodes": 909,
+    "averageOutDegree": 4.299229922992299
+  },
+  "54": {
+    "numEdges": 3854,
+    "selfLinks": 0,
+    "sizeLargest": 499,
+    "averageInDegree": 4.244493392070485,
+    "removed": "Gus' Drug Empire",
+    "averagePathLength": 4.265370097624968,
+    "numNodes": 908,
+    "averageOutDegree": 4.244493392070485
+  },
+  "55": {
+    "numEdges": 3800,
+    "selfLinks": 0,
+    "sizeLargest": 496,
+    "averageInDegree": 4.189636163175304,
+    "removed": "Down",
+    "averagePathLength": 4.299144672531769,
+    "numNodes": 907,
+    "averageOutDegree": 4.189636163175304
+  },
+  "56": {
+    "numEdges": 3747,
+    "selfLinks": 0,
+    "sizeLargest": 484,
+    "averageInDegree": 4.135761589403973,
+    "removed": "Gray Matter",
+    "averagePathLength": 4.294864226682408,
+    "numNodes": 906,
+    "averageOutDegree": 4.135761589403973
+  },
+  "57": {
+    "numEdges": 3695,
+    "selfLinks": 0,
+    "sizeLargest": 478,
+    "averageInDegree": 4.082872928176796,
+    "removed": "Green Light",
+    "averagePathLength": 4.304584089892371,
+    "numNodes": 905,
+    "averageOutDegree": 4.082872928176796
+  },
+  "58": {
+    "numEdges": 3643,
+    "selfLinks": 0,
+    "sizeLargest": 477,
+    "averageInDegree": 4.029867256637168,
+    "removed": "End Times",
+    "averagePathLength": 4.329598506069094,
+    "numNodes": 904,
+    "averageOutDegree": 4.029867256637168
+  },
+  "59": {
+    "numEdges": 3592,
+    "selfLinks": 0,
+    "sizeLargest": 475,
+    "averageInDegree": 3.9778516057585827,
+    "removed": "Cancer Man",
+    "averagePathLength": 4.405747279591384,
+    "numNodes": 903,
+    "averageOutDegree": 3.9778516057585827
+  },
+  "60": {
+    "numEdges": 3542,
+    "selfLinks": 0,
+    "sizeLargest": 473,
+    "averageInDegree": 3.926829268292683,
+    "removed": "Half Measures",
+    "averagePathLength": 4.4229673558605365,
+    "numNodes": 902,
+    "averageOutDegree": 3.926829268292683
+  },
+  "61": {
+    "numEdges": 3492,
+    "selfLinks": 0,
+    "sizeLargest": 470,
+    "averageInDegree": 3.8756936736958933,
+    "removed": "Jack Welker",
+    "averagePathLength": 4.43519484643651,
+    "numNodes": 901,
+    "averageOutDegree": 3.8756936736958933
+  },
+  "62": {
+    "numEdges": 3442,
+    "selfLinks": 0,
+    "sizeLargest": 463,
+    "averageInDegree": 3.8244444444444445,
+    "removed": "No M\u00e1s",
+    "averagePathLength": 4.449459108206408,
+    "numNodes": 900,
+    "averageOutDegree": 3.8244444444444445
+  },
+  "63": {
+    "numEdges": 3393,
+    "selfLinks": 0,
+    "sizeLargest": 461,
+    "averageInDegree": 3.774193548387097,
+    "removed": "Buyout",
+    "averagePathLength": 4.473964915589927,
+    "numNodes": 899,
+    "averageOutDegree": 3.774193548387097
+  },
+  "64": {
+    "numEdges": 3344,
+    "selfLinks": 0,
+    "sizeLargest": 460,
+    "averageInDegree": 3.7238307349665924,
+    "removed": "Hector \"Tio\" Salamanca",
+    "averagePathLength": 4.507350573079473,
+    "numNodes": 898,
+    "averageOutDegree": 3.7238307349665924
+  },
+  "65": {
+    "numEdges": 3295,
+    "selfLinks": 0,
+    "sizeLargest": 456,
+    "averageInDegree": 3.673355629877369,
+    "removed": "Crazy Handful of Nothin'",
+    "averagePathLength": 4.5198476961634855,
+    "numNodes": 897,
+    "averageOutDegree": 3.673355629877369
+  },
+  "66": {
+    "numEdges": 3247,
+    "selfLinks": 0,
+    "sizeLargest": 454,
+    "averageInDegree": 3.6238839285714284,
+    "removed": "M\u00e1s",
+    "averagePathLength": 4.541665451079927,
+    "numNodes": 896,
+    "averageOutDegree": 3.6238839285714284
+  },
+  "67": {
+    "numEdges": 3200,
+    "selfLinks": 0,
+    "sizeLargest": 446,
+    "averageInDegree": 3.5754189944134076,
+    "removed": "Dead Freight",
+    "averagePathLength": 4.5684335164004635,
+    "numNodes": 895,
+    "averageOutDegree": 3.5754189944134076
+  },
+  "68": {
+    "numEdges": 3154,
+    "selfLinks": 0,
+    "sizeLargest": 442,
+    "averageInDegree": 3.527964205816555,
+    "removed": "Rabid Dog",
+    "averagePathLength": 4.581083715537497,
+    "numNodes": 894,
+    "averageOutDegree": 3.527964205816555
+  },
+  "69": {
+    "numEdges": 3108,
+    "selfLinks": 0,
+    "sizeLargest": 431,
+    "averageInDegree": 3.4804031354983205,
+    "removed": "Jack's White Supremacist Gang",
+    "averagePathLength": 4.5870501268008415,
+    "numNodes": 893,
+    "averageOutDegree": 3.4804031354983205
+  },
+  "70": {
+    "numEdges": 3063,
+    "selfLinks": 0,
+    "sizeLargest": 428,
+    "averageInDegree": 3.4338565022421523,
+    "removed": "Say My Name",
+    "averagePathLength": 4.643103372803082,
+    "numNodes": 892,
+    "averageOutDegree": 3.4338565022421523
+  },
+  "71": {
+    "numEdges": 3018,
+    "selfLinks": 0,
+    "sizeLargest": 423,
+    "averageInDegree": 3.387205387205387,
+    "removed": "Cornered",
+    "averagePathLength": 4.658986252562939,
+    "numNodes": 891,
+    "averageOutDegree": 3.387205387205387
+  },
+  "72": {
+    "numEdges": 2974,
+    "selfLinks": 0,
+    "sizeLargest": 422,
+    "averageInDegree": 3.3415730337078653,
+    "removed": "Los Pollos Hermanos",
+    "averagePathLength": 4.7474586574506645,
+    "numNodes": 890,
+    "averageOutDegree": 3.3415730337078653
+  },
+  "73": {
+    "numEdges": 2931,
+    "selfLinks": 0,
+    "sizeLargest": 421,
+    "averageInDegree": 3.296962879640045,
+    "removed": "Live Free or Die",
+    "averagePathLength": 4.797766089808845,
+    "numNodes": 889,
+    "averageOutDegree": 3.296962879640045
+  },
+  "74": {
+    "numEdges": 2888,
+    "selfLinks": 0,
+    "sizeLargest": 420,
+    "averageInDegree": 3.2522522522522523,
+    "removed": "Thirty-Eight Snub",
+    "averagePathLength": 4.845777929310149,
+    "numNodes": 888,
+    "averageOutDegree": 3.2522522522522523
+  },
+  "75": {
+    "numEdges": 2846,
+    "selfLinks": 0,
+    "sizeLargest": 415,
+    "averageInDegree": 3.2085682074408117,
+    "removed": "Fifty-One",
+    "averagePathLength": 4.890047145102148,
+    "numNodes": 887,
+    "averageOutDegree": 3.2085682074408117
+  },
+  "76": {
+    "numEdges": 2804,
+    "selfLinks": 0,
+    "sizeLargest": 415,
+    "averageInDegree": 3.164785553047404,
+    "removed": "List of killings by main characters",
+    "averagePathLength": 4.890047145102148,
+    "numNodes": 886,
+    "averageOutDegree": 3.164785553047404
+  },
+  "77": {
+    "numEdges": 2762,
+    "selfLinks": 0,
+    "sizeLargest": 413,
+    "averageInDegree": 3.1209039548022597,
+    "removed": "...and the Bag's in the River",
+    "averagePathLength": 4.919614941583018,
+    "numNodes": 885,
+    "averageOutDegree": 3.1209039548022597
+  },
+  "78": {
+    "numEdges": 2720,
+    "selfLinks": 0,
+    "sizeLargest": 406,
+    "averageInDegree": 3.076923076923077,
+    "removed": "A No-Rough-Stuff-Type Deal",
+    "averagePathLength": 4.954351395730706,
+    "numNodes": 884,
+    "averageOutDegree": 3.076923076923077
+  },
+  "79": {
+    "numEdges": 2678,
+    "selfLinks": 0,
+    "sizeLargest": 404,
+    "averageInDegree": 3.032842582106455,
+    "removed": "Problem Dog",
+    "averagePathLength": 4.991020317912684,
+    "numNodes": 883,
+    "averageOutDegree": 3.032842582106455
+  },
+  "80": {
+    "numEdges": 2636,
+    "selfLinks": 0,
+    "sizeLargest": 399,
+    "averageInDegree": 2.9886621315192743,
+    "removed": "Bug",
+    "averagePathLength": 5.0069268649009455,
+    "numNodes": 882,
+    "averageOutDegree": 2.9886621315192743
+  },
+  "81": {
+    "numEdges": 2595,
+    "selfLinks": 0,
+    "sizeLargest": 392,
+    "averageInDegree": 2.945516458569807,
+    "removed": "One Minute",
+    "averagePathLength": 5.01888146562973,
+    "numNodes": 881,
+    "averageOutDegree": 2.945516458569807
+  },
+  "82": {
+    "numEdges": 2554,
+    "selfLinks": 0,
+    "sizeLargest": 387,
+    "averageInDegree": 2.9022727272727273,
+    "removed": "I See You",
+    "averagePathLength": 5.055950516126441,
+    "numNodes": 880,
+    "averageOutDegree": 2.9022727272727273
+  },
+  "83": {
+    "numEdges": 2513,
+    "selfLinks": 0,
+    "sizeLargest": 383,
+    "averageInDegree": 2.8589306029579067,
+    "removed": "Open House",
+    "averagePathLength": 5.082149740953891,
+    "numNodes": 879,
+    "averageOutDegree": 2.8589306029579067
+  },
+  "84": {
+    "numEdges": 2473,
+    "selfLinks": 0,
+    "sizeLargest": 379,
+    "averageInDegree": 2.816628701594533,
+    "removed": "Over",
+    "averagePathLength": 5.1041378732671605,
+    "numNodes": 878,
+    "averageOutDegree": 2.816628701594533
+  }
+}

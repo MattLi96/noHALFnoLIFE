@@ -1,0 +1,2242 @@
+{
+  "0": {
+    "numEdges": 25740,
+    "selfLinks": 0,
+    "sizeLargest": 1034,
+    "averageInDegree": 13.676939426142402,
+    "removed": "Aang",
+    "averagePathLength": 2.833345816301883,
+    "numNodes": 1882,
+    "averageOutDegree": 13.676939426142402
+  },
+  "1": {
+    "numEdges": 25020,
+    "selfLinks": 0,
+    "sizeLargest": 1033,
+    "averageInDegree": 13.301435406698564,
+    "removed": "Fire Nation",
+    "averagePathLength": 2.8523098223733085,
+    "numNodes": 1881,
+    "averageOutDegree": 13.301435406698564
+  },
+  "2": {
+    "numEdges": 24364,
+    "selfLinks": 0,
+    "sizeLargest": 1032,
+    "averageInDegree": 12.959574468085107,
+    "removed": "Team Avatar",
+    "averagePathLength": 2.9012135429589696,
+    "numNodes": 1880,
+    "averageOutDegree": 12.959574468085107
+  },
+  "3": {
+    "numEdges": 23758,
+    "selfLinks": 0,
+    "sizeLargest": 1031,
+    "averageInDegree": 12.6439595529537,
+    "removed": "Katara",
+    "averagePathLength": 2.9264104036989256,
+    "numNodes": 1879,
+    "averageOutDegree": 12.6439595529537
+  },
+  "4": {
+    "numEdges": 23193,
+    "selfLinks": 0,
+    "sizeLargest": 1028,
+    "averageInDegree": 12.349840255591054,
+    "removed": "Sokka",
+    "averagePathLength": 2.944626409890164,
+    "numNodes": 1878,
+    "averageOutDegree": 12.349840255591054
+  },
+  "5": {
+    "numEdges": 22641,
+    "selfLinks": 0,
+    "sizeLargest": 1027,
+    "averageInDegree": 12.062333510921684,
+    "removed": "Avatar",
+    "averagePathLength": 2.9637392735327444,
+    "numNodes": 1877,
+    "averageOutDegree": 12.062333510921684
+  },
+  "6": {
+    "numEdges": 22094,
+    "selfLinks": 0,
+    "sizeLargest": 1026,
+    "averageInDegree": 11.777185501066098,
+    "removed": "Zuko",
+    "averagePathLength": 2.9886711358341653,
+    "numNodes": 1876,
+    "averageOutDegree": 11.777185501066098
+  },
+  "7": {
+    "numEdges": 21604,
+    "selfLinks": 0,
+    "sizeLargest": 1020,
+    "averageInDegree": 11.522133333333333,
+    "removed": "Avatar: The Last Airbender",
+    "averagePathLength": 3.0112692181877656,
+    "numNodes": 1875,
+    "averageOutDegree": 11.522133333333333
+  },
+  "8": {
+    "numEdges": 21183,
+    "selfLinks": 0,
+    "sizeLargest": 1019,
+    "averageInDegree": 11.303628601921025,
+    "removed": "Hundred Year War",
+    "averagePathLength": 3.025433270801722,
+    "numNodes": 1874,
+    "averageOutDegree": 11.303628601921025
+  },
+  "9": {
+    "numEdges": 20784,
+    "selfLinks": 0,
+    "sizeLargest": 1018,
+    "averageInDegree": 11.096636412172984,
+    "removed": "Iroh",
+    "averagePathLength": 3.0451170958151503,
+    "numNodes": 1873,
+    "averageOutDegree": 11.096636412172984
+  },
+  "10": {
+    "numEdges": 20435,
+    "selfLinks": 0,
+    "sizeLargest": 1018,
+    "averageInDegree": 10.916132478632479,
+    "removed": "List of voice actors",
+    "averagePathLength": 3.0451170958151503,
+    "numNodes": 1872,
+    "averageOutDegree": 10.916132478632479
+  },
+  "11": {
+    "numEdges": 20088,
+    "selfLinks": 0,
+    "sizeLargest": 1017,
+    "averageInDegree": 10.73650454302512,
+    "removed": "Appa",
+    "averagePathLength": 3.055889446341331,
+    "numNodes": 1871,
+    "averageOutDegree": 10.73650454302512
+  },
+  "12": {
+    "numEdges": 19752,
+    "selfLinks": 0,
+    "sizeLargest": 961,
+    "averageInDegree": 10.562566844919786,
+    "removed": "List of Avatar: The Last Airbender episodes",
+    "averagePathLength": 3.1467687738466874,
+    "numNodes": 1870,
+    "averageOutDegree": 10.562566844919786
+  },
+  "13": {
+    "numEdges": 19435,
+    "selfLinks": 0,
+    "sizeLargest": 960,
+    "averageInDegree": 10.39860888175495,
+    "removed": "Azula",
+    "averagePathLength": 3.1550486618004867,
+    "numNodes": 1869,
+    "averageOutDegree": 10.39860888175495
+  },
+  "14": {
+    "numEdges": 19131,
+    "selfLinks": 0,
+    "sizeLargest": 958,
+    "averageInDegree": 10.241434689507495,
+    "removed": "Fire Lord",
+    "averagePathLength": 3.1571521128788422,
+    "numNodes": 1868,
+    "averageOutDegree": 10.241434689507495
+  },
+  "15": {
+    "numEdges": 18849,
+    "selfLinks": 0,
+    "sizeLargest": 957,
+    "averageInDegree": 10.09587573647563,
+    "removed": "Heir to the Fire Lord",
+    "averagePathLength": 3.1618497046645944,
+    "numNodes": 1867,
+    "averageOutDegree": 10.09587573647563
+  },
+  "16": {
+    "numEdges": 18574,
+    "selfLinks": 0,
+    "sizeLargest": 956,
+    "averageInDegree": 9.953912111468382,
+    "removed": "Ozai",
+    "averagePathLength": 3.1702523604021993,
+    "numNodes": 1866,
+    "averageOutDegree": 9.953912111468382
+  },
+  "17": {
+    "numEdges": 18313,
+    "selfLinks": 0,
+    "sizeLargest": 944,
+    "averageInDegree": 9.819302949061662,
+    "removed": "Avatar Extras (Book Three: Fire)",
+    "averagePathLength": 3.157372791487679,
+    "numNodes": 1865,
+    "averageOutDegree": 9.819302949061662
+  },
+  "18": {
+    "numEdges": 18055,
+    "selfLinks": 0,
+    "sizeLargest": 943,
+    "averageInDegree": 9.686158798283262,
+    "removed": "Firebending",
+    "averagePathLength": 3.175657937692642,
+    "numNodes": 1864,
+    "averageOutDegree": 9.686158798283262
+  },
+  "19": {
+    "numEdges": 17800,
+    "selfLinks": 0,
+    "sizeLargest": 942,
+    "averageInDegree": 9.554482018250134,
+    "removed": "Military of the Fire Nation",
+    "averagePathLength": 3.1973506975233015,
+    "numNodes": 1863,
+    "averageOutDegree": 9.554482018250134
+  },
+  "20": {
+    "numEdges": 17563,
+    "selfLinks": 0,
+    "sizeLargest": 938,
+    "averageInDegree": 9.43233082706767,
+    "removed": "Avatar Extras (Book Two: Earth)",
+    "averagePathLength": 3.196226900260096,
+    "numNodes": 1862,
+    "averageOutDegree": 9.43233082706767
+  },
+  "21": {
+    "numEdges": 17351,
+    "selfLinks": 0,
+    "sizeLargest": 937,
+    "averageInDegree": 9.32348199892531,
+    "removed": "Earth",
+    "averagePathLength": 3.207811117496283,
+    "numNodes": 1861,
+    "averageOutDegree": 9.32348199892531
+  },
+  "22": {
+    "numEdges": 17140,
+    "selfLinks": 0,
+    "sizeLargest": 936,
+    "averageInDegree": 9.21505376344086,
+    "removed": "Earthbending",
+    "averagePathLength": 3.225920974450386,
+    "numNodes": 1860,
+    "averageOutDegree": 9.21505376344086
+  },
+  "23": {
+    "numEdges": 16944,
+    "selfLinks": 0,
+    "sizeLargest": 934,
+    "averageInDegree": 9.114577729962345,
+    "removed": "Northern Water Tribe",
+    "averagePathLength": 3.234580949298962,
+    "numNodes": 1859,
+    "averageOutDegree": 9.114577729962345
+  },
+  "24": {
+    "numEdges": 16755,
+    "selfLinks": 0,
+    "sizeLargest": 931,
+    "averageInDegree": 9.017761033369215,
+    "removed": "Southern Water Tribe",
+    "averagePathLength": 3.24361710728434,
+    "numNodes": 1858,
+    "averageOutDegree": 9.017761033369215
+  },
+  "25": {
+    "numEdges": 16569,
+    "selfLinks": 0,
+    "sizeLargest": 929,
+    "averageInDegree": 8.922455573505655,
+    "removed": "Waterbending",
+    "averagePathLength": 3.2525483927842322,
+    "numNodes": 1857,
+    "averageOutDegree": 8.922455573505655
+  },
+  "26": {
+    "numEdges": 16388,
+    "selfLinks": 0,
+    "sizeLargest": 926,
+    "averageInDegree": 8.829741379310345,
+    "removed": "Roku",
+    "averagePathLength": 3.2586749168174656,
+    "numNodes": 1856,
+    "averageOutDegree": 8.829741379310345
+  },
+  "27": {
+    "numEdges": 16217,
+    "selfLinks": 0,
+    "sizeLargest": 920,
+    "averageInDegree": 8.742318059299192,
+    "removed": "Avatar Extras (Book One: Water)",
+    "averagePathLength": 3.255391020485405,
+    "numNodes": 1855,
+    "averageOutDegree": 8.742318059299192
+  },
+  "28": {
+    "numEdges": 16048,
+    "selfLinks": 0,
+    "sizeLargest": 919,
+    "averageInDegree": 8.655879180151025,
+    "removed": "Airbending",
+    "averagePathLength": 3.264165368722752,
+    "numNodes": 1854,
+    "averageOutDegree": 8.655879180151025
+  },
+  "29": {
+    "numEdges": 15880,
+    "selfLinks": 0,
+    "sizeLargest": 917,
+    "averageInDegree": 8.569886670264436,
+    "removed": "Water Tribe",
+    "averagePathLength": 3.2719257308576952,
+    "numNodes": 1853,
+    "averageOutDegree": 8.569886670264436
+  },
+  "30": {
+    "numEdges": 15714,
+    "selfLinks": 0,
+    "sizeLargest": 916,
+    "averageInDegree": 8.48488120950324,
+    "removed": "Geography of the World of Avatar",
+    "averagePathLength": 3.2953623499653997,
+    "numNodes": 1852,
+    "averageOutDegree": 8.48488120950324
+  },
+  "31": {
+    "numEdges": 15550,
+    "selfLinks": 0,
+    "sizeLargest": 914,
+    "averageInDegree": 8.400864397622907,
+    "removed": "Mai",
+    "averagePathLength": 3.3000520083117433,
+    "numNodes": 1851,
+    "averageOutDegree": 8.400864397622907
+  },
+  "32": {
+    "numEdges": 15398,
+    "selfLinks": 0,
+    "sizeLargest": 913,
+    "averageInDegree": 8.323243243243244,
+    "removed": "Ty Lee",
+    "averagePathLength": 3.306782152533579,
+    "numNodes": 1850,
+    "averageOutDegree": 8.323243243243244
+  },
+  "33": {
+    "numEdges": 15249,
+    "selfLinks": 0,
+    "sizeLargest": 912,
+    "averageInDegree": 8.247160627366144,
+    "removed": "Air Nomads",
+    "averagePathLength": 3.3114781327633023,
+    "numNodes": 1849,
+    "averageOutDegree": 8.247160627366144
+  },
+  "34": {
+    "numEdges": 15103,
+    "selfLinks": 0,
+    "sizeLargest": 910,
+    "averageInDegree": 8.172619047619047,
+    "removed": "Suki",
+    "averagePathLength": 3.3152915291529155,
+    "numNodes": 1848,
+    "averageOutDegree": 8.172619047619047
+  },
+  "35": {
+    "numEdges": 14958,
+    "selfLinks": 0,
+    "sizeLargest": 909,
+    "averageInDegree": 8.098538170005414,
+    "removed": "Zhao",
+    "averagePathLength": 3.3214441488201683,
+    "numNodes": 1847,
+    "averageOutDegree": 8.098538170005414
+  },
+  "36": {
+    "numEdges": 14816,
+    "selfLinks": 0,
+    "sizeLargest": 908,
+    "averageInDegree": 8.026002166847237,
+    "removed": "Earth monarch",
+    "averagePathLength": 3.325125431664635,
+    "numNodes": 1846,
+    "averageOutDegree": 8.026002166847237
+  },
+  "37": {
+    "numEdges": 14676,
+    "selfLinks": 0,
+    "sizeLargest": 907,
+    "averageInDegree": 7.954471544715447,
+    "removed": "Dee Bradley Baker",
+    "averagePathLength": 3.3380404068430236,
+    "numNodes": 1845,
+    "averageOutDegree": 7.954471544715447
+  },
+  "38": {
+    "numEdges": 14539,
+    "selfLinks": 0,
+    "sizeLargest": 906,
+    "averageInDegree": 7.884490238611714,
+    "removed": "Spirit World",
+    "averagePathLength": 3.3479370190138185,
+    "numNodes": 1844,
+    "averageOutDegree": 7.884490238611714
+  },
+  "39": {
+    "numEdges": 14402,
+    "selfLinks": 0,
+    "sizeLargest": 905,
+    "averageInDegree": 7.814432989690721,
+    "removed": "Hakoda",
+    "averagePathLength": 3.3561629100865398,
+    "numNodes": 1843,
+    "averageOutDegree": 7.814432989690721
+  },
+  "40": {
+    "numEdges": 14268,
+    "selfLinks": 0,
+    "sizeLargest": 893,
+    "averageInDegree": 7.745928338762215,
+    "removed": "The Legend of Korra",
+    "averagePathLength": 3.3674305384681054,
+    "numNodes": 1842,
+    "averageOutDegree": 7.745928338762215
+  },
+  "41": {
+    "numEdges": 14138,
+    "selfLinks": 0,
+    "sizeLargest": 891,
+    "averageInDegree": 7.679521998913634,
+    "removed": "Jet",
+    "averagePathLength": 3.3757954072560814,
+    "numNodes": 1841,
+    "averageOutDegree": 7.679521998913634
+  },
+  "42": {
+    "numEdges": 14010,
+    "selfLinks": 0,
+    "sizeLargest": 890,
+    "averageInDegree": 7.614130434782608,
+    "removed": "Day of Black Sun",
+    "averagePathLength": 3.380140544229724,
+    "numNodes": 1840,
+    "averageOutDegree": 7.614130434782608
+  },
+  "43": {
+    "numEdges": 13883,
+    "selfLinks": 0,
+    "sizeLargest": 889,
+    "averageInDegree": 7.54921152800435,
+    "removed": "History of the World of Avatar",
+    "averagePathLength": 3.3878370777977076,
+    "numNodes": 1839,
+    "averageOutDegree": 7.54921152800435
+  },
+  "44": {
+    "numEdges": 13757,
+    "selfLinks": 0,
+    "sizeLargest": 888,
+    "averageInDegree": 7.484766050054407,
+    "removed": "Bending arts",
+    "averagePathLength": 3.394963029545893,
+    "numNodes": 1838,
+    "averageOutDegree": 7.484766050054407
+  },
+  "45": {
+    "numEdges": 13634,
+    "selfLinks": 0,
+    "sizeLargest": 887,
+    "averageInDegree": 7.421883505715841,
+    "removed": "Dai Li",
+    "averagePathLength": 3.399030643277235,
+    "numNodes": 1837,
+    "averageOutDegree": 7.421883505715841
+  },
+  "46": {
+    "numEdges": 13512,
+    "selfLinks": 0,
+    "sizeLargest": 886,
+    "averageInDegree": 7.359477124183006,
+    "removed": "Sozin's Comet",
+    "averagePathLength": 3.403323513282575,
+    "numNodes": 1836,
+    "averageOutDegree": 7.359477124183006
+  },
+  "47": {
+    "numEdges": 13394,
+    "selfLinks": 0,
+    "sizeLargest": 885,
+    "averageInDegree": 7.2991825613079016,
+    "removed": "Korra",
+    "averagePathLength": 3.4122785489684793,
+    "numNodes": 1835,
+    "averageOutDegree": 7.2991825613079016
+  },
+  "48": {
+    "numEdges": 13277,
+    "selfLinks": 0,
+    "sizeLargest": 884,
+    "averageInDegree": 7.239367502726282,
+    "removed": "Omashu",
+    "averagePathLength": 3.4189927386583174,
+    "numNodes": 1834,
+    "averageOutDegree": 7.239367502726282
+  },
+  "49": {
+    "numEdges": 13161,
+    "selfLinks": 0,
+    "sizeLargest": 881,
+    "averageInDegree": 7.180032733224222,
+    "removed": "Bryan Konietzko",
+    "averagePathLength": 3.44063306160355,
+    "numNodes": 1833,
+    "averageOutDegree": 7.180032733224222
+  },
+  "50": {
+    "numEdges": 13050,
+    "selfLinks": 0,
+    "sizeLargest": 878,
+    "averageInDegree": 7.123362445414847,
+    "removed": "Sozin's Comet, Part 4: Avatar Aang",
+    "averagePathLength": 3.4498341571364377,
+    "numNodes": 1832,
+    "averageOutDegree": 7.123362445414847
+  },
+  "51": {
+    "numEdges": 12941,
+    "selfLinks": 0,
+    "sizeLargest": 877,
+    "averageInDegree": 7.067722555980339,
+    "removed": "Society in the World of Avatar",
+    "averagePathLength": 3.4632464347635934,
+    "numNodes": 1831,
+    "averageOutDegree": 7.067722555980339
+  },
+  "52": {
+    "numEdges": 12836,
+    "selfLinks": 0,
+    "sizeLargest": 861,
+    "averageInDegree": 7.0142076502732245,
+    "removed": "Cuisine in the World of Avatar",
+    "averagePathLength": 3.4674107986927045,
+    "numNodes": 1830,
+    "averageOutDegree": 7.0142076502732245
+  },
+  "53": {
+    "numEdges": 12733,
+    "selfLinks": 0,
+    "sizeLargest": 860,
+    "averageInDegree": 6.96172772006561,
+    "removed": "Invasion of the Fire Nation",
+    "averagePathLength": 3.4754216639142324,
+    "numNodes": 1829,
+    "averageOutDegree": 6.96172772006561
+  },
+  "54": {
+    "numEdges": 12632,
+    "selfLinks": 0,
+    "sizeLargest": 855,
+    "averageInDegree": 6.910284463894967,
+    "removed": "Weaponry in the World of Avatar",
+    "averagePathLength": 3.491471849021461,
+    "numNodes": 1828,
+    "averageOutDegree": 6.910284463894967
+  },
+  "55": {
+    "numEdges": 12532,
+    "selfLinks": 0,
+    "sizeLargest": 854,
+    "averageInDegree": 6.859332238642583,
+    "removed": "The Ember Island Players",
+    "averagePathLength": 3.501470220821402,
+    "numNodes": 1827,
+    "averageOutDegree": 6.859332238642583
+  },
+  "56": {
+    "numEdges": 12434,
+    "selfLinks": 0,
+    "sizeLargest": 852,
+    "averageInDegree": 6.809419496166484,
+    "removed": "Fire Nation Capital",
+    "averagePathLength": 3.5093014018304896,
+    "numNodes": 1826,
+    "averageOutDegree": 6.809419496166484
+  },
+  "57": {
+    "numEdges": 12336,
+    "selfLinks": 0,
+    "sizeLargest": 851,
+    "averageInDegree": 6.7594520547945205,
+    "removed": "Coup of Ba Sing Se",
+    "averagePathLength": 3.515542959839635,
+    "numNodes": 1825,
+    "averageOutDegree": 6.7594520547945205
+  },
+  "58": {
+    "numEdges": 12240,
+    "selfLinks": 0,
+    "sizeLargest": 851,
+    "averageInDegree": 6.7105263157894735,
+    "removed": "Aang's relationships",
+    "averagePathLength": 3.515542959839635,
+    "numNodes": 1824,
+    "averageOutDegree": 6.7105263157894735
+  },
+  "59": {
+    "numEdges": 12144,
+    "selfLinks": 0,
+    "sizeLargest": 849,
+    "averageInDegree": 6.66154690071311,
+    "removed": "Sozin's Comet, Part 2: The Old Masters",
+    "averagePathLength": 3.524434962330822,
+    "numNodes": 1823,
+    "averageOutDegree": 6.66154690071311
+  },
+  "60": {
+    "numEdges": 12049,
+    "selfLinks": 0,
+    "sizeLargest": 848,
+    "averageInDegree": 6.613062568605928,
+    "removed": "Military of the Earth Kingdom",
+    "averagePathLength": 3.5383498362700765,
+    "numNodes": 1822,
+    "averageOutDegree": 6.613062568605928
+  },
+  "61": {
+    "numEdges": 11955,
+    "selfLinks": 0,
+    "sizeLargest": 846,
+    "averageInDegree": 6.56507413509061,
+    "removed": "Book One: Water",
+    "averagePathLength": 3.5549218739071438,
+    "numNodes": 1821,
+    "averageOutDegree": 6.56507413509061
+  },
+  "62": {
+    "numEdges": 11863,
+    "selfLinks": 0,
+    "sizeLargest": 845,
+    "averageInDegree": 6.518131868131868,
+    "removed": "Yue",
+    "averagePathLength": 3.5629280125634484,
+    "numNodes": 1820,
+    "averageOutDegree": 6.518131868131868
+  },
+  "63": {
+    "numEdges": 11772,
+    "selfLinks": 0,
+    "sizeLargest": 842,
+    "averageInDegree": 6.471687740516767,
+    "removed": "Bumi (King of Omashu)",
+    "averagePathLength": 3.567681840134892,
+    "numNodes": 1819,
+    "averageOutDegree": 6.471687740516767
+  },
+  "64": {
+    "numEdges": 11681,
+    "selfLinks": 0,
+    "sizeLargest": 840,
+    "averageInDegree": 6.425192519251925,
+    "removed": "Kuei",
+    "averagePathLength": 3.5721834383336173,
+    "numNodes": 1818,
+    "averageOutDegree": 6.425192519251925
+  },
+  "65": {
+    "numEdges": 11591,
+    "selfLinks": 0,
+    "sizeLargest": 839,
+    "averageInDegree": 6.3791964777105115,
+    "removed": "List of Avatar: The Last Airbender DVDs",
+    "averagePathLength": 3.577394955353714,
+    "numNodes": 1817,
+    "averageOutDegree": 6.3791964777105115
+  },
+  "66": {
+    "numEdges": 11503,
+    "selfLinks": 0,
+    "sizeLargest": 833,
+    "averageInDegree": 6.334251101321586,
+    "removed": "The Tales of Ba Sing Se",
+    "averagePathLength": 3.6020711169083017,
+    "numNodes": 1816,
+    "averageOutDegree": 6.334251101321586
+  },
+  "67": {
+    "numEdges": 11416,
+    "selfLinks": 0,
+    "sizeLargest": 831,
+    "averageInDegree": 6.289807162534435,
+    "removed": "The Siege of the North, Part 2",
+    "averagePathLength": 3.6125193916460066,
+    "numNodes": 1815,
+    "averageOutDegree": 6.289807162534435
+  },
+  "68": {
+    "numEdges": 11330,
+    "selfLinks": 0,
+    "sizeLargest": 830,
+    "averageInDegree": 6.245865490628446,
+    "removed": "The Headband",
+    "averagePathLength": 3.6364076329443225,
+    "numNodes": 1814,
+    "averageOutDegree": 6.245865490628446
+  },
+  "69": {
+    "numEdges": 11246,
+    "selfLinks": 0,
+    "sizeLargest": 829,
+    "averageInDegree": 6.202978488692774,
+    "removed": "Western Air Temple",
+    "averagePathLength": 3.640989668012797,
+    "numNodes": 1813,
+    "averageOutDegree": 6.202978488692774
+  },
+  "70": {
+    "numEdges": 11162,
+    "selfLinks": 0,
+    "sizeLargest": 828,
+    "averageInDegree": 6.160044150110375,
+    "removed": "Kyoshi",
+    "averagePathLength": 3.647633609636133,
+    "numNodes": 1812,
+    "averageOutDegree": 6.160044150110375
+  },
+  "71": {
+    "numEdges": 11079,
+    "selfLinks": 0,
+    "sizeLargest": 827,
+    "averageInDegree": 6.117614577581446,
+    "removed": "Zuko Alone",
+    "averagePathLength": 3.6877128159484234,
+    "numNodes": 1811,
+    "averageOutDegree": 6.117614577581446
+  },
+  "72": {
+    "numEdges": 10997,
+    "selfLinks": 0,
+    "sizeLargest": 826,
+    "averageInDegree": 6.075690607734806,
+    "removed": "Republic City",
+    "averagePathLength": 3.7005752439650745,
+    "numNodes": 1810,
+    "averageOutDegree": 6.075690607734806
+  },
+  "73": {
+    "numEdges": 10916,
+    "selfLinks": 0,
+    "sizeLargest": 824,
+    "averageInDegree": 6.034273079049198,
+    "removed": "Pakku",
+    "averagePathLength": 3.7053684129811604,
+    "numNodes": 1809,
+    "averageOutDegree": 6.034273079049198
+  },
+  "74": {
+    "numEdges": 10836,
+    "selfLinks": 0,
+    "sizeLargest": 823,
+    "averageInDegree": 5.993362831858407,
+    "removed": "Sozin",
+    "averagePathLength": 3.713615252488522,
+    "numNodes": 1808,
+    "averageOutDegree": 5.993362831858407
+  },
+  "75": {
+    "numEdges": 10757,
+    "selfLinks": 0,
+    "sizeLargest": 822,
+    "averageInDegree": 5.952960708356392,
+    "removed": "The Day of Black Sun, Part 1: The Invasion",
+    "averagePathLength": 3.7250311915621266,
+    "numNodes": 1807,
+    "averageOutDegree": 5.952960708356392
+  },
+  "76": {
+    "numEdges": 10679,
+    "selfLinks": 0,
+    "sizeLargest": 820,
+    "averageInDegree": 5.9130675526024365,
+    "removed": "Book Two: Earth",
+    "averagePathLength": 3.7457652103993566,
+    "numNodes": 1806,
+    "averageOutDegree": 5.9130675526024365
+  },
+  "77": {
+    "numEdges": 10601,
+    "selfLinks": 0,
+    "sizeLargest": 819,
+    "averageInDegree": 5.873130193905817,
+    "removed": "Kyoshi Warriors",
+    "averagePathLength": 3.752341247451272,
+    "numNodes": 1805,
+    "averageOutDegree": 5.873130193905817
+  },
+  "78": {
+    "numEdges": 10524,
+    "selfLinks": 0,
+    "sizeLargest": 818,
+    "averageInDegree": 5.8337028824833705,
+    "removed": "Siege of the North",
+    "averagePathLength": 3.7593527515838554,
+    "numNodes": 1804,
+    "averageOutDegree": 5.8337028824833705
+  },
+  "79": {
+    "numEdges": 10448,
+    "selfLinks": 0,
+    "sizeLargest": 817,
+    "averageInDegree": 5.7947864669994456,
+    "removed": "The Blue Spirit",
+    "averagePathLength": 3.773027815777474,
+    "numNodes": 1803,
+    "averageOutDegree": 5.7947864669994456
+  },
+  "80": {
+    "numEdges": 10373,
+    "selfLinks": 0,
+    "sizeLargest": 814,
+    "averageInDegree": 5.75638179800222,
+    "removed": "Si Wong Desert",
+    "averagePathLength": 3.7868361484597646,
+    "numNodes": 1802,
+    "averageOutDegree": 5.75638179800222
+  },
+  "81": {
+    "numEdges": 10299,
+    "selfLinks": 0,
+    "sizeLargest": 812,
+    "averageInDegree": 5.718489727928929,
+    "removed": "Fashion in the World of Avatar",
+    "averagePathLength": 3.8019200281839,
+    "numNodes": 1801,
+    "averageOutDegree": 5.718489727928929
+  },
+  "82": {
+    "numEdges": 10225,
+    "selfLinks": 0,
+    "sizeLargest": 811,
+    "averageInDegree": 5.680555555555555,
+    "removed": "Sozin's Comet, Part 3: Into the Inferno",
+    "averagePathLength": 3.8106102814693035,
+    "numNodes": 1800,
+    "averageOutDegree": 5.680555555555555
+  },
+  "83": {
+    "numEdges": 10152,
+    "selfLinks": 0,
+    "sizeLargest": 811,
+    "averageInDegree": 5.64313507504169,
+    "removed": "History of Katara (Spring 100 AG)",
+    "averagePathLength": 3.8106102814693035,
+    "numNodes": 1799,
+    "averageOutDegree": 5.64313507504169
+  },
+  "84": {
+    "numEdges": 10080,
+    "selfLinks": 0,
+    "sizeLargest": 809,
+    "averageInDegree": 5.60622914349277,
+    "removed": "Northern Air Temple",
+    "averagePathLength": 3.8158755461454676,
+    "numNodes": 1798,
+    "averageOutDegree": 5.60622914349277
+  },
+  "85": {
+    "numEdges": 10008,
+    "selfLinks": 0,
+    "sizeLargest": 806,
+    "averageInDegree": 5.569282136894825,
+    "removed": "The Guru",
+    "averagePathLength": 3.8219441147912394,
+    "numNodes": 1797,
+    "averageOutDegree": 5.569282136894825
+  },
+  "86": {
+    "numEdges": 9937,
+    "selfLinks": 0,
+    "sizeLargest": 805,
+    "averageInDegree": 5.532850779510023,
+    "removed": "Fire Nation airship",
+    "averagePathLength": 3.8294196718271993,
+    "numNodes": 1796,
+    "averageOutDegree": 5.532850779510023
+  },
+  "87": {
+    "numEdges": 9866,
+    "selfLinks": 0,
+    "sizeLargest": 804,
+    "averageInDegree": 5.496378830083565,
+    "removed": "The Awakening",
+    "averagePathLength": 3.8403607739633094,
+    "numNodes": 1795,
+    "averageOutDegree": 5.496378830083565
+  },
+  "88": {
+    "numEdges": 9796,
+    "selfLinks": 0,
+    "sizeLargest": 801,
+    "averageInDegree": 5.460423634336678,
+    "removed": "Appa's Lost Days",
+    "averagePathLength": 3.8543804619225965,
+    "numNodes": 1794,
+    "averageOutDegree": 5.460423634336678
+  },
+  "89": {
+    "numEdges": 9726,
+    "selfLinks": 0,
+    "sizeLargest": 799,
+    "averageInDegree": 5.424428332403792,
+    "removed": "Occupations in the World of Avatar",
+    "averagePathLength": 3.870047459073215,
+    "numNodes": 1793,
+    "averageOutDegree": 5.424428332403792
+  },
+  "90": {
+    "numEdges": 9656,
+    "selfLinks": 0,
+    "sizeLargest": 799,
+    "averageInDegree": 5.388392857142857,
+    "removed": "History of Aang (Spring 100 AG)",
+    "averagePathLength": 3.870047459073215,
+    "numNodes": 1792,
+    "averageOutDegree": 5.388392857142857
+  },
+  "91": {
+    "numEdges": 9586,
+    "selfLinks": 0,
+    "sizeLargest": 798,
+    "averageInDegree": 5.352317141261865,
+    "removed": "Avatar Day",
+    "averagePathLength": 3.8852903903422296,
+    "numNodes": 1791,
+    "averageOutDegree": 5.352317141261865
+  },
+  "92": {
+    "numEdges": 9517,
+    "selfLinks": 0,
+    "sizeLargest": 797,
+    "averageInDegree": 5.316759776536313,
+    "removed": "Air Nomad Genocide",
+    "averagePathLength": 3.8960675397060585,
+    "numNodes": 1790,
+    "averageOutDegree": 5.316759776536313
+  },
+  "93": {
+    "numEdges": 9448,
+    "selfLinks": 0,
+    "sizeLargest": 786,
+    "averageInDegree": 5.281162660704304,
+    "removed": "Transportation in the World of Avatar",
+    "averagePathLength": 3.9078459020113128,
+    "numNodes": 1789,
+    "averageOutDegree": 5.281162660704304
+  },
+  "94": {
+    "numEdges": 9379,
+    "selfLinks": 0,
+    "sizeLargest": 784,
+    "averageInDegree": 5.245525727069351,
+    "removed": "Ursa",
+    "averagePathLength": 3.912517593244194,
+    "numNodes": 1788,
+    "averageOutDegree": 5.245525727069351
+  },
+  "95": {
+    "numEdges": 9310,
+    "selfLinks": 0,
+    "sizeLargest": 783,
+    "averageInDegree": 5.209848908785674,
+    "removed": "The Puppetmaster",
+    "averagePathLength": 3.9320209176457523,
+    "numNodes": 1787,
+    "averageOutDegree": 5.209848908785674
+  },
+  "96": {
+    "numEdges": 9242,
+    "selfLinks": 0,
+    "sizeLargest": 781,
+    "averageInDegree": 5.1746920492721165,
+    "removed": "Long Feng",
+    "averagePathLength": 3.9403378311829016,
+    "numNodes": 1786,
+    "averageOutDegree": 5.1746920492721165
+  },
+  "97": {
+    "numEdges": 9174,
+    "selfLinks": 0,
+    "sizeLargest": 781,
+    "averageInDegree": 5.139495798319328,
+    "removed": "Nickelodeon",
+    "averagePathLength": 3.9403378311829016,
+    "numNodes": 1785,
+    "averageOutDegree": 5.139495798319328
+  },
+  "98": {
+    "numEdges": 9108,
+    "selfLinks": 0,
+    "sizeLargest": 770,
+    "averageInDegree": 5.105381165919282,
+    "removed": "Flora in the World of Avatar",
+    "averagePathLength": 3.9590140678567205,
+    "numNodes": 1784,
+    "averageOutDegree": 5.105381165919282
+  },
+  "99": {
+    "numEdges": 9042,
+    "selfLinks": 0,
+    "sizeLargest": 769,
+    "averageInDegree": 5.071228266965788,
+    "removed": "The Avatar State",
+    "averagePathLength": 3.973545188556567,
+    "numNodes": 1783,
+    "averageOutDegree": 5.071228266965788
+  },
+  "100": {
+    "numEdges": 8976,
+    "selfLinks": 0,
+    "sizeLargest": 764,
+    "averageInDegree": 5.037037037037037,
+    "removed": "Writing in the World of Avatar",
+    "averagePathLength": 3.9852435618562714,
+    "numNodes": 1782,
+    "averageOutDegree": 5.037037037037037
+  },
+  "101": {
+    "numEdges": 8910,
+    "selfLinks": 0,
+    "sizeLargest": 761,
+    "averageInDegree": 5.002807411566535,
+    "removed": "Tenzin",
+    "averagePathLength": 3.990026972819697,
+    "numNodes": 1781,
+    "averageOutDegree": 5.002807411566535
+  },
+  "102": {
+    "numEdges": 8844,
+    "selfLinks": 0,
+    "sizeLargest": 759,
+    "averageInDegree": 4.968539325842697,
+    "removed": "The Serpent's Pass",
+    "averagePathLength": 3.9981088851112943,
+    "numNodes": 1780,
+    "averageOutDegree": 4.968539325842697
+  },
+  "103": {
+    "numEdges": 8780,
+    "selfLinks": 0,
+    "sizeLargest": 758,
+    "averageInDegree": 4.935356942102304,
+    "removed": "The Western Air Temple",
+    "averagePathLength": 4.007476394460846,
+    "numNodes": 1779,
+    "averageOutDegree": 4.935356942102304
+  },
+  "104": {
+    "numEdges": 8716,
+    "selfLinks": 0,
+    "sizeLargest": 756,
+    "averageInDegree": 4.902137232845894,
+    "removed": "Zuko's ship",
+    "averagePathLength": 4.0189862994498755,
+    "numNodes": 1778,
+    "averageOutDegree": 4.902137232845894
+  },
+  "105": {
+    "numEdges": 8653,
+    "selfLinks": 0,
+    "sizeLargest": 755,
+    "averageInDegree": 4.869442881260552,
+    "removed": "Tui",
+    "averagePathLength": 4.02617738507211,
+    "numNodes": 1777,
+    "averageOutDegree": 4.869442881260552
+  },
+  "106": {
+    "numEdges": 8591,
+    "selfLinks": 0,
+    "sizeLargest": 749,
+    "averageInDegree": 4.837274774774775,
+    "removed": "Technology in the World of Avatar",
+    "averagePathLength": 4.040003427029266,
+    "numNodes": 1776,
+    "averageOutDegree": 4.837274774774775
+  },
+  "107": {
+    "numEdges": 8530,
+    "selfLinks": 0,
+    "sizeLargest": 747,
+    "averageInDegree": 4.805633802816901,
+    "removed": "The Drill",
+    "averagePathLength": 4.050157735499639,
+    "numNodes": 1775,
+    "averageOutDegree": 4.805633802816901
+  },
+  "108": {
+    "numEdges": 8469,
+    "selfLinks": 0,
+    "sizeLargest": 746,
+    "averageInDegree": 4.773957158962796,
+    "removed": "Jet (episode)",
+    "averagePathLength": 4.06063659427461,
+    "numNodes": 1774,
+    "averageOutDegree": 4.773957158962796
+  },
+  "109": {
+    "numEdges": 8408,
+    "selfLinks": 0,
+    "sizeLargest": 744,
+    "averageInDegree": 4.74224478285392,
+    "removed": "Aang (games)",
+    "averagePathLength": 4.060507387950621,
+    "numNodes": 1773,
+    "averageOutDegree": 4.74224478285392
+  },
+  "110": {
+    "numEdges": 8347,
+    "selfLinks": 0,
+    "sizeLargest": 741,
+    "averageInDegree": 4.710496613995486,
+    "removed": "Arts in the World of Avatar",
+    "averagePathLength": 4.093261480103585,
+    "numNodes": 1772,
+    "averageOutDegree": 4.710496613995486
+  },
+  "111": {
+    "numEdges": 8286,
+    "selfLinks": 0,
+    "sizeLargest": 741,
+    "averageInDegree": 4.67871259175607,
+    "removed": "History of Katara (85 AG - 100 AG)",
+    "averagePathLength": 4.093261480103585,
+    "numNodes": 1771,
+    "averageOutDegree": 4.67871259175607
+  },
+  "112": {
+    "numEdges": 8226,
+    "selfLinks": 0,
+    "sizeLargest": 739,
+    "averageInDegree": 4.647457627118644,
+    "removed": "The Avatar and the Fire Lord",
+    "averagePathLength": 4.110086141456814,
+    "numNodes": 1770,
+    "averageOutDegree": 4.647457627118644
+  },
+  "113": {
+    "numEdges": 8166,
+    "selfLinks": 0,
+    "sizeLargest": 735,
+    "averageInDegree": 4.616167326172979,
+    "removed": "The Southern Raiders",
+    "averagePathLength": 4.126408274481455,
+    "numNodes": 1769,
+    "averageOutDegree": 4.616167326172979
+  },
+  "114": {
+    "numEdges": 8107,
+    "selfLinks": 0,
+    "sizeLargest": 734,
+    "averageInDegree": 4.585407239819005,
+    "removed": "Return to Omashu",
+    "averagePathLength": 4.150804242205709,
+    "numNodes": 1768,
+    "averageOutDegree": 4.585407239819005
+  },
+  "115": {
+    "numEdges": 8048,
+    "selfLinks": 0,
+    "sizeLargest": 734,
+    "averageInDegree": 4.55461233729485,
+    "removed": "History of Sokka (84 AG - 100 AG)",
+    "averagePathLength": 4.150804242205709,
+    "numNodes": 1767,
+    "averageOutDegree": 4.55461233729485
+  },
+  "116": {
+    "numEdges": 7989,
+    "selfLinks": 0,
+    "sizeLargest": 734,
+    "averageInDegree": 4.523782559456398,
+    "removed": "History of Aang (Summer 100 AG)",
+    "averagePathLength": 4.150804242205709,
+    "numNodes": 1766,
+    "averageOutDegree": 4.523782559456398
+  },
+  "117": {
+    "numEdges": 7931,
+    "selfLinks": 0,
+    "sizeLargest": 733,
+    "averageInDegree": 4.493484419263456,
+    "removed": "The Storm",
+    "averagePathLength": 4.181282102893268,
+    "numNodes": 1765,
+    "averageOutDegree": 4.493484419263456
+  },
+  "118": {
+    "numEdges": 7873,
+    "selfLinks": 0,
+    "sizeLargest": 731,
+    "averageInDegree": 4.463151927437642,
+    "removed": "Avatar: The Last Airbender\u2014The Art of the Animated Series",
+    "averagePathLength": 4.212120757828458,
+    "numNodes": 1764,
+    "averageOutDegree": 4.463151927437642
+  },
+  "119": {
+    "numEdges": 7816,
+    "selfLinks": 0,
+    "sizeLargest": 726,
+    "averageInDegree": 4.433352240499149,
+    "removed": "Organizations in the World of Avatar",
+    "averagePathLength": 4.234564453310535,
+    "numNodes": 1763,
+    "averageOutDegree": 4.433352240499149
+  },
+  "120": {
+    "numEdges": 7759,
+    "selfLinks": 0,
+    "sizeLargest": 725,
+    "averageInDegree": 4.4035187287173665,
+    "removed": "The Waterbending Master",
+    "averagePathLength": 4.253046294532292,
+    "numNodes": 1762,
+    "averageOutDegree": 4.4035187287173665
+  },
+  "121": {
+    "numEdges": 7704,
+    "selfLinks": 0,
+    "sizeLargest": 724,
+    "averageInDegree": 4.374787052810903,
+    "removed": "Book Three: Fire",
+    "averagePathLength": 4.2674247113393395,
+    "numNodes": 1761,
+    "averageOutDegree": 4.374787052810903
+  },
+  "122": {
+    "numEdges": 7649,
+    "selfLinks": 0,
+    "sizeLargest": 722,
+    "averageInDegree": 4.346022727272727,
+    "removed": "The Waterbending Scroll",
+    "averagePathLength": 4.296685121080678,
+    "numNodes": 1760,
+    "averageOutDegree": 4.346022727272727
+  },
+  "123": {
+    "numEdges": 7594,
+    "selfLinks": 0,
+    "sizeLargest": 722,
+    "averageInDegree": 4.3172256964184195,
+    "removed": "Zuko's relationships",
+    "averagePathLength": 4.296685121080678,
+    "numNodes": 1759,
+    "averageOutDegree": 4.3172256964184195
+  },
+  "124": {
+    "numEdges": 7540,
+    "selfLinks": 0,
+    "sizeLargest": 717,
+    "averageInDegree": 4.288964732650739,
+    "removed": "City of Walls and Secrets",
+    "averagePathLength": 4.302085037750404,
+    "numNodes": 1758,
+    "averageOutDegree": 4.288964732650739
+  },
+  "125": {
+    "numEdges": 7486,
+    "selfLinks": 0,
+    "sizeLargest": 717,
+    "averageInDegree": 4.260671599317018,
+    "removed": "History of Aang (12 BG - 100 AG)",
+    "averagePathLength": 4.302085037750404,
+    "numNodes": 1757,
+    "averageOutDegree": 4.260671599317018
+  },
+  "126": {
+    "numEdges": 7433,
+    "selfLinks": 0,
+    "sizeLargest": 713,
+    "averageInDegree": 4.232915717539863,
+    "removed": "Foggy Swamp",
+    "averagePathLength": 4.307773374095844,
+    "numNodes": 1756,
+    "averageOutDegree": 4.232915717539863
+  },
+  "127": {
+    "numEdges": 7381,
+    "selfLinks": 0,
+    "sizeLargest": 712,
+    "averageInDegree": 4.205698005698006,
+    "removed": "Bato of the Water Tribe",
+    "averagePathLength": 4.3352217955403844,
+    "numNodes": 1755,
+    "averageOutDegree": 4.205698005698006
+  },
+  "128": {
+    "numEdges": 7329,
+    "selfLinks": 0,
+    "sizeLargest": 709,
+    "averageInDegree": 4.178449258836944,
+    "removed": "Southern Air Temple",
+    "averagePathLength": 4.340638521670531,
+    "numNodes": 1754,
+    "averageOutDegree": 4.178449258836944
+  },
+  "129": {
+    "numEdges": 7277,
+    "selfLinks": 0,
+    "sizeLargest": 709,
+    "averageInDegree": 4.151169423844838,
+    "removed": "Avatar Wiki:Nominations for adminship/Archive 2009",
+    "averagePathLength": 4.340638521670531,
+    "numNodes": 1753,
+    "averageOutDegree": 4.151169423844838
+  },
+  "130": {
+    "numEdges": 7226,
+    "selfLinks": 0,
+    "sizeLargest": 708,
+    "averageInDegree": 4.1244292237442925,
+    "removed": "The Desert",
+    "averagePathLength": 4.352174382087119,
+    "numNodes": 1752,
+    "averageOutDegree": 4.1244292237442925
+  },
+  "131": {
+    "numEdges": 7175,
+    "selfLinks": 0,
+    "sizeLargest": 705,
+    "averageInDegree": 4.097658480868075,
+    "removed": "Hama",
+    "averagePathLength": 4.367996453900709,
+    "numNodes": 1751,
+    "averageOutDegree": 4.097658480868075
+  },
+  "132": {
+    "numEdges": 7124,
+    "selfLinks": 0,
+    "sizeLargest": 703,
+    "averageInDegree": 4.070857142857143,
+    "removed": "Kyoshi Island",
+    "averagePathLength": 4.380256774993617,
+    "numNodes": 1750,
+    "averageOutDegree": 4.070857142857143
+  },
+  "133": {
+    "numEdges": 7074,
+    "selfLinks": 0,
+    "sizeLargest": 701,
+    "averageInDegree": 4.044596912521441,
+    "removed": "Bolin",
+    "averagePathLength": 4.38544120643978,
+    "numNodes": 1749,
+    "averageOutDegree": 4.044596912521441
+  },
+  "134": {
+    "numEdges": 7024,
+    "selfLinks": 0,
+    "sizeLargest": 699,
+    "averageInDegree": 4.018306636155606,
+    "removed": "Piandao",
+    "averagePathLength": 4.399529003775348,
+    "numNodes": 1748,
+    "averageOutDegree": 4.018306636155606
+  },
+  "135": {
+    "numEdges": 6974,
+    "selfLinks": 0,
+    "sizeLargest": 698,
+    "averageInDegree": 3.991986262163709,
+    "removed": "Combustion Man",
+    "averagePathLength": 4.417848906282759,
+    "numNodes": 1747,
+    "averageOutDegree": 3.991986262163709
+  },
+  "136": {
+    "numEdges": 6925,
+    "selfLinks": 0,
+    "sizeLargest": 698,
+    "averageInDegree": 3.966208476517755,
+    "removed": "History of Sokka (Spring 100 AG)",
+    "averagePathLength": 4.417848906282759,
+    "numNodes": 1746,
+    "averageOutDegree": 3.966208476517755
+  },
+  "137": {
+    "numEdges": 6876,
+    "selfLinks": 0,
+    "sizeLargest": 697,
+    "averageInDegree": 3.9404011461318054,
+    "removed": "Boiling Rock",
+    "averagePathLength": 4.42766618842659,
+    "numNodes": 1745,
+    "averageOutDegree": 3.9404011461318054
+  },
+  "138": {
+    "numEdges": 6827,
+    "selfLinks": 0,
+    "sizeLargest": 695,
+    "averageInDegree": 3.914564220183486,
+    "removed": "The Siege of the North, Part 1",
+    "averagePathLength": 4.442433603549437,
+    "numNodes": 1744,
+    "averageOutDegree": 3.914564220183486
+  },
+  "139": {
+    "numEdges": 6778,
+    "selfLinks": 0,
+    "sizeLargest": 694,
+    "averageInDegree": 3.8886976477337925,
+    "removed": "Winter Solstice, Part 2: Avatar Roku",
+    "averagePathLength": 4.4553376498621455,
+    "numNodes": 1743,
+    "averageOutDegree": 3.8886976477337925
+  },
+  "140": {
+    "numEdges": 6730,
+    "selfLinks": 0,
+    "sizeLargest": 693,
+    "averageInDegree": 3.8633754305396097,
+    "removed": "The Earth King",
+    "averagePathLength": 4.466285480736348,
+    "numNodes": 1742,
+    "averageOutDegree": 3.8633754305396097
+  },
+  "141": {
+    "numEdges": 6682,
+    "selfLinks": 0,
+    "sizeLargest": 688,
+    "averageInDegree": 3.8380241240666284,
+    "removed": "The Swamp",
+    "averagePathLength": 4.480871923766968,
+    "numNodes": 1741,
+    "averageOutDegree": 3.8380241240666284
+  },
+  "142": {
+    "numEdges": 6634,
+    "selfLinks": 0,
+    "sizeLargest": 687,
+    "averageInDegree": 3.8126436781609194,
+    "removed": "Ember Island",
+    "averagePathLength": 4.494003590207137,
+    "numNodes": 1740,
+    "averageOutDegree": 3.8126436781609194
+  },
+  "143": {
+    "numEdges": 6587,
+    "selfLinks": 0,
+    "sizeLargest": 685,
+    "averageInDegree": 3.787809085681426,
+    "removed": "The Day of Black Sun, Part 2: The Eclipse",
+    "averagePathLength": 4.50395697272378,
+    "numNodes": 1739,
+    "averageOutDegree": 3.787809085681426
+  },
+  "144": {
+    "numEdges": 6540,
+    "selfLinks": 0,
+    "sizeLargest": 684,
+    "averageInDegree": 3.762945914844649,
+    "removed": "The Cave of Two Lovers",
+    "averagePathLength": 4.534434854828628,
+    "numNodes": 1738,
+    "averageOutDegree": 3.762945914844649
+  },
+  "145": {
+    "numEdges": 6493,
+    "selfLinks": 0,
+    "sizeLargest": 682,
+    "averageInDegree": 3.7380541162924583,
+    "removed": "Jinora",
+    "averagePathLength": 4.547342832904862,
+    "numNodes": 1737,
+    "averageOutDegree": 3.7380541162924583
+  },
+  "146": {
+    "numEdges": 6446,
+    "selfLinks": 0,
+    "sizeLargest": 681,
+    "averageInDegree": 3.7131336405529956,
+    "removed": "Agni Kai",
+    "averagePathLength": 4.56775503152803,
+    "numNodes": 1736,
+    "averageOutDegree": 3.7131336405529956
+  },
+  "147": {
+    "numEdges": 6400,
+    "selfLinks": 0,
+    "sizeLargest": 679,
+    "averageInDegree": 3.6887608069164264,
+    "removed": "Katara (games)",
+    "averagePathLength": 4.575905483076362,
+    "numNodes": 1735,
+    "averageOutDegree": 3.6887608069164264
+  },
+  "148": {
+    "numEdges": 6354,
+    "selfLinks": 0,
+    "sizeLargest": 678,
+    "averageInDegree": 3.6643598615916955,
+    "removed": "The Blind Bandit",
+    "averagePathLength": 4.581992392256311,
+    "numNodes": 1734,
+    "averageOutDegree": 3.6643598615916955
+  },
+  "149": {
+    "numEdges": 6308,
+    "selfLinks": 0,
+    "sizeLargest": 677,
+    "averageInDegree": 3.639930755914599,
+    "removed": "Fire Sages",
+    "averagePathLength": 4.60581620969645,
+    "numNodes": 1733,
+    "averageOutDegree": 3.639930755914599
+  },
+  "150": {
+    "numEdges": 6262,
+    "selfLinks": 0,
+    "sizeLargest": 676,
+    "averageInDegree": 3.615473441108545,
+    "removed": "The Firebending Masters",
+    "averagePathLength": 4.636524216524217,
+    "numNodes": 1732,
+    "averageOutDegree": 3.615473441108545
+  },
+  "151": {
+    "numEdges": 6217,
+    "selfLinks": 0,
+    "sizeLargest": 675,
+    "averageInDegree": 3.59156556903524,
+    "removed": "Duels (Spring 100 AG)",
+    "averagePathLength": 4.645266512803604,
+    "numNodes": 1731,
+    "averageOutDegree": 3.59156556903524
+  },
+  "152": {
+    "numEdges": 6172,
+    "selfLinks": 0,
+    "sizeLargest": 671,
+    "averageInDegree": 3.567630057803468,
+    "removed": "Mako",
+    "averagePathLength": 4.664570589674578,
+    "numNodes": 1730,
+    "averageOutDegree": 3.567630057803468
+  },
+  "153": {
+    "numEdges": 6128,
+    "selfLinks": 0,
+    "sizeLargest": 671,
+    "averageInDegree": 3.544245228455755,
+    "removed": "Sokka's relationships",
+    "averagePathLength": 4.664570589674578,
+    "numNodes": 1729,
+    "averageOutDegree": 3.544245228455755
+  },
+  "154": {
+    "numEdges": 6084,
+    "selfLinks": 0,
+    "sizeLargest": 670,
+    "averageInDegree": 3.5208333333333335,
+    "removed": "Order of the White Lotus",
+    "averagePathLength": 4.673930794458203,
+    "numNodes": 1728,
+    "averageOutDegree": 3.5208333333333335
+  },
+  "155": {
+    "numEdges": 6040,
+    "selfLinks": 0,
+    "sizeLargest": 668,
+    "averageInDegree": 3.497394325419803,
+    "removed": "Conspiracy of Ba Sing Se",
+    "averagePathLength": 4.696592571977484,
+    "numNodes": 1727,
+    "averageOutDegree": 3.497394325419803
+  },
+  "156": {
+    "numEdges": 5996,
+    "selfLinks": 0,
+    "sizeLargest": 667,
+    "averageInDegree": 3.473928157589803,
+    "removed": "Winter Solstice, Part 1: The Spirit World",
+    "averagePathLength": 4.713674694184439,
+    "numNodes": 1726,
+    "averageOutDegree": 3.473928157589803
+  },
+  "157": {
+    "numEdges": 5953,
+    "selfLinks": 0,
+    "sizeLargest": 666,
+    "averageInDegree": 3.451014492753623,
+    "removed": "King of Omashu",
+    "averagePathLength": 4.723660502607871,
+    "numNodes": 1725,
+    "averageOutDegree": 3.451014492753623
+  },
+  "158": {
+    "numEdges": 5910,
+    "selfLinks": 0,
+    "sizeLargest": 664,
+    "averageInDegree": 3.4280742459396754,
+    "removed": "The Beach",
+    "averagePathLength": 4.742787893656073,
+    "numNodes": 1724,
+    "averageOutDegree": 3.4280742459396754
+  },
+  "159": {
+    "numEdges": 5868,
+    "selfLinks": 0,
+    "sizeLargest": 663,
+    "averageInDegree": 3.4056877539175856,
+    "removed": "Lake Laogai (episode)",
+    "averagePathLength": 4.775434831148355,
+    "numNodes": 1723,
+    "averageOutDegree": 3.4056877539175856
+  },
+  "160": {
+    "numEdges": 5826,
+    "selfLinks": 0,
+    "sizeLargest": 660,
+    "averageInDegree": 3.3832752613240418,
+    "removed": "The Crossroads of Destiny",
+    "averagePathLength": 4.789888260449717,
+    "numNodes": 1722,
+    "averageOutDegree": 3.3832752613240418
+  },
+  "161": {
+    "numEdges": 5784,
+    "selfLinks": 0,
+    "sizeLargest": 657,
+    "averageInDegree": 3.3608367228355607,
+    "removed": "Shipping",
+    "averagePathLength": 4.787569142814716,
+    "numNodes": 1721,
+    "averageOutDegree": 3.3608367228355607
+  },
+  "162": {
+    "numEdges": 5743,
+    "selfLinks": 0,
+    "sizeLargest": 655,
+    "averageInDegree": 3.338953488372093,
+    "removed": "The Fortuneteller",
+    "averagePathLength": 4.8018978920092446,
+    "numNodes": 1720,
+    "averageOutDegree": 3.338953488372093
+  },
+  "163": {
+    "numEdges": 5702,
+    "selfLinks": 0,
+    "sizeLargest": 655,
+    "averageInDegree": 3.317044793484584,
+    "removed": "History of Zuko (Summer 100 AG)",
+    "averagePathLength": 4.8018978920092446,
+    "numNodes": 1719,
+    "averageOutDegree": 3.317044793484584
+  },
+  "164": {
+    "numEdges": 5661,
+    "selfLinks": 0,
+    "sizeLargest": 654,
+    "averageInDegree": 3.2951105937136207,
+    "removed": "The Chase",
+    "averagePathLength": 4.824257367782664,
+    "numNodes": 1718,
+    "averageOutDegree": 3.2951105937136207
+  },
+  "165": {
+    "numEdges": 5621,
+    "selfLinks": 0,
+    "sizeLargest": 652,
+    "averageInDegree": 3.273733255678509,
+    "removed": "Military ranks in the World of Avatar",
+    "averagePathLength": 4.843796236087944,
+    "numNodes": 1717,
+    "averageOutDegree": 3.273733255678509
+  },
+  "166": {
+    "numEdges": 5581,
+    "selfLinks": 0,
+    "sizeLargest": 649,
+    "averageInDegree": 3.2523310023310024,
+    "removed": "Xin Fu",
+    "averagePathLength": 4.849093572257414,
+    "numNodes": 1716,
+    "averageOutDegree": 3.2523310023310024
+  },
+  "167": {
+    "numEdges": 5541,
+    "selfLinks": 0,
+    "sizeLargest": 647,
+    "averageInDegree": 3.2309037900874635,
+    "removed": "The Southern Air Temple",
+    "averagePathLength": 4.868942631148286,
+    "numNodes": 1715,
+    "averageOutDegree": 3.2309037900874635
+  },
+  "168": {
+    "numEdges": 5501,
+    "selfLinks": 0,
+    "sizeLargest": 640,
+    "averageInDegree": 3.209451575262544,
+    "removed": "Map of the World of Avatar",
+    "averagePathLength": 4.822835974178404,
+    "numNodes": 1714,
+    "averageOutDegree": 3.209451575262544
+  },
+  "169": {
+    "numEdges": 5461,
+    "selfLinks": 0,
+    "sizeLargest": 636,
+    "averageInDegree": 3.187974314068885,
+    "removed": "Escape from the Spirit World",
+    "averagePathLength": 4.8527261922448375,
+    "numNodes": 1713,
+    "averageOutDegree": 3.187974314068885
+  },
+  "170": {
+    "numEdges": 5422,
+    "selfLinks": 0,
+    "sizeLargest": 635,
+    "averageInDegree": 3.167056074766355,
+    "removed": "Rough Rhinos",
+    "averagePathLength": 4.872771305794977,
+    "numNodes": 1712,
+    "averageOutDegree": 3.167056074766355
+  },
+  "171": {
+    "numEdges": 5383,
+    "selfLinks": 0,
+    "sizeLargest": 633,
+    "averageInDegree": 3.146113383985973,
+    "removed": "Imprisoned",
+    "averagePathLength": 4.892190093386926,
+    "numNodes": 1711,
+    "averageOutDegree": 3.146113383985973
+  },
+  "172": {
+    "numEdges": 5344,
+    "selfLinks": 0,
+    "sizeLargest": 632,
+    "averageInDegree": 3.1251461988304094,
+    "removed": "Sozin's Comet, Part 1: The Phoenix King",
+    "averagePathLength": 4.921317378483018,
+    "numNodes": 1710,
+    "averageOutDegree": 3.1251461988304094
+  },
+  "173": {
+    "numEdges": 5306,
+    "selfLinks": 0,
+    "sizeLargest": 624,
+    "averageInDegree": 3.104739613809245,
+    "removed": "Spiritual beliefs in the World of Avatar",
+    "averagePathLength": 4.93309616413549,
+    "numNodes": 1709,
+    "averageOutDegree": 3.104739613809245
+  },
+  "174": {
+    "numEdges": 5268,
+    "selfLinks": 0,
+    "sizeLargest": 622,
+    "averageInDegree": 3.0843091334894615,
+    "removed": "Kya (nonbender)",
+    "averagePathLength": 4.948094816471722,
+    "numNodes": 1708,
+    "averageOutDegree": 3.0843091334894615
+  },
+  "175": {
+    "numEdges": 5230,
+    "selfLinks": 0,
+    "sizeLargest": 619,
+    "averageInDegree": 3.0638547158758054,
+    "removed": "Avatar: The Last Airbender (video game)",
+    "averagePathLength": 4.99186755964051,
+    "numNodes": 1707,
+    "averageOutDegree": 3.0638547158758054
+  },
+  "176": {
+    "numEdges": 5193,
+    "selfLinks": 0,
+    "sizeLargest": 619,
+    "averageInDegree": 3.0439624853458382,
+    "removed": "History of Zuko (83 AG - 100 AG)",
+    "averagePathLength": 4.99186755964051,
+    "numNodes": 1706,
+    "averageOutDegree": 3.0439624853458382
+  },
+  "177": {
+    "numEdges": 5156,
+    "selfLinks": 0,
+    "sizeLargest": 616,
+    "averageInDegree": 3.0240469208211143,
+    "removed": "Gyatso",
+    "averagePathLength": 4.995736986590645,
+    "numNodes": 1705,
+    "averageOutDegree": 3.0240469208211143
+  },
+  "178": {
+    "numEdges": 5119,
+    "selfLinks": 0,
+    "sizeLargest": 615,
+    "averageInDegree": 3.0041079812206575,
+    "removed": "Freedom Fighters",
+    "averagePathLength": 5.014644739281269,
+    "numNodes": 1704,
+    "averageOutDegree": 3.0041079812206575
+  },
+  "179": {
+    "numEdges": 5082,
+    "selfLinks": 0,
+    "sizeLargest": 614,
+    "averageInDegree": 2.9841456253669993,
+    "removed": "The Painted Lady",
+    "averagePathLength": 5.039311125399196,
+    "numNodes": 1703,
+    "averageOutDegree": 2.9841456253669993
+  },
+  "180": {
+    "numEdges": 5045,
+    "selfLinks": 0,
+    "sizeLargest": 612,
+    "averageInDegree": 2.964159811985899,
+    "removed": "The Library",
+    "averagePathLength": 5.0597862713006645,
+    "numNodes": 1702,
+    "averageOutDegree": 2.964159811985899
+  },
+  "181": {
+    "numEdges": 5008,
+    "selfLinks": 0,
+    "sizeLargest": 610,
+    "averageInDegree": 2.9441504997060552,
+    "removed": "The Boiling Rock, Part 2",
+    "averagePathLength": 5.06375945516703,
+    "numNodes": 1701,
+    "averageOutDegree": 2.9441504997060552
+  },
+  "182": {
+    "numEdges": 4971,
+    "selfLinks": 0,
+    "sizeLargest": 610,
+    "averageInDegree": 2.9241176470588237,
+    "removed": "History of Sokka (Summer 100 AG)",
+    "averagePathLength": 5.06375945516703,
+    "numNodes": 1700,
+    "averageOutDegree": 2.9241176470588237
+  },
+  "183": {
+    "numEdges": 4936,
+    "selfLinks": 0,
+    "sizeLargest": 609,
+    "averageInDegree": 2.9052383755150086,
+    "removed": "The Great Divide",
+    "averagePathLength": 5.088475499092559,
+    "numNodes": 1699,
+    "averageOutDegree": 2.9052383755150086
+  },
+  "184": {
+    "numEdges": 4901,
+    "selfLinks": 0,
+    "sizeLargest": 601,
+    "averageInDegree": 2.886336866902238,
+    "removed": "List of Avatar: The Last Airbender comics",
+    "averagePathLength": 5.126228508042152,
+    "numNodes": 1698,
+    "averageOutDegree": 2.886336866902238
+  },
+  "185": {
+    "numEdges": 4866,
+    "selfLinks": 0,
+    "sizeLargest": 600,
+    "averageInDegree": 2.867413081909252,
+    "removed": "Earth Kingdom Royal Palace",
+    "averagePathLength": 5.140191986644408,
+    "numNodes": 1697,
+    "averageOutDegree": 2.867413081909252
+  },
+  "186": {
+    "numEdges": 4832,
+    "selfLinks": 0,
+    "sizeLargest": 600,
+    "averageInDegree": 2.849056603773585,
+    "removed": "Avatar Wiki:Transcripts",
+    "averagePathLength": 5.140191986644408,
+    "numNodes": 1696,
+    "averageOutDegree": 2.849056603773585
+  },
+  "187": {
+    "numEdges": 4798,
+    "selfLinks": 0,
+    "sizeLargest": 599,
+    "averageInDegree": 2.830678466076696,
+    "removed": "Sokka's Master",
+    "averagePathLength": 5.157874607065287,
+    "numNodes": 1695,
+    "averageOutDegree": 2.830678466076696
+  },
+  "188": {
+    "numEdges": 4764,
+    "selfLinks": 0,
+    "sizeLargest": 596,
+    "averageInDegree": 2.812278630460449,
+    "removed": "The Deserter",
+    "averagePathLength": 5.189171507529186,
+    "numNodes": 1694,
+    "averageOutDegree": 2.812278630460449
+  },
+  "189": {
+    "numEdges": 4730,
+    "selfLinks": 0,
+    "sizeLargest": 593,
+    "averageInDegree": 2.793857058476078,
+    "removed": "Haru",
+    "averagePathLength": 5.209325577685611,
+    "numNodes": 1693,
+    "averageOutDegree": 2.793857058476078
+  },
+  "190": {
+    "numEdges": 4697,
+    "selfLinks": 0,
+    "sizeLargest": 591,
+    "averageInDegree": 2.7760047281323876,
+    "removed": "Kanna",
+    "averagePathLength": 5.222865582609194,
+    "numNodes": 1692,
+    "averageOutDegree": 2.7760047281323876
+  },
+  "191": {
+    "numEdges": 4664,
+    "selfLinks": 0,
+    "sizeLargest": 585,
+    "averageInDegree": 2.7581312832643405,
+    "removed": "The Complete Book 1 Collection",
+    "averagePathLength": 5.233664090855871,
+    "numNodes": 1691,
+    "averageOutDegree": 2.7581312832643405
+  },
+  "192": {
+    "numEdges": 4631,
+    "selfLinks": 0,
+    "sizeLargest": 584,
+    "averageInDegree": 2.7402366863905327,
+    "removed": "La",
+    "averagePathLength": 5.239364764209685,
+    "numNodes": 1690,
+    "averageOutDegree": 2.7402366863905327
+  },
+  "193": {
+    "numEdges": 4599,
+    "selfLinks": 0,
+    "sizeLargest": 583,
+    "averageInDegree": 2.7229129662522205,
+    "removed": "Architecture in the World of Avatar",
+    "averagePathLength": 5.2933664597737735,
+    "numNodes": 1689,
+    "averageOutDegree": 2.7229129662522205
+  },
+  "194": {
+    "numEdges": 4567,
+    "selfLinks": 0,
+    "sizeLargest": 582,
+    "averageInDegree": 2.705568720379147,
+    "removed": "Fire Nation drill",
+    "averagePathLength": 5.3044371891099,
+    "numNodes": 1688,
+    "averageOutDegree": 2.705568720379147
+  },
+  "195": {
+    "numEdges": 4535,
+    "selfLinks": 0,
+    "sizeLargest": 580,
+    "averageInDegree": 2.6882039122703025,
+    "removed": "Lightning generation",
+    "averagePathLength": 5.326862604966947,
+    "numNodes": 1687,
+    "averageOutDegree": 2.6882039122703025
+  },
+  "196": {
+    "numEdges": 4503,
+    "selfLinks": 0,
+    "sizeLargest": 578,
+    "averageInDegree": 2.670818505338078,
+    "removed": "Asami Sato",
+    "averagePathLength": 5.357309913464825,
+    "numNodes": 1686,
+    "averageOutDegree": 2.670818505338078
+  },
+  "197": {
+    "numEdges": 4471,
+    "selfLinks": 0,
+    "sizeLargest": 573,
+    "averageInDegree": 2.653412462908012,
+    "removed": "Azulon",
+    "averagePathLength": 5.3641672463662,
+    "numNodes": 1685,
+    "averageOutDegree": 2.653412462908012
+  },
+  "198": {
+    "numEdges": 4439,
+    "selfLinks": 0,
+    "sizeLargest": 567,
+    "averageInDegree": 2.6359857482185274,
+    "removed": "Recreation in the World of Avatar",
+    "averagePathLength": 5.379606259464917,
+    "numNodes": 1684,
+    "averageOutDegree": 2.6359857482185274
+  },
+  "199": {
+    "numEdges": 4408,
+    "selfLinks": 0,
+    "sizeLargest": 565,
+    "averageInDegree": 2.6191325014854425,
+    "removed": "Yu",
+    "averagePathLength": 5.399278227577983,
+    "numNodes": 1683,
+    "averageOutDegree": 2.6191325014854425
+  },
+  "200": {
+    "numEdges": 4377,
+    "selfLinks": 0,
+    "sizeLargest": 564,
+    "averageInDegree": 2.602259215219976,
+    "removed": "The Boiling Rock, Part 1",
+    "averagePathLength": 5.433213030497714,
+    "numNodes": 1682,
+    "averageOutDegree": 2.602259215219976
+  },
+  "201": {
+    "numEdges": 4346,
+    "selfLinks": 0,
+    "sizeLargest": 563,
+    "averageInDegree": 2.5853658536585367,
+    "removed": "Currency",
+    "averagePathLength": 5.469074543466306,
+    "numNodes": 1681,
+    "averageOutDegree": 2.5853658536585367
+  },
+  "202": {
+    "numEdges": 4316,
+    "selfLinks": 0,
+    "sizeLargest": 563,
+    "averageInDegree": 2.5690476190476192,
+    "removed": "Avatar Wiki:Featured articles",
+    "averagePathLength": 5.469074543466306,
+    "numNodes": 1680,
+    "averageOutDegree": 2.5690476190476192
+  },
+  "203": {
+    "numEdges": 4286,
+    "selfLinks": 0,
+    "sizeLargest": 557,
+    "averageInDegree": 2.5527099463966647,
+    "removed": "The Warriors of Kyoshi",
+    "averagePathLength": 5.463001950324839,
+    "numNodes": 1679,
+    "averageOutDegree": 2.5527099463966647
+  },
+  "204": {
+    "numEdges": 4256,
+    "selfLinks": 0,
+    "sizeLargest": 556,
+    "averageInDegree": 2.536352800953516,
+    "removed": "Phoenix King",
+    "averagePathLength": 5.477237669324,
+    "numNodes": 1678,
+    "averageOutDegree": 2.536352800953516
+  },
+  "205": {
+    "numEdges": 4226,
+    "selfLinks": 0,
+    "sizeLargest": 556,
+    "averageInDegree": 2.5199761478831246,
+    "removed": "Avatar Wiki:Transcript Team",
+    "averagePathLength": 5.477237669324,
+    "numNodes": 1677,
+    "averageOutDegree": 2.5199761478831246
+  },
+  "206": {
+    "numEdges": 4196,
+    "selfLinks": 0,
+    "sizeLargest": 556,
+    "averageInDegree": 2.503579952267303,
+    "removed": "History of Toph Beifong (Spring 100 AG)",
+    "averagePathLength": 5.477237669324,
+    "numNodes": 1676,
+    "averageOutDegree": 2.503579952267303
+  },
+  "207": {
+    "numEdges": 4167,
+    "selfLinks": 0,
+    "sizeLargest": 555,
+    "averageInDegree": 2.4877611940298507,
+    "removed": "Eastern Air Temple",
+    "averagePathLength": 5.495918300972453,
+    "numNodes": 1675,
+    "averageOutDegree": 2.4877611940298507
+  },
+  "208": {
+    "numEdges": 4138,
+    "selfLinks": 0,
+    "sizeLargest": 552,
+    "averageInDegree": 2.4719235364396654,
+    "removed": "The Duke",
+    "averagePathLength": 5.509781293563744,
+    "numNodes": 1674,
+    "averageOutDegree": 2.4719235364396654
+  },
+  "209": {
+    "numEdges": 4109,
+    "selfLinks": 0,
+    "sizeLargest": 552,
+    "averageInDegree": 2.4560669456066946,
+    "removed": "History of Katara (Summer 100 AG)",
+    "averagePathLength": 5.509781293563744,
+    "numNodes": 1673,
+    "averageOutDegree": 2.4560669456066946
+  },
+  "210": {
+    "numEdges": 4080,
+    "selfLinks": 0,
+    "sizeLargest": 548,
+    "averageInDegree": 2.4401913875598087,
+    "removed": "Chin Village",
+    "averagePathLength": 5.51233670051642,
+    "numNodes": 1672,
+    "averageOutDegree": 2.4401913875598087
+  },
+  "211": {
+    "numEdges": 4051,
+    "selfLinks": 0,
+    "sizeLargest": 545,
+    "averageInDegree": 2.424296828246559,
+    "removed": "Fire Nation Royal Family",
+    "averagePathLength": 5.554944684295736,
+    "numNodes": 1671,
+    "averageOutDegree": 2.424296828246559
+  },
+  "212": {
+    "numEdges": 4023,
+    "selfLinks": 0,
+    "sizeLargest": 544,
+    "averageInDegree": 2.4089820359281435,
+    "removed": "Soundtrack of Avatar: The Last Airbender",
+    "averagePathLength": 5.557892563102589,
+    "numNodes": 1670,
+    "averageOutDegree": 2.4089820359281435
+  },
+  "213": {
+    "numEdges": 3995,
+    "selfLinks": 0,
+    "sizeLargest": 543,
+    "averageInDegree": 2.3936488915518273,
+    "removed": "Ukano",
+    "averagePathLength": 5.584643194498243,
+    "numNodes": 1669,
+    "averageOutDegree": 2.3936488915518273
+  },
+  "214": {
+    "numEdges": 3967,
+    "selfLinks": 0,
+    "sizeLargest": 540,
+    "averageInDegree": 2.378297362110312,
+    "removed": "Than",
+    "averagePathLength": 5.593819143819144,
+    "numNodes": 1668,
+    "averageOutDegree": 2.378297362110312
+  },
+  "215": {
+    "numEdges": 3939,
+    "selfLinks": 0,
+    "sizeLargest": 539,
+    "averageInDegree": 2.3629274145170966,
+    "removed": "Wan Shi Tong's Library",
+    "averagePathLength": 5.610555137905111,
+    "numNodes": 1667,
+    "averageOutDegree": 2.3629274145170966
+  },
+  "216": {
+    "numEdges": 3911,
+    "selfLinks": 0,
+    "sizeLargest": 538,
+    "averageInDegree": 2.3475390156062423,
+    "removed": "Sokka's sword",
+    "averagePathLength": 5.676611077651555,
+    "numNodes": 1666,
+    "averageOutDegree": 2.3475390156062423
+  },
+  "217": {
+    "numEdges": 3883,
+    "selfLinks": 0,
+    "sizeLargest": 530,
+    "averageInDegree": 2.332132132132132,
+    "removed": "Military of the Water Tribe",
+    "averagePathLength": 5.685483468274066,
+    "numNodes": 1665,
+    "averageOutDegree": 2.332132132132132
+  },
+  "218": {
+    "numEdges": 3856,
+    "selfLinks": 0,
+    "sizeLargest": 529,
+    "averageInDegree": 2.3173076923076925,
+    "removed": "Gaoling",
+    "averagePathLength": 5.702178925359455,
+    "numNodes": 1664,
+    "averageOutDegree": 2.3173076923076925
+  },
+  "219": {
+    "numEdges": 3829,
+    "selfLinks": 0,
+    "sizeLargest": 527,
+    "averageInDegree": 2.302465423932652,
+    "removed": "Fire Nation school",
+    "averagePathLength": 5.737523538791207,
+    "numNodes": 1663,
+    "averageOutDegree": 2.302465423932652
+  },
+  "220": {
+    "numEdges": 3802,
+    "selfLinks": 0,
+    "sizeLargest": 523,
+    "averageInDegree": 2.2876052948255112,
+    "removed": "Kuruk",
+    "averagePathLength": 5.772224786268434,
+    "numNodes": 1662,
+    "averageOutDegree": 2.2876052948255112
+  },
+  "221": {
+    "numEdges": 3775,
+    "selfLinks": 0,
+    "sizeLargest": 522,
+    "averageInDegree": 2.272727272727273,
+    "removed": "Equalists",
+    "averagePathLength": 5.78723498135769,
+    "numNodes": 1661,
+    "averageOutDegree": 2.272727272727273
+  },
+  "222": {
+    "numEdges": 3749,
+    "selfLinks": 0,
+    "sizeLargest": 521,
+    "averageInDegree": 2.258433734939759,
+    "removed": "Jasmine Dragon",
+    "averagePathLength": 5.809988188395098,
+    "numNodes": 1660,
+    "averageOutDegree": 2.258433734939759
+  },
+  "223": {
+    "numEdges": 3723,
+    "selfLinks": 0,
+    "sizeLargest": 516,
+    "averageInDegree": 2.244122965641953,
+    "removed": "Fire Nation cruiser",
+    "averagePathLength": 5.854621058177166,
+    "numNodes": 1659,
+    "averageOutDegree": 2.244122965641953
+  }
+}

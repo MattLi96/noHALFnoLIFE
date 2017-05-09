@@ -1,0 +1,172 @@
+{
+  "0": {
+    "numEdges": 869,
+    "selfLinks": 16,
+    "sizeLargest": 131,
+    "averageInDegree": 4.366834170854271,
+    "removed": "Inception (2010 film)",
+    "averagePathLength": 3.556253669994128,
+    "numNodes": 199,
+    "averageOutDegree": 4.366834170854271
+  },
+  "1": {
+    "numEdges": 816,
+    "selfLinks": 16,
+    "sizeLargest": 128,
+    "averageInDegree": 4.121212121212121,
+    "removed": "Ariadne",
+    "averagePathLength": 3.6189714566929134,
+    "numNodes": 198,
+    "averageOutDegree": 4.121212121212121
+  },
+  "2": {
+    "numEdges": 765,
+    "selfLinks": 16,
+    "sizeLargest": 125,
+    "averageInDegree": 3.883248730964467,
+    "removed": "Saito",
+    "averagePathLength": 3.717483870967742,
+    "numNodes": 197,
+    "averageOutDegree": 3.883248730964467
+  },
+  "3": {
+    "numEdges": 723,
+    "selfLinks": 16,
+    "sizeLargest": 123,
+    "averageInDegree": 3.688775510204082,
+    "removed": "Arthur",
+    "averagePathLength": 3.801212848194056,
+    "numNodes": 196,
+    "averageOutDegree": 3.688775510204082
+  },
+  "4": {
+    "numEdges": 687,
+    "selfLinks": 16,
+    "sizeLargest": 119,
+    "averageInDegree": 3.523076923076923,
+    "removed": "Inception: Music from the Motion Picture",
+    "averagePathLength": 3.942956843754451,
+    "numNodes": 195,
+    "averageOutDegree": 3.523076923076923
+  },
+  "5": {
+    "numEdges": 652,
+    "selfLinks": 16,
+    "sizeLargest": 118,
+    "averageInDegree": 3.3608247422680413,
+    "removed": "Dream-Sharing",
+    "averagePathLength": 4.045632333767927,
+    "numNodes": 194,
+    "averageOutDegree": 3.3608247422680413
+  },
+  "6": {
+    "numEdges": 620,
+    "selfLinks": 16,
+    "sizeLargest": 114,
+    "averageInDegree": 3.2124352331606216,
+    "removed": "Mallorie Cobb",
+    "averagePathLength": 4.099829219065363,
+    "numNodes": 193,
+    "averageOutDegree": 3.2124352331606216
+  },
+  "7": {
+    "numEdges": 590,
+    "selfLinks": 16,
+    "sizeLargest": 112,
+    "averageInDegree": 3.0729166666666665,
+    "removed": "Dominic Cobb",
+    "averagePathLength": 4.154681467181467,
+    "numNodes": 192,
+    "averageOutDegree": 3.0729166666666665
+  },
+  "8": {
+    "numEdges": 560,
+    "selfLinks": 16,
+    "sizeLargest": 109,
+    "averageInDegree": 2.931937172774869,
+    "removed": "The Fischer Inception Job",
+    "averagePathLength": 4.274719673802243,
+    "numNodes": 191,
+    "averageOutDegree": 2.931937172774869
+  },
+  "9": {
+    "numEdges": 532,
+    "selfLinks": 16,
+    "sizeLargest": 107,
+    "averageInDegree": 2.8,
+    "removed": "Robert Fischer",
+    "averagePathLength": 4.374977958032093,
+    "numNodes": 190,
+    "averageOutDegree": 2.8
+  },
+  "10": {
+    "numEdges": 508,
+    "selfLinks": 16,
+    "sizeLargest": 104,
+    "averageInDegree": 2.687830687830688,
+    "removed": "Dominick Cobb",
+    "averagePathLength": 4.6657020164301715,
+    "numNodes": 189,
+    "averageOutDegree": 2.687830687830688
+  },
+  "11": {
+    "numEdges": 484,
+    "selfLinks": 16,
+    "sizeLargest": 87,
+    "averageInDegree": 2.574468085106383,
+    "removed": "The Hotel (dream)",
+    "averagePathLength": 4.239641807003475,
+    "numNodes": 188,
+    "averageOutDegree": 2.574468085106383
+  },
+  "12": {
+    "numEdges": 462,
+    "selfLinks": 16,
+    "sizeLargest": 84,
+    "averageInDegree": 2.4705882352941178,
+    "removed": "Eames",
+    "averagePathLength": 4.300917957544463,
+    "numNodes": 187,
+    "averageOutDegree": 2.4705882352941178
+  },
+  "13": {
+    "numEdges": 441,
+    "selfLinks": 16,
+    "sizeLargest": 80,
+    "averageInDegree": 2.370967741935484,
+    "removed": "Dreamer",
+    "averagePathLength": 4.400949367088607,
+    "numNodes": 186,
+    "averageOutDegree": 2.370967741935484
+  },
+  "14": {
+    "numEdges": 422,
+    "selfLinks": 16,
+    "sizeLargest": 78,
+    "averageInDegree": 2.281081081081081,
+    "removed": "The Team",
+    "averagePathLength": 4.532301032301032,
+    "numNodes": 185,
+    "averageOutDegree": 2.281081081081081
+  },
+  "15": {
+    "numEdges": 405,
+    "selfLinks": 15,
+    "sizeLargest": 72,
+    "averageInDegree": 2.2010869565217392,
+    "removed": "Inception: The Cobol Job",
+    "averagePathLength": 4.596439749608764,
+    "numNodes": 184,
+    "averageOutDegree": 2.2010869565217392
+  },
+  "16": {
+    "numEdges": 387,
+    "selfLinks": 15,
+    "sizeLargest": 67,
+    "averageInDegree": 2.1147540983606556,
+    "removed": "Christopher Nolan",
+    "averagePathLength": 4.412030755314337,
+    "numNodes": 183,
+    "averageOutDegree": 2.1147540983606556
+  }
+}
