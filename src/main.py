@@ -11,6 +11,7 @@ from decentralized_search import HierarchicalDecentralizedSearch
 from hierarchical_models import CategoryBasedHierarchicalModel
 from network_analysis import NetworkAnalysis
 from network_parser import NetworkParser
+from random_search import RandomSearch
 from settings import *
 from xml_parser import XMLParser
 
@@ -80,17 +81,28 @@ class Runner:
             n_found, n_missing, av_path_len, av_unique_nodes, hierarchy_num_nodes, hierarchy_num_levels, \
             path_lengths_deciles = decentralized_search_model.run_decentralized_search(1000,
                 decentralized_search_settings["widen_search"], decentralized_search_settings["plots"])
-            decentralized_search_data = {
+            basic.update({
                 "decentralized_num_paths_found": n_found,
                 "decentralized_num_paths_missing": n_missing,
                 "decentralized_average_decentralized_path_length": av_path_len,
                 "decentralized_average_num_unique_nodes": av_unique_nodes,
                 "hierarchy_num_nodes": hierarchy_num_nodes,
                 "hierarchy_num_levels": hierarchy_num_levels
-            }
+            })
+            path_lengths_deciles_dict = {}
             for i in range(len(path_lengths_deciles)):
-                decentralized_search_data["path_length_" + str((i + 1) * 10) + "th_percentile"] = path_lengths_deciles[i]
-            basic.update(decentralized_search_data)
+                path_lengths_deciles_dict["path_length_" + str((i + 1) * 10) + "th_percentile"] = path_lengths_deciles[i]
+            basic.update(path_lengths_deciles_dict)
+
+            random_search_model = RandomSearch(net.G, na)
+            n_found, n_missing, av_path_len, av_unique_nodes = random_search_model.run_search(1000,
+                decentralized_search_settings["plots"])
+            basic.update({
+                "random_num_paths_found": n_found,
+                "random_num_paths_missing": n_missing,
+                "random_average_decentralized_path_length": av_path_len,
+                "random_average_num_unique_nodes": av_unique_nodes
+            })
 
         if generate_data:
             na.write_permanent_data_json("../data/", basic)  # write out decentralized results
@@ -120,30 +132,43 @@ class Runner:
 
                 # Run Decentralized Search
                 try:
+                    # Run Decentralized Search
                     if decentralized_search_settings["run_decentralized_search"]:
                         category_hierarchy = CategoryBasedHierarchicalModel(net.G,
-                                similarity_matrix_type=category_hierarchical_model_settings["similarity_matrix_type"],
-                                max_branching_factor_root=category_hierarchical_model_settings["max_branching_factor_root"]
-                                )
+                            similarity_matrix_type=category_hierarchical_model_settings["similarity_matrix_type"],
+                            max_branching_factor_root=category_hierarchical_model_settings["max_branching_factor_root"]
+                        )
                         category_hierarchy.build_hierarchical_model()
-                    decentralized_search_model = HierarchicalDecentralizedSearch(net.G, category_hierarchy.hierarchy, na,
+                        decentralized_search_model = HierarchicalDecentralizedSearch(net.G,
+                            category_hierarchy.hierarchy, na,
                             detailed_print=decentralized_search_settings["detailed_print"],
                             hierarchy_nodes_only=decentralized_search_settings["hierarchy_nodes_only"],
                             apply_weighted_score=decentralized_search_settings["apply_weighted_score"],
-                            )
-                    n_found, n_missing, av_path_len, av_unique_nodes = decentralized_search_model.run_decentralized_search(1000,
+                        )
+                        n_found, n_missing, av_path_len, av_unique_nodes = decentralized_search_model.run_decentralized_search(
+                            1000,
                             decentralized_search_settings["widen_search"], decentralized_search_settings["plots"])
+                        basic.update({
+                            "decentralized_num_paths_found": n_found,
+                            "decentralized_num_paths_missing": n_missing,
+                            "decentralized_average_decentralized_path_length": av_path_len,
+                            "decentralized_average_num_unique_nodes": av_unique_nodes
+                        })
 
-                    basic["decentralized"] = {
-                            "num_paths_found": n_found,
-                            "num_paths_missing": n_missing,
-                            "average_decentralized_path_length": av_path_len,
-                            "average_num_unique_nodes": av_unique_nodes
-                            }
-
+                        random_search_model = RandomSearch(net.G, na)
+                        n_found, n_missing, av_path_len, av_unique_nodes = random_search_model.run_search(1000,
+                            decentralized_search_settings["plots"])
+                        basic.update({
+                            "random_num_paths_found": n_found,
+                            "random_num_paths_missing": n_missing,
+                            "random_average_decentralized_path_length": av_path_len,
+                            "random_average_num_unique_nodes": av_unique_nodes
+                        })
                 except:
                     pass
-                na.write_permanent_data_json("../data/", basic, tag=str(curr_time))
+
+                if generate_data:
+                    na.write_permanent_data_json("../data/", basic, str(curr_time))  # write out decentralized results
 
         output("Completed Analyzing: " + data_file)
 

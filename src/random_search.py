@@ -3,6 +3,7 @@ from collections import Counter
 
 import networkx as nx
 
+
 class RandomSearch:
     def __init__(self, G, network_analysis):
         """
@@ -34,20 +35,16 @@ class RandomSearch:
             if node2 in current_neighbors:
                 next_node = node2
             else:
-                options = list(set(current_neighbors)) - list(unique_pages)
-                next_node = random.choice(options)
+                options = list(set(current_neighbors) - set(unique_pages))
+                if len(options) > 0:
+                    next_node = random.choice(options)
 
-            # if self.detailed_print:
-            #     print("OTHER POSSIBILITIES: " + str(equal_distance_nodes) + "\n")
             if next_node is None:
                 if len(current_neighbors) == 0:
                     # Pop this page and return to the last page
-                    min_distance_node = last_node
-                elif len(current_neighbors) == 1:
-                    min_distance_node = current_neighbors[0]
+                    next_node = last_node
                 else:
-                    while (min_distance_node is None) or (len(min_distance_node.categories) == 0):
-                        min_distance_node = current_neighbors[random.randint(0, len(current_neighbors) - 1)]
+                    next_node = random.choice(current_neighbors)
             search_path.append(next_node)
             visited_edges.add((current_node, next_node))
             last_node = current_node
@@ -55,9 +52,9 @@ class RandomSearch:
             unique_pages.add(current_node)
         return (search_path, unique_pages)
 
-    def run_search(self, num_times, widen_target, plots):
+    def run_search(self, num_times, plots):
         """
-        Runs decentralized search the specified number of times (num_times) by randomly selecting a pair of nodes
+        Runs randomized search the specified number of times (num_times) by randomly selecting a pair of nodes
         for each run
         """
         nodes = self.G.nodes()
@@ -77,20 +74,13 @@ class RandomSearch:
                     if rand2_index != rand1_index and len(nodes[rand2_index].categories) > 0:
                         node2 = nodes[rand2_index]
                         break
-            results = self.get_search_path(node1, node2, widen_target)
+            results = self.get_search_path(node1, node2)
             if results is None:
                 search_path = None
                 search_path_unique_nodes = None
-                if self.detailed_print:
-                    print("Couldn't find path for " + str(i + 1))
             else:
                 search_path, search_path_unique_nodes = results
-                if self.detailed_print:
-                    print(str(search_path))
-                    print("Random Search " + str(i + 1) + ": Length " + str(len(search_path)))
-                    print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
-                else:
-                    print("Random Search " + str(i + 1) + ": Length " + str(len(search_path)))
+                print("Random Search " + str(i + 1) + ": Length " + str(len(search_path)))
 
             search_paths.append(search_path)
             search_paths_unique_nodes.append(search_path_unique_nodes)
@@ -119,9 +109,9 @@ class RandomSearch:
 
         if plots:
             self.network_analysis.makePlot("Random Path Distribution", "Path Length", "Occurances", xdata, ydata,
-                "path_pdf.png")
+                "random_path_pdf.png")
             self.network_analysis.makePlot("CDF of Random Path Distribution", "Path Length", "Occurances", xdata,
-                cdf, "path_cdf.png")
+                cdf, "random_path_cdf.png")
             self.network_analysis.write_data_json("cdfdump.json", dict(zip(xdata, cdf)))
 
         # Calculate mean unique nodes for each path
@@ -132,6 +122,6 @@ class RandomSearch:
         mean_unique_nodes = float(mean_unique_nodes) / num_paths_found
         print("Num Paths Found:", num_paths_found)
         print("Num Paths Not Found:", len(search_paths) - num_paths_found)
-        print("Mean Path Length of Decentralized Search:", mean_path_length)
-        print("Mean Unique Nodes of Path of Decentralized Search:", mean_unique_nodes)
+        print("Mean Path Length of Randomized Search:", mean_path_length)
+        print("Mean Unique Nodes of Path of Randomized Search:", mean_unique_nodes)
         return num_paths_found, len(search_paths) - num_paths_found, mean_path_length, mean_unique_nodes
