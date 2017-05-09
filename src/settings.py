@@ -30,3 +30,5 @@ large_wikis = ["fullhouse", "gameofthrones", "marvel"]
 
 cpu = os.cpu_count() if os.cpu_count() else 4
 threads = cpu  # Adjust depending on how CPU/RAM intensive task is
+
+path_length_cap = 200

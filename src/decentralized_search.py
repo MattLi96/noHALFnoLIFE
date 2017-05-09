@@ -1,6 +1,6 @@
 import random
 from collections import Counter
-
+from settings import path_length_cap
 import networkx as nx
 
 
@@ -85,7 +85,7 @@ class HierarchicalDecentralizedSearch:
 
         unique_pages.add(current_node)
         while current_node != node2:
-            if len(decentralized_search_path) >= 200:  # Hardcap decentralized search path length
+            if len(decentralized_search_path) >= path_length_cap:  # Hardcap decentralized search path length
                 return None
             if self.detailed_print:
                 try:

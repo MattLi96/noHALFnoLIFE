@@ -3,6 +3,8 @@ from collections import Counter
 
 import networkx as nx
 
+from settings import path_length_cap
+
 
 class RandomSearch:
     def __init__(self, G, network_analysis):
@@ -27,7 +29,7 @@ class RandomSearch:
 
         unique_pages.add(current_node)
         while current_node != node2:
-            if len(search_path) >= 200:  # Hardcap path length
+            if len(search_path) >= path_length_cap:  # Hardcap path length
                 return None
 
             next_node = None
