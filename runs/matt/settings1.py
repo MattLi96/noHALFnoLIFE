@@ -10,12 +10,12 @@ decentralized_search_settings = {
     "detailed_print": False,
     "hierarchy_nodes_only": True,
     "widen_search": '2look',  # possible values are 'none', '2look', 'hierarchy'
-    "apply_weighted_score": True,
+    "apply_weighted_score": False,
     "plots": True,
 }
 
-output_path = "../data/matt/2look_weighted/"
-public_data = "../data/matt/2look_weighted/overview/"
+output_path = "../data/matt/2look_unweighted/"
+public_data = "../data/matt/2look_unweighted/overview/"
 public_out_path = "../public/data/"
 
 current_only = True  # Only use current files. Has no effect in time series mode
@@ -30,3 +30,5 @@ large_wikis = ["fullhouse", "gameofthrones", "marvel"]
 
 cpu = os.cpu_count() if os.cpu_count() else 4
 threads = cpu  # Adjust depending on how CPU/RAM intensive task is
+
+path_length_cap = 200
