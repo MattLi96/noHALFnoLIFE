@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
-    "unzip": "node commands/unzip.js",
     "analyze": "cd ./src && python main.py",
     "reg": "cd ./src && python overall_analysis.py"
   },

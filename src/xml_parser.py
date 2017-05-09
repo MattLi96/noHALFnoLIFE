@@ -24,7 +24,14 @@ class XMLParser:
                               'Top 10 list talk:', 'General Discussion/', 'HOC:', 'Questions and Answers/',
                               'News and Announcements/', 'Inception Wiki:', 'Gallery:', 'Apple Wiki:', 'Welcome:',
                               'Help talk:', 'Parks and Recreation Wiki:', 'Module:', 'League of Legends Wiki talk:',
-                              'Taylor Swift Wiki/', 'Fanon talk:', 'Film talk:', 'Fanon:']
+                              'Taylor Swift Wiki/', 'Fanon talk:', 'Film talk:', 'Fanon:', 'Baker Street Wiki:', 
+                              'Baker Street Wiki talk:', 'Faulty Towers Wiki:', 'Blog talk:', 'Bones Wiki:', 'Bones Wiki talk:',
+                              'Breaking Bad Wiki:', 'Breaking Bad Wiki talk:', 'Code Geass Wiki:', 'New on Code Geass Wiki/', 
+                              'Message Wall Greeting:', 'Wiksteria Lane:', 'Wiksteria Lane talk:', 'Fr:', 'Gilmore Girls Wiki:',
+                              'Haruhi Wiki:', 'Haruhi Wiki talk:', 'How I Met Your Mother Wiki:', 'Quiz:', 'QuizArticle:',
+                              'How I Met Your Mother Wiki talk:', 'HW:', 'Form:', 'Modern Family Wiki:', 
+                              'Modern Family Wiki talk:', 'Everybody Loves Raymond:', 'Sons of Anarchy:', 'Bradypedia:', 'Forum talk:', 
+                              'Twin Peaks Wiki:', 'Twin Peaks Wiki talk:', 'TYPE-MOON Wiki:', 'TYPE-MOON Wiki talk:' ]
         IGNORE_LIST_SUFFIX = [':Templates', ':Copyrights', ':Candidates for speedy deletion', ':Privacy policy',
                               ':Administrators', ':Navigation', ':Bureaucrats', ':Community Portal',
                               ':Terminology List', ':Sandbox', ':Welcome', ':Policy', ':Protected page',
