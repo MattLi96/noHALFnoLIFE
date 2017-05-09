@@ -9,8 +9,8 @@ decentralized_search_settings = {
     "run_decentralized_search": True,
     "detailed_print": False,
     "hierarchy_nodes_only": True,
-    "widen_search": '2look',  # possible values are 'none', '2look', 'hierarchy'
-    "apply_weighted_score": True,
+    "widen_search": 'none',  # possible values are 'none', '2look', 'hierarchy'
+    "apply_weighted_score": False,
     "plots": True,
 }
 
