@@ -40,7 +40,7 @@ class NetworkParser:
             current_node = Node(key)
             name_to_node[key] = current_node
             G.add_node(current_node)
-
+        non_isolated_nodes = set()
         for node in G.nodes():
             links = self.getLinksFromText(d[node.name])
             current_link_index = 0
@@ -50,9 +50,17 @@ class NetworkParser:
                 if link in name_to_node and link not in node.neighbor_to_location:
                     node.neighbor_to_location[link] = current_link_index
                     current_link_index += 1
-            edgeList = [(node, name_to_node[l]) for l in links if l in name_to_node]
+            edgeList = []
+            for l in links:
+                if l in name_to_node:
+                    edgeList.append((node, name_to_node[l]))
+                    non_isolated_nodes.add(node)
+                    non_isolated_nodes.add(name_to_node[l])
             G.add_edges_from(edgeList)
-
+        graph_nodes = G.nodes()
+        for node in graph_nodes:
+            if node not in non_isolated_nodes:
+                G.remove_node(node)
         return G
 
     def getLinksFromText(self, text):
