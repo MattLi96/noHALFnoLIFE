@@ -9,13 +9,13 @@ decentralized_search_settings = {
     "run_decentralized_search": True,
     "detailed_print": False,
     "hierarchy_nodes_only": True,
-    "widen_search": '2look',  # possible values are 'none', '2look', 'hierarchy'
+    "widen_search": 'none',  # possible values are 'none', '2look', 'hierarchy'
     "apply_weighted_score": True,
     "plots": True,
 }
 
-output_path = "../data/austin/2look_weighted_time/"
-public_data = "../data/austin/2look_weighted_time/overview/"
+output_path = "../data/austin/none_weighted_time/"
+public_data = "../data/austin/none_weighted_time/overview/"
 public_out_path = "../public/data/"
 
 current_only = False  # Only use current files. Has no effect in time series mode

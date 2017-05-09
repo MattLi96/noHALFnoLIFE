@@ -6,7 +6,7 @@ category_hierarchical_model_settings = {
     # calculated as kth root of number of page nodes (leaf nodes) in the hierarchy)
 }
 decentralized_search_settings = {
-    "run_decentralized_search": True,
+    "run_decentralized_search": False,
     "detailed_print": False,
     "hierarchy_nodes_only": True,
     "widen_search": 'none',  # possible values are 'none', '2look', 'hierarchy'
@@ -14,8 +14,8 @@ decentralized_search_settings = {
     "plots": True,
 }
 
-output_path = "../data/jared/none_weighted_time/"
-public_data = "../data/jared/none_weighted_time/overview/"
+output_path = "../data/jared/notime_nosearch/"
+public_data = "../data/jared/notime_nosearch/overview/"
 public_out_path = "../public/data/"
 
 current_only = False  # Only use current files. Has no effect in time series mode
@@ -25,7 +25,7 @@ time_series = True  # If true do time series. Otherwise process file
 
 generate_data = True  # True to generate data folder items
 
-performance_mode = True
+performance_mode = False
 large_wikis = ["fullhouse", "gameofthrones"]
 
 cpu = os.cpu_count() if os.cpu_count() else 4
