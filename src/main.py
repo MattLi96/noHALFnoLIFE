@@ -62,7 +62,7 @@ class Runner:
         na = NetworkAnalysis(net.G, os.path.basename(data_file), output_path)
         na.outputBasicStats()
         na.outputNodesAndEdges()
-        na.nodeRemoval()
+        # na.nodeRemoval()
 
         basic = na.d3dump(public_out_path, str(curr_time))
 
