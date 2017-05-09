@@ -14,12 +14,12 @@ decentralized_search_settings = {
     "plots": True,
 }
 
-output_path = "../output/"
-public_data = "../data/"
+output_path = "../data/jared/none_unweighted/"
+public_data = "../data/jared/none_unweighted/overview/"
 public_out_path = "../public/data/"
 
 current_only = True  # Only use current files. Has no effect in time series mode
-no_game = True  # Only use the no game no life wiki. Intended for testing
+no_game = False  # Only use the no game no life wiki. Intended for testing
 no_game_name = "nogamenolife"
 time_series = False  # If true do time series. Otherwise process file
 
