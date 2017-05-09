@@ -220,10 +220,11 @@ class HierarchicalDecentralizedSearch:
         print("Num Paths Not Found:", len(decentralized_search_paths) - num_paths_found)
         print("Mean Path Length of Decentralized Search:", mean_path_length)
         print("Mean Unique Nodes of Path of Decentralized Search:", mean_unique_nodes)
+
         sorted_path_distributions = sorted(path_distribution)
         path_length_deciles = []
-        for i in range(10):
-            path_length_deciles.append(sorted_path_distributions[(float(i + 1) * 0.1) * len(sorted_path_distributions)])
+        for i in range(1, 10):
+            path_length_deciles.append(sorted_path_distributions[int(i * 0.1 * len(sorted_path_distributions))])
+
         return (num_paths_found, len(decentralized_search_paths) - num_paths_found, mean_path_length, mean_unique_nodes,
-                (len(self.hierarchy.nodes()) - len(self.ranked_categories)), self.hierarchy.num_hierarchy_levels,
                 path_length_deciles)

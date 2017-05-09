@@ -78,20 +78,21 @@ class Runner:
                 hierarchy_nodes_only=decentralized_search_settings["hierarchy_nodes_only"],
                 apply_weighted_score=decentralized_search_settings["apply_weighted_score"],
             )
-            n_found, n_missing, av_path_len, av_unique_nodes, hierarchy_num_nodes, hierarchy_num_levels, \
-            path_lengths_deciles = decentralized_search_model.run_decentralized_search(1000,
-                decentralized_search_settings["widen_search"], decentralized_search_settings["plots"])
+            n_found, n_missing, av_path_len, av_unique_nodes, path_lengths_deciles = decentralized_search_model.run_decentralized_search(
+                1000, decentralized_search_settings["widen_search"], decentralized_search_settings["plots"])
             basic.update({
                 "decentralized_num_paths_found": n_found,
                 "decentralized_num_paths_missing": n_missing,
                 "decentralized_average_decentralized_path_length": av_path_len,
                 "decentralized_average_num_unique_nodes": av_unique_nodes,
-                "hierarchy_num_nodes": hierarchy_num_nodes,
-                "hierarchy_num_levels": hierarchy_num_levels
+                "hierarchy_num_nodes": (len(category_hierarchy.hierarchy.nodes()) -
+                                        len(category_hierarchy.ranked_categories)),
+                "hierarchy_num_levels": category_hierarchy.num_hierarchy_levels
             })
+
             path_lengths_deciles_dict = {}
             for i in range(len(path_lengths_deciles)):
-                path_lengths_deciles_dict["path_length_" + str((i + 1) * 10) + "th_percentile"] = path_lengths_deciles[i]
+                path_lengths_deciles_dict["path_length_" + str((i + 1) * 10) + "_percentile"] = path_lengths_deciles[i]
             basic.update(path_lengths_deciles_dict)
 
             random_search_model = RandomSearch(net.G, na)
@@ -108,8 +109,6 @@ class Runner:
             na.write_permanent_data_json("../data/", basic)  # write out decentralized results
 
         # na.generateDrawing()
-        # generateComponentSizes doesn't work for directed graphs
-        # na.generateComponentSizes()
 
         output("Completed Analyzing: " + data_file)
 
@@ -146,8 +145,7 @@ class Runner:
                             apply_weighted_score=decentralized_search_settings["apply_weighted_score"],
                         )
                         n_found, n_missing, av_path_len, av_unique_nodes = decentralized_search_model.run_decentralized_search(
-                            1000,
-                            decentralized_search_settings["widen_search"], decentralized_search_settings["plots"])
+                            1000, decentralized_search_settings["widen_search"], decentralized_search_settings["plots"])
                         basic.update({
                             "decentralized_num_paths_found": n_found,
                             "decentralized_num_paths_missing": n_missing,
