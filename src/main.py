@@ -77,15 +77,20 @@ class Runner:
                 hierarchy_nodes_only=decentralized_search_settings["hierarchy_nodes_only"],
                 apply_weighted_score=decentralized_search_settings["apply_weighted_score"],
             )
-            n_found, n_missing, av_path_len, av_unique_nodes = decentralized_search_model.run_decentralized_search(1000,
+            n_found, n_missing, av_path_len, av_unique_nodes, hierarchy_num_nodes, hierarchy_num_levels, \
+            path_lengths_deciles = decentralized_search_model.run_decentralized_search(1000,
                 decentralized_search_settings["widen_search"], decentralized_search_settings["plots"])
-
-            basic.update({
+            decentralized_search_data = {
                 "decentralized_num_paths_found": n_found,
                 "decentralized_num_paths_missing": n_missing,
                 "decentralized_average_decentralized_path_length": av_path_len,
-                "decentralized_average_num_unique_nodes": av_unique_nodes
-            })
+                "decentralized_average_num_unique_nodes": av_unique_nodes,
+                "hierarchy_num_nodes": hierarchy_num_nodes,
+                "hierarchy_num_levels": hierarchy_num_levels
+            }
+            for i in range(len(path_lengths_deciles)):
+                decentralized_search_data["path_length_" + str((i + 1) * 10) + "th_percentile"] = path_lengths_deciles[i]
+            basic.update(decentralized_search_data)
 
         if generate_data:
             na.write_permanent_data_json("../data/", basic)  # write out decentralized results
