@@ -26,6 +26,7 @@ class CategoryBasedHierarchicalModel:
             raise ValueError("Invalid category similarity matrix type specified")
         self.max_branching_factor = self.max_branching_factor_function(max_branching_factor_root)
         self.hierarchy = None
+        self.num_hierarchy_levels = 0
 
     def max_branching_factor_function(self, kth_root):
         """
@@ -128,6 +129,8 @@ class CategoryBasedHierarchicalModel:
                     or (category == self.ranked_categories[0] and (num_neighbors < self.max_branching_factor)):
                         self.hierarchy.add_edge(category, self.ranked_categories[i])
                         category_to_level[self.ranked_categories[i]] = category_to_level[category] + 1
+                        if category_to_level[self.ranked_categories[i]] > self.num_hierarchy_levels:
+                            self.num_hierarchy_levels = category_to_level[self.ranked_categories[i]]
                         if category in leaf_categories:
                             leaf_categories.remove(category)
                         break
@@ -147,6 +150,7 @@ class CategoryBasedHierarchicalModel:
             path = nx.shortest_path(self.hierarchy, source=self.ranked_categories[0],
                                     target=category)
             paths_to_leaf_categories.append(path)
+        self.num_hierarchy_levels += 1
         # Assign wikia pages as leaves in the hierarchy
         for node in self.G.nodes():
             if len(node.categories) > 0:

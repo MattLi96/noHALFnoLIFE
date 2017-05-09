@@ -68,24 +68,33 @@ class Runner:
 
         # Run Decentralized Search
         if decentralized_search_settings["run_decentralized_search"]:
-            category_hierarchy = CategoryBasedHierarchicalModel(net.G,
+            hiearchyG = net.G.copy()
+            category_hierarchy = CategoryBasedHierarchicalModel(hiearchyG,
                 similarity_matrix_type=category_hierarchical_model_settings["similarity_matrix_type"],
                 max_branching_factor_root=category_hierarchical_model_settings["max_branching_factor_root"]
             )
             category_hierarchy.build_hierarchical_model()
-            decentralized_search_model = HierarchicalDecentralizedSearch(net.G, category_hierarchy.hierarchy, na,
+            decentralized_search_model = HierarchicalDecentralizedSearch(hiearchyG, category_hierarchy.hierarchy, na,
                 detailed_print=decentralized_search_settings["detailed_print"],
                 hierarchy_nodes_only=decentralized_search_settings["hierarchy_nodes_only"],
                 apply_weighted_score=decentralized_search_settings["apply_weighted_score"],
             )
-            n_found, n_missing, av_path_len, av_unique_nodes = decentralized_search_model.run_decentralized_search(1000,
-                decentralized_search_settings["widen_search"], decentralized_search_settings["plots"])
+            n_found, n_missing, av_path_len, av_unique_nodes, path_lengths_deciles = decentralized_search_model.run_decentralized_search(
+                1000, decentralized_search_settings["widen_search"], decentralized_search_settings["plots"])
             basic.update({
                 "decentralized_num_paths_found": n_found,
                 "decentralized_num_paths_missing": n_missing,
                 "decentralized_average_decentralized_path_length": av_path_len,
-                "decentralized_average_num_unique_nodes": av_unique_nodes
+                "decentralized_average_num_unique_nodes": av_unique_nodes,
+                "hierarchy_num_nodes": (len(category_hierarchy.hierarchy.nodes()) -
+                                        len(category_hierarchy.ranked_categories)),
+                "hierarchy_num_levels": category_hierarchy.num_hierarchy_levels
             })
+
+            path_lengths_deciles_dict = {}
+            for i in range(len(path_lengths_deciles)):
+                path_lengths_deciles_dict["path_length_" + str((i + 1) * 10) + "_percentile"] = path_lengths_deciles[i]
+            basic.update(path_lengths_deciles_dict)
 
             random_search_model = RandomSearch(net.G, na)
             n_found, n_missing, av_path_len, av_unique_nodes = random_search_model.run_search(1000,
@@ -101,8 +110,6 @@ class Runner:
             na.write_permanent_data_json("../data/", basic)  # write out decentralized results
 
         # na.generateDrawing()
-        # generateComponentSizes doesn't work for directed graphs
-        # na.generateComponentSizes()
 
         output("Completed Analyzing: " + data_file)
 
@@ -139,8 +146,7 @@ class Runner:
                             apply_weighted_score=decentralized_search_settings["apply_weighted_score"],
                         )
                         n_found, n_missing, av_path_len, av_unique_nodes = decentralized_search_model.run_decentralized_search(
-                            1000,
-                            decentralized_search_settings["widen_search"], decentralized_search_settings["plots"])
+                            1000, decentralized_search_settings["widen_search"], decentralized_search_settings["plots"])
                         basic.update({
                             "decentralized_num_paths_found": n_found,
                             "decentralized_num_paths_missing": n_missing,
@@ -191,6 +197,8 @@ class Runner:
                 data_files.update(v)
         if no_game:
             data_files = {f for f in data_files if no_game_name in f}
+
+        data_files = sorted(data_files, key=os.path.getsize)[::-1]
 
         # Processing the data_files
         if time_series:

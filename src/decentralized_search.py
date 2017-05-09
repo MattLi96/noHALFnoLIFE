@@ -11,7 +11,7 @@ class HierarchicalDecentralizedSearch:
         Initializations for hierarchy-based decentralized search, which requires a graph of nodes and a hierarchy
         that expresses "distance" between any pair of nodes
         """
-        self.G = G.copy()
+        self.G = G
         if hierarchy_nodes_only:
             i = 0
             total_nodes = len(self.G.nodes())
@@ -75,7 +75,7 @@ class HierarchicalDecentralizedSearch:
                 if self.detailed_print:
                     print(sorted_by_hierarchy[i])
                 target_zone.add(sorted_by_hierarchy[i][0])
-        elif widen_target == "2look":  # know neighbors of target
+        elif widen_target == '2look':  # know neighbors of target
             target_zone.update(self.G.predecessors(node2))
         else:
             assert widen_target == 'none'
@@ -220,4 +220,11 @@ class HierarchicalDecentralizedSearch:
         print("Num Paths Not Found:", len(decentralized_search_paths) - num_paths_found)
         print("Mean Path Length of Decentralized Search:", mean_path_length)
         print("Mean Unique Nodes of Path of Decentralized Search:", mean_unique_nodes)
-        return num_paths_found, len(decentralized_search_paths) - num_paths_found, mean_path_length, mean_unique_nodes
+
+        sorted_path_distributions = sorted(path_distribution)
+        path_length_deciles = []
+        for i in range(1, 10):
+            path_length_deciles.append(sorted_path_distributions[int(i * 0.1 * len(sorted_path_distributions))])
+
+        return (num_paths_found, len(decentralized_search_paths) - num_paths_found, mean_path_length, mean_unique_nodes,
+                path_length_deciles)
