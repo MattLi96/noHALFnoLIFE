@@ -75,7 +75,7 @@ class HierarchicalDecentralizedSearch:
                 if self.detailed_print:
                     print(sorted_by_hierarchy[i])
                 target_zone.add(sorted_by_hierarchy[i][0])
-        elif widen_target == "2look":  # know neighbors of target
+        elif widen_target == '2look':  # know neighbors of target
             target_zone.update(self.G.predecessors(node2))
         else:
             assert widen_target == 'none'

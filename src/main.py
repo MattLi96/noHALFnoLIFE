@@ -199,6 +199,8 @@ class Runner:
         if no_game:
             data_files = {f for f in data_files if no_game_name in f}
 
+        data_files = sorted(data_files, key=os.path.getsize)[::-1]
+
         # Processing the data_files
         if time_series:
             self.pool.map(Runner.time_process, data_files)
