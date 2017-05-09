@@ -197,6 +197,15 @@ class Runner:
                 data_files.update(v)
         if no_game:
             data_files = {f for f in data_files if no_game_name in f}
+        if performance_mode:
+            def check(f):
+                for big in large_wikis:
+                    if big in f:
+                        return False
+
+                return True
+
+            data_files = {f for f in data_files if check(f)}
 
         data_files = sorted(data_files, key=os.path.getsize)[::-1]
 
