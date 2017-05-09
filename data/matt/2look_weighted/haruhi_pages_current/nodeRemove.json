@@ -1,0 +1,262 @@
+{
+  "0": {
+    "numNodes": 692,
+    "numEdges": 3749,
+    "averageInDegree": 5.417630057803469,
+    "averageOutDegree": 5.417630057803469,
+    "selfLinks": 0,
+    "removed": "Yuki Nagato",
+    "averagePathLength": 3.647152402163538,
+    "sizeLargest": 449
+  },
+  "1": {
+    "numNodes": 691,
+    "numEdges": 3537,
+    "averageInDegree": 5.118668596237337,
+    "averageOutDegree": 5.118668596237337,
+    "selfLinks": 0,
+    "removed": "Haruhi Suzumiya",
+    "averagePathLength": 3.7498678136375654,
+    "sizeLargest": 444
+  },
+  "2": {
+    "numNodes": 690,
+    "numEdges": 3332,
+    "averageInDegree": 4.828985507246377,
+    "averageOutDegree": 4.828985507246377,
+    "selfLinks": 0,
+    "removed": "Kyon",
+    "averagePathLength": 3.802043859738721,
+    "sizeLargest": 443
+  },
+  "3": {
+    "numNodes": 689,
+    "numEdges": 3179,
+    "averageInDegree": 4.613933236574746,
+    "averageOutDegree": 4.613933236574746,
+    "selfLinks": 0,
+    "removed": "Mikuru Asahina",
+    "averagePathLength": 3.8478365838809228,
+    "sizeLargest": 437
+  },
+  "4": {
+    "numNodes": 688,
+    "numEdges": 3049,
+    "averageInDegree": 4.431686046511628,
+    "averageOutDegree": 4.431686046511628,
+    "selfLinks": 0,
+    "removed": "Itsuki Koizumi",
+    "averagePathLength": 3.9027950142988184,
+    "sizeLargest": 431
+  },
+  "5": {
+    "numNodes": 687,
+    "numEdges": 2927,
+    "averageInDegree": 4.260553129548763,
+    "averageOutDegree": 4.260553129548763,
+    "selfLinks": 0,
+    "removed": "North High",
+    "averagePathLength": 3.9865672466169566,
+    "sizeLargest": 426
+  },
+  "6": {
+    "numNodes": 686,
+    "numEdges": 2822,
+    "averageInDegree": 4.113702623906706,
+    "averageOutDegree": 4.113702623906706,
+    "selfLinks": 0,
+    "removed": "SOS Brigade",
+    "averagePathLength": 4.011218163165172,
+    "sizeLargest": 424
+  },
+  "7": {
+    "numNodes": 685,
+    "numEdges": 2724,
+    "averageInDegree": 3.9766423357664236,
+    "averageOutDegree": 3.9766423357664236,
+    "selfLinks": 0,
+    "removed": "Haruhi Suzumiya Manga",
+    "averagePathLength": 4.103826420002891,
+    "sizeLargest": 408
+  },
+  "8": {
+    "numNodes": 684,
+    "numEdges": 2636,
+    "averageInDegree": 3.853801169590643,
+    "averageOutDegree": 3.853801169590643,
+    "selfLinks": 0,
+    "removed": "The Melancholy of Haruhi Suzumiya (anime)",
+    "averagePathLength": 4.278941311852704,
+    "sizeLargest": 396
+  },
+  "9": {
+    "numNodes": 683,
+    "numEdges": 2558,
+    "averageInDegree": 3.7452415812591506,
+    "averageOutDegree": 3.7452415812591506,
+    "selfLinks": 0,
+    "removed": "Tsuruya",
+    "averagePathLength": 4.382027285750626,
+    "sizeLargest": 387
+  },
+  "10": {
+    "numNodes": 682,
+    "numEdges": 2484,
+    "averageInDegree": 3.6422287390029324,
+    "averageOutDegree": 3.6422287390029324,
+    "selfLinks": 0,
+    "removed": "Ryoko Asakura",
+    "averagePathLength": 4.377854698814355,
+    "sizeLargest": 355
+  },
+  "11": {
+    "numNodes": 681,
+    "numEdges": 2416,
+    "averageInDegree": 3.5477239353891337,
+    "averageOutDegree": 3.5477239353891337,
+    "selfLinks": 0,
+    "removed": "The Melancholy of Haruhi-chan Suzumiya (ONA)",
+    "averagePathLength": 4.436905114777854,
+    "sizeLargest": 349
+  },
+  "12": {
+    "numNodes": 680,
+    "numEdges": 2349,
+    "averageInDegree": 3.4544117647058825,
+    "averageOutDegree": 3.4544117647058825,
+    "selfLinks": 0,
+    "removed": "The Melancholy of Haruhi Suzumiya",
+    "averagePathLength": 4.556164690087268,
+    "sizeLargest": 328
+  },
+  "13": {
+    "numNodes": 679,
+    "numEdges": 2284,
+    "averageInDegree": 3.3637702503681886,
+    "averageOutDegree": 3.3637702503681886,
+    "selfLinks": 0,
+    "removed": "Taniguchi",
+    "averagePathLength": 4.625223544795492,
+    "sizeLargest": 323
+  },
+  "14": {
+    "numNodes": 678,
+    "numEdges": 2224,
+    "averageInDegree": 3.28023598820059,
+    "averageOutDegree": 3.28023598820059,
+    "selfLinks": 0,
+    "removed": "Class 1-5",
+    "averagePathLength": 4.772349010213087,
+    "sizeLargest": 309
+  },
+  "15": {
+    "numNodes": 677,
+    "numEdges": 2164,
+    "averageInDegree": 3.1964549483013296,
+    "averageOutDegree": 3.1964549483013296,
+    "selfLinks": 0,
+    "removed": "Timeline",
+    "averagePathLength": 4.772349010213087,
+    "sizeLargest": 309
+  },
+  "16": {
+    "numNodes": 676,
+    "numEdges": 2108,
+    "averageInDegree": 3.1183431952662723,
+    "averageOutDegree": 3.1183431952662723,
+    "selfLinks": 0,
+    "removed": "The Disappearance of Haruhi Suzumiya (film)",
+    "averagePathLength": 4.682414273627631,
+    "sizeLargest": 284
+  },
+  "17": {
+    "numNodes": 675,
+    "numEdges": 2057,
+    "averageInDegree": 3.0474074074074076,
+    "averageOutDegree": 3.0474074074074076,
+    "selfLinks": 0,
+    "removed": "Haruhi Suzumiya Light Novel",
+    "averagePathLength": 4.795389494855728,
+    "sizeLargest": 279
+  },
+  "18": {
+    "numNodes": 674,
+    "numEdges": 2010,
+    "averageInDegree": 2.9821958456973294,
+    "averageOutDegree": 2.9821958456973294,
+    "selfLinks": 0,
+    "removed": "Kyon's Sister",
+    "averagePathLength": 4.920540184453228,
+    "sizeLargest": 276
+  },
+  "19": {
+    "numNodes": 673,
+    "numEdges": 1964,
+    "averageInDegree": 2.9182763744427933,
+    "averageOutDegree": 2.9182763744427933,
+    "selfLinks": 0,
+    "removed": "List of Haruhi Suzumiya albums",
+    "averagePathLength": 4.920540184453228,
+    "sizeLargest": 276
+  },
+  "20": {
+    "numNodes": 672,
+    "numEdges": 1918,
+    "averageInDegree": 2.8541666666666665,
+    "averageOutDegree": 2.8541666666666665,
+    "selfLinks": 0,
+    "removed": "Haruhi",
+    "averagePathLength": 4.920540184453228,
+    "sizeLargest": 276
+  },
+  "21": {
+    "numNodes": 671,
+    "numEdges": 1873,
+    "averageInDegree": 2.7913561847988078,
+    "averageOutDegree": 2.7913561847988078,
+    "selfLinks": 0,
+    "removed": "The Disappearance of Nagato Yuki-chan (anime)",
+    "averagePathLength": 4.858486519607843,
+    "sizeLargest": 256
+  },
+  "22": {
+    "numNodes": 670,
+    "numEdges": 1830,
+    "averageInDegree": 2.7313432835820897,
+    "averageOutDegree": 2.7313432835820897,
+    "selfLinks": 0,
+    "removed": "Emiri Kimidori",
+    "averagePathLength": 4.982997678649853,
+    "sizeLargest": 253
+  },
+  "23": {
+    "numNodes": 669,
+    "numEdges": 1790,
+    "averageInDegree": 2.6756352765321374,
+    "averageOutDegree": 2.6756352765321374,
+    "selfLinks": 0,
+    "removed": "Book timeline",
+    "averagePathLength": 4.982997678649853,
+    "sizeLargest": 253
+  },
+  "24": {
+    "numNodes": 668,
+    "numEdges": 1753,
+    "averageInDegree": 2.624251497005988,
+    "averageOutDegree": 2.624251497005988,
+    "selfLinks": 0,
+    "removed": "The Observation of Haruhi Suzumiya",
+    "averagePathLength": 4.997649209873319,
+    "sizeLargest": 248
+  },
+  "25": {
+    "numNodes": 667,
+    "numEdges": 1716,
+    "averageInDegree": 2.572713643178411,
+    "averageOutDegree": 2.572713643178411,
+    "selfLinks": 0,
+    "removed": "The Melancholy of Haruhi-chan Suzumiya",
+    "averagePathLength": 5.086301369863014,
+    "sizeLargest": 220
+  }
+}

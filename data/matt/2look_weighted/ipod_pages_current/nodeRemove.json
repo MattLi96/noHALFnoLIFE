@@ -1,0 +1,402 @@
+{
+  "0": {
+    "numNodes": 1298,
+    "numEdges": 5247,
+    "averageInDegree": 4.0423728813559325,
+    "averageOutDegree": 4.0423728813559325,
+    "selfLinks": 18,
+    "removed": "Mac OS X",
+    "averagePathLength": 5.127356705620478,
+    "sizeLargest": 600
+  },
+  "1": {
+    "numNodes": 1297,
+    "numEdges": 5000,
+    "averageInDegree": 3.8550501156515034,
+    "averageOutDegree": 3.8550501156515034,
+    "selfLinks": 18,
+    "removed": "Apple Inc.",
+    "averagePathLength": 4.939936092420193,
+    "sizeLargest": 571
+  },
+  "2": {
+    "numNodes": 1296,
+    "numEdges": 4775,
+    "averageInDegree": 3.684413580246914,
+    "averageOutDegree": 3.684413580246914,
+    "selfLinks": 18,
+    "removed": "Macintosh",
+    "averagePathLength": 5.091426320344084,
+    "sizeLargest": 557
+  },
+  "3": {
+    "numNodes": 1295,
+    "numEdges": 4595,
+    "averageInDegree": 3.548262548262548,
+    "averageOutDegree": 3.548262548262548,
+    "selfLinks": 18,
+    "removed": "List of Mac OS versions",
+    "averagePathLength": 5.096600557391924,
+    "sizeLargest": 556
+  },
+  "4": {
+    "numNodes": 1294,
+    "numEdges": 4427,
+    "averageInDegree": 3.421174652241113,
+    "averageOutDegree": 3.421174652241113,
+    "selfLinks": 18,
+    "removed": "Mac OS history",
+    "averagePathLength": 5.0829197039867635,
+    "sizeLargest": 538
+  },
+  "5": {
+    "numNodes": 1293,
+    "numEdges": 4309,
+    "averageInDegree": 3.3325599381283837,
+    "averageOutDegree": 3.3325599381283837,
+    "selfLinks": 18,
+    "removed": "System 7",
+    "averagePathLength": 5.216800208777102,
+    "sizeLargest": 533
+  },
+  "6": {
+    "numNodes": 1292,
+    "numEdges": 4207,
+    "averageInDegree": 3.2561919504643964,
+    "averageOutDegree": 3.2561919504643964,
+    "selfLinks": 18,
+    "removed": "Mac OS",
+    "averagePathLength": 5.320718225973056,
+    "sizeLargest": 523
+  },
+  "7": {
+    "numNodes": 1291,
+    "numEdges": 4122,
+    "averageInDegree": 3.192873741285825,
+    "averageOutDegree": 3.192873741285825,
+    "selfLinks": 18,
+    "removed": "Finder",
+    "averagePathLength": 5.378658431849921,
+    "sizeLargest": 518
+  },
+  "8": {
+    "numNodes": 1290,
+    "numEdges": 4041,
+    "averageInDegree": 3.1325581395348836,
+    "averageOutDegree": 3.1325581395348836,
+    "selfLinks": 18,
+    "removed": "Mac OS X 10.4",
+    "averagePathLength": 5.470654208498987,
+    "sizeLargest": 509
+  },
+  "9": {
+    "numNodes": 1289,
+    "numEdges": 3965,
+    "averageInDegree": 3.0760279286268424,
+    "averageOutDegree": 3.0760279286268424,
+    "selfLinks": 18,
+    "removed": "OS X",
+    "averagePathLength": 5.569827791510294,
+    "sizeLargest": 494
+  },
+  "10": {
+    "numNodes": 1288,
+    "numEdges": 3890,
+    "averageInDegree": 3.020186335403727,
+    "averageOutDegree": 3.020186335403727,
+    "selfLinks": 18,
+    "removed": "Mac OS 7.6",
+    "averagePathLength": 5.6140299520597345,
+    "sizeLargest": 486
+  },
+  "11": {
+    "numNodes": 1287,
+    "numEdges": 3817,
+    "averageInDegree": 2.965811965811966,
+    "averageOutDegree": 2.965811965811966,
+    "selfLinks": 18,
+    "removed": "Mac OS X 10.3",
+    "averagePathLength": 5.733076722338205,
+    "sizeLargest": 480
+  },
+  "12": {
+    "numNodes": 1286,
+    "numEdges": 3749,
+    "averageInDegree": 2.9152410575427683,
+    "averageOutDegree": 2.9152410575427683,
+    "selfLinks": 17,
+    "removed": "Mac OS 9",
+    "averagePathLength": 5.834003022335584,
+    "sizeLargest": 479
+  },
+  "13": {
+    "numNodes": 1285,
+    "numEdges": 3684,
+    "averageInDegree": 2.8669260700389105,
+    "averageOutDegree": 2.8669260700389105,
+    "selfLinks": 17,
+    "removed": "Classic Mac OS",
+    "averagePathLength": 5.869606678901723,
+    "sizeLargest": 472
+  },
+  "14": {
+    "numNodes": 1284,
+    "numEdges": 3625,
+    "averageInDegree": 2.823208722741433,
+    "averageOutDegree": 2.823208722741433,
+    "selfLinks": 17,
+    "removed": "System Folder",
+    "averagePathLength": 5.962049354154617,
+    "sizeLargest": 456
+  },
+  "15": {
+    "numNodes": 1283,
+    "numEdges": 3568,
+    "averageInDegree": 2.7809820732657835,
+    "averageOutDegree": 2.7809820732657835,
+    "selfLinks": 17,
+    "removed": "System Preferences",
+    "averagePathLength": 6.077275466533202,
+    "sizeLargest": 443
+  },
+  "16": {
+    "numNodes": 1282,
+    "numEdges": 3513,
+    "averageInDegree": 2.7402496099843994,
+    "averageOutDegree": 2.7402496099843994,
+    "selfLinks": 17,
+    "removed": "PowerBook",
+    "averagePathLength": 6.210972266160498,
+    "sizeLargest": 436
+  },
+  "17": {
+    "numNodes": 1281,
+    "numEdges": 3460,
+    "averageInDegree": 2.701014832162373,
+    "averageOutDegree": 2.701014832162373,
+    "selfLinks": 17,
+    "removed": "System 7.5",
+    "averagePathLength": 6.304006071447932,
+    "sizeLargest": 430
+  },
+  "18": {
+    "numNodes": 1280,
+    "numEdges": 3407,
+    "averageInDegree": 2.66171875,
+    "averageOutDegree": 2.66171875,
+    "selfLinks": 17,
+    "removed": "Steve Jobs",
+    "averagePathLength": 6.122211694798283,
+    "sizeLargest": 414
+  },
+  "19": {
+    "numNodes": 1279,
+    "numEdges": 3357,
+    "averageInDegree": 2.6247068021892104,
+    "averageOutDegree": 2.6247068021892104,
+    "selfLinks": 17,
+    "removed": "2005",
+    "averagePathLength": 6.122211694798283,
+    "sizeLargest": 414
+  },
+  "20": {
+    "numNodes": 1278,
+    "numEdges": 3309,
+    "averageInDegree": 2.5892018779342725,
+    "averageOutDegree": 2.5892018779342725,
+    "selfLinks": 17,
+    "removed": "Mac OS X 10.2",
+    "averagePathLength": 6.235588558855886,
+    "sizeLargest": 405
+  },
+  "21": {
+    "numNodes": 1277,
+    "numEdges": 3263,
+    "averageInDegree": 2.5552075176194204,
+    "averageOutDegree": 2.5552075176194204,
+    "selfLinks": 16,
+    "removed": "Mac OS 8",
+    "averagePathLength": 6.3140835411471326,
+    "sizeLargest": 401
+  },
+  "22": {
+    "numNodes": 1276,
+    "numEdges": 3223,
+    "averageInDegree": 2.5258620689655173,
+    "averageOutDegree": 2.5258620689655173,
+    "selfLinks": 16,
+    "removed": "Apple menu",
+    "averagePathLength": 6.4407933236648605,
+    "sizeLargest": 397
+  },
+  "23": {
+    "numNodes": 1275,
+    "numEdges": 3184,
+    "averageInDegree": 2.497254901960784,
+    "averageOutDegree": 2.497254901960784,
+    "selfLinks": 16,
+    "removed": "Mac OS X Lion",
+    "averagePathLength": 6.434234234234234,
+    "sizeLargest": 370
+  },
+  "24": {
+    "numNodes": 1274,
+    "numEdges": 3145,
+    "averageInDegree": 2.4686028257456827,
+    "averageOutDegree": 2.4686028257456827,
+    "selfLinks": 16,
+    "removed": "Apple typography",
+    "averagePathLength": 6.434234234234234,
+    "sizeLargest": 370
+  },
+  "25": {
+    "numNodes": 1273,
+    "numEdges": 3107,
+    "averageInDegree": 2.4406912804399057,
+    "averageOutDegree": 2.4406912804399057,
+    "selfLinks": 16,
+    "removed": "Apple",
+    "averagePathLength": 6.434234234234234,
+    "sizeLargest": 370
+  },
+  "26": {
+    "numNodes": 1272,
+    "numEdges": 3069,
+    "averageInDegree": 2.4127358490566038,
+    "averageOutDegree": 2.4127358490566038,
+    "selfLinks": 16,
+    "removed": "Macintosh OS",
+    "averagePathLength": 6.434234234234234,
+    "sizeLargest": 370
+  },
+  "27": {
+    "numNodes": 1271,
+    "numEdges": 3032,
+    "averageInDegree": 2.3855232100708106,
+    "averageOutDegree": 2.3855232100708106,
+    "selfLinks": 16,
+    "removed": "Mac OS 8.5",
+    "averagePathLength": 6.523674453924152,
+    "sizeLargest": 367
+  },
+  "28": {
+    "numNodes": 1270,
+    "numEdges": 2996,
+    "averageInDegree": 2.3590551181102364,
+    "averageOutDegree": 2.3590551181102364,
+    "selfLinks": 16,
+    "removed": "Mac",
+    "averagePathLength": 6.524404175077852,
+    "sizeLargest": 358
+  },
+  "29": {
+    "numNodes": 1269,
+    "numEdges": 2961,
+    "averageInDegree": 2.3333333333333335,
+    "averageOutDegree": 2.3333333333333335,
+    "selfLinks": 16,
+    "removed": "Mac OS 9.1",
+    "averagePathLength": 6.907439782439782,
+    "sizeLargest": 352
+  },
+  "30": {
+    "numNodes": 1268,
+    "numEdges": 2926,
+    "averageInDegree": 2.307570977917981,
+    "averageOutDegree": 2.307570977917981,
+    "selfLinks": 16,
+    "removed": "Mac OS X history",
+    "averagePathLength": 6.907439782439782,
+    "sizeLargest": 352
+  },
+  "31": {
+    "numNodes": 1267,
+    "numEdges": 2892,
+    "averageInDegree": 2.2825572217837413,
+    "averageOutDegree": 2.2825572217837413,
+    "selfLinks": 16,
+    "removed": "Mac OS X 10.0",
+    "averagePathLength": 7.018492902545861,
+    "sizeLargest": 349
+  },
+  "32": {
+    "numNodes": 1266,
+    "numEdges": 2860,
+    "averageInDegree": 2.259083728278041,
+    "averageOutDegree": 2.259083728278041,
+    "selfLinks": 16,
+    "removed": "FireWire",
+    "averagePathLength": 7.018492902545861,
+    "sizeLargest": 349
+  },
+  "33": {
+    "numNodes": 1265,
+    "numEdges": 2829,
+    "averageInDegree": 2.2363636363636363,
+    "averageOutDegree": 2.2363636363636363,
+    "selfLinks": 16,
+    "removed": "Safari",
+    "averagePathLength": 6.989365671641791,
+    "sizeLargest": 336
+  },
+  "34": {
+    "numNodes": 1264,
+    "numEdges": 2800,
+    "averageInDegree": 2.2151898734177213,
+    "averageOutDegree": 2.2151898734177213,
+    "selfLinks": 16,
+    "removed": "PowerPC",
+    "averagePathLength": 6.989365671641791,
+    "sizeLargest": 336
+  },
+  "35": {
+    "numNodes": 1263,
+    "numEdges": 2771,
+    "averageInDegree": 2.1939825811559777,
+    "averageOutDegree": 2.1939825811559777,
+    "selfLinks": 16,
+    "removed": "Utilities folder",
+    "averagePathLength": 7.089410618048389,
+    "sizeLargest": 324
+  },
+  "36": {
+    "numNodes": 1262,
+    "numEdges": 2743,
+    "averageInDegree": 2.1735340729001584,
+    "averageOutDegree": 2.1735340729001584,
+    "selfLinks": 16,
+    "removed": "2004",
+    "averagePathLength": 7.089410618048389,
+    "sizeLargest": 324
+  },
+  "37": {
+    "numNodes": 1261,
+    "numEdges": 2715,
+    "averageInDegree": 2.1530531324345756,
+    "averageOutDegree": 2.1530531324345756,
+    "selfLinks": 16,
+    "removed": "Unix",
+    "averagePathLength": 7.460639683940655,
+    "sizeLargest": 309
+  },
+  "38": {
+    "numNodes": 1260,
+    "numEdges": 2688,
+    "averageInDegree": 2.1333333333333333,
+    "averageOutDegree": 2.1333333333333333,
+    "selfLinks": 16,
+    "removed": "2003",
+    "averagePathLength": 7.460639683940655,
+    "sizeLargest": 309
+  },
+  "39": {
+    "numNodes": 1259,
+    "numEdges": 2661,
+    "averageInDegree": 2.113582208101668,
+    "averageOutDegree": 2.113582208101668,
+    "selfLinks": 16,
+    "removed": "System 7.1",
+    "averagePathLength": 7.544893231044959,
+    "sizeLargest": 303
+  }
+}

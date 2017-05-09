@@ -1,0 +1,1342 @@
+{
+  "0": {
+    "numNodes": 1314,
+    "numEdges": 13375,
+    "averageInDegree": 10.178843226788432,
+    "averageOutDegree": 10.178843226788432,
+    "selfLinks": 1,
+    "removed": "Sons of Anarchy",
+    "averagePathLength": 3.491225590140909,
+    "sizeLargest": 1051
+  },
+  "1": {
+    "numNodes": 1313,
+    "numEdges": 13061,
+    "averageInDegree": 9.947448591012947,
+    "averageOutDegree": 9.947448591012947,
+    "selfLinks": 1,
+    "removed": "SAMCRO",
+    "averagePathLength": 3.541961082528617,
+    "sizeLargest": 1049
+  },
+  "2": {
+    "numNodes": 1312,
+    "numEdges": 12793,
+    "averageInDegree": 9.75076219512195,
+    "averageOutDegree": 9.75076219512195,
+    "selfLinks": 1,
+    "removed": "Jax Teller",
+    "averagePathLength": 3.5871757713345307,
+    "sizeLargest": 1044
+  },
+  "3": {
+    "numNodes": 1311,
+    "numEdges": 12580,
+    "averageInDegree": 9.595728451563692,
+    "averageOutDegree": 9.595728451563692,
+    "selfLinks": 1,
+    "removed": "Clay Morrow",
+    "averagePathLength": 3.63329940031095,
+    "sizeLargest": 1040
+  },
+  "4": {
+    "numNodes": 1310,
+    "numEdges": 12378,
+    "averageInDegree": 9.448854961832062,
+    "averageOutDegree": 9.448854961832062,
+    "selfLinks": 1,
+    "removed": "Gemma Teller Morrow",
+    "averagePathLength": 3.6518365897644345,
+    "sizeLargest": 1035
+  },
+  "5": {
+    "numNodes": 1309,
+    "numEdges": 12187,
+    "averageInDegree": 9.310160427807487,
+    "averageOutDegree": 9.310160427807487,
+    "selfLinks": 1,
+    "removed": "List of Deaths",
+    "averagePathLength": 3.6518365897644345,
+    "sizeLargest": 1035
+  },
+  "6": {
+    "numNodes": 1308,
+    "numEdges": 12014,
+    "averageInDegree": 9.185015290519878,
+    "averageOutDegree": 9.185015290519878,
+    "selfLinks": 1,
+    "removed": "Season 3",
+    "averagePathLength": 3.665546632313537,
+    "sizeLargest": 1034
+  },
+  "7": {
+    "numNodes": 1307,
+    "numEdges": 11844,
+    "averageInDegree": 9.061973986228002,
+    "averageOutDegree": 9.061973986228002,
+    "selfLinks": 1,
+    "removed": "Tig Trager",
+    "averagePathLength": 3.697286459660147,
+    "sizeLargest": 1030
+  },
+  "8": {
+    "numNodes": 1306,
+    "numEdges": 11675,
+    "averageInDegree": 8.939509954058193,
+    "averageOutDegree": 8.939509954058193,
+    "selfLinks": 1,
+    "removed": "Tara Knowles",
+    "averagePathLength": 3.724657445843322,
+    "sizeLargest": 1027
+  },
+  "9": {
+    "numNodes": 1305,
+    "numEdges": 11512,
+    "averageInDegree": 8.821455938697317,
+    "averageOutDegree": 8.821455938697317,
+    "selfLinks": 1,
+    "removed": "Sons of Anarchy Motorcycle Club",
+    "averagePathLength": 3.7625674559735747,
+    "sizeLargest": 1021
+  },
+  "10": {
+    "numNodes": 1304,
+    "numEdges": 11350,
+    "averageInDegree": 8.70398773006135,
+    "averageOutDegree": 8.70398773006135,
+    "selfLinks": 1,
+    "removed": "Wayne Unser",
+    "averagePathLength": 3.7898665598216152,
+    "sizeLargest": 1017
+  },
+  "11": {
+    "numNodes": 1303,
+    "numEdges": 11195,
+    "averageInDegree": 8.591711435149655,
+    "averageOutDegree": 8.591711435149655,
+    "selfLinks": 1,
+    "removed": "Marcus Alvarez",
+    "averagePathLength": 3.835065730025942,
+    "sizeLargest": 1015
+  },
+  "12": {
+    "numNodes": 1302,
+    "numEdges": 11043,
+    "averageInDegree": 8.481566820276498,
+    "averageOutDegree": 8.481566820276498,
+    "selfLinks": 1,
+    "removed": "Season 2",
+    "averagePathLength": 3.8482026150166413,
+    "sizeLargest": 1013
+  },
+  "13": {
+    "numNodes": 1301,
+    "numEdges": 10894,
+    "averageInDegree": 8.373558800922368,
+    "averageOutDegree": 8.373558800922368,
+    "selfLinks": 1,
+    "removed": "Season 7",
+    "averagePathLength": 3.8563469816211398,
+    "sizeLargest": 1012
+  },
+  "14": {
+    "numNodes": 1300,
+    "numEdges": 10752,
+    "averageInDegree": 8.27076923076923,
+    "averageOutDegree": 8.27076923076923,
+    "selfLinks": 1,
+    "removed": "Season 5",
+    "averagePathLength": 3.869118900020566,
+    "sizeLargest": 1011
+  },
+  "15": {
+    "numNodes": 1299,
+    "numEdges": 10611,
+    "averageInDegree": 8.168591224018476,
+    "averageOutDegree": 8.168591224018476,
+    "selfLinks": 1,
+    "removed": "Season 1",
+    "averagePathLength": 3.8896136845652216,
+    "sizeLargest": 1005
+  },
+  "16": {
+    "numNodes": 1298,
+    "numEdges": 10474,
+    "averageInDegree": 8.069337442218798,
+    "averageOutDegree": 8.069337442218798,
+    "selfLinks": 1,
+    "removed": "Chibs Telford",
+    "averagePathLength": 3.928080919080919,
+    "sizeLargest": 1001
+  },
+  "17": {
+    "numNodes": 1297,
+    "numEdges": 10354,
+    "averageInDegree": 7.983037779491133,
+    "averageOutDegree": 7.983037779491133,
+    "selfLinks": 1,
+    "removed": "SAMCRO Kill List",
+    "averagePathLength": 3.928080919080919,
+    "sizeLargest": 1001
+  },
+  "18": {
+    "numNodes": 1296,
+    "numEdges": 10234,
+    "averageInDegree": 7.896604938271605,
+    "averageOutDegree": 7.896604938271605,
+    "selfLinks": 1,
+    "removed": "Bobby Munson",
+    "averagePathLength": 3.956518148823982,
+    "sizeLargest": 997
+  },
+  "19": {
+    "numNodes": 1295,
+    "numEdges": 10117,
+    "averageInDegree": 7.812355212355213,
+    "averageOutDegree": 7.812355212355213,
+    "selfLinks": 1,
+    "removed": "Out",
+    "averagePathLength": 3.9727406360653608,
+    "sizeLargest": 993
+  },
+  "20": {
+    "numNodes": 1294,
+    "numEdges": 10012,
+    "averageInDegree": 7.7372488408037094,
+    "averageOutDegree": 7.7372488408037094,
+    "selfLinks": 1,
+    "removed": "Loch\u00e1n M\u00f3r",
+    "averagePathLength": 3.98107464942652,
+    "sizeLargest": 990
+  },
+  "21": {
+    "numNodes": 1293,
+    "numEdges": 9908,
+    "averageInDegree": 7.6627996906419185,
+    "averageOutDegree": 7.6627996906419185,
+    "selfLinks": 1,
+    "removed": "Happy Lowman",
+    "averagePathLength": 4.010861851847294,
+    "sizeLargest": 988
+  },
+  "22": {
+    "numNodes": 1292,
+    "numEdges": 9806,
+    "averageInDegree": 7.589783281733746,
+    "averageOutDegree": 7.589783281733746,
+    "selfLinks": 1,
+    "removed": "Season 4",
+    "averagePathLength": 4.01638422284528,
+    "sizeLargest": 984
+  },
+  "23": {
+    "numNodes": 1291,
+    "numEdges": 9705,
+    "averageInDegree": 7.517428350116189,
+    "averageOutDegree": 7.517428350116189,
+    "selfLinks": 1,
+    "removed": "Opie Winston",
+    "averagePathLength": 4.0547257718204746,
+    "sizeLargest": 980
+  },
+  "24": {
+    "numNodes": 1290,
+    "numEdges": 9605,
+    "averageInDegree": 7.445736434108527,
+    "averageOutDegree": 7.445736434108527,
+    "selfLinks": 1,
+    "removed": "Wolfsangel",
+    "averagePathLength": 4.068505965065356,
+    "sizeLargest": 977
+  },
+  "25": {
+    "numNodes": 1289,
+    "numEdges": 9505,
+    "averageInDegree": 7.373933281613654,
+    "averageOutDegree": 7.373933281613654,
+    "selfLinks": 1,
+    "removed": "Turas",
+    "averagePathLength": 4.079670404886011,
+    "sizeLargest": 975
+  },
+  "26": {
+    "numNodes": 1288,
+    "numEdges": 9405,
+    "averageInDegree": 7.3020186335403725,
+    "averageOutDegree": 7.3020186335403725,
+    "selfLinks": 1,
+    "removed": "Juice Ortiz",
+    "averagePathLength": 4.112524413854276,
+    "sizeLargest": 969
+  },
+  "27": {
+    "numNodes": 1287,
+    "numEdges": 9309,
+    "averageInDegree": 7.233100233100233,
+    "averageOutDegree": 7.233100233100233,
+    "selfLinks": 1,
+    "removed": "Red Rose",
+    "averagePathLength": 4.132336099549599,
+    "sizeLargest": 968
+  },
+  "28": {
+    "numNodes": 1286,
+    "numEdges": 9214,
+    "averageInDegree": 7.1648522550544325,
+    "averageOutDegree": 7.1648522550544325,
+    "selfLinks": 1,
+    "removed": "Straw",
+    "averagePathLength": 4.148636940210264,
+    "sizeLargest": 965
+  },
+  "29": {
+    "numNodes": 1285,
+    "numEdges": 9119,
+    "averageInDegree": 7.096498054474708,
+    "averageOutDegree": 7.096498054474708,
+    "selfLinks": 1,
+    "removed": "True IRA",
+    "averagePathLength": 4.175875656553905,
+    "sizeLargest": 964
+  },
+  "30": {
+    "numNodes": 1284,
+    "numEdges": 9024,
+    "averageInDegree": 7.02803738317757,
+    "averageOutDegree": 7.02803738317757,
+    "selfLinks": 1,
+    "removed": "The Culling",
+    "averagePathLength": 4.180807916232187,
+    "sizeLargest": 960
+  },
+  "31": {
+    "numNodes": 1283,
+    "numEdges": 8931,
+    "averageInDegree": 6.961028838659392,
+    "averageOutDegree": 6.961028838659392,
+    "selfLinks": 1,
+    "removed": "Charlie Hunnam",
+    "averagePathLength": 4.180807916232187,
+    "sizeLargest": 960
+  },
+  "32": {
+    "numNodes": 1282,
+    "numEdges": 8838,
+    "averageInDegree": 6.893915756630265,
+    "averageOutDegree": 6.893915756630265,
+    "selfLinks": 1,
+    "removed": "Katey Sagal",
+    "averagePathLength": 4.180807916232187,
+    "sizeLargest": 960
+  },
+  "33": {
+    "numNodes": 1281,
+    "numEdges": 8746,
+    "averageInDegree": 6.827478532396565,
+    "averageOutDegree": 6.827478532396565,
+    "selfLinks": 1,
+    "removed": "Tyne Patterson",
+    "averagePathLength": 4.227100389831655,
+    "sizeLargest": 958
+  },
+  "34": {
+    "numNodes": 1280,
+    "numEdges": 8656,
+    "averageInDegree": 6.7625,
+    "averageOutDegree": 6.7625,
+    "selfLinks": 1,
+    "removed": "Kurt Sutter",
+    "averagePathLength": 4.248163158010033,
+    "sizeLargest": 956
+  },
+  "35": {
+    "numNodes": 1279,
+    "numEdges": 8567,
+    "averageInDegree": 6.698201720093823,
+    "averageOutDegree": 6.698201720093823,
+    "selfLinks": 1,
+    "removed": "The Push",
+    "averagePathLength": 4.260926448613648,
+    "sizeLargest": 951
+  },
+  "36": {
+    "numNodes": 1278,
+    "numEdges": 8479,
+    "averageInDegree": 6.634585289514867,
+    "averageOutDegree": 6.634585289514867,
+    "selfLinks": 1,
+    "removed": "Abel Teller",
+    "averagePathLength": 4.279918789221115,
+    "sizeLargest": 946
+  },
+  "37": {
+    "numNodes": 1277,
+    "numEdges": 8391,
+    "averageInDegree": 6.570869224745497,
+    "averageOutDegree": 6.570869224745497,
+    "selfLinks": 1,
+    "removed": "Kim Coates",
+    "averagePathLength": 4.279918789221115,
+    "sizeLargest": 946
+  },
+  "38": {
+    "numNodes": 1276,
+    "numEdges": 8303,
+    "averageInDegree": 6.50705329153605,
+    "averageOutDegree": 6.50705329153605,
+    "selfLinks": 1,
+    "removed": "Mark Boone Junior",
+    "averagePathLength": 4.279918789221115,
+    "sizeLargest": 946
+  },
+  "39": {
+    "numNodes": 1275,
+    "numEdges": 8217,
+    "averageInDegree": 6.444705882352941,
+    "averageOutDegree": 6.444705882352941,
+    "selfLinks": 1,
+    "removed": "Theo Rossi",
+    "averagePathLength": 4.279918789221115,
+    "sizeLargest": 946
+  },
+  "40": {
+    "numNodes": 1274,
+    "numEdges": 8131,
+    "averageInDegree": 6.382260596546311,
+    "averageOutDegree": 6.382260596546311,
+    "selfLinks": 1,
+    "removed": "Tommy Flanagan",
+    "averagePathLength": 4.279918789221115,
+    "sizeLargest": 946
+  },
+  "41": {
+    "numNodes": 1273,
+    "numEdges": 8048,
+    "averageInDegree": 6.3220738413197175,
+    "averageOutDegree": 6.3220738413197175,
+    "selfLinks": 1,
+    "removed": "Bainne",
+    "averagePathLength": 4.286304494172053,
+    "sizeLargest": 943
+  },
+  "42": {
+    "numNodes": 1272,
+    "numEdges": 7967,
+    "averageInDegree": 6.263364779874214,
+    "averageOutDegree": 6.263364779874214,
+    "selfLinks": 1,
+    "removed": "Dayton Callie",
+    "averagePathLength": 4.286304494172053,
+    "sizeLargest": 943
+  },
+  "43": {
+    "numNodes": 1271,
+    "numEdges": 7886,
+    "averageInDegree": 6.20456333595594,
+    "averageOutDegree": 6.20456333595594,
+    "selfLinks": 1,
+    "removed": "Pilot",
+    "averagePathLength": 4.290501985022628,
+    "sizeLargest": 930
+  },
+  "44": {
+    "numNodes": 1270,
+    "numEdges": 7808,
+    "averageInDegree": 6.148031496062992,
+    "averageOutDegree": 6.148031496062992,
+    "selfLinks": 1,
+    "removed": "Seeds",
+    "averagePathLength": 4.308003703851677,
+    "sizeLargest": 923
+  },
+  "45": {
+    "numNodes": 1269,
+    "numEdges": 7731,
+    "averageInDegree": 6.092198581560283,
+    "averageOutDegree": 6.092198581560283,
+    "selfLinks": 1,
+    "removed": "Poenitentia",
+    "averagePathLength": 4.302943314653263,
+    "sizeLargest": 912
+  },
+  "46": {
+    "numNodes": 1268,
+    "numEdges": 7655,
+    "averageInDegree": 6.037066246056782,
+    "averageOutDegree": 6.037066246056782,
+    "selfLinks": 1,
+    "removed": "Playing with Monsters",
+    "averagePathLength": 4.311271693925091,
+    "sizeLargest": 906
+  },
+  "47": {
+    "numNodes": 1267,
+    "numEdges": 7579,
+    "averageInDegree": 5.981846882399369,
+    "averageOutDegree": 5.981846882399369,
+    "selfLinks": 1,
+    "removed": "Small World",
+    "averagePathLength": 4.335085114515039,
+    "sizeLargest": 904
+  },
+  "48": {
+    "numNodes": 1266,
+    "numEdges": 7504,
+    "averageInDegree": 5.927330173775672,
+    "averageOutDegree": 5.927330173775672,
+    "selfLinks": 1,
+    "removed": "Authority Vested",
+    "averagePathLength": 4.3495488814732415,
+    "sizeLargest": 900
+  },
+  "49": {
+    "numNodes": 1265,
+    "numEdges": 7429,
+    "averageInDegree": 5.872727272727273,
+    "averageOutDegree": 5.872727272727273,
+    "selfLinks": 1,
+    "removed": "Widening Gyre",
+    "averagePathLength": 4.3597229150039905,
+    "sizeLargest": 896
+  },
+  "50": {
+    "numNodes": 1264,
+    "numEdges": 7354,
+    "averageInDegree": 5.818037974683544,
+    "averageOutDegree": 5.818037974683544,
+    "selfLinks": 1,
+    "removed": "Oiled",
+    "averagePathLength": 4.375180150548109,
+    "sizeLargest": 893
+  },
+  "51": {
+    "numNodes": 1263,
+    "numEdges": 7279,
+    "averageInDegree": 5.7632620744259695,
+    "averageOutDegree": 5.7632620744259695,
+    "selfLinks": 1,
+    "removed": "Fun Town",
+    "averagePathLength": 4.38720505151213,
+    "sizeLargest": 885
+  },
+  "52": {
+    "numNodes": 1262,
+    "numEdges": 7206,
+    "averageInDegree": 5.709984152139461,
+    "averageOutDegree": 5.709984152139461,
+    "selfLinks": 1,
+    "removed": "Sweet and Vaded",
+    "averagePathLength": 4.392014497987824,
+    "sizeLargest": 881
+  },
+  "53": {
+    "numNodes": 1261,
+    "numEdges": 7133,
+    "averageInDegree": 5.656621728786678,
+    "averageOutDegree": 5.656621728786678,
+    "selfLinks": 1,
+    "removed": "Na Triobl\u00f3id\u00ed",
+    "averagePathLength": 4.400914546640574,
+    "sizeLargest": 876
+  },
+  "54": {
+    "numNodes": 1260,
+    "numEdges": 7061,
+    "averageInDegree": 5.603968253968254,
+    "averageOutDegree": 5.603968253968254,
+    "selfLinks": 1,
+    "removed": "Black Widower",
+    "averagePathLength": 4.413476384654975,
+    "sizeLargest": 871
+  },
+  "55": {
+    "numNodes": 1259,
+    "numEdges": 6989,
+    "averageInDegree": 5.551231135822081,
+    "averageOutDegree": 5.551231135822081,
+    "selfLinks": 1,
+    "removed": "Sovereign",
+    "averagePathLength": 4.4254168460553105,
+    "sizeLargest": 868
+  },
+  "56": {
+    "numNodes": 1258,
+    "numEdges": 6918,
+    "averageInDegree": 5.499205087440382,
+    "averageOutDegree": 5.499205087440382,
+    "selfLinks": 1,
+    "removed": "One One Six",
+    "averagePathLength": 4.439581455731513,
+    "sizeLargest": 864
+  },
+  "57": {
+    "numNodes": 1257,
+    "numEdges": 6847,
+    "averageInDegree": 5.447096260938743,
+    "averageOutDegree": 5.447096260938743,
+    "selfLinks": 1,
+    "removed": "Caregiver",
+    "averagePathLength": 4.445794966733227,
+    "sizeLargest": 862
+  },
+  "58": {
+    "numNodes": 1256,
+    "numEdges": 6776,
+    "averageInDegree": 5.3949044585987265,
+    "averageOutDegree": 5.3949044585987265,
+    "selfLinks": 1,
+    "removed": "Potlatch",
+    "averagePathLength": 4.454971979316133,
+    "sizeLargest": 860
+  },
+  "59": {
+    "numNodes": 1255,
+    "numEdges": 6706,
+    "averageInDegree": 5.343426294820717,
+    "averageOutDegree": 5.343426294820717,
+    "selfLinks": 1,
+    "removed": "John 8:32",
+    "averagePathLength": 4.44742603755283,
+    "sizeLargest": 850
+  },
+  "60": {
+    "numNodes": 1254,
+    "numEdges": 6637,
+    "averageInDegree": 5.2926634768740035,
+    "averageOutDegree": 5.2926634768740035,
+    "selfLinks": 1,
+    "removed": "June Wedding",
+    "averagePathLength": 4.450124568257743,
+    "sizeLargest": 841
+  },
+  "61": {
+    "numNodes": 1253,
+    "numEdges": 6568,
+    "averageInDegree": 5.241819632881086,
+    "averageOutDegree": 5.241819632881086,
+    "selfLinks": 1,
+    "removed": "Lin Triad",
+    "averagePathLength": 4.4770829786026445,
+    "sizeLargest": 840
+  },
+  "62": {
+    "numNodes": 1252,
+    "numEdges": 6501,
+    "averageInDegree": 5.192492012779553,
+    "averageOutDegree": 5.192492012779553,
+    "selfLinks": 1,
+    "removed": "Salvage",
+    "averagePathLength": 4.476361217563949,
+    "sizeLargest": 833
+  },
+  "63": {
+    "numNodes": 1251,
+    "numEdges": 6434,
+    "averageInDegree": 5.14308553157474,
+    "averageOutDegree": 5.14308553157474,
+    "selfLinks": 1,
+    "removed": "SO",
+    "averagePathLength": 4.490389429397074,
+    "sizeLargest": 827
+  },
+  "64": {
+    "numNodes": 1250,
+    "numEdges": 6367,
+    "averageInDegree": 5.0936,
+    "averageOutDegree": 5.0936,
+    "selfLinks": 1,
+    "removed": "Balm",
+    "averagePathLength": 4.5163267232124955,
+    "sizeLargest": 824
+  },
+  "65": {
+    "numNodes": 1249,
+    "numEdges": 6301,
+    "averageInDegree": 5.044835868694956,
+    "averageOutDegree": 5.044835868694956,
+    "selfLinks": 1,
+    "removed": "Orca Shrugged",
+    "averagePathLength": 4.53957992929503,
+    "sizeLargest": 821
+  },
+  "66": {
+    "numNodes": 1248,
+    "numEdges": 6236,
+    "averageInDegree": 4.996794871794871,
+    "averageOutDegree": 4.996794871794871,
+    "selfLinks": 1,
+    "removed": "Papa's Goods",
+    "averagePathLength": 4.5653280324012036,
+    "sizeLargest": 820
+  },
+  "67": {
+    "numNodes": 1247,
+    "numEdges": 6171,
+    "averageInDegree": 4.948676824378508,
+    "averageOutDegree": 4.948676824378508,
+    "selfLinks": 1,
+    "removed": "Dorylus",
+    "averagePathLength": 4.551003288061148,
+    "sizeLargest": 808
+  },
+  "68": {
+    "numNodes": 1246,
+    "numEdges": 6106,
+    "averageInDegree": 4.900481540930979,
+    "averageOutDegree": 4.900481540930979,
+    "selfLinks": 1,
+    "removed": "F\u00edrinne",
+    "averagePathLength": 4.552997775753858,
+    "sizeLargest": 804
+  },
+  "69": {
+    "numNodes": 1245,
+    "numEdges": 6042,
+    "averageInDegree": 4.853012048192771,
+    "averageOutDegree": 4.853012048192771,
+    "selfLinks": 1,
+    "removed": "Aryan Brotherhood",
+    "averagePathLength": 4.5849935087375195,
+    "sizeLargest": 802
+  },
+  "70": {
+    "numNodes": 1244,
+    "numEdges": 5978,
+    "averageInDegree": 4.805466237942122,
+    "averageOutDegree": 4.805466237942122,
+    "selfLinks": 1,
+    "removed": "Piney Winston",
+    "averagePathLength": 4.6167393571631745,
+    "sizeLargest": 796
+  },
+  "71": {
+    "numNodes": 1243,
+    "numEdges": 5916,
+    "averageInDegree": 4.759452936444087,
+    "averageOutDegree": 4.759452936444087,
+    "selfLinks": 1,
+    "removed": "The Mad King",
+    "averagePathLength": 4.6122901630687,
+    "sizeLargest": 791
+  },
+  "72": {
+    "numNodes": 1242,
+    "numEdges": 5854,
+    "averageInDegree": 4.713365539452496,
+    "averageOutDegree": 4.713365539452496,
+    "selfLinks": 1,
+    "removed": "One-Niners",
+    "averagePathLength": 4.653105025187211,
+    "sizeLargest": 788
+  },
+  "73": {
+    "numNodes": 1241,
+    "numEdges": 5793,
+    "averageInDegree": 4.668009669621273,
+    "averageOutDegree": 4.668009669621273,
+    "selfLinks": 1,
+    "removed": "You Are My Sunshine",
+    "averagePathLength": 4.6567525477624,
+    "sizeLargest": 784
+  },
+  "74": {
+    "numNodes": 1240,
+    "numEdges": 5732,
+    "averageInDegree": 4.622580645161291,
+    "averageOutDegree": 4.622580645161291,
+    "selfLinks": 1,
+    "removed": "J'ai Obtenu Cette",
+    "averagePathLength": 4.662762225646881,
+    "sizeLargest": 779
+  },
+  "75": {
+    "numNodes": 1239,
+    "numEdges": 5671,
+    "averageInDegree": 4.577078288942696,
+    "averageOutDegree": 4.577078288942696,
+    "selfLinks": 1,
+    "removed": "Call of Duty",
+    "averagePathLength": 4.668523588421901,
+    "sizeLargest": 774
+  },
+  "76": {
+    "numNodes": 1238,
+    "numEdges": 5610,
+    "averageInDegree": 4.531502423263328,
+    "averageOutDegree": 4.531502423263328,
+    "selfLinks": 1,
+    "removed": "Gilead",
+    "averagePathLength": 4.681554726158107,
+    "sizeLargest": 770
+  },
+  "77": {
+    "numNodes": 1237,
+    "numEdges": 5550,
+    "averageInDegree": 4.486661277283751,
+    "averageOutDegree": 4.486661277283751,
+    "selfLinks": 1,
+    "removed": "Booster",
+    "averagePathLength": 4.678270540327824,
+    "sizeLargest": 765
+  },
+  "78": {
+    "numNodes": 1236,
+    "numEdges": 5491,
+    "averageInDegree": 4.442556634304207,
+    "averageOutDegree": 4.442556634304207,
+    "selfLinks": 1,
+    "removed": "Poor Little Lambs",
+    "averagePathLength": 4.699323708389662,
+    "sizeLargest": 763
+  },
+  "79": {
+    "numNodes": 1235,
+    "numEdges": 5432,
+    "averageInDegree": 4.398380566801619,
+    "averageOutDegree": 4.398380566801619,
+    "selfLinks": 1,
+    "removed": "Laying Pipe",
+    "averagePathLength": 4.712388310732681,
+    "sizeLargest": 756
+  },
+  "80": {
+    "numNodes": 1234,
+    "numEdges": 5374,
+    "averageInDegree": 4.354943273905997,
+    "averageOutDegree": 4.354943273905997,
+    "selfLinks": 1,
+    "removed": "Faith and Despondency",
+    "averagePathLength": 4.736685442139488,
+    "sizeLargest": 754
+  },
+  "81": {
+    "numNodes": 1233,
+    "numEdges": 5316,
+    "averageInDegree": 4.311435523114355,
+    "averageOutDegree": 4.311435523114355,
+    "selfLinks": 1,
+    "removed": "Season 6",
+    "averagePathLength": 4.7458976152129075,
+    "sizeLargest": 753
+  },
+  "82": {
+    "numNodes": 1232,
+    "numEdges": 5258,
+    "averageInDegree": 4.267857142857143,
+    "averageOutDegree": 4.267857142857143,
+    "selfLinks": 1,
+    "removed": "Brick",
+    "averagePathLength": 4.744595136338581,
+    "sizeLargest": 748
+  },
+  "83": {
+    "numNodes": 1231,
+    "numEdges": 5200,
+    "averageInDegree": 4.224207961007311,
+    "averageOutDegree": 4.224207961007311,
+    "selfLinks": 1,
+    "removed": "David Hale",
+    "averagePathLength": 4.779793799593357,
+    "sizeLargest": 746
+  },
+  "84": {
+    "numNodes": 1230,
+    "numEdges": 5143,
+    "averageInDegree": 4.18130081300813,
+    "averageOutDegree": 4.18130081300813,
+    "selfLinks": 1,
+    "removed": "Darthy",
+    "averagePathLength": 4.789452681450955,
+    "sizeLargest": 743
+  },
+  "85": {
+    "numNodes": 1229,
+    "numEdges": 5086,
+    "averageInDegree": 4.138323840520749,
+    "averageOutDegree": 4.138323840520749,
+    "selfLinks": 1,
+    "removed": "Hands",
+    "averagePathLength": 4.792313137867972,
+    "sizeLargest": 737
+  },
+  "86": {
+    "numNodes": 1228,
+    "numEdges": 5029,
+    "averageInDegree": 4.0952768729641695,
+    "averageOutDegree": 4.0952768729641695,
+    "selfLinks": 1,
+    "removed": "Fa Guan",
+    "averagePathLength": 4.795612304338839,
+    "sizeLargest": 730
+  },
+  "87": {
+    "numNodes": 1227,
+    "numEdges": 4973,
+    "averageInDegree": 4.052974735126324,
+    "averageOutDegree": 4.052974735126324,
+    "selfLinks": 1,
+    "removed": "Family Recipe",
+    "averagePathLength": 4.812405030674381,
+    "sizeLargest": 727
+  },
+  "88": {
+    "numNodes": 1226,
+    "numEdges": 4917,
+    "averageInDegree": 4.010603588907014,
+    "averageOutDegree": 4.010603588907014,
+    "selfLinks": 1,
+    "removed": "Turning and Turning",
+    "averagePathLength": 4.82142086608106,
+    "sizeLargest": 721
+  },
+  "89": {
+    "numNodes": 1225,
+    "numEdges": 4861,
+    "averageInDegree": 3.9681632653061225,
+    "averageOutDegree": 3.9681632653061225,
+    "selfLinks": 1,
+    "removed": "AK-51",
+    "averagePathLength": 4.845727854265522,
+    "sizeLargest": 717
+  },
+  "90": {
+    "numNodes": 1224,
+    "numEdges": 4806,
+    "averageInDegree": 3.926470588235294,
+    "averageOutDegree": 3.926470588235294,
+    "selfLinks": 1,
+    "removed": "The Separation of Crows",
+    "averagePathLength": 4.841554907445037,
+    "sizeLargest": 709
+  },
+  "91": {
+    "numNodes": 1223,
+    "numEdges": 4751,
+    "averageInDegree": 3.884709730171709,
+    "averageOutDegree": 3.884709730171709,
+    "selfLinks": 1,
+    "removed": "Huang Wu",
+    "averagePathLength": 4.844036105738233,
+    "sizeLargest": 705
+  },
+  "92": {
+    "numNodes": 1222,
+    "numEdges": 4696,
+    "averageInDegree": 3.8428805237315875,
+    "averageOutDegree": 3.8428805237315875,
+    "selfLinks": 1,
+    "removed": "Crucifixed",
+    "averagePathLength": 4.8682654694167855,
+    "sizeLargest": 704
+  },
+  "93": {
+    "numNodes": 1221,
+    "numEdges": 4641,
+    "averageInDegree": 3.800982800982801,
+    "averageOutDegree": 3.800982800982801,
+    "selfLinks": 1,
+    "removed": "To Be, Act 2",
+    "averagePathLength": 4.883415528836356,
+    "sizeLargest": 701
+  },
+  "94": {
+    "numNodes": 1220,
+    "numEdges": 4586,
+    "averageInDegree": 3.759016393442623,
+    "averageOutDegree": 3.759016393442623,
+    "selfLinks": 1,
+    "removed": "NS",
+    "averagePathLength": 4.918204885407316,
+    "sizeLargest": 699
+  },
+  "95": {
+    "numNodes": 1219,
+    "numEdges": 4532,
+    "averageInDegree": 3.7178014766201803,
+    "averageOutDegree": 3.7178014766201803,
+    "selfLinks": 1,
+    "removed": "Burnt and Purged Away",
+    "averagePathLength": 4.921597614681188,
+    "sizeLargest": 694
+  },
+  "96": {
+    "numNodes": 1218,
+    "numEdges": 4478,
+    "averageInDegree": 3.676518883415435,
+    "averageOutDegree": 3.676518883415435,
+    "selfLinks": 1,
+    "removed": "Fruit For The Crows",
+    "averagePathLength": 4.923844803726331,
+    "sizeLargest": 689
+  },
+  "97": {
+    "numNodes": 1217,
+    "numEdges": 4425,
+    "averageInDegree": 3.635990139687757,
+    "averageOutDegree": 3.635990139687757,
+    "selfLinks": 1,
+    "removed": "Stolen Huffy",
+    "averagePathLength": 4.919530877661516,
+    "sizeLargest": 683
+  },
+  "98": {
+    "numNodes": 1216,
+    "numEdges": 4372,
+    "averageInDegree": 3.5953947368421053,
+    "averageOutDegree": 3.5953947368421053,
+    "selfLinks": 1,
+    "removed": "Una Venta",
+    "averagePathLength": 4.931293857749285,
+    "sizeLargest": 680
+  },
+  "99": {
+    "numNodes": 1215,
+    "numEdges": 4319,
+    "averageInDegree": 3.554732510288066,
+    "averageOutDegree": 3.554732510288066,
+    "selfLinks": 1,
+    "removed": "The Revelator",
+    "averagePathLength": 4.936831032215648,
+    "sizeLargest": 676
+  },
+  "100": {
+    "numNodes": 1214,
+    "numEdges": 4267,
+    "averageInDegree": 3.514827018121911,
+    "averageOutDegree": 3.514827018121911,
+    "selfLinks": 1,
+    "removed": "Small Tears",
+    "averagePathLength": 4.942705251684943,
+    "sizeLargest": 671
+  },
+  "101": {
+    "numNodes": 1213,
+    "numEdges": 4216,
+    "averageInDegree": 3.4756801319043693,
+    "averageOutDegree": 3.4756801319043693,
+    "selfLinks": 1,
+    "removed": "The Sleep of Babies",
+    "averagePathLength": 4.966240165409092,
+    "sizeLargest": 669
+  },
+  "102": {
+    "numNodes": 1212,
+    "numEdges": 4165,
+    "averageInDegree": 3.4364686468646863,
+    "averageOutDegree": 3.4364686468646863,
+    "selfLinks": 1,
+    "removed": "The Pull",
+    "averagePathLength": 4.983374572231868,
+    "sizeLargest": 663
+  },
+  "103": {
+    "numNodes": 1211,
+    "numEdges": 4115,
+    "averageInDegree": 3.398018166804294,
+    "averageOutDegree": 3.398018166804294,
+    "selfLinks": 1,
+    "removed": "Greensleeves",
+    "averagePathLength": 4.985603239620183,
+    "sizeLargest": 656
+  },
+  "104": {
+    "numNodes": 1210,
+    "numEdges": 4065,
+    "averageInDegree": 3.3595041322314048,
+    "averageOutDegree": 3.3595041322314048,
+    "selfLinks": 1,
+    "removed": "To Thine Own Self",
+    "averagePathLength": 4.997125113915012,
+    "sizeLargest": 653
+  },
+  "105": {
+    "numNodes": 1209,
+    "numEdges": 4015,
+    "averageInDegree": 3.3209263854425144,
+    "averageOutDegree": 3.3209263854425144,
+    "selfLinks": 1,
+    "removed": "To Be, Act 1",
+    "averagePathLength": 5.002934238809945,
+    "sizeLargest": 649
+  },
+  "106": {
+    "numNodes": 1208,
+    "numEdges": 3965,
+    "averageInDegree": 3.2822847682119205,
+    "averageOutDegree": 3.2822847682119205,
+    "selfLinks": 1,
+    "removed": "Smite",
+    "averagePathLength": 5.018114086926563,
+    "sizeLargest": 647
+  },
+  "107": {
+    "numNodes": 1207,
+    "numEdges": 3916,
+    "averageInDegree": 3.244407622203811,
+    "averageOutDegree": 3.244407622203811,
+    "selfLinks": 1,
+    "removed": "Toil and Till",
+    "averagePathLength": 5.035254494291921,
+    "sizeLargest": 642
+  },
+  "108": {
+    "numNodes": 1206,
+    "numEdges": 3867,
+    "averageInDegree": 3.2064676616915424,
+    "averageOutDegree": 3.2064676616915424,
+    "selfLinks": 1,
+    "removed": "Aon Rud Persanta",
+    "averagePathLength": 5.059049889912424,
+    "sizeLargest": 637
+  },
+  "109": {
+    "numNodes": 1205,
+    "numEdges": 3818,
+    "averageInDegree": 3.1684647302904563,
+    "averageOutDegree": 3.1684647302904563,
+    "selfLinks": 1,
+    "removed": "Andare Pescare",
+    "averagePathLength": 5.082038861562536,
+    "sizeLargest": 634
+  },
+  "110": {
+    "numNodes": 1204,
+    "numEdges": 3769,
+    "averageInDegree": 3.1303986710963456,
+    "averageOutDegree": 3.1303986710963456,
+    "selfLinks": 1,
+    "removed": "Cameron Hayes",
+    "averagePathLength": 5.1316099620854985,
+    "sizeLargest": 632
+  },
+  "111": {
+    "numNodes": 1203,
+    "numEdges": 3721,
+    "averageInDegree": 3.0931005818786366,
+    "averageOutDegree": 3.0931005818786366,
+    "selfLinks": 1,
+    "removed": "Giving Back",
+    "averagePathLength": 5.138761234060574,
+    "sizeLargest": 619
+  },
+  "112": {
+    "numNodes": 1202,
+    "numEdges": 3675,
+    "averageInDegree": 3.057404326123128,
+    "averageOutDegree": 3.057404326123128,
+    "selfLinks": 1,
+    "removed": "A Mother's Work",
+    "averagePathLength": 5.167197233660648,
+    "sizeLargest": 616
+  },
+  "113": {
+    "numNodes": 1201,
+    "numEdges": 3629,
+    "averageInDegree": 3.0216486261448794,
+    "averageOutDegree": 3.0216486261448794,
+    "selfLinks": 1,
+    "removed": "Home",
+    "averagePathLength": 5.168271236481499,
+    "sizeLargest": 612
+  },
+  "114": {
+    "numNodes": 1200,
+    "numEdges": 3583,
+    "averageInDegree": 2.9858333333333333,
+    "averageOutDegree": 2.9858333333333333,
+    "selfLinks": 1,
+    "removed": "Falx Cerebri",
+    "averagePathLength": 5.16079260651629,
+    "sizeLargest": 609
+  },
+  "115": {
+    "numNodes": 1199,
+    "numEdges": 3537,
+    "averageInDegree": 2.949958298582152,
+    "averageOutDegree": 2.949958298582152,
+    "selfLinks": 1,
+    "removed": "Albification",
+    "averagePathLength": 5.174371911037891,
+    "sizeLargest": 608
+  },
+  "116": {
+    "numNodes": 1198,
+    "numEdges": 3491,
+    "averageInDegree": 2.9140233722871454,
+    "averageOutDegree": 2.9140233722871454,
+    "selfLinks": 1,
+    "removed": "Sons of Anarchy Wiki",
+    "averagePathLength": 5.174371911037891,
+    "sizeLargest": 608
+  },
+  "117": {
+    "numNodes": 1197,
+    "numEdges": 3446,
+    "averageInDegree": 2.8788638262322475,
+    "averageOutDegree": 2.8788638262322475,
+    "selfLinks": 1,
+    "removed": "Smoke 'em if You Got 'em",
+    "averagePathLength": 5.180844771449578,
+    "sizeLargest": 602
+  },
+  "118": {
+    "numNodes": 1196,
+    "numEdges": 3402,
+    "averageInDegree": 2.8444816053511706,
+    "averageOutDegree": 2.8444816053511706,
+    "selfLinks": 1,
+    "removed": "Los Fantasmas",
+    "averagePathLength": 5.18347030582119,
+    "sizeLargest": 598
+  },
+  "119": {
+    "numNodes": 1195,
+    "numEdges": 3358,
+    "averageInDegree": 2.810041841004184,
+    "averageOutDegree": 2.810041841004184,
+    "selfLinks": 1,
+    "removed": "Jimmy O'Phelan",
+    "averagePathLength": 5.215230141308822,
+    "sizeLargest": 592
+  },
+  "120": {
+    "numNodes": 1194,
+    "numEdges": 3315,
+    "averageInDegree": 2.7763819095477387,
+    "averageOutDegree": 2.7763819095477387,
+    "selfLinks": 1,
+    "removed": "What a Piece of Work is Man",
+    "averagePathLength": 5.238048122974562,
+    "sizeLargest": 591
+  },
+  "121": {
+    "numNodes": 1193,
+    "numEdges": 3272,
+    "averageInDegree": 2.7426655490360434,
+    "averageOutDegree": 2.7426655490360434,
+    "selfLinks": 1,
+    "removed": "Some Strange Eruption",
+    "averagePathLength": 5.250092711701376,
+    "sizeLargest": 588
+  },
+  "122": {
+    "numNodes": 1192,
+    "numEdges": 3229,
+    "averageInDegree": 2.7088926174496644,
+    "averageOutDegree": 2.7088926174496644,
+    "selfLinks": 1,
+    "removed": "Toad's Wild Ride",
+    "averagePathLength": 5.2736588780957385,
+    "sizeLargest": 586
+  },
+  "123": {
+    "numNodes": 1191,
+    "numEdges": 3186,
+    "averageInDegree": 2.6750629722921913,
+    "averageOutDegree": 2.6750629722921913,
+    "selfLinks": 1,
+    "removed": "John Teller",
+    "averagePathLength": 5.301861348190997,
+    "sizeLargest": 582
+  },
+  "124": {
+    "numNodes": 1190,
+    "numEdges": 3143,
+    "averageInDegree": 2.6411764705882352,
+    "averageOutDegree": 2.6411764705882352,
+    "selfLinks": 1,
+    "removed": "Service",
+    "averagePathLength": 5.301861348190997,
+    "sizeLargest": 582
+  },
+  "125": {
+    "numNodes": 1189,
+    "numEdges": 3101,
+    "averageInDegree": 2.6080740117746006,
+    "averageOutDegree": 2.6080740117746006,
+    "selfLinks": 1,
+    "removed": "Kiss",
+    "averagePathLength": 5.308867845869811,
+    "sizeLargest": 580
+  },
+  "126": {
+    "numNodes": 1188,
+    "numEdges": 3059,
+    "averageInDegree": 2.574915824915825,
+    "averageOutDegree": 2.574915824915825,
+    "selfLinks": 1,
+    "removed": "Tacoma",
+    "averagePathLength": 5.336376811594203,
+    "sizeLargest": 576
+  },
+  "127": {
+    "numNodes": 1187,
+    "numEdges": 3017,
+    "averageInDegree": 2.5417017691659645,
+    "averageOutDegree": 2.5417017691659645,
+    "selfLinks": 1,
+    "removed": "Capybara",
+    "averagePathLength": 5.325805757827142,
+    "sizeLargest": 571
+  },
+  "128": {
+    "numNodes": 1186,
+    "numEdges": 2976,
+    "averageInDegree": 2.509274873524452,
+    "averageOutDegree": 2.509274873524452,
+    "selfLinks": 1,
+    "removed": "With An X",
+    "averagePathLength": 5.328222420945425,
+    "sizeLargest": 568
+  },
+  "129": {
+    "numNodes": 1185,
+    "numEdges": 2935,
+    "averageInDegree": 2.476793248945148,
+    "averageOutDegree": 2.476793248945148,
+    "selfLinks": 1,
+    "removed": "Eureka",
+    "averagePathLength": 5.306181563534505,
+    "sizeLargest": 561
+  },
+  "130": {
+    "numNodes": 1184,
+    "numEdges": 2894,
+    "averageInDegree": 2.4442567567567566,
+    "averageOutDegree": 2.4442567567567566,
+    "selfLinks": 1,
+    "removed": "Hell Followed",
+    "averagePathLength": 5.328317342651043,
+    "sizeLargest": 558
+  },
+  "131": {
+    "numNodes": 1183,
+    "numEdges": 2855,
+    "averageInDegree": 2.4133558748943362,
+    "averageOutDegree": 2.4133558748943362,
+    "selfLinks": 1,
+    "removed": "June Stahl",
+    "averagePathLength": 5.395535784739209,
+    "sizeLargest": 552
+  },
+  "132": {
+    "numNodes": 1182,
+    "numEdges": 2817,
+    "averageInDegree": 2.383248730964467,
+    "averageOutDegree": 2.383248730964467,
+    "selfLinks": 1,
+    "removed": "Ablation",
+    "averagePathLength": 5.4231070574763445,
+    "sizeLargest": 547
+  },
+  "133": {
+    "numNodes": 1181,
+    "numEdges": 2780,
+    "averageInDegree": 2.3539373412362403,
+    "averageOutDegree": 2.3539373412362403,
+    "selfLinks": 1,
+    "removed": "Mayans Motorcycle Club",
+    "averagePathLength": 5.591918202284666,
+    "sizeLargest": 537
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "0": {
+    "numNodes": 76,
+    "numEdges": 400,
+    "averageInDegree": 5.2631578947368425,
+    "averageOutDegree": 5.2631578947368425,
+    "selfLinks": 0,
+    "removed": "Season 2",
+    "averagePathLength": 2.622994652406417,
+    "sizeLargest": 34
+  },
+  "1": {
+    "numNodes": 75,
+    "numEdges": 356,
+    "averageInDegree": 4.746666666666667,
+    "averageOutDegree": 4.746666666666667,
+    "selfLinks": 0,
+    "removed": "Season 1",
+    "averagePathLength": 2.622994652406417,
+    "sizeLargest": 34
+  },
+  "2": {
+    "numNodes": 74,
+    "numEdges": 318,
+    "averageInDegree": 4.297297297297297,
+    "averageOutDegree": 4.297297297297297,
+    "selfLinks": 0,
+    "removed": "Drew Holt",
+    "averagePathLength": 1.6973684210526316,
+    "sizeLargest": 20
+  },
+  "3": {
+    "numNodes": 73,
+    "numEdges": 284,
+    "averageInDegree": 3.8904109589041096,
+    "averageOutDegree": 3.8904109589041096,
+    "selfLinks": 0,
+    "removed": "The Deep End of the Pool",
+    "averagePathLength": 1.6973684210526316,
+    "sizeLargest": 20
+  },
+  "4": {
+    "numNodes": 72,
+    "numEdges": 251,
+    "averageInDegree": 3.486111111111111,
+    "averageOutDegree": 3.486111111111111,
+    "selfLinks": 0,
+    "removed": "Pilot",
+    "averagePathLength": 1.6973684210526316,
+    "sizeLargest": 20
+  },
+  "5": {
+    "numNodes": 71,
+    "numEdges": 220,
+    "averageInDegree": 3.0985915492957745,
+    "averageOutDegree": 3.0985915492957745,
+    "selfLinks": 0,
+    "removed": "Jabbar Trussell-Braverman",
+    "averagePathLength": 1.7777777777777777,
+    "sizeLargest": 19
+  },
+  "6": {
+    "numNodes": 70,
+    "numEdges": 191,
+    "averageInDegree": 2.7285714285714286,
+    "averageOutDegree": 2.7285714285714286,
+    "selfLinks": 0,
+    "removed": "Crosby Braverman",
+    "averagePathLength": 1.934640522875817,
+    "sizeLargest": 18
+  },
+  "7": {
+    "numNodes": 69,
+    "numEdges": 166,
+    "averageInDegree": 2.4057971014492754,
+    "averageOutDegree": 2.4057971014492754,
+    "selfLinks": 0,
+    "removed": "Amber Holt",
+    "averagePathLength": 1.938095238095238,
+    "sizeLargest": 15
+  }
+}

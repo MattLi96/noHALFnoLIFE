@@ -1,0 +1,1992 @@
+{
+  "0": {
+    "numNodes": 2694,
+    "numEdges": 22977,
+    "averageInDegree": 8.528953229398663,
+    "averageOutDegree": 8.528953229398663,
+    "selfLinks": 16,
+    "removed": "Servant",
+    "averagePathLength": 3.291894263010427,
+    "sizeLargest": 1476
+  },
+  "1": {
+    "numNodes": 2693,
+    "numEdges": 22183,
+    "averageInDegree": 8.237281841812106,
+    "averageOutDegree": 8.237281841812106,
+    "selfLinks": 16,
+    "removed": "Fate/Grand Order",
+    "averagePathLength": 3.4196661185339376,
+    "sizeLargest": 1459
+  },
+  "2": {
+    "numNodes": 2692,
+    "numEdges": 21470,
+    "averageInDegree": 7.975482912332838,
+    "averageOutDegree": 7.975482912332838,
+    "selfLinks": 16,
+    "removed": "Noble Phantasm",
+    "averagePathLength": 3.6267458954361946,
+    "sizeLargest": 1439
+  },
+  "3": {
+    "numNodes": 2691,
+    "numEdges": 21031,
+    "averageInDegree": 7.815310293571163,
+    "averageOutDegree": 7.815310293571163,
+    "selfLinks": 16,
+    "removed": "Fate",
+    "averagePathLength": 3.630474843762552,
+    "sizeLargest": 1438
+  },
+  "4": {
+    "numNodes": 2690,
+    "numEdges": 20600,
+    "averageInDegree": 7.657992565055762,
+    "averageOutDegree": 7.657992565055762,
+    "selfLinks": 16,
+    "removed": "Skill",
+    "averagePathLength": 3.6462374103883537,
+    "sizeLargest": 1431
+  },
+  "5": {
+    "numNodes": 2689,
+    "numEdges": 20280,
+    "averageInDegree": 7.541837114168836,
+    "averageOutDegree": 7.541837114168836,
+    "selfLinks": 16,
+    "removed": "Saber (Fate/stay night)",
+    "averagePathLength": 3.660016059741452,
+    "sizeLargest": 1427
+  },
+  "6": {
+    "numNodes": 2688,
+    "numEdges": 19962,
+    "averageInDegree": 7.426339285714286,
+    "averageOutDegree": 7.426339285714286,
+    "selfLinks": 16,
+    "removed": "Heroic Spirit",
+    "averagePathLength": 3.7373746894960966,
+    "sizeLargest": 1409
+  },
+  "7": {
+    "numNodes": 2687,
+    "numEdges": 19688,
+    "averageInDegree": 7.327130628954224,
+    "averageOutDegree": 7.327130628954224,
+    "selfLinks": 16,
+    "removed": "Popularity polls",
+    "averagePathLength": 3.7460170431610273,
+    "sizeLargest": 1403
+  },
+  "8": {
+    "numNodes": 2686,
+    "numEdges": 19429,
+    "averageInDegree": 7.2334326135517495,
+    "averageOutDegree": 7.2334326135517495,
+    "selfLinks": 16,
+    "removed": "List of characters by statistics",
+    "averagePathLength": 3.7460170431610273,
+    "sizeLargest": 1403
+  },
+  "9": {
+    "numNodes": 2685,
+    "numEdges": 19174,
+    "averageInDegree": 7.141154562383613,
+    "averageOutDegree": 7.141154562383613,
+    "selfLinks": 16,
+    "removed": "Magus",
+    "averagePathLength": 3.7662391182747537,
+    "sizeLargest": 1399
+  },
+  "10": {
+    "numNodes": 2684,
+    "numEdges": 18930,
+    "averageInDegree": 7.05290611028316,
+    "averageOutDegree": 7.05290611028316,
+    "selfLinks": 16,
+    "removed": "List of minor characters",
+    "averagePathLength": 3.7632619058638404,
+    "sizeLargest": 1395
+  },
+  "11": {
+    "numNodes": 2683,
+    "numEdges": 18713,
+    "averageInDegree": 6.974655236675363,
+    "averageOutDegree": 6.974655236675363,
+    "selfLinks": 16,
+    "removed": "Holy Grail War",
+    "averagePathLength": 3.7757226257467957,
+    "sizeLargest": 1392
+  },
+  "12": {
+    "numNodes": 2682,
+    "numEdges": 18498,
+    "averageInDegree": 6.8970917225950785,
+    "averageOutDegree": 6.8970917225950785,
+    "selfLinks": 16,
+    "removed": "True Name",
+    "averagePathLength": 3.7757226257467957,
+    "sizeLargest": 1392
+  },
+  "13": {
+    "numNodes": 2681,
+    "numEdges": 18285,
+    "averageInDegree": 6.820216337187617,
+    "averageOutDegree": 6.820216337187617,
+    "selfLinks": 16,
+    "removed": "Gilgamesh",
+    "averagePathLength": 3.7871104702395257,
+    "sizeLargest": 1387
+  },
+  "14": {
+    "numNodes": 2680,
+    "numEdges": 18080,
+    "averageInDegree": 6.746268656716418,
+    "averageOutDegree": 6.746268656716418,
+    "selfLinks": 16,
+    "removed": "List of illustrators",
+    "averagePathLength": 3.7871104702395257,
+    "sizeLargest": 1387
+  },
+  "15": {
+    "numNodes": 2679,
+    "numEdges": 17881,
+    "averageInDegree": 6.674505412467338,
+    "averageOutDegree": 6.674505412467338,
+    "selfLinks": 16,
+    "removed": "Holy Grail",
+    "averagePathLength": 3.800169028192233,
+    "sizeLargest": 1385
+  },
+  "16": {
+    "numNodes": 2678,
+    "numEdges": 17687,
+    "averageInDegree": 6.604555638536221,
+    "averageOutDegree": 6.604555638536221,
+    "selfLinks": 16,
+    "removed": "Fate/stay night",
+    "averagePathLength": 3.820064337082465,
+    "sizeLargest": 1378
+  },
+  "17": {
+    "numNodes": 2677,
+    "numEdges": 17494,
+    "averageInDegree": 6.534927157265596,
+    "averageOutDegree": 6.534927157265596,
+    "selfLinks": 16,
+    "removed": "Human",
+    "averagePathLength": 3.822979915433404,
+    "sizeLargest": 1376
+  },
+  "18": {
+    "numNodes": 2676,
+    "numEdges": 17303,
+    "averageInDegree": 6.465994020926757,
+    "averageOutDegree": 6.465994020926757,
+    "selfLinks": 16,
+    "removed": "Command Spells",
+    "averagePathLength": 3.8366624976907837,
+    "sizeLargest": 1373
+  },
+  "19": {
+    "numNodes": 2675,
+    "numEdges": 17116,
+    "averageInDegree": 6.398504672897197,
+    "averageOutDegree": 6.398504672897197,
+    "selfLinks": 16,
+    "removed": "Protagonist",
+    "averagePathLength": 3.8473052330069692,
+    "sizeLargest": 1371
+  },
+  "20": {
+    "numNodes": 2674,
+    "numEdges": 16931,
+    "averageInDegree": 6.331712789827973,
+    "averageOutDegree": 6.331712789827973,
+    "selfLinks": 16,
+    "removed": "Fate/Apocrypha",
+    "averagePathLength": 3.864185131077023,
+    "sizeLargest": 1369
+  },
+  "21": {
+    "numNodes": 2673,
+    "numEdges": 16752,
+    "averageInDegree": 6.267115600448934,
+    "averageOutDegree": 6.267115600448934,
+    "selfLinks": 16,
+    "removed": "Shirou Emiya",
+    "averagePathLength": 3.868670576735093,
+    "sizeLargest": 1365
+  },
+  "22": {
+    "numNodes": 2672,
+    "numEdges": 16576,
+    "averageInDegree": 6.203592814371257,
+    "averageOutDegree": 6.203592814371257,
+    "selfLinks": 16,
+    "removed": "Grand Order",
+    "averagePathLength": 3.868670576735093,
+    "sizeLargest": 1365
+  },
+  "23": {
+    "numNodes": 2671,
+    "numEdges": 16405,
+    "averageInDegree": 6.141894421564957,
+    "averageOutDegree": 6.141894421564957,
+    "selfLinks": 16,
+    "removed": "Master",
+    "averagePathLength": 3.8760184860461764,
+    "sizeLargest": 1364
+  },
+  "24": {
+    "numNodes": 2670,
+    "numEdges": 16240,
+    "averageInDegree": 6.082397003745318,
+    "averageOutDegree": 6.082397003745318,
+    "selfLinks": 16,
+    "removed": "Berserker",
+    "averagePathLength": 3.928478635298561,
+    "sizeLargest": 1358
+  },
+  "25": {
+    "numNodes": 2669,
+    "numEdges": 16077,
+    "averageInDegree": 6.023604346197078,
+    "averageOutDegree": 6.023604346197078,
+    "selfLinks": 16,
+    "removed": "Kirei Kotomine",
+    "averagePathLength": 3.9360070039976263,
+    "sizeLargest": 1357
+  },
+  "26": {
+    "numNodes": 2668,
+    "numEdges": 15917,
+    "averageInDegree": 5.965892053973014,
+    "averageOutDegree": 5.965892053973014,
+    "selfLinks": 16,
+    "removed": "Rin Tohsaka",
+    "averagePathLength": 3.9417001382403205,
+    "sizeLargest": 1356
+  },
+  "27": {
+    "numNodes": 2667,
+    "numEdges": 15760,
+    "averageInDegree": 5.909261342332209,
+    "averageOutDegree": 5.909261342332209,
+    "selfLinks": 16,
+    "removed": "Fate/Extra",
+    "averagePathLength": 3.9559202256492014,
+    "sizeLargest": 1352
+  },
+  "28": {
+    "numNodes": 2666,
+    "numEdges": 15612,
+    "averageInDegree": 5.85596399099775,
+    "averageOutDegree": 5.85596399099775,
+    "selfLinks": 16,
+    "removed": "Archer (Fate/stay night)",
+    "averagePathLength": 3.9639712695671245,
+    "sizeLargest": 1351
+  },
+  "29": {
+    "numNodes": 2665,
+    "numEdges": 15467,
+    "averageInDegree": 5.80375234521576,
+    "averageOutDegree": 5.80375234521576,
+    "selfLinks": 16,
+    "removed": "Saber",
+    "averagePathLength": 3.9942881159055785,
+    "sizeLargest": 1347
+  },
+  "30": {
+    "numNodes": 2664,
+    "numEdges": 15327,
+    "averageInDegree": 5.753378378378378,
+    "averageOutDegree": 5.753378378378378,
+    "selfLinks": 16,
+    "removed": "Rider (Fate/stay night)",
+    "averagePathLength": 4.007561252349041,
+    "sizeLargest": 1344
+  },
+  "31": {
+    "numNodes": 2663,
+    "numEdges": 15193,
+    "averageInDegree": 5.705219677055952,
+    "averageOutDegree": 5.705219677055952,
+    "selfLinks": 16,
+    "removed": "Fate/kaleid liner PRISMA\u2606ILLYA",
+    "averagePathLength": 4.013522319609099,
+    "sizeLargest": 1337
+  },
+  "32": {
+    "numNodes": 2662,
+    "numEdges": 15060,
+    "averageInDegree": 5.657400450788881,
+    "averageOutDegree": 5.657400450788881,
+    "selfLinks": 16,
+    "removed": "Gate of Babylon",
+    "averagePathLength": 4.02783418279286,
+    "sizeLargest": 1332
+  },
+  "33": {
+    "numNodes": 2661,
+    "numEdges": 14928,
+    "averageInDegree": 5.609921082299887,
+    "averageOutDegree": 5.609921082299887,
+    "selfLinks": 16,
+    "removed": "Assassin",
+    "averagePathLength": 4.063180899211983,
+    "sizeLargest": 1320
+  },
+  "34": {
+    "numNodes": 2660,
+    "numEdges": 14797,
+    "averageInDegree": 5.562781954887218,
+    "averageOutDegree": 5.562781954887218,
+    "selfLinks": 16,
+    "removed": "Tsukihime",
+    "averagePathLength": 4.066684295364805,
+    "sizeLargest": 1318
+  },
+  "35": {
+    "numNodes": 2659,
+    "numEdges": 14668,
+    "averageInDegree": 5.51635953365927,
+    "averageOutDegree": 5.51635953365927,
+    "selfLinks": 16,
+    "removed": "Touko Aozaki",
+    "averagePathLength": 4.075897833567586,
+    "sizeLargest": 1317
+  },
+  "36": {
+    "numNodes": 2658,
+    "numEdges": 14540,
+    "averageInDegree": 5.470278404815651,
+    "averageOutDegree": 5.470278404815651,
+    "selfLinks": 16,
+    "removed": "Caster",
+    "averagePathLength": 4.105635243995461,
+    "sizeLargest": 1312
+  },
+  "37": {
+    "numNodes": 2657,
+    "numEdges": 14414,
+    "averageInDegree": 5.424915318027851,
+    "averageOutDegree": 5.424915318027851,
+    "selfLinks": 16,
+    "removed": "Sakura Matou",
+    "averagePathLength": 4.113269846453502,
+    "sizeLargest": 1310
+  },
+  "38": {
+    "numNodes": 2656,
+    "numEdges": 14292,
+    "averageInDegree": 5.381024096385542,
+    "averageOutDegree": 5.381024096385542,
+    "selfLinks": 16,
+    "removed": "Chibichuki!",
+    "averagePathLength": 4.114141569889006,
+    "sizeLargest": 1309
+  },
+  "39": {
+    "numNodes": 2655,
+    "numEdges": 14170,
+    "averageInDegree": 5.337099811676083,
+    "averageOutDegree": 5.337099811676083,
+    "selfLinks": 16,
+    "removed": "Fate/strange fake",
+    "averagePathLength": 4.150406304326972,
+    "sizeLargest": 1308
+  },
+  "40": {
+    "numNodes": 2654,
+    "numEdges": 14048,
+    "averageInDegree": 5.293142426525998,
+    "averageOutDegree": 5.293142426525998,
+    "selfLinks": 16,
+    "removed": "Lancer",
+    "averagePathLength": 4.174253812348548,
+    "sizeLargest": 1306
+  },
+  "41": {
+    "numNodes": 2653,
+    "numEdges": 13926,
+    "averageInDegree": 5.2491519035054655,
+    "averageOutDegree": 5.2491519035054655,
+    "selfLinks": 16,
+    "removed": "Reality Marble",
+    "averagePathLength": 4.203650495082137,
+    "sizeLargest": 1304
+  },
+  "42": {
+    "numNodes": 2652,
+    "numEdges": 13806,
+    "averageInDegree": 5.205882352941177,
+    "averageOutDegree": 5.205882352941177,
+    "selfLinks": 16,
+    "removed": "Excalibur",
+    "averagePathLength": 4.22025595341407,
+    "sizeLargest": 1302
+  },
+  "43": {
+    "numNodes": 2651,
+    "numEdges": 13688,
+    "averageInDegree": 5.163334590720483,
+    "averageOutDegree": 5.163334590720483,
+    "selfLinks": 16,
+    "removed": "Archer",
+    "averagePathLength": 4.240702184855756,
+    "sizeLargest": 1290
+  },
+  "44": {
+    "numNodes": 2650,
+    "numEdges": 13572,
+    "averageInDegree": 5.121509433962264,
+    "averageOutDegree": 5.121509433962264,
+    "selfLinks": 16,
+    "removed": "Fate/Extra CCC",
+    "averagePathLength": 4.250080056456417,
+    "sizeLargest": 1287
+  },
+  "45": {
+    "numNodes": 2649,
+    "numEdges": 13457,
+    "averageInDegree": 5.0800302000755,
+    "averageOutDegree": 5.0800302000755,
+    "selfLinks": 16,
+    "removed": "Rider",
+    "averagePathLength": 4.30000694172966,
+    "sizeLargest": 1282
+  },
+  "46": {
+    "numNodes": 2648,
+    "numEdges": 13342,
+    "averageInDegree": 5.038519637462236,
+    "averageOutDegree": 5.038519637462236,
+    "selfLinks": 16,
+    "removed": "Magecraft",
+    "averagePathLength": 4.3154938768540205,
+    "sizeLargest": 1281
+  },
+  "47": {
+    "numNodes": 2647,
+    "numEdges": 13228,
+    "averageInDegree": 4.997355496788818,
+    "averageOutDegree": 4.997355496788818,
+    "selfLinks": 16,
+    "removed": "Fate/Zero",
+    "averagePathLength": 4.329783101287618,
+    "sizeLargest": 1278
+  },
+  "48": {
+    "numNodes": 2646,
+    "numEdges": 13115,
+    "averageInDegree": 4.956538170823885,
+    "averageOutDegree": 4.956538170823885,
+    "selfLinks": 16,
+    "removed": "Capsule Servant",
+    "averagePathLength": 4.3652829294756765,
+    "sizeLargest": 1277
+  },
+  "49": {
+    "numNodes": 2645,
+    "numEdges": 13004,
+    "averageInDegree": 4.916446124763705,
+    "averageOutDegree": 4.916446124763705,
+    "selfLinks": 16,
+    "removed": "Fate/hollow ataraxia",
+    "averagePathLength": 4.384652997098289,
+    "sizeLargest": 1274
+  },
+  "50": {
+    "numNodes": 2644,
+    "numEdges": 12896,
+    "averageInDegree": 4.877458396369137,
+    "averageOutDegree": 4.877458396369137,
+    "selfLinks": 16,
+    "removed": "Caster (Fate/stay night)",
+    "averagePathLength": 4.396966188164621,
+    "sizeLargest": 1272
+  },
+  "51": {
+    "numNodes": 2643,
+    "numEdges": 12788,
+    "averageInDegree": 4.838441165342414,
+    "averageOutDegree": 4.838441165342414,
+    "selfLinks": 16,
+    "removed": "Kiritsugu Emiya",
+    "averagePathLength": 4.404807555083983,
+    "sizeLargest": 1270
+  },
+  "52": {
+    "numNodes": 2642,
+    "numEdges": 12683,
+    "averageInDegree": 4.800529901589705,
+    "averageOutDegree": 4.800529901589705,
+    "selfLinks": 16,
+    "removed": "Shirou Kotomine",
+    "averagePathLength": 4.424611884502441,
+    "sizeLargest": 1264
+  },
+  "53": {
+    "numNodes": 2641,
+    "numEdges": 12580,
+    "averageInDegree": 4.763347216963272,
+    "averageOutDegree": 4.763347216963272,
+    "selfLinks": 16,
+    "removed": "Waver Velvet",
+    "averagePathLength": 4.436967365472275,
+    "sizeLargest": 1262
+  },
+  "54": {
+    "numNodes": 2640,
+    "numEdges": 12478,
+    "averageInDegree": 4.726515151515152,
+    "averageOutDegree": 4.726515151515152,
+    "selfLinks": 16,
+    "removed": "Hakuno Kishinami",
+    "averagePathLength": 4.4471866056457,
+    "sizeLargest": 1260
+  },
+  "55": {
+    "numNodes": 2639,
+    "numEdges": 12376,
+    "averageInDegree": 4.689655172413793,
+    "averageOutDegree": 4.689655172413793,
+    "selfLinks": 16,
+    "removed": "Kara no Kyoukai",
+    "averagePathLength": 4.456966123718448,
+    "sizeLargest": 1259
+  },
+  "56": {
+    "numNodes": 2638,
+    "numEdges": 12275,
+    "averageInDegree": 4.653146322971948,
+    "averageOutDegree": 4.653146322971948,
+    "selfLinks": 16,
+    "removed": "Lancer (Fate/stay night)",
+    "averagePathLength": 4.484329349269588,
+    "sizeLargest": 1255
+  },
+  "57": {
+    "numNodes": 2637,
+    "numEdges": 12176,
+    "averageInDegree": 4.617368221463785,
+    "averageOutDegree": 4.617368221463785,
+    "selfLinks": 16,
+    "removed": "Phantasmal Species",
+    "averagePathLength": 4.507268816820462,
+    "sizeLargest": 1253
+  },
+  "58": {
+    "numNodes": 2636,
+    "numEdges": 12079,
+    "averageInDegree": 4.582321699544765,
+    "averageOutDegree": 4.582321699544765,
+    "selfLinks": 16,
+    "removed": "Divine Spirit",
+    "averagePathLength": 4.568698321342926,
+    "sizeLargest": 1251
+  },
+  "59": {
+    "numNodes": 2635,
+    "numEdges": 11984,
+    "averageInDegree": 4.548007590132827,
+    "averageOutDegree": 4.548007590132827,
+    "selfLinks": 16,
+    "removed": "Shiki Ryougi",
+    "averagePathLength": 4.587072221880068,
+    "sizeLargest": 1249
+  },
+  "60": {
+    "numNodes": 2634,
+    "numEdges": 11890,
+    "averageInDegree": 4.514047076689446,
+    "averageOutDegree": 4.514047076689446,
+    "selfLinks": 16,
+    "removed": "Mage's Association",
+    "averagePathLength": 4.600216944950219,
+    "sizeLargest": 1245
+  },
+  "61": {
+    "numNodes": 2633,
+    "numEdges": 11798,
+    "averageInDegree": 4.480820357007216,
+    "averageOutDegree": 4.480820357007216,
+    "selfLinks": 16,
+    "removed": "Arcueid Brunestud",
+    "averagePathLength": 4.606792129136233,
+    "sizeLargest": 1241
+  },
+  "62": {
+    "numNodes": 2632,
+    "numEdges": 11707,
+    "averageInDegree": 4.447948328267477,
+    "averageOutDegree": 4.447948328267477,
+    "selfLinks": 16,
+    "removed": "Playable Saber (Fate/Extra)",
+    "averagePathLength": 4.627082563343751,
+    "sizeLargest": 1238
+  },
+  "63": {
+    "numNodes": 2631,
+    "numEdges": 11616,
+    "averageInDegree": 4.415051311288483,
+    "averageOutDegree": 4.415051311288483,
+    "selfLinks": 16,
+    "removed": "Shiki Tohno",
+    "averagePathLength": 4.6299044848866,
+    "sizeLargest": 1236
+  },
+  "64": {
+    "numNodes": 2630,
+    "numEdges": 11527,
+    "averageInDegree": 4.382889733840305,
+    "averageOutDegree": 4.382889733840305,
+    "selfLinks": 16,
+    "removed": "Berserker (Fate/Zero)",
+    "averagePathLength": 4.643680076640923,
+    "sizeLargest": 1235
+  },
+  "65": {
+    "numNodes": 2629,
+    "numEdges": 11442,
+    "averageInDegree": 4.352225180677063,
+    "averageOutDegree": 4.352225180677063,
+    "selfLinks": 16,
+    "removed": "Rider (Fate/Zero)",
+    "averagePathLength": 4.668216731720526,
+    "sizeLargest": 1231
+  },
+  "66": {
+    "numNodes": 2628,
+    "numEdges": 11360,
+    "averageInDegree": 4.322678843226789,
+    "averageOutDegree": 4.322678843226789,
+    "selfLinks": 15,
+    "removed": "Takashi Takeuchi",
+    "averagePathLength": 4.671005789922191,
+    "sizeLargest": 1228
+  },
+  "67": {
+    "numNodes": 2627,
+    "numEdges": 11278,
+    "averageInDegree": 4.293110011419871,
+    "averageOutDegree": 4.293110011419871,
+    "selfLinks": 15,
+    "removed": "Illyasviel von Einzbern (Fate/kaleid)",
+    "averagePathLength": 4.681517273576097,
+    "sizeLargest": 1225
+  },
+  "68": {
+    "numNodes": 2626,
+    "numEdges": 11197,
+    "averageInDegree": 4.263899466869764,
+    "averageOutDegree": 4.263899466869764,
+    "selfLinks": 15,
+    "removed": "Aoko Aozaki",
+    "averagePathLength": 4.693606449221348,
+    "sizeLargest": 1223
+  },
+  "69": {
+    "numNodes": 2625,
+    "numEdges": 11118,
+    "averageInDegree": 4.235428571428572,
+    "averageOutDegree": 4.235428571428572,
+    "selfLinks": 15,
+    "removed": "Illyasviel von Einzbern",
+    "averagePathLength": 4.702532157102042,
+    "sizeLargest": 1219
+  },
+  "70": {
+    "numNodes": 2624,
+    "numEdges": 11040,
+    "averageInDegree": 4.2073170731707314,
+    "averageOutDegree": 4.2073170731707314,
+    "selfLinks": 15,
+    "removed": "Kinoko Nasu",
+    "averagePathLength": 4.780425895417658,
+    "sizeLargest": 1215
+  },
+  "71": {
+    "numNodes": 2623,
+    "numEdges": 10964,
+    "averageInDegree": 4.1799466260007625,
+    "averageOutDegree": 4.1799466260007625,
+    "selfLinks": 15,
+    "removed": "Berserker (Fate/stay night)",
+    "averagePathLength": 4.790266475122368,
+    "sizeLargest": 1213
+  },
+  "72": {
+    "numNodes": 2622,
+    "numEdges": 10888,
+    "averageInDegree": 4.1525553012967205,
+    "averageOutDegree": 4.1525553012967205,
+    "selfLinks": 15,
+    "removed": "Michael Roa Valdamjong",
+    "averagePathLength": 4.794826350738069,
+    "sizeLargest": 1211
+  },
+  "73": {
+    "numNodes": 2621,
+    "numEdges": 10813,
+    "averageInDegree": 4.12552460892789,
+    "averageOutDegree": 4.12552460892789,
+    "selfLinks": 15,
+    "removed": "BB",
+    "averagePathLength": 4.8291840124684695,
+    "sizeLargest": 1210
+  },
+  "74": {
+    "numNodes": 2620,
+    "numEdges": 10738,
+    "averageInDegree": 4.098473282442748,
+    "averageOutDegree": 4.098473282442748,
+    "selfLinks": 15,
+    "removed": "List of TYPE-MOON media",
+    "averagePathLength": 4.8291840124684695,
+    "sizeLargest": 1210
+  },
+  "75": {
+    "numNodes": 2619,
+    "numEdges": 10663,
+    "averageInDegree": 4.071401298205422,
+    "averageOutDegree": 4.071401298205422,
+    "selfLinks": 15,
+    "removed": "April Fools' Day",
+    "averagePathLength": 4.860799735761029,
+    "sizeLargest": 1206
+  },
+  "76": {
+    "numNodes": 2618,
+    "numEdges": 10588,
+    "averageInDegree": 4.044308632543927,
+    "averageOutDegree": 4.044308632543927,
+    "selfLinks": 15,
+    "removed": "Caster (Fate/Zero)",
+    "averagePathLength": 4.886821354821487,
+    "sizeLargest": 1203
+  },
+  "77": {
+    "numNodes": 2617,
+    "numEdges": 10517,
+    "averageInDegree": 4.0187237294612155,
+    "averageOutDegree": 4.0187237294612155,
+    "selfLinks": 15,
+    "removed": "Avenger (Fate/hollow ataraxia)",
+    "averagePathLength": 4.913787183764248,
+    "sizeLargest": 1200
+  },
+  "78": {
+    "numNodes": 2616,
+    "numEdges": 10448,
+    "averageInDegree": 3.99388379204893,
+    "averageOutDegree": 3.99388379204893,
+    "selfLinks": 15,
+    "removed": "Playable Caster (Fate/Extra)",
+    "averagePathLength": 4.914250645719043,
+    "sizeLargest": 1186
+  },
+  "79": {
+    "numNodes": 2615,
+    "numEdges": 10380,
+    "averageInDegree": 3.9694072657743784,
+    "averageOutDegree": 3.9694072657743784,
+    "selfLinks": 15,
+    "removed": "Saber of Red",
+    "averagePathLength": 4.931213017751479,
+    "sizeLargest": 1184
+  },
+  "80": {
+    "numNodes": 2614,
+    "numEdges": 10312,
+    "averageInDegree": 3.944912012241775,
+    "averageOutDegree": 3.944912012241775,
+    "selfLinks": 15,
+    "removed": "Church",
+    "averagePathLength": 4.942113118730177,
+    "sizeLargest": 1181
+  },
+  "81": {
+    "numNodes": 2613,
+    "numEdges": 10246,
+    "averageInDegree": 3.921163413700727,
+    "averageOutDegree": 3.921163413700727,
+    "selfLinks": 15,
+    "removed": "Shielder (Fate/Grand Order)",
+    "averagePathLength": 4.96533924896786,
+    "sizeLargest": 1179
+  },
+  "82": {
+    "numNodes": 2612,
+    "numEdges": 10180,
+    "averageInDegree": 3.89739663093415,
+    "averageOutDegree": 3.89739663093415,
+    "selfLinks": 15,
+    "removed": "List of Magic Spells",
+    "averagePathLength": 4.965805056092106,
+    "sizeLargest": 1177
+  },
+  "83": {
+    "numNodes": 2611,
+    "numEdges": 10115,
+    "averageInDegree": 3.8739946380697052,
+    "averageOutDegree": 3.8739946380697052,
+    "selfLinks": 15,
+    "removed": "Carnival Phantasm",
+    "averagePathLength": 4.980012453118953,
+    "sizeLargest": 1173
+  },
+  "84": {
+    "numNodes": 2610,
+    "numEdges": 10051,
+    "averageInDegree": 3.8509578544061305,
+    "averageOutDegree": 3.8509578544061305,
+    "selfLinks": 15,
+    "removed": "Saber of Black",
+    "averagePathLength": 4.999439947942942,
+    "sizeLargest": 1170
+  },
+  "85": {
+    "numNodes": 2609,
+    "numEdges": 9988,
+    "averageInDegree": 3.8282866998850134,
+    "averageOutDegree": 3.8282866998850134,
+    "selfLinks": 15,
+    "removed": "Saber (Fate/Prototype)",
+    "averagePathLength": 5.016184954983507,
+    "sizeLargest": 1168
+  },
+  "86": {
+    "numNodes": 2608,
+    "numEdges": 9925,
+    "averageInDegree": 3.8055981595092025,
+    "averageOutDegree": 3.8055981595092025,
+    "selfLinks": 15,
+    "removed": "The Twenty-seven Dead Apostle Ancestors",
+    "averagePathLength": 5.021987227703789,
+    "sizeLargest": 1165
+  },
+  "87": {
+    "numNodes": 2607,
+    "numEdges": 9863,
+    "averageInDegree": 3.7832757959340237,
+    "averageOutDegree": 3.7832757959340237,
+    "selfLinks": 15,
+    "removed": "Assassin (Fate/stay night)",
+    "averagePathLength": 5.038251195998464,
+    "sizeLargest": 1162
+  },
+  "88": {
+    "numNodes": 2606,
+    "numEdges": 9801,
+    "averageInDegree": 3.7609363008442056,
+    "averageOutDegree": 3.7609363008442056,
+    "selfLinks": 15,
+    "removed": "Ciel",
+    "averagePathLength": 5.046748492678725,
+    "sizeLargest": 1161
+  },
+  "89": {
+    "numNodes": 2605,
+    "numEdges": 9740,
+    "averageInDegree": 3.7389635316698655,
+    "averageOutDegree": 3.7389635316698655,
+    "selfLinks": 15,
+    "removed": "Ruler (Fate/Apocrypha)",
+    "averagePathLength": 5.083496416645395,
+    "sizeLargest": 1158
+  },
+  "90": {
+    "numNodes": 2604,
+    "numEdges": 9680,
+    "averageInDegree": 3.717357910906298,
+    "averageOutDegree": 3.717357910906298,
+    "selfLinks": 15,
+    "removed": "Irisviel von Einzbern",
+    "averagePathLength": 5.091858170714323,
+    "sizeLargest": 1155
+  },
+  "91": {
+    "numNodes": 2603,
+    "numEdges": 9621,
+    "averageInDegree": 3.696119861698041,
+    "averageOutDegree": 3.696119861698041,
+    "selfLinks": 15,
+    "removed": "Rider of Red",
+    "averagePathLength": 5.10355467411444,
+    "sizeLargest": 1149
+  },
+  "92": {
+    "numNodes": 2602,
+    "numEdges": 9562,
+    "averageInDegree": 3.6748654880860876,
+    "averageOutDegree": 3.6748654880860876,
+    "selfLinks": 15,
+    "removed": "Fate/Prototype",
+    "averagePathLength": 5.125559950311317,
+    "sizeLargest": 1146
+  },
+  "93": {
+    "numNodes": 2601,
+    "numEdges": 9503,
+    "averageInDegree": 3.65359477124183,
+    "averageOutDegree": 3.65359477124183,
+    "selfLinks": 15,
+    "removed": "Dead Apostle",
+    "averagePathLength": 5.135567516473028,
+    "sizeLargest": 1144
+  },
+  "94": {
+    "numNodes": 2600,
+    "numEdges": 9445,
+    "averageInDegree": 3.6326923076923077,
+    "averageOutDegree": 3.6326923076923077,
+    "selfLinks": 15,
+    "removed": "Lancer (Fate/Extra CCC)",
+    "averagePathLength": 5.154196672710382,
+    "sizeLargest": 1138
+  },
+  "95": {
+    "numNodes": 2599,
+    "numEdges": 9387,
+    "averageInDegree": 3.61177375913813,
+    "averageOutDegree": 3.61177375913813,
+    "selfLinks": 15,
+    "removed": "Koha-Ace",
+    "averagePathLength": 5.221524050411833,
+    "sizeLargest": 1133
+  },
+  "96": {
+    "numNodes": 2598,
+    "numEdges": 9330,
+    "averageInDegree": 3.5912240184757507,
+    "averageOutDegree": 3.5912240184757507,
+    "selfLinks": 15,
+    "removed": "World",
+    "averagePathLength": 5.242361083894433,
+    "sizeLargest": 1130
+  },
+  "97": {
+    "numNodes": 2597,
+    "numEdges": 9274,
+    "averageInDegree": 3.57104351174432,
+    "averageOutDegree": 3.57104351174432,
+    "selfLinks": 15,
+    "removed": "Taiga Fujimura",
+    "averagePathLength": 5.254333509537025,
+    "sizeLargest": 1128
+  },
+  "98": {
+    "numNodes": 2596,
+    "numEdges": 9218,
+    "averageInDegree": 3.5508474576271185,
+    "averageOutDegree": 3.5508474576271185,
+    "selfLinks": 15,
+    "removed": "Mystic Code",
+    "averagePathLength": 5.287626603512927,
+    "sizeLargest": 1126
+  },
+  "99": {
+    "numNodes": 2595,
+    "numEdges": 9162,
+    "averageInDegree": 3.530635838150289,
+    "averageOutDegree": 3.530635838150289,
+    "selfLinks": 15,
+    "removed": "Melty Blood",
+    "averagePathLength": 5.293746144721234,
+    "sizeLargest": 1125
+  },
+  "100": {
+    "numNodes": 2594,
+    "numEdges": 9107,
+    "averageInDegree": 3.5107941403238243,
+    "averageOutDegree": 3.5107941403238243,
+    "selfLinks": 15,
+    "removed": "Riyo",
+    "averagePathLength": 5.293746144721234,
+    "sizeLargest": 1125
+  },
+  "101": {
+    "numNodes": 2593,
+    "numEdges": 9053,
+    "averageInDegree": 3.491322792132665,
+    "averageOutDegree": 3.491322792132665,
+    "selfLinks": 15,
+    "removed": "Zouken Matou",
+    "averagePathLength": 5.312545480658751,
+    "sizeLargest": 1120
+  },
+  "102": {
+    "numNodes": 2592,
+    "numEdges": 9000,
+    "averageInDegree": 3.4722222222222223,
+    "averageOutDegree": 3.4722222222222223,
+    "selfLinks": 15,
+    "removed": "Demon God",
+    "averagePathLength": 5.361009048973753,
+    "sizeLargest": 1116
+  },
+  "103": {
+    "numNodes": 2591,
+    "numEdges": 8947,
+    "averageInDegree": 3.4531069085295254,
+    "averageOutDegree": 3.4531069085295254,
+    "selfLinks": 15,
+    "removed": "Fate/Extra CCC Fox Tail",
+    "averagePathLength": 5.370070700276317,
+    "sizeLargest": 1114
+  },
+  "104": {
+    "numNodes": 2590,
+    "numEdges": 8894,
+    "averageInDegree": 3.433976833976834,
+    "averageOutDegree": 3.433976833976834,
+    "selfLinks": 15,
+    "removed": "Kairi Sisigou",
+    "averagePathLength": 5.3801242286390805,
+    "sizeLargest": 1111
+  },
+  "105": {
+    "numNodes": 2589,
+    "numEdges": 8842,
+    "averageInDegree": 3.4152182309772114,
+    "averageOutDegree": 3.4152182309772114,
+    "selfLinks": 15,
+    "removed": "Manaka Sajyou",
+    "averagePathLength": 5.399082173096392,
+    "sizeLargest": 1109
+  },
+  "106": {
+    "numNodes": 2588,
+    "numEdges": 8790,
+    "averageInDegree": 3.3964451313755797,
+    "averageOutDegree": 3.3964451313755797,
+    "selfLinks": 15,
+    "removed": "Playable Archer (Fate/Extra)",
+    "averagePathLength": 5.416149245880645,
+    "sizeLargest": 1107
+  },
+  "107": {
+    "numNodes": 2587,
+    "numEdges": 8738,
+    "averageInDegree": 3.377657518361036,
+    "averageOutDegree": 3.377657518361036,
+    "selfLinks": 15,
+    "removed": "Saber Alter",
+    "averagePathLength": 5.443298994378667,
+    "sizeLargest": 1106
+  },
+  "108": {
+    "numNodes": 2586,
+    "numEdges": 8686,
+    "averageInDegree": 3.3588553750966743,
+    "averageOutDegree": 3.3588553750966743,
+    "selfLinks": 15,
+    "removed": "Night of Wallachia",
+    "averagePathLength": 5.451904801937193,
+    "sizeLargest": 1102
+  },
+  "109": {
+    "numNodes": 2585,
+    "numEdges": 8635,
+    "averageInDegree": 3.3404255319148937,
+    "averageOutDegree": 3.3404255319148937,
+    "selfLinks": 15,
+    "removed": "Magical Energy",
+    "averagePathLength": 5.440007665900077,
+    "sizeLargest": 1096
+  },
+  "110": {
+    "numNodes": 2584,
+    "numEdges": 8585,
+    "averageInDegree": 3.3223684210526314,
+    "averageOutDegree": 3.3223684210526314,
+    "selfLinks": 15,
+    "removed": "Archer of Red",
+    "averagePathLength": 5.451128092421541,
+    "sizeLargest": 1089
+  },
+  "111": {
+    "numNodes": 2583,
+    "numEdges": 8535,
+    "averageInDegree": 3.3042973286875728,
+    "averageOutDegree": 3.3042973286875728,
+    "selfLinks": 15,
+    "removed": "Fuyuki City",
+    "averagePathLength": 5.476225156988412,
+    "sizeLargest": 1084
+  },
+  "112": {
+    "numNodes": 2582,
+    "numEdges": 8486,
+    "averageInDegree": 3.286599535243997,
+    "averageOutDegree": 3.286599535243997,
+    "selfLinks": 15,
+    "removed": "Clock Tower",
+    "averagePathLength": 5.499252435983431,
+    "sizeLargest": 1083
+  },
+  "113": {
+    "numNodes": 2581,
+    "numEdges": 8437,
+    "averageInDegree": 3.268888027896164,
+    "averageOutDegree": 3.268888027896164,
+    "selfLinks": 15,
+    "removed": "Lancer (Fate/Zero)",
+    "averagePathLength": 5.529377349307763,
+    "sizeLargest": 1077
+  },
+  "114": {
+    "numNodes": 2580,
+    "numEdges": 8388,
+    "averageInDegree": 3.2511627906976743,
+    "averageOutDegree": 3.2511627906976743,
+    "selfLinks": 15,
+    "removed": "Bounded Field",
+    "averagePathLength": 5.557020484171322,
+    "sizeLargest": 1075
+  },
+  "115": {
+    "numNodes": 2579,
+    "numEdges": 8339,
+    "averageInDegree": 3.2334238076773945,
+    "averageOutDegree": 3.2334238076773945,
+    "selfLinks": 15,
+    "removed": "Ea",
+    "averagePathLength": 5.598855385235982,
+    "sizeLargest": 1073
+  },
+  "116": {
+    "numNodes": 2578,
+    "numEdges": 8290,
+    "averageInDegree": 3.2156710628394105,
+    "averageOutDegree": 3.2156710628394105,
+    "selfLinks": 15,
+    "removed": "Shinji Matou",
+    "averagePathLength": 5.641858492957869,
+    "sizeLargest": 1070
+  },
+  "117": {
+    "numNodes": 2577,
+    "numEdges": 8243,
+    "averageInDegree": 3.1986806363989135,
+    "averageOutDegree": 3.1986806363989135,
+    "selfLinks": 15,
+    "removed": "Spirits",
+    "averagePathLength": 5.653289526798156,
+    "sizeLargest": 1068
+  },
+  "118": {
+    "numNodes": 2576,
+    "numEdges": 8196,
+    "averageInDegree": 3.1816770186335406,
+    "averageOutDegree": 3.1816770186335406,
+    "selfLinks": 15,
+    "removed": "Character material",
+    "averagePathLength": 5.665245822061358,
+    "sizeLargest": 1063
+  },
+  "119": {
+    "numNodes": 2575,
+    "numEdges": 8150,
+    "averageInDegree": 3.1650485436893203,
+    "averageOutDegree": 3.1650485436893203,
+    "selfLinks": 15,
+    "removed": "Julian Ainsworth",
+    "averagePathLength": 5.666618975486137,
+    "sizeLargest": 1058
+  },
+  "120": {
+    "numNodes": 2574,
+    "numEdges": 8104,
+    "averageInDegree": 3.1484071484071485,
+    "averageOutDegree": 3.1484071484071485,
+    "selfLinks": 15,
+    "removed": "Demon Archer",
+    "averagePathLength": 5.688368060284171,
+    "sizeLargest": 1050
+  },
+  "121": {
+    "numNodes": 2573,
+    "numEdges": 8058,
+    "averageInDegree": 3.131752817722503,
+    "averageOutDegree": 3.131752817722503,
+    "selfLinks": 15,
+    "removed": "Melty Blood Act Cadenza",
+    "averagePathLength": 5.693072283634897,
+    "sizeLargest": 1045
+  },
+  "122": {
+    "numNodes": 2572,
+    "numEdges": 8012,
+    "averageInDegree": 3.1150855365474337,
+    "averageOutDegree": 3.1150855365474337,
+    "selfLinks": 15,
+    "removed": "Misaki Town",
+    "averagePathLength": 5.70136702874455,
+    "sizeLargest": 1041
+  },
+  "123": {
+    "numNodes": 2571,
+    "numEdges": 7966,
+    "averageInDegree": 3.0984052897705174,
+    "averageOutDegree": 3.0984052897705174,
+    "selfLinks": 15,
+    "removed": "Magic",
+    "averagePathLength": 5.720445032925909,
+    "sizeLargest": 1039
+  },
+  "124": {
+    "numNodes": 2570,
+    "numEdges": 7921,
+    "averageInDegree": 3.0821011673151752,
+    "averageOutDegree": 3.0821011673151752,
+    "selfLinks": 15,
+    "removed": "Nasuverse",
+    "averagePathLength": 5.779707656776346,
+    "sizeLargest": 1038
+  },
+  "125": {
+    "numNodes": 2569,
+    "numEdges": 7876,
+    "averageInDegree": 3.065784351887894,
+    "averageOutDegree": 3.065784351887894,
+    "selfLinks": 15,
+    "removed": "Kagetsu Tohya",
+    "averagePathLength": 5.7928768760494895,
+    "sizeLargest": 1037
+  },
+  "126": {
+    "numNodes": 2568,
+    "numEdges": 7832,
+    "averageInDegree": 3.0498442367601246,
+    "averageOutDegree": 3.0498442367601246,
+    "selfLinks": 15,
+    "removed": "List of Fate/stay night episodes",
+    "averagePathLength": 5.7957775998315775,
+    "sizeLargest": 1032
+  },
+  "127": {
+    "numNodes": 2567,
+    "numEdges": 7788,
+    "averageInDegree": 3.0338917023763146,
+    "averageOutDegree": 3.0338917023763146,
+    "selfLinks": 15,
+    "removed": "Magic Circuit",
+    "averagePathLength": 5.829732891769745,
+    "sizeLargest": 1030
+  },
+  "128": {
+    "numNodes": 2566,
+    "numEdges": 7745,
+    "averageInDegree": 3.0183164458300857,
+    "averageOutDegree": 3.0183164458300857,
+    "selfLinks": 15,
+    "removed": "Lancer (Fate/strange fake)",
+    "averagePathLength": 5.861380996378787,
+    "sizeLargest": 1023
+  },
+  "129": {
+    "numNodes": 2565,
+    "numEdges": 7702,
+    "averageInDegree": 3.002729044834308,
+    "averageOutDegree": 3.002729044834308,
+    "selfLinks": 15,
+    "removed": "Lancer of Black",
+    "averagePathLength": 5.8718096445238235,
+    "sizeLargest": 1021
+  },
+  "130": {
+    "numNodes": 2564,
+    "numEdges": 7661,
+    "averageInDegree": 2.9879095163806553,
+    "averageOutDegree": 2.9879095163806553,
+    "selfLinks": 14,
+    "removed": "Sieg",
+    "averagePathLength": 5.890627104620062,
+    "sizeLargest": 1020
+  },
+  "131": {
+    "numNodes": 2563,
+    "numEdges": 7619,
+    "averageInDegree": 2.9726882559500587,
+    "averageOutDegree": 2.9726882559500587,
+    "selfLinks": 14,
+    "removed": "List of TYPE-MOON material books",
+    "averagePathLength": 5.890627104620062,
+    "sizeLargest": 1020
+  },
+  "132": {
+    "numNodes": 2562,
+    "numEdges": 7577,
+    "averageInDegree": 2.957455113192818,
+    "averageOutDegree": 2.957455113192818,
+    "selfLinks": 14,
+    "removed": "Mystic Eyes of Death Perception",
+    "averagePathLength": 5.903469119274881,
+    "sizeLargest": 1018
+  },
+  "133": {
+    "numNodes": 2561,
+    "numEdges": 7536,
+    "averageInDegree": 2.94260054666146,
+    "averageOutDegree": 2.94260054666146,
+    "selfLinks": 14,
+    "removed": "Great Holy Grail War",
+    "averagePathLength": 5.903469119274881,
+    "sizeLargest": 1018
+  },
+  "134": {
+    "numNodes": 2560,
+    "numEdges": 7495,
+    "averageInDegree": 2.927734375,
+    "averageOutDegree": 2.927734375,
+    "selfLinks": 14,
+    "removed": "Kayneth El-Melloi Archibald",
+    "averagePathLength": 5.920997052092626,
+    "sizeLargest": 1016
+  },
+  "135": {
+    "numNodes": 2559,
+    "numEdges": 7455,
+    "averageInDegree": 2.913247362250879,
+    "averageOutDegree": 2.913247362250879,
+    "selfLinks": 14,
+    "removed": "Bazett Fraga McRemitz",
+    "averagePathLength": 5.94108152206717,
+    "sizeLargest": 1014
+  },
+  "136": {
+    "numNodes": 2558,
+    "numEdges": 7415,
+    "averageInDegree": 2.898749022673964,
+    "averageOutDegree": 2.898749022673964,
+    "selfLinks": 14,
+    "removed": "Kischur Zelretch Schweinorg",
+    "averagePathLength": 5.968961228467061,
+    "sizeLargest": 1011
+  },
+  "137": {
+    "numNodes": 2557,
+    "numEdges": 7375,
+    "averageInDegree": 2.8842393429800546,
+    "averageOutDegree": 2.8842393429800546,
+    "selfLinks": 14,
+    "removed": "Mahou Tsukai no Yoru",
+    "averagePathLength": 5.979137862137862,
+    "sizeLargest": 1001
+  },
+  "138": {
+    "numNodes": 2556,
+    "numEdges": 7336,
+    "averageInDegree": 2.8701095461658843,
+    "averageOutDegree": 2.8701095461658843,
+    "selfLinks": 14,
+    "removed": "Gilgamesh (Fate/kaleid)",
+    "averagePathLength": 5.9865448047549465,
+    "sizeLargest": 998
+  },
+  "139": {
+    "numNodes": 2555,
+    "numEdges": 7297,
+    "averageInDegree": 2.855968688845401,
+    "averageOutDegree": 2.855968688845401,
+    "selfLinks": 14,
+    "removed": "Melty Blood Actress Again",
+    "averagePathLength": 5.993486508849468,
+    "sizeLargest": 996
+  },
+  "140": {
+    "numNodes": 2554,
+    "numEdges": 7258,
+    "averageInDegree": 2.8418167580266247,
+    "averageOutDegree": 2.8418167580266247,
+    "selfLinks": 14,
+    "removed": "Luviagelita Edelfelt",
+    "averagePathLength": 6.007510232920768,
+    "sizeLargest": 993
+  },
+  "141": {
+    "numNodes": 2553,
+    "numEdges": 7219,
+    "averageInDegree": 2.827653740697219,
+    "averageOutDegree": 2.827653740697219,
+    "selfLinks": 14,
+    "removed": "True Assassin (Fate/stay night)",
+    "averagePathLength": 6.039345014218879,
+    "sizeLargest": 991
+  },
+  "142": {
+    "numNodes": 2552,
+    "numEdges": 7181,
+    "averageInDegree": 2.813871473354232,
+    "averageOutDegree": 2.813871473354232,
+    "selfLinks": 14,
+    "removed": "Non-classed Servants",
+    "averagePathLength": 6.0410995700176695,
+    "sizeLargest": 990
+  },
+  "143": {
+    "numNodes": 2551,
+    "numEdges": 7143,
+    "averageInDegree": 2.800078400627205,
+    "averageOutDegree": 2.800078400627205,
+    "selfLinks": 14,
+    "removed": "Saber (Fate/Extra)",
+    "averagePathLength": 6.06118918408952,
+    "sizeLargest": 988
+  },
+  "144": {
+    "numNodes": 2550,
+    "numEdges": 7106,
+    "averageInDegree": 2.7866666666666666,
+    "averageOutDegree": 2.7866666666666666,
+    "selfLinks": 14,
+    "removed": "False Holy Grail War",
+    "averagePathLength": 6.06118918408952,
+    "sizeLargest": 988
+  },
+  "145": {
+    "numNodes": 2549,
+    "numEdges": 7069,
+    "averageInDegree": 2.7732444095723814,
+    "averageOutDegree": 2.7732444095723814,
+    "selfLinks": 14,
+    "removed": "Rider of Black",
+    "averagePathLength": 6.1065852285755975,
+    "sizeLargest": 980
+  },
+  "146": {
+    "numNodes": 2548,
+    "numEdges": 7032,
+    "averageInDegree": 2.759811616954474,
+    "averageOutDegree": 2.759811616954474,
+    "selfLinks": 14,
+    "removed": "Rani VIII",
+    "averagePathLength": 6.132345584433797,
+    "sizeLargest": 978
+  },
+  "147": {
+    "numNodes": 2547,
+    "numEdges": 6995,
+    "averageInDegree": 2.746368276403612,
+    "averageOutDegree": 2.746368276403612,
+    "selfLinks": 14,
+    "removed": "Akiha Tohno",
+    "averagePathLength": 6.141314168377823,
+    "sizeLargest": 975
+  },
+  "148": {
+    "numNodes": 2546,
+    "numEdges": 6958,
+    "averageInDegree": 2.7329143754909664,
+    "averageOutDegree": 2.7329143754909664,
+    "selfLinks": 14,
+    "removed": "TYPE-MOON",
+    "averagePathLength": 5.998286037674832,
+    "sizeLargest": 931
+  },
+  "149": {
+    "numNodes": 2545,
+    "numEdges": 6922,
+    "averageInDegree": 2.719842829076621,
+    "averageOutDegree": 2.719842829076621,
+    "selfLinks": 14,
+    "removed": "Shirou Emiya (Fate/kaleid - Miyu's brother)",
+    "averagePathLength": 6.037868959937507,
+    "sizeLargest": 928
+  },
+  "150": {
+    "numNodes": 2544,
+    "numEdges": 6886,
+    "averageInDegree": 2.7067610062893084,
+    "averageOutDegree": 2.7067610062893084,
+    "selfLinks": 14,
+    "removed": "Canaan",
+    "averagePathLength": 6.037868959937507,
+    "sizeLargest": 928
+  },
+  "151": {
+    "numNodes": 2543,
+    "numEdges": 6850,
+    "averageInDegree": 2.6936688950058985,
+    "averageOutDegree": 2.6936688950058985,
+    "selfLinks": 14,
+    "removed": "Souichirou Kuzuki",
+    "averagePathLength": 6.051522550957338,
+    "sizeLargest": 923
+  },
+  "152": {
+    "numNodes": 2542,
+    "numEdges": 6815,
+    "averageInDegree": 2.6809598741148704,
+    "averageOutDegree": 2.6809598741148704,
+    "selfLinks": 14,
+    "removed": "Grand Caster (Fate/Grand Order)",
+    "averagePathLength": 6.123417467000993,
+    "sizeLargest": 920
+  },
+  "153": {
+    "numNodes": 2541,
+    "numEdges": 6780,
+    "averageInDegree": 2.668240850059032,
+    "averageOutDegree": 2.668240850059032,
+    "selfLinks": 14,
+    "removed": "Lord El-Melloi II Case Files",
+    "averagePathLength": 6.1345369516342885,
+    "sizeLargest": 913
+  },
+  "154": {
+    "numNodes": 2540,
+    "numEdges": 6745,
+    "averageInDegree": 2.655511811023622,
+    "averageOutDegree": 2.655511811023622,
+    "selfLinks": 14,
+    "removed": "Moon Cell",
+    "averagePathLength": 6.1345369516342885,
+    "sizeLargest": 913
+  },
+  "155": {
+    "numNodes": 2539,
+    "numEdges": 6710,
+    "averageInDegree": 2.642772745175266,
+    "averageOutDegree": 2.642772745175266,
+    "selfLinks": 14,
+    "removed": "Familiar",
+    "averagePathLength": 6.170204219490718,
+    "sizeLargest": 911
+  },
+  "156": {
+    "numNodes": 2538,
+    "numEdges": 6675,
+    "averageInDegree": 2.6300236406619386,
+    "averageOutDegree": 2.6300236406619386,
+    "selfLinks": 14,
+    "removed": "Azaka Kokutou",
+    "averagePathLength": 6.18339851606306,
+    "sizeLargest": 909
+  },
+  "157": {
+    "numNodes": 2537,
+    "numEdges": 6641,
+    "averageInDegree": 2.6176586519511233,
+    "averageOutDegree": 2.6176586519511233,
+    "selfLinks": 14,
+    "removed": "Lancer (Fate/Grand Order - Sc\u00e1thach)",
+    "averagePathLength": 6.231409817630666,
+    "sizeLargest": 905
+  },
+  "158": {
+    "numNodes": 2536,
+    "numEdges": 6607,
+    "averageInDegree": 2.605283911671924,
+    "averageOutDegree": 2.605283911671924,
+    "selfLinks": 14,
+    "removed": "Chaldea Security Organization",
+    "averagePathLength": 6.270486650804291,
+    "sizeLargest": 903
+  },
+  "159": {
+    "numNodes": 2535,
+    "numEdges": 6573,
+    "averageInDegree": 2.5928994082840235,
+    "averageOutDegree": 2.5928994082840235,
+    "selfLinks": 14,
+    "removed": "Lancer of Red",
+    "averagePathLength": 6.298567002419091,
+    "sizeLargest": 902
+  },
+  "160": {
+    "numNodes": 2534,
+    "numEdges": 6539,
+    "averageInDegree": 2.5805051302288873,
+    "averageOutDegree": 2.5805051302288873,
+    "selfLinks": 14,
+    "removed": "Darnic Prestone Yggdmillennia",
+    "averagePathLength": 6.322586824867137,
+    "sizeLargest": 900
+  },
+  "161": {
+    "numNodes": 2533,
+    "numEdges": 6505,
+    "averageInDegree": 2.5681010659297274,
+    "averageOutDegree": 2.5681010659297274,
+    "selfLinks": 14,
+    "removed": "Dragon",
+    "averagePathLength": 6.357134966028754,
+    "sizeLargest": 893
+  },
+  "162": {
+    "numNodes": 2532,
+    "numEdges": 6472,
+    "averageInDegree": 2.5560821484992102,
+    "averageOutDegree": 2.5560821484992102,
+    "selfLinks": 14,
+    "removed": "Divine Construct",
+    "averagePathLength": 6.388134760182004,
+    "sizeLargest": 889
+  },
+  "163": {
+    "numNodes": 2531,
+    "numEdges": 6439,
+    "averageInDegree": 2.544053733702094,
+    "averageOutDegree": 2.544053733702094,
+    "selfLinks": 14,
+    "removed": "Hassan-i-Sabbah",
+    "averagePathLength": 6.410710231982757,
+    "sizeLargest": 886
+  },
+  "164": {
+    "numNodes": 2530,
+    "numEdges": 6406,
+    "averageInDegree": 2.53201581027668,
+    "averageOutDegree": 2.53201581027668,
+    "selfLinks": 14,
+    "removed": "Caren Hortensia",
+    "averagePathLength": 6.452583827037799,
+    "sizeLargest": 883
+  },
+  "165": {
+    "numNodes": 2529,
+    "numEdges": 6374,
+    "averageInDegree": 2.520363780150257,
+    "averageOutDegree": 2.520363780150257,
+    "selfLinks": 14,
+    "removed": "Rider (Fate/Grand Order - Ushiwakamaru)",
+    "averagePathLength": 6.457189212948599,
+    "sizeLargest": 880
+  },
+  "166": {
+    "numNodes": 2528,
+    "numEdges": 6342,
+    "averageInDegree": 2.5087025316455698,
+    "averageOutDegree": 2.5087025316455698,
+    "selfLinks": 14,
+    "removed": "King Arthur",
+    "averagePathLength": 6.464871294518258,
+    "sizeLargest": 879
+  },
+  "167": {
+    "numNodes": 2527,
+    "numEdges": 6310,
+    "averageInDegree": 2.4970320538187574,
+    "averageOutDegree": 2.4970320538187574,
+    "selfLinks": 14,
+    "removed": "Berserker of Red",
+    "averagePathLength": 6.522306428338196,
+    "sizeLargest": 872
+  },
+  "168": {
+    "numNodes": 2526,
+    "numEdges": 6278,
+    "averageInDegree": 2.4853523357086305,
+    "averageOutDegree": 2.4853523357086305,
+    "selfLinks": 14,
+    "removed": "Mikiya Kokutou",
+    "averagePathLength": 6.5345410000371205,
+    "sizeLargest": 869
+  },
+  "169": {
+    "numNodes": 2525,
+    "numEdges": 6246,
+    "averageInDegree": 2.4736633663366336,
+    "averageOutDegree": 2.4736633663366336,
+    "selfLinks": 14,
+    "removed": "Kohaku",
+    "averagePathLength": 6.546771415984728,
+    "sizeLargest": 866
+  },
+  "170": {
+    "numNodes": 2524,
+    "numEdges": 6215,
+    "averageInDegree": 2.4623613312202854,
+    "averageOutDegree": 2.4623613312202854,
+    "selfLinks": 14,
+    "removed": "Assassin of Black",
+    "averagePathLength": 6.5509742071155745,
+    "sizeLargest": 864
+  },
+  "171": {
+    "numNodes": 2523,
+    "numEdges": 6184,
+    "averageInDegree": 2.4510503369005154,
+    "averageOutDegree": 2.4510503369005154,
+    "selfLinks": 14,
+    "removed": "Mystic Eyes",
+    "averagePathLength": 6.6235949165620385,
+    "sizeLargest": 863
+  },
+  "172": {
+    "numNodes": 2522,
+    "numEdges": 6153,
+    "averageInDegree": 2.4397303727200637,
+    "averageOutDegree": 2.4397303727200637,
+    "selfLinks": 14,
+    "removed": "G\u00e1e Bolg",
+    "averagePathLength": 6.670585050220646,
+    "sizeLargest": 860
+  },
+  "173": {
+    "numNodes": 2521,
+    "numEdges": 6122,
+    "averageInDegree": 2.42840142800476,
+    "averageOutDegree": 2.42840142800476,
+    "selfLinks": 14,
+    "removed": "Avenger",
+    "averagePathLength": 6.761684802051858,
+    "sizeLargest": 853
+  },
+  "174": {
+    "numNodes": 2520,
+    "numEdges": 6092,
+    "averageInDegree": 2.4174603174603173,
+    "averageOutDegree": 2.4174603174603173,
+    "selfLinks": 14,
+    "removed": "Assassin (Fate/Grand Order - EMIYA)",
+    "averagePathLength": 6.756210892040951,
+    "sizeLargest": 844
+  },
+  "175": {
+    "numNodes": 2519,
+    "numEdges": 6062,
+    "averageInDegree": 2.4065105200476378,
+    "averageOutDegree": 2.4065105200476378,
+    "selfLinks": 14,
+    "removed": "Saber (Fate/Grand Order - Attila)",
+    "averagePathLength": 6.771195868096941,
+    "sizeLargest": 840
+  },
+  "176": {
+    "numNodes": 2518,
+    "numEdges": 6032,
+    "averageInDegree": 2.3955520254169977,
+    "averageOutDegree": 2.3955520254169977,
+    "selfLinks": 14,
+    "removed": "Lancer (Fate/Grand Order - Benkei)",
+    "averagePathLength": 6.778655693046449,
+    "sizeLargest": 833
+  },
+  "177": {
+    "numNodes": 2517,
+    "numEdges": 6002,
+    "averageInDegree": 2.384584823202225,
+    "averageOutDegree": 2.384584823202225,
+    "selfLinks": 14,
+    "removed": "Class Card",
+    "averagePathLength": 6.778655693046449,
+    "sizeLargest": 833
+  },
+  "178": {
+    "numNodes": 2516,
+    "numEdges": 5972,
+    "averageInDegree": 2.3736089030206675,
+    "averageOutDegree": 2.3736089030206675,
+    "selfLinks": 14,
+    "removed": "Caster (Fate/Grand Order - Merlin)",
+    "averagePathLength": 6.789607187519401,
+    "sizeLargest": 823
+  },
+  "179": {
+    "numNodes": 2515,
+    "numEdges": 5942,
+    "averageInDegree": 2.362624254473161,
+    "averageOutDegree": 2.362624254473161,
+    "selfLinks": 14,
+    "removed": "Miyu Edelfelt",
+    "averagePathLength": 6.778703231025969,
+    "sizeLargest": 819
+  },
+  "180": {
+    "numNodes": 2514,
+    "numEdges": 5912,
+    "averageInDegree": 2.3516308671439936,
+    "averageOutDegree": 2.3516308671439936,
+    "selfLinks": 14,
+    "removed": "Zabaniya",
+    "averagePathLength": 6.791094832130588,
+    "sizeLargest": 813
+  },
+  "181": {
+    "numNodes": 2513,
+    "numEdges": 5882,
+    "averageInDegree": 2.3406287306008755,
+    "averageOutDegree": 2.3406287306008755,
+    "selfLinks": 14,
+    "removed": "Sion Eltnam Atlasia",
+    "averagePathLength": 6.803766559559748,
+    "sizeLargest": 812
+  },
+  "182": {
+    "numNodes": 2512,
+    "numEdges": 5853,
+    "averageInDegree": 2.330015923566879,
+    "averageOutDegree": 2.330015923566879,
+    "selfLinks": 14,
+    "removed": "Parameter Rules",
+    "averagePathLength": 6.857178349270038,
+    "sizeLargest": 803
+  },
+  "183": {
+    "numNodes": 2511,
+    "numEdges": 5824,
+    "averageInDegree": 2.319394663480685,
+    "averageOutDegree": 2.319394663480685,
+    "selfLinks": 14,
+    "removed": "Kiara Sessyoin",
+    "averagePathLength": 6.873315955721594,
+    "sizeLargest": 799
+  },
+  "184": {
+    "numNodes": 2510,
+    "numEdges": 5795,
+    "averageInDegree": 2.308764940239044,
+    "averageOutDegree": 2.308764940239044,
+    "selfLinks": 14,
+    "removed": "Moon",
+    "averagePathLength": 6.90311254925268,
+    "sizeLargest": 798
+  },
+  "185": {
+    "numNodes": 2509,
+    "numEdges": 5767,
+    "averageInDegree": 2.2985253088880033,
+    "averageOutDegree": 2.2985253088880033,
+    "selfLinks": 14,
+    "removed": "Passionlip",
+    "averagePathLength": 6.929202616857874,
+    "sizeLargest": 796
+  },
+  "186": {
+    "numNodes": 2508,
+    "numEdges": 5739,
+    "averageInDegree": 2.2882775119617227,
+    "averageOutDegree": 2.2882775119617227,
+    "selfLinks": 14,
+    "removed": "Chloe von Einzbern",
+    "averagePathLength": 6.945089291400767,
+    "sizeLargest": 793
+  },
+  "187": {
+    "numNodes": 2507,
+    "numEdges": 5711,
+    "averageInDegree": 2.278021539688871,
+    "averageOutDegree": 2.278021539688871,
+    "selfLinks": 14,
+    "removed": "Unlimited Blade Works",
+    "averagePathLength": 6.979827052349553,
+    "sizeLargest": 790
+  },
+  "188": {
+    "numNodes": 2506,
+    "numEdges": 5683,
+    "averageInDegree": 2.267757382282522,
+    "averageOutDegree": 2.267757382282522,
+    "selfLinks": 14,
+    "removed": "Neco-Arc",
+    "averagePathLength": 6.994414308657822,
+    "sizeLargest": 788
+  },
+  "189": {
+    "numNodes": 2505,
+    "numEdges": 5656,
+    "averageInDegree": 2.2578842315369263,
+    "averageOutDegree": 2.2578842315369263,
+    "selfLinks": 14,
+    "removed": "Fate/Extella",
+    "averagePathLength": 7.073586040330951,
+    "sizeLargest": 787
+  },
+  "190": {
+    "numNodes": 2504,
+    "numEdges": 5629,
+    "averageInDegree": 2.248003194888179,
+    "averageOutDegree": 2.248003194888179,
+    "selfLinks": 14,
+    "removed": "Archer (Fate/Prototype: Fragments)",
+    "averagePathLength": 7.081888794165009,
+    "sizeLargest": 783
+  },
+  "191": {
+    "numNodes": 2503,
+    "numEdges": 5602,
+    "averageInDegree": 2.2381142628845385,
+    "averageOutDegree": 2.2381142628845385,
+    "selfLinks": 14,
+    "removed": "Encyclopedia",
+    "averagePathLength": 7.081888794165009,
+    "sizeLargest": 783
+  },
+  "192": {
+    "numNodes": 2502,
+    "numEdges": 5575,
+    "averageInDegree": 2.2282174260591527,
+    "averageOutDegree": 2.2282174260591527,
+    "selfLinks": 14,
+    "removed": "List of Tsukihime episodes",
+    "averagePathLength": 7.080354497876963,
+    "sizeLargest": 780
+  },
+  "193": {
+    "numNodes": 2501,
+    "numEdges": 5548,
+    "averageInDegree": 2.218312674930028,
+    "averageOutDegree": 2.218312674930028,
+    "selfLinks": 14,
+    "removed": "Issei Ryuudou",
+    "averagePathLength": 7.086471566345194,
+    "sizeLargest": 776
+  },
+  "194": {
+    "numNodes": 2500,
+    "numEdges": 5521,
+    "averageInDegree": 2.2084,
+    "averageOutDegree": 2.2084,
+    "selfLinks": 14,
+    "removed": "Souren Araya",
+    "averagePathLength": 7.104150453955901,
+    "sizeLargest": 771
+  },
+  "195": {
+    "numNodes": 2499,
+    "numEdges": 5494,
+    "averageInDegree": 2.1984793917567025,
+    "averageOutDegree": 2.1984793917567025,
+    "selfLinks": 14,
+    "removed": "Homunculus",
+    "averagePathLength": 7.145427396371952,
+    "sizeLargest": 766
+  },
+  "196": {
+    "numNodes": 2498,
+    "numEdges": 5467,
+    "averageInDegree": 2.188550840672538,
+    "averageOutDegree": 2.188550840672538,
+    "selfLinks": 14,
+    "removed": "Crimson Moon",
+    "averagePathLength": 7.169227285515292,
+    "sizeLargest": 764
+  },
+  "197": {
+    "numNodes": 2497,
+    "numEdges": 5441,
+    "averageInDegree": 2.1790148177813378,
+    "averageOutDegree": 2.1790148177813378,
+    "selfLinks": 14,
+    "removed": "Cath Palug",
+    "averagePathLength": 7.197657168545542,
+    "sizeLargest": 761
+  },
+  "198": {
+    "numNodes": 2496,
+    "numEdges": 5415,
+    "averageInDegree": 2.1694711538461537,
+    "averageOutDegree": 2.1694711538461537,
+    "selfLinks": 14,
+    "removed": "Caster of Red",
+    "averagePathLength": 7.063408766699304,
+    "sizeLargest": 739
+  }
+}

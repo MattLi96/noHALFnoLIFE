@@ -1,0 +1,1512 @@
+{
+  "0": {
+    "numNodes": 1539,
+    "numEdges": 12705,
+    "averageInDegree": 8.255360623781677,
+    "averageOutDegree": 8.255360623781677,
+    "selfLinks": 1,
+    "removed": "Sherlock Holmes",
+    "averagePathLength": 3.6093822696366917,
+    "sizeLargest": 1213
+  },
+  "1": {
+    "numNodes": 1538,
+    "numEdges": 12324,
+    "averageInDegree": 8.01300390117035,
+    "averageOutDegree": 8.01300390117035,
+    "selfLinks": 1,
+    "removed": "United Kingdom",
+    "averagePathLength": 3.7223199931964204,
+    "sizeLargest": 1208
+  },
+  "2": {
+    "numNodes": 1537,
+    "numEdges": 11989,
+    "averageInDegree": 7.800260247234873,
+    "averageOutDegree": 7.800260247234873,
+    "selfLinks": 1,
+    "removed": "Elementary",
+    "averagePathLength": 3.851739972514658,
+    "sizeLargest": 1199
+  },
+  "3": {
+    "numNodes": 1536,
+    "numEdges": 11666,
+    "averageInDegree": 7.595052083333333,
+    "averageOutDegree": 7.595052083333333,
+    "selfLinks": 1,
+    "removed": "Sherlock (2010)",
+    "averagePathLength": 3.8909817002916647,
+    "sizeLargest": 1187
+  },
+  "4": {
+    "numNodes": 1535,
+    "numEdges": 11420,
+    "averageInDegree": 7.4397394136807815,
+    "averageOutDegree": 7.4397394136807815,
+    "selfLinks": 1,
+    "removed": "London",
+    "averagePathLength": 4.016107445263869,
+    "sizeLargest": 1180
+  },
+  "5": {
+    "numNodes": 1534,
+    "numEdges": 11207,
+    "averageInDegree": 7.30573663624511,
+    "averageOutDegree": 7.30573663624511,
+    "selfLinks": 1,
+    "removed": "Sherlock Holmes (Miller)",
+    "averagePathLength": 4.04013388334057,
+    "sizeLargest": 1176
+  },
+  "6": {
+    "numNodes": 1533,
+    "numEdges": 11011,
+    "averageInDegree": 7.1826484018264845,
+    "averageOutDegree": 7.1826484018264845,
+    "selfLinks": 1,
+    "removed": "Sherlock Holmes (Granada)",
+    "averagePathLength": 4.099197966766466,
+    "sizeLargest": 1173
+  },
+  "7": {
+    "numNodes": 1532,
+    "numEdges": 10818,
+    "averageInDegree": 7.061357702349869,
+    "averageOutDegree": 7.061357702349869,
+    "selfLinks": 1,
+    "removed": "England",
+    "averagePathLength": 4.141508812121354,
+    "sizeLargest": 1169
+  },
+  "8": {
+    "numNodes": 1531,
+    "numEdges": 10628,
+    "averageInDegree": 6.941868060091443,
+    "averageOutDegree": 6.941868060091443,
+    "selfLinks": 1,
+    "removed": "John Watson",
+    "averagePathLength": 4.179299733587696,
+    "sizeLargest": 1148
+  },
+  "9": {
+    "numNodes": 1530,
+    "numEdges": 10442,
+    "averageInDegree": 6.824836601307189,
+    "averageOutDegree": 6.824836601307189,
+    "selfLinks": 1,
+    "removed": "William Sherlock Scott Holmes",
+    "averagePathLength": 4.212517177145998,
+    "sizeLargest": 1145
+  },
+  "10": {
+    "numNodes": 1529,
+    "numEdges": 10271,
+    "averageInDegree": 6.717462393721386,
+    "averageOutDegree": 6.717462393721386,
+    "selfLinks": 1,
+    "removed": "Joan Watson",
+    "averagePathLength": 4.221531196516373,
+    "sizeLargest": 1143
+  },
+  "11": {
+    "numNodes": 1528,
+    "numEdges": 10127,
+    "averageInDegree": 6.62761780104712,
+    "averageOutDegree": 6.62761780104712,
+    "selfLinks": 1,
+    "removed": "Thomas Gregson",
+    "averagePathLength": 4.2318561988817525,
+    "sizeLargest": 1140
+  },
+  "12": {
+    "numNodes": 1527,
+    "numEdges": 9988,
+    "averageInDegree": 6.540929927963327,
+    "averageOutDegree": 6.540929927963327,
+    "selfLinks": 1,
+    "removed": "John Watson (Freeman)",
+    "averagePathLength": 4.252496066991218,
+    "sizeLargest": 1137
+  },
+  "13": {
+    "numNodes": 1526,
+    "numEdges": 9852,
+    "averageInDegree": 6.456094364351245,
+    "averageOutDegree": 6.456094364351245,
+    "selfLinks": 1,
+    "removed": "Marcus Bell",
+    "averagePathLength": 4.257834119252963,
+    "sizeLargest": 1136
+  },
+  "14": {
+    "numNodes": 1525,
+    "numEdges": 9717,
+    "averageInDegree": 6.371803278688525,
+    "averageOutDegree": 6.371803278688525,
+    "selfLinks": 1,
+    "removed": "Sherlock (2010) Cast",
+    "averagePathLength": 4.257834119252963,
+    "sizeLargest": 1136
+  },
+  "15": {
+    "numNodes": 1524,
+    "numEdges": 9584,
+    "averageInDegree": 6.288713910761155,
+    "averageOutDegree": 6.288713910761155,
+    "selfLinks": 1,
+    "removed": "CBS",
+    "averagePathLength": 4.2774104117146186,
+    "sizeLargest": 1134
+  },
+  "16": {
+    "numNodes": 1523,
+    "numEdges": 9454,
+    "averageInDegree": 6.207485226526592,
+    "averageOutDegree": 6.207485226526592,
+    "selfLinks": 1,
+    "removed": "The Great Game",
+    "averagePathLength": 4.330969015196368,
+    "sizeLargest": 1126
+  },
+  "17": {
+    "numNodes": 1522,
+    "numEdges": 9325,
+    "averageInDegree": 6.1268068331143235,
+    "averageOutDegree": 6.1268068331143235,
+    "selfLinks": 1,
+    "removed": "Jonny Lee Miller",
+    "averagePathLength": 4.343062870699882,
+    "sizeLargest": 1125
+  },
+  "18": {
+    "numNodes": 1521,
+    "numEdges": 9202,
+    "averageInDegree": 6.049967126890204,
+    "averageOutDegree": 6.049967126890204,
+    "selfLinks": 1,
+    "removed": "Lucy Liu",
+    "averagePathLength": 4.344925577459969,
+    "sizeLargest": 1124
+  },
+  "19": {
+    "numNodes": 1520,
+    "numEdges": 9080,
+    "averageInDegree": 5.973684210526316,
+    "averageOutDegree": 5.973684210526316,
+    "selfLinks": 1,
+    "removed": "Sherlock Holmes: A Game of Shadows",
+    "averagePathLength": 4.364597139034026,
+    "sizeLargest": 1121
+  },
+  "20": {
+    "numNodes": 1519,
+    "numEdges": 8959,
+    "averageInDegree": 5.8979591836734695,
+    "averageOutDegree": 5.8979591836734695,
+    "selfLinks": 1,
+    "removed": "Aidan Quinn",
+    "averagePathLength": 4.365394006127921,
+    "sizeLargest": 1120
+  },
+  "21": {
+    "numNodes": 1518,
+    "numEdges": 8840,
+    "averageInDegree": 5.823451910408433,
+    "averageOutDegree": 5.823451910408433,
+    "selfLinks": 1,
+    "removed": "Jon Michael Hill",
+    "averagePathLength": 4.378403762623477,
+    "sizeLargest": 1119
+  },
+  "22": {
+    "numNodes": 1517,
+    "numEdges": 8723,
+    "averageInDegree": 5.750164798945287,
+    "averageOutDegree": 5.750164798945287,
+    "selfLinks": 1,
+    "removed": "Sir Arthur Conan Doyle",
+    "averagePathLength": 4.382748000890451,
+    "sizeLargest": 1118
+  },
+  "23": {
+    "numNodes": 1516,
+    "numEdges": 8612,
+    "averageInDegree": 5.680738786279683,
+    "averageOutDegree": 5.680738786279683,
+    "selfLinks": 1,
+    "removed": "List of Sherlock Holmes Short Stories and Novels",
+    "averagePathLength": 4.425638891442896,
+    "sizeLargest": 1114
+  },
+  "24": {
+    "numNodes": 1515,
+    "numEdges": 8502,
+    "averageInDegree": 5.6118811881188115,
+    "averageOutDegree": 5.6118811881188115,
+    "selfLinks": 1,
+    "removed": "Elementary: Season One",
+    "averagePathLength": 4.460334365023274,
+    "sizeLargest": 1110
+  },
+  "25": {
+    "numNodes": 1514,
+    "numEdges": 8398,
+    "averageInDegree": 5.546895640686922,
+    "averageOutDegree": 5.546895640686922,
+    "selfLinks": 1,
+    "removed": "The Hound of the Baskervilles",
+    "averagePathLength": 4.566548554166273,
+    "sizeLargest": 1109
+  },
+  "26": {
+    "numNodes": 1513,
+    "numEdges": 8296,
+    "averageInDegree": 5.48314606741573,
+    "averageOutDegree": 5.48314606741573,
+    "selfLinks": 1,
+    "removed": "BBC",
+    "averagePathLength": 4.58575963918484,
+    "sizeLargest": 1108
+  },
+  "27": {
+    "numNodes": 1512,
+    "numEdges": 8202,
+    "averageInDegree": 5.424603174603175,
+    "averageOutDegree": 5.424603174603175,
+    "selfLinks": 1,
+    "removed": "Sherlock Holmes (1965 TV series)",
+    "averagePathLength": 4.630191550817016,
+    "sizeLargest": 1106
+  },
+  "28": {
+    "numNodes": 1511,
+    "numEdges": 8108,
+    "averageInDegree": 5.3659827928524155,
+    "averageOutDegree": 5.3659827928524155,
+    "selfLinks": 1,
+    "removed": "A Study in Pink",
+    "averagePathLength": 4.651723644309448,
+    "sizeLargest": 1103
+  },
+  "29": {
+    "numNodes": 1510,
+    "numEdges": 8015,
+    "averageInDegree": 5.30794701986755,
+    "averageOutDegree": 5.30794701986755,
+    "selfLinks": 1,
+    "removed": "His Last Vow",
+    "averagePathLength": 4.666178343949045,
+    "sizeLargest": 1100
+  },
+  "30": {
+    "numNodes": 1509,
+    "numEdges": 7922,
+    "averageInDegree": 5.249834327369118,
+    "averageOutDegree": 5.249834327369118,
+    "selfLinks": 1,
+    "removed": "Elementary: Season Two",
+    "averagePathLength": 4.716761056167969,
+    "sizeLargest": 1099
+  },
+  "31": {
+    "numNodes": 1508,
+    "numEdges": 7832,
+    "averageInDegree": 5.1936339522546415,
+    "averageOutDegree": 5.1936339522546415,
+    "selfLinks": 1,
+    "removed": "The Sign of Three",
+    "averagePathLength": 4.74216440025711,
+    "sizeLargest": 1095
+  },
+  "32": {
+    "numNodes": 1507,
+    "numEdges": 7744,
+    "averageInDegree": 5.138686131386861,
+    "averageOutDegree": 5.138686131386861,
+    "selfLinks": 1,
+    "removed": "A Study in Scarlet",
+    "averagePathLength": 4.798221478485355,
+    "sizeLargest": 1091
+  },
+  "33": {
+    "numNodes": 1506,
+    "numEdges": 7662,
+    "averageInDegree": 5.087649402390438,
+    "averageOutDegree": 5.087649402390438,
+    "selfLinks": 1,
+    "removed": "The Hounds of Baskerville",
+    "averagePathLength": 4.859326374672497,
+    "sizeLargest": 1090
+  },
+  "34": {
+    "numNodes": 1505,
+    "numEdges": 7581,
+    "averageInDegree": 5.037209302325581,
+    "averageOutDegree": 5.037209302325581,
+    "selfLinks": 1,
+    "removed": "List of Sherlock Holmes Adaptations: Books and Short Stories",
+    "averagePathLength": 4.859326374672497,
+    "sizeLargest": 1090
+  },
+  "35": {
+    "numNodes": 1504,
+    "numEdges": 7501,
+    "averageInDegree": 4.9873670212765955,
+    "averageOutDegree": 4.9873670212765955,
+    "selfLinks": 1,
+    "removed": "A Scandal in Belgravia",
+    "averagePathLength": 4.89371809367184,
+    "sizeLargest": 1081
+  },
+  "36": {
+    "numNodes": 1503,
+    "numEdges": 7422,
+    "averageInDegree": 4.93812375249501,
+    "averageOutDegree": 4.93812375249501,
+    "selfLinks": 1,
+    "removed": "The Abominable Bride",
+    "averagePathLength": 4.922186999263783,
+    "sizeLargest": 1075
+  },
+  "37": {
+    "numNodes": 1502,
+    "numEdges": 7343,
+    "averageInDegree": 4.888814913448735,
+    "averageOutDegree": 4.888814913448735,
+    "selfLinks": 1,
+    "removed": "The Empty Hearse",
+    "averagePathLength": 4.944747908343023,
+    "sizeLargest": 1070
+  },
+  "38": {
+    "numNodes": 1501,
+    "numEdges": 7264,
+    "averageInDegree": 4.83944037308461,
+    "averageOutDegree": 4.83944037308461,
+    "selfLinks": 1,
+    "removed": "The Blind Banker",
+    "averagePathLength": 5.029817931982136,
+    "sizeLargest": 1066
+  },
+  "39": {
+    "numNodes": 1500,
+    "numEdges": 7186,
+    "averageInDegree": 4.790666666666667,
+    "averageOutDegree": 4.790666666666667,
+    "selfLinks": 1,
+    "removed": "Jeremy Brett",
+    "averagePathLength": 5.036150234741784,
+    "sizeLargest": 1065
+  },
+  "40": {
+    "numNodes": 1499,
+    "numEdges": 7111,
+    "averageInDegree": 4.743829219479653,
+    "averageOutDegree": 4.743829219479653,
+    "selfLinks": 1,
+    "removed": "Elementary: Season Three",
+    "averagePathLength": 5.056390977443609,
+    "sizeLargest": 1064
+  },
+  "41": {
+    "numNodes": 1498,
+    "numEdges": 7037,
+    "averageInDegree": 4.6975967957276366,
+    "averageOutDegree": 4.6975967957276366,
+    "selfLinks": 1,
+    "removed": "Sherlock Holmes (2009 film)",
+    "averagePathLength": 5.085625773146189,
+    "sizeLargest": 1059
+  },
+  "42": {
+    "numNodes": 1497,
+    "numEdges": 6965,
+    "averageInDegree": 4.652638610554442,
+    "averageOutDegree": 4.652638610554442,
+    "selfLinks": 1,
+    "removed": "The Reichenbach Fall",
+    "averagePathLength": 5.145185084500023,
+    "sizeLargest": 1051
+  },
+  "43": {
+    "numNodes": 1496,
+    "numEdges": 6893,
+    "averageInDegree": 4.607620320855615,
+    "averageOutDegree": 4.607620320855615,
+    "selfLinks": 1,
+    "removed": "United States",
+    "averagePathLength": 5.196015200207979,
+    "sizeLargest": 1042
+  },
+  "44": {
+    "numNodes": 1495,
+    "numEdges": 6822,
+    "averageInDegree": 4.563210702341137,
+    "averageOutDegree": 4.563210702341137,
+    "selfLinks": 1,
+    "removed": "France",
+    "averagePathLength": 5.2187550899533575,
+    "sizeLargest": 1040
+  },
+  "45": {
+    "numNodes": 1494,
+    "numEdges": 6752,
+    "averageInDegree": 4.519410977242303,
+    "averageOutDegree": 4.519410977242303,
+    "selfLinks": 1,
+    "removed": "Canon of Sherlock Holmes",
+    "averagePathLength": 5.279325166559209,
+    "sizeLargest": 1035
+  },
+  "46": {
+    "numNodes": 1493,
+    "numEdges": 6684,
+    "averageInDegree": 4.476892163429337,
+    "averageOutDegree": 4.476892163429337,
+    "selfLinks": 1,
+    "removed": "Sherlock Holmes (Brett)",
+    "averagePathLength": 5.290694321435192,
+    "sizeLargest": 1034
+  },
+  "47": {
+    "numNodes": 1492,
+    "numEdges": 6617,
+    "averageInDegree": 4.434986595174263,
+    "averageOutDegree": 4.434986595174263,
+    "selfLinks": 1,
+    "removed": "Elementary: Season Four",
+    "averagePathLength": 5.299820084498375,
+    "sizeLargest": 1033
+  },
+  "48": {
+    "numNodes": 1491,
+    "numEdges": 6550,
+    "averageInDegree": 4.393024815560027,
+    "averageOutDegree": 4.393024815560027,
+    "selfLinks": 1,
+    "removed": "Jim Moriarty",
+    "averagePathLength": 5.398640232016355,
+    "sizeLargest": 1026
+  },
+  "49": {
+    "numNodes": 1490,
+    "numEdges": 6483,
+    "averageInDegree": 4.351006711409396,
+    "averageOutDegree": 4.351006711409396,
+    "selfLinks": 1,
+    "removed": "221B Baker Street",
+    "averagePathLength": 5.427914770217588,
+    "sizeLargest": 1021
+  },
+  "50": {
+    "numNodes": 1489,
+    "numEdges": 6419,
+    "averageInDegree": 4.310946944257891,
+    "averageOutDegree": 4.310946944257891,
+    "selfLinks": 1,
+    "removed": "Germany",
+    "averagePathLength": 5.458114103159806,
+    "sizeLargest": 1019
+  },
+  "51": {
+    "numNodes": 1488,
+    "numEdges": 6358,
+    "averageInDegree": 4.272849462365591,
+    "averageOutDegree": 4.272849462365591,
+    "selfLinks": 1,
+    "removed": "James Moriarty (Harris)",
+    "averagePathLength": 5.4719183332171974,
+    "sizeLargest": 1017
+  },
+  "52": {
+    "numNodes": 1487,
+    "numEdges": 6298,
+    "averageInDegree": 4.23537323470074,
+    "averageOutDegree": 4.23537323470074,
+    "selfLinks": 1,
+    "removed": "James Moriarty",
+    "averagePathLength": 5.527269753558766,
+    "sizeLargest": 1014
+  },
+  "53": {
+    "numNodes": 1486,
+    "numEdges": 6239,
+    "averageInDegree": 4.198519515477793,
+    "averageOutDegree": 4.198519515477793,
+    "selfLinks": 1,
+    "removed": "Timeline of Sherlock Holmes",
+    "averagePathLength": 5.527269753558766,
+    "sizeLargest": 1014
+  },
+  "54": {
+    "numNodes": 1485,
+    "numEdges": 6180,
+    "averageInDegree": 4.161616161616162,
+    "averageOutDegree": 4.161616161616162,
+    "selfLinks": 1,
+    "removed": "John Watson (Granada)",
+    "averagePathLength": 5.533395892917761,
+    "sizeLargest": 1013
+  },
+  "55": {
+    "numNodes": 1484,
+    "numEdges": 6122,
+    "averageInDegree": 4.12533692722372,
+    "averageOutDegree": 4.12533692722372,
+    "selfLinks": 1,
+    "removed": "Inspector Lestrade",
+    "averagePathLength": 5.585149494177904,
+    "sizeLargest": 1011
+  },
+  "56": {
+    "numNodes": 1483,
+    "numEdges": 6066,
+    "averageInDegree": 4.090357383681726,
+    "averageOutDegree": 4.090357383681726,
+    "selfLinks": 1,
+    "removed": "List of detectives, constables, and agents in Sherlock Holmes",
+    "averagePathLength": 5.619418543357531,
+    "sizeLargest": 1007
+  },
+  "57": {
+    "numNodes": 1482,
+    "numEdges": 6011,
+    "averageInDegree": 4.056005398110662,
+    "averageOutDegree": 4.056005398110662,
+    "selfLinks": 1,
+    "removed": "Arthur Conan Doyle",
+    "averagePathLength": 5.6865048514880865,
+    "sizeLargest": 1006
+  },
+  "58": {
+    "numNodes": 1481,
+    "numEdges": 5958,
+    "averageInDegree": 4.022957461174882,
+    "averageOutDegree": 4.022957461174882,
+    "selfLinks": 1,
+    "removed": "The Sign of the Four",
+    "averagePathLength": 5.748825237435105,
+    "sizeLargest": 1004
+  },
+  "59": {
+    "numNodes": 1480,
+    "numEdges": 5906,
+    "averageInDegree": 3.9905405405405405,
+    "averageOutDegree": 3.9905405405405405,
+    "selfLinks": 1,
+    "removed": "Mrs Hudson (Williams)",
+    "averagePathLength": 5.771045321943525,
+    "sizeLargest": 1002
+  },
+  "60": {
+    "numNodes": 1479,
+    "numEdges": 5854,
+    "averageInDegree": 3.958079783637593,
+    "averageOutDegree": 3.958079783637593,
+    "selfLinks": 1,
+    "removed": "Mycroft Holmes (Gatiss)",
+    "averagePathLength": 5.829604153251448,
+    "sizeLargest": 999
+  },
+  "61": {
+    "numNodes": 1478,
+    "numEdges": 5803,
+    "averageInDegree": 3.9262516914749663,
+    "averageOutDegree": 3.9262516914749663,
+    "selfLinks": 1,
+    "removed": "Sherlock Holmes (Downey)",
+    "averagePathLength": 5.852954655549816,
+    "sizeLargest": 998
+  },
+  "62": {
+    "numNodes": 1477,
+    "numEdges": 5754,
+    "averageInDegree": 3.895734597156398,
+    "averageOutDegree": 3.895734597156398,
+    "selfLinks": 1,
+    "removed": "Elementary: Season Five",
+    "averagePathLength": 5.864997603251521,
+    "sizeLargest": 997
+  },
+  "63": {
+    "numNodes": 1476,
+    "numEdges": 5707,
+    "averageInDegree": 3.866531165311653,
+    "averageOutDegree": 3.866531165311653,
+    "selfLinks": 1,
+    "removed": "Unaired Pilot",
+    "averagePathLength": 5.912120732222331,
+    "sizeLargest": 993
+  },
+  "64": {
+    "numNodes": 1475,
+    "numEdges": 5660,
+    "averageInDegree": 3.8372881355932202,
+    "averageOutDegree": 3.8372881355932202,
+    "selfLinks": 1,
+    "removed": "A Scandal in Bohemia",
+    "averagePathLength": 5.9547573920411985,
+    "sizeLargest": 989
+  },
+  "65": {
+    "numNodes": 1474,
+    "numEdges": 5614,
+    "averageInDegree": 3.8086838534599727,
+    "averageOutDegree": 3.8086838534599727,
+    "selfLinks": 1,
+    "removed": "Robert Doherty",
+    "averagePathLength": 5.990069281222697,
+    "sizeLargest": 988
+  },
+  "66": {
+    "numNodes": 1473,
+    "numEdges": 5568,
+    "averageInDegree": 3.780040733197556,
+    "averageOutDegree": 3.780040733197556,
+    "selfLinks": 1,
+    "removed": "The Valley of Fear",
+    "averagePathLength": 6.001050376729607,
+    "sizeLargest": 984
+  },
+  "67": {
+    "numNodes": 1472,
+    "numEdges": 5525,
+    "averageInDegree": 3.7533967391304346,
+    "averageOutDegree": 3.7533967391304346,
+    "selfLinks": 1,
+    "removed": "The Six Thatchers",
+    "averagePathLength": 6.010549600672552,
+    "sizeLargest": 976
+  },
+  "68": {
+    "numNodes": 1471,
+    "numEdges": 5482,
+    "averageInDegree": 3.726716519374575,
+    "averageOutDegree": 3.726716519374575,
+    "selfLinks": 1,
+    "removed": "Edward Hardwicke",
+    "averagePathLength": 6.024793658766153,
+    "sizeLargest": 974
+  },
+  "69": {
+    "numNodes": 1470,
+    "numEdges": 5441,
+    "averageInDegree": 3.701360544217687,
+    "averageOutDegree": 3.701360544217687,
+    "selfLinks": 1,
+    "removed": "Irene Adler",
+    "averagePathLength": 6.07864489961984,
+    "sizeLargest": 972
+  },
+  "70": {
+    "numNodes": 1469,
+    "numEdges": 5400,
+    "averageInDegree": 3.6759700476514636,
+    "averageOutDegree": 3.6759700476514636,
+    "selfLinks": 1,
+    "removed": "The Strand Magazine",
+    "averagePathLength": 6.086552284285517,
+    "sizeLargest": 971
+  },
+  "71": {
+    "numNodes": 1468,
+    "numEdges": 5360,
+    "averageInDegree": 3.6512261580381473,
+    "averageOutDegree": 3.6512261580381473,
+    "selfLinks": 1,
+    "removed": "Val Andrews",
+    "averagePathLength": 6.086552284285517,
+    "sizeLargest": 971
+  },
+  "72": {
+    "numNodes": 1467,
+    "numEdges": 5321,
+    "averageInDegree": 3.627130197682345,
+    "averageOutDegree": 3.627130197682345,
+    "selfLinks": 1,
+    "removed": "List of Sherlock Holmes Stories",
+    "averagePathLength": 6.086552284285517,
+    "sizeLargest": 971
+  },
+  "73": {
+    "numNodes": 1466,
+    "numEdges": 5283,
+    "averageInDegree": 3.6036834924965895,
+    "averageOutDegree": 3.6036834924965895,
+    "selfLinks": 1,
+    "removed": "The Lying Detective",
+    "averagePathLength": 6.103541394809337,
+    "sizeLargest": 969
+  },
+  "74": {
+    "numNodes": 1465,
+    "numEdges": 5245,
+    "averageInDegree": 3.580204778156997,
+    "averageOutDegree": 3.580204778156997,
+    "selfLinks": 1,
+    "removed": "Russian Empire",
+    "averagePathLength": 6.122945239418656,
+    "sizeLargest": 964
+  },
+  "75": {
+    "numNodes": 1464,
+    "numEdges": 5208,
+    "averageInDegree": 3.557377049180328,
+    "averageOutDegree": 3.557377049180328,
+    "selfLinks": 1,
+    "removed": "Greg Lestrade",
+    "averagePathLength": 6.2007003408872565,
+    "sizeLargest": 963
+  },
+  "76": {
+    "numNodes": 1463,
+    "numEdges": 5171,
+    "averageInDegree": 3.5345181134654817,
+    "averageOutDegree": 3.5345181134654817,
+    "selfLinks": 1,
+    "removed": "Jamie Moriarty",
+    "averagePathLength": 6.219151052676357,
+    "sizeLargest": 958
+  },
+  "77": {
+    "numNodes": 1462,
+    "numEdges": 5135,
+    "averageInDegree": 3.512311901504788,
+    "averageOutDegree": 3.512311901504788,
+    "selfLinks": 1,
+    "removed": "The Return of Sherlock Holmes",
+    "averagePathLength": 6.272679880664969,
+    "sizeLargest": 949
+  },
+  "78": {
+    "numNodes": 1461,
+    "numEdges": 5099,
+    "averageInDegree": 3.490075290896646,
+    "averageOutDegree": 3.490075290896646,
+    "selfLinks": 1,
+    "removed": "The Adventure of the Musgrave Ritual",
+    "averagePathLength": 6.362577043972393,
+    "sizeLargest": 946
+  },
+  "79": {
+    "numNodes": 1460,
+    "numEdges": 5064,
+    "averageInDegree": 3.4684931506849317,
+    "averageOutDegree": 3.4684931506849317,
+    "selfLinks": 1,
+    "removed": "Mycroft Holmes",
+    "averagePathLength": 6.400091216276938,
+    "sizeLargest": 944
+  },
+  "80": {
+    "numNodes": 1459,
+    "numEdges": 5031,
+    "averageInDegree": 3.4482522275531187,
+    "averageOutDegree": 3.4482522275531187,
+    "selfLinks": 1,
+    "removed": "Morland Holmes",
+    "averagePathLength": 6.411500893119587,
+    "sizeLargest": 941
+  },
+  "81": {
+    "numNodes": 1458,
+    "numEdges": 4998,
+    "averageInDegree": 3.42798353909465,
+    "averageOutDegree": 3.42798353909465,
+    "selfLinks": 1,
+    "removed": "Switzerland",
+    "averagePathLength": 6.437921736569007,
+    "sizeLargest": 940
+  },
+  "82": {
+    "numNodes": 1457,
+    "numEdges": 4965,
+    "averageInDegree": 3.4076870281400136,
+    "averageOutDegree": 3.4076870281400136,
+    "selfLinks": 1,
+    "removed": "Basil Rathbone",
+    "averagePathLength": 6.295930914780228,
+    "sizeLargest": 905
+  },
+  "83": {
+    "numNodes": 1456,
+    "numEdges": 4933,
+    "averageInDegree": 3.3880494505494507,
+    "averageOutDegree": 3.3880494505494507,
+    "selfLinks": 1,
+    "removed": "Mary Russell",
+    "averagePathLength": 6.295930914780228,
+    "sizeLargest": 905
+  },
+  "84": {
+    "numNodes": 1455,
+    "numEdges": 4901,
+    "averageInDegree": 3.368384879725086,
+    "averageOutDegree": 3.368384879725086,
+    "selfLinks": 1,
+    "removed": "John Coles",
+    "averagePathLength": 6.314687276433521,
+    "sizeLargest": 904
+  },
+  "85": {
+    "numNodes": 1454,
+    "numEdges": 4869,
+    "averageInDegree": 3.3486932599724897,
+    "averageOutDegree": 3.3486932599724897,
+    "selfLinks": 1,
+    "removed": "Jason Tracey",
+    "averagePathLength": 6.330618804526916,
+    "sizeLargest": 903
+  },
+  "86": {
+    "numNodes": 1453,
+    "numEdges": 4837,
+    "averageInDegree": 3.3289745354439093,
+    "averageOutDegree": 3.3289745354439093,
+    "selfLinks": 1,
+    "removed": "John Watson (Law)",
+    "averagePathLength": 6.344594943780131,
+    "sizeLargest": 902
+  },
+  "87": {
+    "numNodes": 1452,
+    "numEdges": 4806,
+    "averageInDegree": 3.309917355371901,
+    "averageOutDegree": 3.309917355371901,
+    "selfLinks": 1,
+    "removed": "Laurie R. King",
+    "averagePathLength": 6.344594943780131,
+    "sizeLargest": 902
+  },
+  "88": {
+    "numNodes": 1451,
+    "numEdges": 4775,
+    "averageInDegree": 3.2908339076498967,
+    "averageOutDegree": 3.2908339076498967,
+    "selfLinks": 1,
+    "removed": "Bob Goodman",
+    "averagePathLength": 6.387925761499568,
+    "sizeLargest": 901
+  },
+  "89": {
+    "numNodes": 1450,
+    "numEdges": 4745,
+    "averageInDegree": 3.2724137931034485,
+    "averageOutDegree": 3.2724137931034485,
+    "selfLinks": 0,
+    "removed": "The Adventure of the Second Stain",
+    "averagePathLength": 6.412878506983068,
+    "sizeLargest": 900
+  },
+  "90": {
+    "numNodes": 1449,
+    "numEdges": 4714,
+    "averageInDegree": 3.2532781228433403,
+    "averageOutDegree": 3.2532781228433403,
+    "selfLinks": 0,
+    "removed": "Young Sherlock Holmes",
+    "averagePathLength": 6.448273384681321,
+    "sizeLargest": 899
+  },
+  "91": {
+    "numNodes": 1448,
+    "numEdges": 4684,
+    "averageInDegree": 3.234806629834254,
+    "averageOutDegree": 3.234806629834254,
+    "selfLinks": 0,
+    "removed": "India",
+    "averagePathLength": 6.50104748603352,
+    "sizeLargest": 896
+  },
+  "92": {
+    "numNodes": 1447,
+    "numEdges": 4654,
+    "averageInDegree": 3.216309606081548,
+    "averageOutDegree": 3.216309606081548,
+    "selfLinks": 0,
+    "removed": "Scotland Yard",
+    "averagePathLength": 6.528601777183212,
+    "sizeLargest": 894
+  },
+  "93": {
+    "numNodes": 1446,
+    "numEdges": 4624,
+    "averageInDegree": 3.1977869986168743,
+    "averageOutDegree": 3.1977869986168743,
+    "selfLinks": 0,
+    "removed": "The Adventure of the Final Problem",
+    "averagePathLength": 6.585007955086695,
+    "sizeLargest": 889
+  },
+  "94": {
+    "numNodes": 1445,
+    "numEdges": 4594,
+    "averageInDegree": 3.1792387543252594,
+    "averageOutDegree": 3.1792387543252594,
+    "selfLinks": 0,
+    "removed": "Bohemia",
+    "averagePathLength": 6.6081040156155755,
+    "sizeLargest": 887
+  },
+  "95": {
+    "numNodes": 1444,
+    "numEdges": 4565,
+    "averageInDegree": 3.1613573407202216,
+    "averageOutDegree": 3.1613573407202216,
+    "selfLinks": 0,
+    "removed": "Molly Hooper",
+    "averagePathLength": 6.625455319368486,
+    "sizeLargest": 881
+  },
+  "96": {
+    "numNodes": 1443,
+    "numEdges": 4536,
+    "averageInDegree": 3.1434511434511436,
+    "averageOutDegree": 3.1434511434511436,
+    "selfLinks": 0,
+    "removed": "The Adventure of the Empty House",
+    "averagePathLength": 6.653431426146629,
+    "sizeLargest": 877
+  },
+  "97": {
+    "numNodes": 1442,
+    "numEdges": 4508,
+    "averageInDegree": 3.1262135922330097,
+    "averageOutDegree": 3.1262135922330097,
+    "selfLinks": 0,
+    "removed": "The House of Silk",
+    "averagePathLength": 6.656646636261178,
+    "sizeLargest": 872
+  },
+  "98": {
+    "numNodes": 1441,
+    "numEdges": 4480,
+    "averageInDegree": 3.1089521165857046,
+    "averageOutDegree": 3.1089521165857046,
+    "selfLinks": 0,
+    "removed": "River Thames",
+    "averagePathLength": 6.81401216728031,
+    "sizeLargest": 871
+  },
+  "99": {
+    "numNodes": 1440,
+    "numEdges": 4453,
+    "averageInDegree": 3.092361111111111,
+    "averageOutDegree": 3.092361111111111,
+    "selfLinks": 0,
+    "removed": "Rosalie Williams",
+    "averagePathLength": 6.81401216728031,
+    "sizeLargest": 871
+  },
+  "100": {
+    "numNodes": 1439,
+    "numEdges": 4426,
+    "averageInDegree": 3.075747046560111,
+    "averageOutDegree": 3.075747046560111,
+    "selfLinks": 0,
+    "removed": "The Adventure of the Bruce-Partington Plans",
+    "averagePathLength": 6.925511605585105,
+    "sizeLargest": 869
+  },
+  "101": {
+    "numNodes": 1438,
+    "numEdges": 4399,
+    "averageInDegree": 3.0591098748261474,
+    "averageOutDegree": 3.0591098748261474,
+    "selfLinks": 0,
+    "removed": "Sherlock Holmes (1939 film series)",
+    "averagePathLength": 6.955982494859751,
+    "sizeLargest": 862
+  },
+  "102": {
+    "numNodes": 1437,
+    "numEdges": 4372,
+    "averageInDegree": 3.0424495476687543,
+    "averageOutDegree": 3.0424495476687543,
+    "selfLinks": 0,
+    "removed": "Paris",
+    "averagePathLength": 6.959571933317558,
+    "sizeLargest": 858
+  },
+  "103": {
+    "numNodes": 1436,
+    "numEdges": 4345,
+    "averageInDegree": 3.0257660167130918,
+    "averageOutDegree": 3.0257660167130918,
+    "selfLinks": 0,
+    "removed": "The Adventures of Sherlock Holmes",
+    "averagePathLength": 7.069988361090876,
+    "sizeLargest": 847
+  },
+  "104": {
+    "numNodes": 1435,
+    "numEdges": 4318,
+    "averageInDegree": 3.0090592334494772,
+    "averageOutDegree": 3.0090592334494772,
+    "selfLinks": 0,
+    "removed": "The Casebook of Sherlock Holmes",
+    "averagePathLength": 7.129457538411048,
+    "sizeLargest": 834
+  },
+  "105": {
+    "numNodes": 1434,
+    "numEdges": 4292,
+    "averageInDegree": 2.99302649930265,
+    "averageOutDegree": 2.99302649930265,
+    "selfLinks": 0,
+    "removed": "Murder Rooms",
+    "averagePathLength": 7.129457538411048,
+    "sizeLargest": 834
+  },
+  "106": {
+    "numNodes": 1433,
+    "numEdges": 4266,
+    "averageInDegree": 2.9769713886950453,
+    "averageOutDegree": 2.9769713886950453,
+    "selfLinks": 0,
+    "removed": "Peter Cushing",
+    "averagePathLength": 7.133250415550836,
+    "sizeLargest": 833
+  },
+  "107": {
+    "numNodes": 1432,
+    "numEdges": 4240,
+    "averageInDegree": 2.9608938547486034,
+    "averageOutDegree": 2.9608938547486034,
+    "selfLinks": 0,
+    "removed": "Dartmoor",
+    "averagePathLength": 7.168703765605244,
+    "sizeLargest": 830
+  },
+  "108": {
+    "numNodes": 1431,
+    "numEdges": 4214,
+    "averageInDegree": 2.9447938504542277,
+    "averageOutDegree": 2.9447938504542277,
+    "selfLinks": 0,
+    "removed": "New Scotland Yard",
+    "averagePathLength": 7.338478964401294,
+    "sizeLargest": 825
+  },
+  "109": {
+    "numNodes": 1430,
+    "numEdges": 4188,
+    "averageInDegree": 2.928671328671329,
+    "averageOutDegree": 2.928671328671329,
+    "selfLinks": 0,
+    "removed": "His Last Bow (story)",
+    "averagePathLength": 7.417220554656101,
+    "sizeLargest": 818
+  },
+  "110": {
+    "numNodes": 1429,
+    "numEdges": 4163,
+    "averageInDegree": 2.9132260321903427,
+    "averageOutDegree": 2.9132260321903427,
+    "selfLinks": 0,
+    "removed": "Guy Ferland",
+    "averagePathLength": 7.472586219310245,
+    "sizeLargest": 817
+  },
+  "111": {
+    "numNodes": 1428,
+    "numEdges": 4138,
+    "averageInDegree": 2.8977591036414565,
+    "averageOutDegree": 2.8977591036414565,
+    "selfLinks": 0,
+    "removed": "The Adventure of the Speckled Band",
+    "averagePathLength": 7.487194592866603,
+    "sizeLargest": 811
+  },
+  "112": {
+    "numNodes": 1427,
+    "numEdges": 4114,
+    "averageInDegree": 2.882971268395235,
+    "averageOutDegree": 2.882971268395235,
+    "selfLinks": 0,
+    "removed": "John Noble",
+    "averagePathLength": 7.487194592866603,
+    "sizeLargest": 811
+  },
+  "113": {
+    "numNodes": 1426,
+    "numEdges": 4090,
+    "averageInDegree": 2.868162692847125,
+    "averageOutDegree": 2.868162692847125,
+    "selfLinks": 0,
+    "removed": "Martha Louise Hudson",
+    "averagePathLength": 7.497302312259301,
+    "sizeLargest": 802
+  },
+  "114": {
+    "numNodes": 1425,
+    "numEdges": 4066,
+    "averageInDegree": 2.8533333333333335,
+    "averageOutDegree": 2.8533333333333335,
+    "selfLinks": 0,
+    "removed": "Craig Sweeny",
+    "averagePathLength": 7.539624530663329,
+    "sizeLargest": 800
+  },
+  "115": {
+    "numNodes": 1424,
+    "numEdges": 4042,
+    "averageInDegree": 2.8384831460674156,
+    "averageOutDegree": 2.8384831460674156,
+    "selfLinks": 0,
+    "removed": "The Memoirs of Sherlock Holmes",
+    "averagePathLength": 7.617245463484402,
+    "sizeLargest": 792
+  },
+  "116": {
+    "numNodes": 1423,
+    "numEdges": 4018,
+    "averageInDegree": 2.8236120871398454,
+    "averageOutDegree": 2.8236120871398454,
+    "selfLinks": 0,
+    "removed": "Austria-Hungary",
+    "averagePathLength": 7.686234377250396,
+    "sizeLargest": 791
+  },
+  "117": {
+    "numNodes": 1422,
+    "numEdges": 3994,
+    "averageInDegree": 2.8087201125175807,
+    "averageOutDegree": 2.8087201125175807,
+    "selfLinks": 0,
+    "removed": "Sherlock Holmes Adaptations",
+    "averagePathLength": 7.686234377250396,
+    "sizeLargest": 791
+  },
+  "118": {
+    "numNodes": 1421,
+    "numEdges": 3971,
+    "averageInDegree": 2.7945109078114005,
+    "averageOutDegree": 2.7945109078114005,
+    "selfLinks": 0,
+    "removed": "Step Nine",
+    "averagePathLength": 7.743585053985978,
+    "sizeLargest": 790
+  },
+  "119": {
+    "numNodes": 1420,
+    "numEdges": 3948,
+    "averageInDegree": 2.780281690140845,
+    "averageOutDegree": 2.780281690140845,
+    "selfLinks": 0,
+    "removed": "Benedict Cumberbatch",
+    "averagePathLength": 7.74218668197862,
+    "sizeLargest": 770
+  },
+  "120": {
+    "numNodes": 1419,
+    "numEdges": 3926,
+    "averageInDegree": 2.766737138830162,
+    "averageOutDegree": 2.766737138830162,
+    "selfLinks": 0,
+    "removed": "Barrie Roberts",
+    "averagePathLength": 7.74218668197862,
+    "sizeLargest": 770
+  },
+  "121": {
+    "numNodes": 1418,
+    "numEdges": 3904,
+    "averageInDegree": 2.753173483779972,
+    "averageOutDegree": 2.753173483779972,
+    "selfLinks": 0,
+    "removed": "Kitty Winter (Lovibond)",
+    "averagePathLength": 7.8212003612559755,
+    "sizeLargest": 768
+  },
+  "122": {
+    "numNodes": 1417,
+    "numEdges": 3882,
+    "averageInDegree": 2.739590684544813,
+    "averageOutDegree": 2.739590684544813,
+    "selfLinks": 0,
+    "removed": "Sherlock Holmes: Crimes & Punishments",
+    "averagePathLength": 7.941530643671081,
+    "sizeLargest": 765
+  },
+  "123": {
+    "numNodes": 1416,
+    "numEdges": 3860,
+    "averageInDegree": 2.725988700564972,
+    "averageOutDegree": 2.725988700564972,
+    "selfLinks": 0,
+    "removed": "Mary Elizabeth Watson",
+    "averagePathLength": 8.009662899359068,
+    "sizeLargest": 757
+  },
+  "124": {
+    "numNodes": 1415,
+    "numEdges": 3838,
+    "averageInDegree": 2.7123674911660776,
+    "averageOutDegree": 2.7123674911660776,
+    "selfLinks": 0,
+    "removed": "Dead Man's Switch",
+    "averagePathLength": 8.083180213255574,
+    "sizeLargest": 755
+  },
+  "125": {
+    "numNodes": 1414,
+    "numEdges": 3816,
+    "averageInDegree": 2.6987270155586986,
+    "averageOutDegree": 2.6987270155586986,
+    "selfLinks": 0,
+    "removed": "Sherlock Holmes in the 22nd Century",
+    "averagePathLength": 8.191899070385126,
+    "sizeLargest": 753
+  },
+  "126": {
+    "numNodes": 1413,
+    "numEdges": 3794,
+    "averageInDegree": 2.6850672328379335,
+    "averageOutDegree": 2.6850672328379335,
+    "selfLinks": 0,
+    "removed": "Grimpen",
+    "averagePathLength": 8.208276347436813,
+    "sizeLargest": 743
+  },
+  "127": {
+    "numNodes": 1412,
+    "numEdges": 3773,
+    "averageInDegree": 2.6720963172804533,
+    "averageOutDegree": 2.6720963172804533,
+    "selfLinks": 0,
+    "removed": "Shinwell Johnson (Ellis)",
+    "averagePathLength": 8.251155828613625,
+    "sizeLargest": 742
+  },
+  "128": {
+    "numNodes": 1411,
+    "numEdges": 3752,
+    "averageInDegree": 2.659107016300496,
+    "averageOutDegree": 2.659107016300496,
+    "selfLinks": 0,
+    "removed": "David Burke",
+    "averagePathLength": 8.251155828613625,
+    "sizeLargest": 742
+  },
+  "129": {
+    "numNodes": 1410,
+    "numEdges": 3731,
+    "averageInDegree": 2.6460992907801417,
+    "averageOutDegree": 2.6460992907801417,
+    "selfLinks": 0,
+    "removed": "Douglas Wilmer",
+    "averagePathLength": 8.319201590254222,
+    "sizeLargest": 741
+  },
+  "130": {
+    "numNodes": 1409,
+    "numEdges": 3710,
+    "averageInDegree": 2.6330731014904187,
+    "averageOutDegree": 2.6330731014904187,
+    "selfLinks": 0,
+    "removed": "The Problem of Thor Bridge",
+    "averagePathLength": 8.402102516253983,
+    "sizeLargest": 734
+  },
+  "131": {
+    "numNodes": 1408,
+    "numEdges": 3689,
+    "averageInDegree": 2.620028409090909,
+    "averageOutDegree": 2.620028409090909,
+    "selfLinks": 0,
+    "removed": "The Adventure of the Cardboard Box",
+    "averagePathLength": 8.47427171402301,
+    "sizeLargest": 732
+  },
+  "132": {
+    "numNodes": 1407,
+    "numEdges": 3669,
+    "averageInDegree": 2.6076759061833688,
+    "averageOutDegree": 2.6076759061833688,
+    "selfLinks": 0,
+    "removed": "The Boy Sherlock Holmes",
+    "averagePathLength": 8.47427171402301,
+    "sizeLargest": 732
+  },
+  "133": {
+    "numNodes": 1406,
+    "numEdges": 3649,
+    "averageInDegree": 2.5953058321479374,
+    "averageOutDegree": 2.5953058321479374,
+    "selfLinks": 0,
+    "removed": "Young Sherlock Holmes (novels)",
+    "averagePathLength": 8.356462822872203,
+    "sizeLargest": 722
+  },
+  "134": {
+    "numNodes": 1405,
+    "numEdges": 3629,
+    "averageInDegree": 2.582918149466192,
+    "averageOutDegree": 2.582918149466192,
+    "selfLinks": 0,
+    "removed": "Sussex",
+    "averagePathLength": 8.515026122886827,
+    "sizeLargest": 710
+  },
+  "135": {
+    "numNodes": 1404,
+    "numEdges": 3609,
+    "averageInDegree": 2.5705128205128207,
+    "averageOutDegree": 2.5705128205128207,
+    "selfLinks": 0,
+    "removed": "Sherlock Hound",
+    "averagePathLength": 8.515026122886827,
+    "sizeLargest": 710
+  },
+  "136": {
+    "numNodes": 1403,
+    "numEdges": 3589,
+    "averageInDegree": 2.558089807555239,
+    "averageOutDegree": 2.558089807555239,
+    "selfLinks": 0,
+    "removed": "Charles Augustus Magnussen",
+    "averagePathLength": 8.553752990430622,
+    "sizeLargest": 704
+  },
+  "137": {
+    "numNodes": 1402,
+    "numEdges": 3569,
+    "averageInDegree": 2.5456490727532097,
+    "averageOutDegree": 2.5456490727532097,
+    "selfLinks": 0,
+    "removed": "The Adventure of the Naval Treaty",
+    "averagePathLength": 8.542210911086991,
+    "sizeLargest": 694
+  },
+  "138": {
+    "numNodes": 1401,
+    "numEdges": 3549,
+    "averageInDegree": 2.5331905781584583,
+    "averageOutDegree": 2.5331905781584583,
+    "selfLinks": 0,
+    "removed": "Mycroft Holmes (Ifans)",
+    "averagePathLength": 8.64366622459108,
+    "sizeLargest": 693
+  },
+  "139": {
+    "numNodes": 1400,
+    "numEdges": 3529,
+    "averageInDegree": 2.520714285714286,
+    "averageOutDegree": 2.520714285714286,
+    "selfLinks": 0,
+    "removed": "M.",
+    "averagePathLength": 8.741574161598756,
+    "sizeLargest": 692
+  },
+  "140": {
+    "numNodes": 1399,
+    "numEdges": 3509,
+    "averageInDegree": 2.5082201572551823,
+    "averageOutDegree": 2.5082201572551823,
+    "selfLinks": 0,
+    "removed": "Jeffrey Paul King",
+    "averagePathLength": 8.811048889448184,
+    "sizeLargest": 691
+  },
+  "141": {
+    "numNodes": 1398,
+    "numEdges": 3489,
+    "averageInDegree": 2.495708154506438,
+    "averageOutDegree": 2.495708154506438,
+    "selfLinks": 0,
+    "removed": "Irene Adler (McAdams)",
+    "averagePathLength": 8.880264894479314,
+    "sizeLargest": 687
+  },
+  "142": {
+    "numNodes": 1397,
+    "numEdges": 3469,
+    "averageInDegree": 2.4831782390837507,
+    "averageOutDegree": 2.4831782390837507,
+    "selfLinks": 0,
+    "removed": "Mary Watson",
+    "averagePathLength": 8.965965913780893,
+    "sizeLargest": 679
+  },
+  "143": {
+    "numNodes": 1396,
+    "numEdges": 3450,
+    "averageInDegree": 2.4713467048710602,
+    "averageOutDegree": 2.4713467048710602,
+    "selfLinks": 0,
+    "removed": "The Diabolical Kind",
+    "averagePathLength": 9.035611734922854,
+    "sizeLargest": 678
+  },
+  "144": {
+    "numNodes": 1395,
+    "numEdges": 3431,
+    "averageInDegree": 2.4594982078853045,
+    "averageOutDegree": 2.4594982078853045,
+    "selfLinks": 0,
+    "removed": "Italy",
+    "averagePathLength": 9.064607335971655,
+    "sizeLargest": 667
+  },
+  "145": {
+    "numNodes": 1394,
+    "numEdges": 3412,
+    "averageInDegree": 2.447632711621234,
+    "averageOutDegree": 2.447632711621234,
+    "selfLinks": 0,
+    "removed": "A Study in Scarlet/Story Text",
+    "averagePathLength": 9.064607335971655,
+    "sizeLargest": 667
+  },
+  "146": {
+    "numNodes": 1393,
+    "numEdges": 3393,
+    "averageInDegree": 2.4357501794687724,
+    "averageOutDegree": 2.4357501794687724,
+    "selfLinks": 0,
+    "removed": "New York City",
+    "averagePathLength": 9.072805507745267,
+    "sizeLargest": 665
+  },
+  "147": {
+    "numNodes": 1392,
+    "numEdges": 3374,
+    "averageInDegree": 2.4238505747126435,
+    "averageOutDegree": 2.4238505747126435,
+    "selfLinks": 0,
+    "removed": "Sherlock Holmes (2013 TV series)",
+    "averagePathLength": 9.072805507745267,
+    "sizeLargest": 665
+  },
+  "148": {
+    "numNodes": 1391,
+    "numEdges": 3355,
+    "averageInDegree": 2.4119338605319913,
+    "averageOutDegree": 2.4119338605319913,
+    "selfLinks": 0,
+    "removed": "ITV",
+    "averagePathLength": 9.072805507745267,
+    "sizeLargest": 665
+  },
+  "149": {
+    "numNodes": 1390,
+    "numEdges": 3336,
+    "averageInDegree": 2.4,
+    "averageOutDegree": 2.4,
+    "selfLinks": 0,
+    "removed": "Reichenbach Falls",
+    "averagePathLength": 9.218451744828894,
+    "sizeLargest": 658
+  },
+  "150": {
+    "numNodes": 1389,
+    "numEdges": 3318,
+    "averageInDegree": 2.388768898488121,
+    "averageOutDegree": 2.388768898488121,
+    "selfLinks": 0,
+    "removed": "Mr Holmes",
+    "averagePathLength": 9.005307458848506,
+    "sizeLargest": 634
+  }
+}

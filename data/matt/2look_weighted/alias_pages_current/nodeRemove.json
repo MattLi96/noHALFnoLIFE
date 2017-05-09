@@ -1,0 +1,782 @@
+{
+  "0": {
+    "numNodes": 674,
+    "numEdges": 7400,
+    "averageInDegree": 10.979228486646884,
+    "averageOutDegree": 10.979228486646884,
+    "selfLinks": 6,
+    "removed": "Sydney Bristow",
+    "averagePathLength": 2.762593639357851,
+    "sizeLargest": 538
+  },
+  "1": {
+    "numNodes": 673,
+    "numEdges": 7162,
+    "averageInDegree": 10.64190193164933,
+    "averageOutDegree": 10.64190193164933,
+    "selfLinks": 6,
+    "removed": "Season 4",
+    "averagePathLength": 2.864225129130404,
+    "sizeLargest": 533
+  },
+  "2": {
+    "numNodes": 672,
+    "numEdges": 6926,
+    "averageInDegree": 10.306547619047619,
+    "averageOutDegree": 10.306547619047619,
+    "selfLinks": 6,
+    "removed": "Deaths on Alias",
+    "averagePathLength": 2.8701010396707116,
+    "sizeLargest": 533
+  },
+  "3": {
+    "numNodes": 671,
+    "numEdges": 6704,
+    "averageInDegree": 9.991058122205663,
+    "averageOutDegree": 9.991058122205663,
+    "selfLinks": 6,
+    "removed": "Arvin Sloane",
+    "averagePathLength": 3.520385175709768,
+    "sizeLargest": 531
+  },
+  "4": {
+    "numNodes": 670,
+    "numEdges": 6490,
+    "averageInDegree": 9.686567164179104,
+    "averageOutDegree": 9.686567164179104,
+    "selfLinks": 6,
+    "removed": "Jack Bristow",
+    "averagePathLength": 3.5479686293749686,
+    "sizeLargest": 527
+  },
+  "5": {
+    "numNodes": 669,
+    "numEdges": 6279,
+    "averageInDegree": 9.385650224215247,
+    "averageOutDegree": 9.385650224215247,
+    "selfLinks": 6,
+    "removed": "Sydney",
+    "averagePathLength": 3.5479686293749686,
+    "sizeLargest": 527
+  },
+  "6": {
+    "numNodes": 668,
+    "numEdges": 6070,
+    "averageInDegree": 9.08682634730539,
+    "averageOutDegree": 9.08682634730539,
+    "selfLinks": 6,
+    "removed": "Season 1",
+    "averagePathLength": 3.7425190839694658,
+    "sizeLargest": 525
+  },
+  "7": {
+    "numNodes": 667,
+    "numEdges": 5880,
+    "averageInDegree": 8.815592203898051,
+    "averageOutDegree": 8.815592203898051,
+    "selfLinks": 6,
+    "removed": "Michael Vaughn",
+    "averagePathLength": 3.7809316403366307,
+    "sizeLargest": 521
+  },
+  "8": {
+    "numNodes": 666,
+    "numEdges": 5703,
+    "averageInDegree": 8.563063063063064,
+    "averageOutDegree": 8.563063063063064,
+    "selfLinks": 6,
+    "removed": "Alias",
+    "averagePathLength": 3.8235041770151277,
+    "sizeLargest": 516
+  },
+  "9": {
+    "numNodes": 665,
+    "numEdges": 5535,
+    "averageInDegree": 8.323308270676693,
+    "averageOutDegree": 8.323308270676693,
+    "selfLinks": 6,
+    "removed": "Marcus Dixon",
+    "averagePathLength": 3.8613966557017543,
+    "sizeLargest": 513
+  },
+  "10": {
+    "numNodes": 664,
+    "numEdges": 5370,
+    "averageInDegree": 8.087349397590362,
+    "averageOutDegree": 8.087349397590362,
+    "selfLinks": 6,
+    "removed": "Marshall Flinkman",
+    "averagePathLength": 3.9413316213665825,
+    "sizeLargest": 509
+  },
+  "11": {
+    "numNodes": 663,
+    "numEdges": 5212,
+    "averageInDegree": 7.861236802413273,
+    "averageOutDegree": 7.861236802413273,
+    "selfLinks": 6,
+    "removed": "Episodes",
+    "averagePathLength": 3.9413316213665825,
+    "sizeLargest": 509
+  },
+  "12": {
+    "numNodes": 662,
+    "numEdges": 5059,
+    "averageInDegree": 7.641993957703927,
+    "averageOutDegree": 7.641993957703927,
+    "selfLinks": 6,
+    "removed": "Season 3",
+    "averagePathLength": 3.9729487944108377,
+    "sizeLargest": 485
+  },
+  "13": {
+    "numNodes": 661,
+    "numEdges": 4907,
+    "averageInDegree": 7.423600605143721,
+    "averageOutDegree": 7.423600605143721,
+    "selfLinks": 6,
+    "removed": "Season 2",
+    "averagePathLength": 4.074833077885242,
+    "sizeLargest": 477
+  },
+  "14": {
+    "numNodes": 660,
+    "numEdges": 4777,
+    "averageInDegree": 7.237878787878788,
+    "averageOutDegree": 7.237878787878788,
+    "selfLinks": 6,
+    "removed": "Irina Derevko",
+    "averagePathLength": 4.1415323117921385,
+    "sizeLargest": 475
+  },
+  "15": {
+    "numNodes": 659,
+    "numEdges": 4650,
+    "averageInDegree": 7.056145675265554,
+    "averageOutDegree": 7.056145675265554,
+    "selfLinks": 6,
+    "removed": "Vaughn",
+    "averagePathLength": 4.1415323117921385,
+    "sizeLargest": 475
+  },
+  "16": {
+    "numNodes": 658,
+    "numEdges": 4527,
+    "averageInDegree": 6.879939209726444,
+    "averageOutDegree": 6.879939209726444,
+    "selfLinks": 6,
+    "removed": "Season 5",
+    "averagePathLength": 4.224684835001854,
+    "sizeLargest": 465
+  },
+  "17": {
+    "numNodes": 657,
+    "numEdges": 4414,
+    "averageInDegree": 6.718417047184171,
+    "averageOutDegree": 6.718417047184171,
+    "selfLinks": 6,
+    "removed": "Jennifer Garner",
+    "averagePathLength": 4.2564348160877445,
+    "sizeLargest": 462
+  },
+  "18": {
+    "numNodes": 656,
+    "numEdges": 4304,
+    "averageInDegree": 6.560975609756097,
+    "averageOutDegree": 6.560975609756097,
+    "selfLinks": 6,
+    "removed": "Julian Sark",
+    "averagePathLength": 4.353316969679672,
+    "sizeLargest": 459
+  },
+  "19": {
+    "numNodes": 655,
+    "numEdges": 4196,
+    "averageInDegree": 6.406106870229007,
+    "averageOutDegree": 6.406106870229007,
+    "selfLinks": 6,
+    "removed": "Victor Garber",
+    "averagePathLength": 4.353316969679672,
+    "sizeLargest": 459
+  },
+  "20": {
+    "numNodes": 654,
+    "numEdges": 4089,
+    "averageInDegree": 6.252293577981652,
+    "averageOutDegree": 6.252293577981652,
+    "selfLinks": 6,
+    "removed": "Kevin Weisman",
+    "averagePathLength": 4.353316969679672,
+    "sizeLargest": 459
+  },
+  "21": {
+    "numNodes": 653,
+    "numEdges": 3982,
+    "averageInDegree": 6.0980091883614085,
+    "averageOutDegree": 6.0980091883614085,
+    "selfLinks": 6,
+    "removed": "CIA",
+    "averagePathLength": 4.382459174605601,
+    "sizeLargest": 458
+  },
+  "22": {
+    "numNodes": 652,
+    "numEdges": 3876,
+    "averageInDegree": 5.9447852760736195,
+    "averageOutDegree": 5.9447852760736195,
+    "selfLinks": 6,
+    "removed": "Carl Lumbly",
+    "averagePathLength": 4.382459174605601,
+    "sizeLargest": 458
+  },
+  "23": {
+    "numNodes": 651,
+    "numEdges": 3770,
+    "averageInDegree": 5.7910906298003075,
+    "averageOutDegree": 5.7910906298003075,
+    "selfLinks": 6,
+    "removed": "Ron Rifkin",
+    "averagePathLength": 4.382459174605601,
+    "sizeLargest": 458
+  },
+  "24": {
+    "numNodes": 650,
+    "numEdges": 3671,
+    "averageInDegree": 5.647692307692307,
+    "averageOutDegree": 5.647692307692307,
+    "selfLinks": 6,
+    "removed": "SD-6",
+    "averagePathLength": 4.4744964117792625,
+    "sizeLargest": 450
+  },
+  "25": {
+    "numNodes": 649,
+    "numEdges": 3574,
+    "averageInDegree": 5.50693374422188,
+    "averageOutDegree": 5.50693374422188,
+    "selfLinks": 6,
+    "removed": "Michael Vartan",
+    "averagePathLength": 4.4744964117792625,
+    "sizeLargest": 450
+  },
+  "26": {
+    "numNodes": 648,
+    "numEdges": 3485,
+    "averageInDegree": 5.378086419753086,
+    "averageOutDegree": 5.378086419753086,
+    "selfLinks": 6,
+    "removed": "Sloane",
+    "averagePathLength": 4.4744964117792625,
+    "sizeLargest": 450
+  },
+  "27": {
+    "numNodes": 647,
+    "numEdges": 3398,
+    "averageInDegree": 5.25193199381762,
+    "averageOutDegree": 5.25193199381762,
+    "selfLinks": 6,
+    "removed": "APO",
+    "averagePathLength": 4.544314747056952,
+    "sizeLargest": 449
+  },
+  "28": {
+    "numNodes": 646,
+    "numEdges": 3314,
+    "averageInDegree": 5.130030959752322,
+    "averageOutDegree": 5.130030959752322,
+    "selfLinks": 6,
+    "removed": "Nadia Santos",
+    "averagePathLength": 4.660466889377113,
+    "sizeLargest": 447
+  },
+  "29": {
+    "numNodes": 645,
+    "numEdges": 3233,
+    "averageInDegree": 5.0124031007751935,
+    "averageOutDegree": 5.0124031007751935,
+    "selfLinks": 6,
+    "removed": "Eric Weiss",
+    "averagePathLength": 4.690999476713762,
+    "sizeLargest": 442
+  },
+  "30": {
+    "numNodes": 644,
+    "numEdges": 3162,
+    "averageInDegree": 4.909937888198757,
+    "averageOutDegree": 4.909937888198757,
+    "selfLinks": 6,
+    "removed": "Anna Espinosa",
+    "averagePathLength": 4.83802711487469,
+    "sizeLargest": 433
+  },
+  "31": {
+    "numNodes": 643,
+    "numEdges": 3093,
+    "averageInDegree": 4.810264385692069,
+    "averageOutDegree": 4.810264385692069,
+    "selfLinks": 6,
+    "removed": "Jack",
+    "averagePathLength": 4.83802711487469,
+    "sizeLargest": 433
+  },
+  "32": {
+    "numNodes": 642,
+    "numEdges": 3026,
+    "averageInDegree": 4.713395638629284,
+    "averageOutDegree": 4.713395638629284,
+    "selfLinks": 6,
+    "removed": "Milo Rambaldi",
+    "averagePathLength": 5.049588262205084,
+    "sizeLargest": 429
+  },
+  "33": {
+    "numNodes": 641,
+    "numEdges": 2960,
+    "averageInDegree": 4.617784711388455,
+    "averageOutDegree": 4.617784711388455,
+    "selfLinks": 6,
+    "removed": "Dixon",
+    "averagePathLength": 5.049588262205084,
+    "sizeLargest": 429
+  },
+  "34": {
+    "numNodes": 640,
+    "numEdges": 2894,
+    "averageInDegree": 4.521875,
+    "averageOutDegree": 4.521875,
+    "selfLinks": 6,
+    "removed": "Will Tippin",
+    "averagePathLength": 5.088936839288104,
+    "sizeLargest": 424
+  },
+  "35": {
+    "numNodes": 639,
+    "numEdges": 2831,
+    "averageInDegree": 4.430359937402191,
+    "averageOutDegree": 4.430359937402191,
+    "selfLinks": 6,
+    "removed": "Greg Grunberg",
+    "averagePathLength": 5.088936839288104,
+    "sizeLargest": 424
+  },
+  "36": {
+    "numNodes": 638,
+    "numEdges": 2768,
+    "averageInDegree": 4.338557993730408,
+    "averageOutDegree": 4.338557993730408,
+    "selfLinks": 6,
+    "removed": "Kills by Sydney Bristow",
+    "averagePathLength": 5.088936839288104,
+    "sizeLargest": 424
+  },
+  "37": {
+    "numNodes": 637,
+    "numEdges": 2711,
+    "averageInDegree": 4.255886970172685,
+    "averageOutDegree": 4.255886970172685,
+    "selfLinks": 6,
+    "removed": "Authorized Personnel Only",
+    "averagePathLength": 5.155788628256915,
+    "sizeLargest": 412
+  },
+  "38": {
+    "numNodes": 636,
+    "numEdges": 2657,
+    "averageInDegree": 4.177672955974843,
+    "averageOutDegree": 4.177672955974843,
+    "selfLinks": 6,
+    "removed": "Francie Calfo",
+    "averagePathLength": 5.161553884711779,
+    "sizeLargest": 400
+  },
+  "39": {
+    "numNodes": 635,
+    "numEdges": 2608,
+    "averageInDegree": 4.1070866141732285,
+    "averageOutDegree": 4.1070866141732285,
+    "selfLinks": 6,
+    "removed": "The Covenant",
+    "averagePathLength": 5.383750064911461,
+    "sizeLargest": 393
+  },
+  "40": {
+    "numNodes": 634,
+    "numEdges": 2560,
+    "averageInDegree": 4.037854889589905,
+    "averageOutDegree": 4.037854889589905,
+    "selfLinks": 6,
+    "removed": "Alliance of Twelve",
+    "averagePathLength": 5.5848079004329,
+    "sizeLargest": 385
+  },
+  "41": {
+    "numNodes": 633,
+    "numEdges": 2513,
+    "averageInDegree": 3.9699842022116902,
+    "averageOutDegree": 3.9699842022116902,
+    "selfLinks": 6,
+    "removed": "Elena Derevko",
+    "averagePathLength": 5.866991297140489,
+    "sizeLargest": 381
+  },
+  "42": {
+    "numNodes": 632,
+    "numEdges": 2466,
+    "averageInDegree": 3.901898734177215,
+    "averageOutDegree": 3.901898734177215,
+    "selfLinks": 6,
+    "removed": "Lauren Reed",
+    "averagePathLength": 5.889012502648867,
+    "sizeLargest": 364
+  },
+  "43": {
+    "numNodes": 631,
+    "numEdges": 2420,
+    "averageInDegree": 3.8351822503961963,
+    "averageOutDegree": 3.8351822503961963,
+    "selfLinks": 6,
+    "removed": "Marshall",
+    "averagePathLength": 5.889012502648867,
+    "sizeLargest": 364
+  },
+  "44": {
+    "numNodes": 630,
+    "numEdges": 2375,
+    "averageInDegree": 3.7698412698412698,
+    "averageOutDegree": 3.7698412698412698,
+    "selfLinks": 6,
+    "removed": "Bradley Cooper",
+    "averagePathLength": 5.889012502648867,
+    "sizeLargest": 364
+  },
+  "45": {
+    "numNodes": 629,
+    "numEdges": 2332,
+    "averageInDegree": 3.707472178060413,
+    "averageOutDegree": 3.707472178060413,
+    "selfLinks": 6,
+    "removed": "Merrin Dungey",
+    "averagePathLength": 5.889012502648867,
+    "sizeLargest": 364
+  },
+  "46": {
+    "numNodes": 628,
+    "numEdges": 2293,
+    "averageInDegree": 3.6512738853503186,
+    "averageOutDegree": 3.6512738853503186,
+    "selfLinks": 6,
+    "removed": "Rambaldi",
+    "averagePathLength": 5.889012502648867,
+    "sizeLargest": 364
+  },
+  "47": {
+    "numNodes": 627,
+    "numEdges": 2257,
+    "averageInDegree": 3.5996810207336525,
+    "averageOutDegree": 3.5996810207336525,
+    "selfLinks": 6,
+    "removed": "David Anders",
+    "averagePathLength": 5.889012502648867,
+    "sizeLargest": 364
+  },
+  "48": {
+    "numNodes": 626,
+    "numEdges": 2224,
+    "averageInDegree": 3.5527156549520766,
+    "averageOutDegree": 3.5527156549520766,
+    "selfLinks": 6,
+    "removed": "Will",
+    "averagePathLength": 5.889012502648867,
+    "sizeLargest": 364
+  },
+  "49": {
+    "numNodes": 625,
+    "numEdges": 2191,
+    "averageInDegree": 3.5056,
+    "averageOutDegree": 3.5056,
+    "selfLinks": 6,
+    "removed": "Nadia",
+    "averagePathLength": 5.889012502648867,
+    "sizeLargest": 364
+  },
+  "50": {
+    "numNodes": 624,
+    "numEdges": 2159,
+    "averageInDegree": 3.4599358974358974,
+    "averageOutDegree": 3.4599358974358974,
+    "selfLinks": 6,
+    "removed": "K-Directorate",
+    "averagePathLength": 6.089942620580491,
+    "sizeLargest": 363
+  },
+  "51": {
+    "numNodes": 623,
+    "numEdges": 2128,
+    "averageInDegree": 3.4157303370786516,
+    "averageOutDegree": 3.4157303370786516,
+    "selfLinks": 6,
+    "removed": "Special feature",
+    "averagePathLength": 6.089942620580491,
+    "sizeLargest": 363
+  },
+  "52": {
+    "numNodes": 622,
+    "numEdges": 2098,
+    "averageInDegree": 3.372990353697749,
+    "averageOutDegree": 3.372990353697749,
+    "selfLinks": 6,
+    "removed": "Rachel Gibson",
+    "averagePathLength": 6.117874730686365,
+    "sizeLargest": 361
+  },
+  "53": {
+    "numNodes": 621,
+    "numEdges": 2070,
+    "averageInDegree": 3.3333333333333335,
+    "averageOutDegree": 3.3333333333333335,
+    "selfLinks": 6,
+    "removed": "Lena Olin",
+    "averagePathLength": 6.117874730686365,
+    "sizeLargest": 361
+  },
+  "54": {
+    "numNodes": 620,
+    "numEdges": 2042,
+    "averageInDegree": 3.293548387096774,
+    "averageOutDegree": 3.293548387096774,
+    "selfLinks": 6,
+    "removed": "Russia",
+    "averagePathLength": 6.356290002034333,
+    "sizeLargest": 358
+  },
+  "55": {
+    "numNodes": 619,
+    "numEdges": 2014,
+    "averageInDegree": 3.2536348949919223,
+    "averageOutDegree": 3.2536348949919223,
+    "selfLinks": 6,
+    "removed": "47",
+    "averagePathLength": 6.485607859189521,
+    "sizeLargest": 350
+  },
+  "56": {
+    "numNodes": 618,
+    "numEdges": 1987,
+    "averageInDegree": 3.215210355987055,
+    "averageOutDegree": 3.215210355987055,
+    "selfLinks": 6,
+    "removed": "Kelly Peyton",
+    "averagePathLength": 6.508896707715507,
+    "sizeLargest": 346
+  },
+  "57": {
+    "numNodes": 617,
+    "numEdges": 1961,
+    "averageInDegree": 3.178282009724473,
+    "averageOutDegree": 3.178282009724473,
+    "selfLinks": 6,
+    "removed": "Kazu Tamazaki",
+    "averagePathLength": 6.474404761904762,
+    "sizeLargest": 336
+  },
+  "58": {
+    "numNodes": 616,
+    "numEdges": 1935,
+    "averageInDegree": 3.1412337662337664,
+    "averageOutDegree": 3.1412337662337664,
+    "selfLinks": 6,
+    "removed": "Sark",
+    "averagePathLength": 6.474404761904762,
+    "sizeLargest": 336
+  },
+  "59": {
+    "numNodes": 615,
+    "numEdges": 1911,
+    "averageInDegree": 3.107317073170732,
+    "averageOutDegree": 3.107317073170732,
+    "selfLinks": 6,
+    "removed": "Season 1 DVD",
+    "averagePathLength": 6.474404761904762,
+    "sizeLargest": 336
+  },
+  "60": {
+    "numNodes": 614,
+    "numEdges": 1887,
+    "averageInDegree": 3.07328990228013,
+    "averageOutDegree": 3.07328990228013,
+    "selfLinks": 6,
+    "removed": "1.4 A Broken Heart",
+    "averagePathLength": 6.55737363869894,
+    "sizeLargest": 333
+  },
+  "61": {
+    "numNodes": 613,
+    "numEdges": 1864,
+    "averageInDegree": 3.040783034257749,
+    "averageOutDegree": 3.040783034257749,
+    "selfLinks": 6,
+    "removed": "Season 2 DVD",
+    "averagePathLength": 6.55737363869894,
+    "sizeLargest": 333
+  },
+  "62": {
+    "numNodes": 612,
+    "numEdges": 1841,
+    "averageInDegree": 3.008169934640523,
+    "averageOutDegree": 3.008169934640523,
+    "selfLinks": 6,
+    "removed": "Melissa George",
+    "averagePathLength": 6.55737363869894,
+    "sizeLargest": 333
+  },
+  "63": {
+    "numNodes": 611,
+    "numEdges": 1818,
+    "averageInDegree": 2.9754500818330607,
+    "averageOutDegree": 2.9754500818330607,
+    "selfLinks": 6,
+    "removed": "Allison Doren",
+    "averagePathLength": 6.749581754898756,
+    "sizeLargest": 323
+  },
+  "64": {
+    "numNodes": 610,
+    "numEdges": 1796,
+    "averageInDegree": 2.944262295081967,
+    "averageOutDegree": 2.944262295081967,
+    "selfLinks": 6,
+    "removed": "Ren\u00e9e Rienne",
+    "averagePathLength": 6.798504057298176,
+    "sizeLargest": 318
+  },
+  "65": {
+    "numNodes": 609,
+    "numEdges": 1775,
+    "averageInDegree": 2.9146141215106733,
+    "averageOutDegree": 2.9146141215106733,
+    "selfLinks": 6,
+    "removed": "Mia Maestro",
+    "averagePathLength": 6.798504057298176,
+    "sizeLargest": 318
+  },
+  "66": {
+    "numNodes": 608,
+    "numEdges": 1754,
+    "averageInDegree": 2.8848684210526314,
+    "averageOutDegree": 2.8848684210526314,
+    "selfLinks": 6,
+    "removed": "Season 3 DVD",
+    "averagePathLength": 6.798504057298176,
+    "sizeLargest": 318
+  },
+  "67": {
+    "numNodes": 607,
+    "numEdges": 1733,
+    "averageInDegree": 2.8550247116968697,
+    "averageOutDegree": 2.8550247116968697,
+    "selfLinks": 6,
+    "removed": "Mueller device",
+    "averagePathLength": 6.872269696122669,
+    "sizeLargest": 317
+  },
+  "68": {
+    "numNodes": 606,
+    "numEdges": 1712,
+    "averageInDegree": 2.825082508250825,
+    "averageOutDegree": 2.825082508250825,
+    "selfLinks": 6,
+    "removed": "Central Intelligence Agency",
+    "averagePathLength": 7.078640776699029,
+    "sizeLargest": 310
+  },
+  "69": {
+    "numNodes": 605,
+    "numEdges": 1691,
+    "averageInDegree": 2.7950413223140496,
+    "averageOutDegree": 2.7950413223140496,
+    "selfLinks": 6,
+    "removed": "Thomas Grace",
+    "averagePathLength": 7.107521119657042,
+    "sizeLargest": 309
+  },
+  "70": {
+    "numNodes": 604,
+    "numEdges": 1670,
+    "averageInDegree": 2.7649006622516556,
+    "averageOutDegree": 2.7649006622516556,
+    "selfLinks": 6,
+    "removed": "1.12 The Box (Part 1)",
+    "averagePathLength": 7.143375354287406,
+    "sizeLargest": 308
+  },
+  "71": {
+    "numNodes": 603,
+    "numEdges": 1649,
+    "averageInDegree": 2.7346600331674957,
+    "averageOutDegree": 2.7346600331674957,
+    "selfLinks": 6,
+    "removed": "1.6 Reckoning",
+    "averagePathLength": 7.205239472838316,
+    "sizeLargest": 306
+  },
+  "72": {
+    "numNodes": 602,
+    "numEdges": 1629,
+    "averageInDegree": 2.7059800664451825,
+    "averageOutDegree": 2.7059800664451825,
+    "selfLinks": 6,
+    "removed": "Emily Sloane",
+    "averagePathLength": 7.378194905869324,
+    "sizeLargest": 301
+  },
+  "73": {
+    "numNodes": 601,
+    "numEdges": 1610,
+    "averageInDegree": 2.6788685524126454,
+    "averageOutDegree": 2.6788685524126454,
+    "selfLinks": 5,
+    "removed": "Paris",
+    "averagePathLength": 7.435318369216675,
+    "sizeLargest": 296
+  },
+  "74": {
+    "numNodes": 600,
+    "numEdges": 1590,
+    "averageInDegree": 2.65,
+    "averageOutDegree": 2.65,
+    "selfLinks": 5,
+    "removed": "Mueller Device",
+    "averagePathLength": 7.871670702179177,
+    "sizeLargest": 295
+  },
+  "75": {
+    "numNodes": 599,
+    "numEdges": 1570,
+    "averageInDegree": 2.621035058430718,
+    "averageOutDegree": 2.621035058430718,
+    "selfLinks": 5,
+    "removed": "1.8 Time Will Tell",
+    "averagePathLength": 8.014604810996564,
+    "sizeLargest": 292
+  },
+  "76": {
+    "numNodes": 598,
+    "numEdges": 1551,
+    "averageInDegree": 2.5936454849498327,
+    "averageOutDegree": 2.5936454849498327,
+    "selfLinks": 5,
+    "removed": "Prophet 5",
+    "averagePathLength": 8.136595008648381,
+    "sizeLargest": 285
+  },
+  "77": {
+    "numNodes": 597,
+    "numEdges": 1532,
+    "averageInDegree": 2.5661641541038525,
+    "averageOutDegree": 2.5661641541038525,
+    "selfLinks": 5,
+    "removed": "Europe",
+    "averagePathLength": 8.44860091599222,
+    "sizeLargest": 253
+  }
+}

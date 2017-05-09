@@ -26,7 +26,7 @@ time_series = False  # If true do time series. Otherwise process file
 generate_data = True  # True to generate data folder items
 
 performance_mode = True
-large_wikis = ["fullhouse", "gameofthrones"]
+large_wikis = ["fullhouse", "gameofthrones", "marvel"]
 
 cpu = os.cpu_count() if os.cpu_count() else 4
 threads = cpu  # Adjust depending on how CPU/RAM intensive task is

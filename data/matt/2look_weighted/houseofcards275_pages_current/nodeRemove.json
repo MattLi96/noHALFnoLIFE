@@ -1,0 +1,272 @@
+{
+  "0": {
+    "numNodes": 401,
+    "numEdges": 2693,
+    "averageInDegree": 6.71571072319202,
+    "averageOutDegree": 6.71571072319202,
+    "selfLinks": 26,
+    "removed": "Frank Underwood",
+    "averagePathLength": 3.0233975673090066,
+    "sizeLargest": 271
+  },
+  "1": {
+    "numNodes": 400,
+    "numEdges": 2511,
+    "averageInDegree": 6.2775,
+    "averageOutDegree": 6.2775,
+    "selfLinks": 26,
+    "removed": "Season 1",
+    "averagePathLength": 3.2964230353016877,
+    "sizeLargest": 262
+  },
+  "2": {
+    "numNodes": 399,
+    "numEdges": 2371,
+    "averageInDegree": 5.942355889724311,
+    "averageOutDegree": 5.942355889724311,
+    "selfLinks": 26,
+    "removed": "Season 2",
+    "averagePathLength": 3.477778453307393,
+    "sizeLargest": 257
+  },
+  "3": {
+    "numNodes": 398,
+    "numEdges": 2254,
+    "averageInDegree": 5.663316582914573,
+    "averageOutDegree": 5.663316582914573,
+    "selfLinks": 26,
+    "removed": "House of Cards",
+    "averagePathLength": 3.573314950980392,
+    "sizeLargest": 256
+  },
+  "4": {
+    "numNodes": 397,
+    "numEdges": 2144,
+    "averageInDegree": 5.400503778337532,
+    "averageOutDegree": 5.400503778337532,
+    "selfLinks": 26,
+    "removed": "Claire Underwood",
+    "averagePathLength": 3.6841083974573436,
+    "sizeLargest": 245
+  },
+  "5": {
+    "numNodes": 396,
+    "numEdges": 2037,
+    "averageInDegree": 5.143939393939394,
+    "averageOutDegree": 5.143939393939394,
+    "selfLinks": 26,
+    "removed": "Doug Stamper",
+    "averagePathLength": 3.791866113534021,
+    "sizeLargest": 238
+  },
+  "6": {
+    "numNodes": 395,
+    "numEdges": 1937,
+    "averageInDegree": 4.903797468354431,
+    "averageOutDegree": 4.903797468354431,
+    "selfLinks": 26,
+    "removed": "Season 3",
+    "averagePathLength": 3.982404090162711,
+    "sizeLargest": 232
+  },
+  "7": {
+    "numNodes": 394,
+    "numEdges": 1856,
+    "averageInDegree": 4.710659898477157,
+    "averageOutDegree": 4.710659898477157,
+    "selfLinks": 26,
+    "removed": "Garrett Walker",
+    "averagePathLength": 4.026466679324093,
+    "sizeLargest": 230
+  },
+  "8": {
+    "numNodes": 393,
+    "numEdges": 1781,
+    "averageInDegree": 4.531806615776081,
+    "averageOutDegree": 4.531806615776081,
+    "selfLinks": 26,
+    "removed": "Season 4",
+    "averagePathLength": 4.234162895927602,
+    "sizeLargest": 221
+  },
+  "9": {
+    "numNodes": 392,
+    "numEdges": 1712,
+    "averageInDegree": 4.36734693877551,
+    "averageOutDegree": 4.36734693877551,
+    "selfLinks": 26,
+    "removed": "Peter Russo",
+    "averagePathLength": 4.229186602870813,
+    "sizeLargest": 210
+  },
+  "10": {
+    "numNodes": 391,
+    "numEdges": 1653,
+    "averageInDegree": 4.227621483375959,
+    "averageOutDegree": 4.227621483375959,
+    "selfLinks": 26,
+    "removed": "Chapter 1",
+    "averagePathLength": 4.368580272970311,
+    "sizeLargest": 207
+  },
+  "11": {
+    "numNodes": 390,
+    "numEdges": 1597,
+    "averageInDegree": 4.0948717948717945,
+    "averageOutDegree": 4.0948717948717945,
+    "selfLinks": 26,
+    "removed": "Zoe Barnes",
+    "averagePathLength": 4.437984685168024,
+    "sizeLargest": 203
+  },
+  "12": {
+    "numNodes": 389,
+    "numEdges": 1546,
+    "averageInDegree": 3.974293059125964,
+    "averageOutDegree": 3.974293059125964,
+    "selfLinks": 26,
+    "removed": "Remy Danton",
+    "averagePathLength": 4.5034769808639155,
+    "sizeLargest": 199
+  },
+  "13": {
+    "numNodes": 388,
+    "numEdges": 1495,
+    "averageInDegree": 3.8530927835051547,
+    "averageOutDegree": 3.8530927835051547,
+    "selfLinks": 26,
+    "removed": "President of the United States",
+    "averagePathLength": 4.5164788205758235,
+    "sizeLargest": 194
+  },
+  "14": {
+    "numNodes": 387,
+    "numEdges": 1448,
+    "averageInDegree": 3.7416020671834627,
+    "averageOutDegree": 3.7416020671834627,
+    "selfLinks": 26,
+    "removed": "Lucas Goodwin",
+    "averagePathLength": 4.643951501791127,
+    "sizeLargest": 191
+  },
+  "15": {
+    "numNodes": 386,
+    "numEdges": 1402,
+    "averageInDegree": 3.6321243523316062,
+    "averageOutDegree": 3.6321243523316062,
+    "selfLinks": 26,
+    "removed": "Vice President of the United States",
+    "averagePathLength": 4.740527932643077,
+    "sizeLargest": 188
+  },
+  "16": {
+    "numNodes": 385,
+    "numEdges": 1357,
+    "averageInDegree": 3.5246753246753246,
+    "averageOutDegree": 3.5246753246753246,
+    "selfLinks": 26,
+    "removed": "Chapter 2",
+    "averagePathLength": 4.822377215925603,
+    "sizeLargest": 186
+  },
+  "17": {
+    "numNodes": 384,
+    "numEdges": 1313,
+    "averageInDegree": 3.4192708333333335,
+    "averageOutDegree": 3.4192708333333335,
+    "selfLinks": 26,
+    "removed": "Raymond Tusk",
+    "averagePathLength": 4.931728492501973,
+    "sizeLargest": 182
+  },
+  "18": {
+    "numNodes": 383,
+    "numEdges": 1270,
+    "averageInDegree": 3.3159268929503916,
+    "averageOutDegree": 3.3159268929503916,
+    "selfLinks": 26,
+    "removed": "Washington, D.C.",
+    "averagePathLength": 4.931728492501973,
+    "sizeLargest": 182
+  },
+  "19": {
+    "numNodes": 382,
+    "numEdges": 1228,
+    "averageInDegree": 3.2146596858638743,
+    "averageOutDegree": 3.2146596858638743,
+    "selfLinks": 26,
+    "removed": "Jackie Sharp",
+    "averagePathLength": 5.296705389449628,
+    "sizeLargest": 178
+  },
+  "20": {
+    "numNodes": 381,
+    "numEdges": 1187,
+    "averageInDegree": 3.115485564304462,
+    "averageOutDegree": 3.115485564304462,
+    "selfLinks": 26,
+    "removed": "Companies",
+    "averagePathLength": 5.296705389449628,
+    "sizeLargest": 178
+  },
+  "21": {
+    "numNodes": 380,
+    "numEdges": 1153,
+    "averageInDegree": 3.0342105263157895,
+    "averageOutDegree": 3.0342105263157895,
+    "selfLinks": 25,
+    "removed": "Linda Vasquez",
+    "averagePathLength": 5.4254268046780485,
+    "sizeLargest": 173
+  },
+  "22": {
+    "numNodes": 379,
+    "numEdges": 1119,
+    "averageInDegree": 2.9525065963060686,
+    "averageOutDegree": 2.9525065963060686,
+    "selfLinks": 25,
+    "removed": "Rachel Posner",
+    "averagePathLength": 5.493213710605015,
+    "sizeLargest": 162
+  },
+  "23": {
+    "numNodes": 378,
+    "numEdges": 1086,
+    "averageInDegree": 2.873015873015873,
+    "averageOutDegree": 2.873015873015873,
+    "selfLinks": 25,
+    "removed": "List of Presidents of the United States",
+    "averagePathLength": 5.482181730226558,
+    "sizeLargest": 158
+  },
+  "24": {
+    "numNodes": 377,
+    "numEdges": 1055,
+    "averageInDegree": 2.7984084880636604,
+    "averageOutDegree": 2.7984084880636604,
+    "selfLinks": 25,
+    "removed": "Chapter 26",
+    "averagePathLength": 5.482181730226558,
+    "sizeLargest": 158
+  },
+  "25": {
+    "numNodes": 376,
+    "numEdges": 1025,
+    "averageInDegree": 2.726063829787234,
+    "averageOutDegree": 2.726063829787234,
+    "selfLinks": 25,
+    "removed": "Janine Skorsky",
+    "averagePathLength": 5.563110092521857,
+    "sizeLargest": 154
+  },
+  "26": {
+    "numNodes": 375,
+    "numEdges": 995,
+    "averageInDegree": 2.6533333333333333,
+    "averageOutDegree": 2.6533333333333333,
+    "selfLinks": 25,
+    "removed": "Edward Meechum",
+    "averagePathLength": 5.334168157423972,
+    "sizeLargest": 130
+  }
+}

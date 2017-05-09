@@ -1,0 +1,82 @@
+{
+  "0": {
+    "numNodes": 395,
+    "numEdges": 1118,
+    "averageInDegree": 2.830379746835443,
+    "averageOutDegree": 2.830379746835443,
+    "selfLinks": 0,
+    "removed": "Taylor Swift",
+    "averagePathLength": 4.388256762559038,
+    "sizeLargest": 137
+  },
+  "1": {
+    "numNodes": 394,
+    "numEdges": 1027,
+    "averageInDegree": 2.6065989847715736,
+    "averageOutDegree": 2.6065989847715736,
+    "selfLinks": 0,
+    "removed": "List of songs by Taylor Swift",
+    "averagePathLength": 4.388256762559038,
+    "sizeLargest": 137
+  },
+  "2": {
+    "numNodes": 393,
+    "numEdges": 964,
+    "averageInDegree": 2.4529262086513994,
+    "averageOutDegree": 2.4529262086513994,
+    "selfLinks": 0,
+    "removed": "Lyrics",
+    "averagePathLength": 4.388256762559038,
+    "sizeLargest": 137
+  },
+  "3": {
+    "numNodes": 392,
+    "numEdges": 903,
+    "averageInDegree": 2.3035714285714284,
+    "averageOutDegree": 2.3035714285714284,
+    "selfLinks": 0,
+    "removed": "Discography",
+    "averagePathLength": 4.388256762559038,
+    "sizeLargest": 137
+  },
+  "4": {
+    "numNodes": 391,
+    "numEdges": 844,
+    "averageInDegree": 2.1585677749360612,
+    "averageOutDegree": 2.1585677749360612,
+    "selfLinks": 0,
+    "removed": "Speak Now",
+    "averagePathLength": 5.665273740310077,
+    "sizeLargest": 129
+  },
+  "5": {
+    "numNodes": 390,
+    "numEdges": 800,
+    "averageInDegree": 2.051282051282051,
+    "averageOutDegree": 2.051282051282051,
+    "selfLinks": 0,
+    "removed": "Red",
+    "averagePathLength": 4.718073188946975,
+    "sizeLargest": 104
+  },
+  "6": {
+    "numNodes": 389,
+    "numEdges": 757,
+    "averageInDegree": 1.9460154241645244,
+    "averageOutDegree": 1.9460154241645244,
+    "selfLinks": 0,
+    "removed": "Taylor Swift (album)",
+    "averagePathLength": 4.714472309299896,
+    "sizeLargest": 88
+  },
+  "7": {
+    "numNodes": 388,
+    "numEdges": 716,
+    "averageInDegree": 1.8453608247422681,
+    "averageOutDegree": 1.8453608247422681,
+    "selfLinks": 0,
+    "removed": "You Belong with Me",
+    "averagePathLength": 5.24411933448078,
+    "sizeLargest": 84
+  }
+}

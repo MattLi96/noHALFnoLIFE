@@ -1,0 +1,1072 @@
+{
+  "0": {
+    "numNodes": 1838,
+    "numEdges": 14137,
+    "averageInDegree": 7.691512513601741,
+    "averageOutDegree": 7.691512513601741,
+    "selfLinks": 27,
+    "removed": "Scrubs",
+    "averagePathLength": 3.4554306941374744,
+    "sizeLargest": 1310
+  },
+  "1": {
+    "numNodes": 1837,
+    "numEdges": 13500,
+    "averageInDegree": 7.348938486663037,
+    "averageOutDegree": 7.348938486663037,
+    "selfLinks": 27,
+    "removed": "J.D.",
+    "averagePathLength": 3.555805305805306,
+    "sizeLargest": 1288
+  },
+  "2": {
+    "numNodes": 1836,
+    "numEdges": 13033,
+    "averageInDegree": 7.098583877995643,
+    "averageOutDegree": 7.098583877995643,
+    "selfLinks": 27,
+    "removed": "Sacred Heart Hospital",
+    "averagePathLength": 3.665491000812278,
+    "sizeLargest": 1243
+  },
+  "3": {
+    "numNodes": 1835,
+    "numEdges": 12602,
+    "averageInDegree": 6.867574931880109,
+    "averageOutDegree": 6.867574931880109,
+    "selfLinks": 27,
+    "removed": "Christopher Turk",
+    "averagePathLength": 3.665491000812278,
+    "sizeLargest": 1243
+  },
+  "4": {
+    "numNodes": 1834,
+    "numEdges": 12187,
+    "averageInDegree": 6.645038167938932,
+    "averageOutDegree": 6.645038167938932,
+    "selfLinks": 27,
+    "removed": "Elliot Reid",
+    "averagePathLength": 3.7195998268801813,
+    "sizeLargest": 1226
+  },
+  "5": {
+    "numNodes": 1833,
+    "numEdges": 11795,
+    "averageInDegree": 6.43480632842335,
+    "averageOutDegree": 6.43480632842335,
+    "selfLinks": 27,
+    "removed": "Perry Cox",
+    "averagePathLength": 3.7195998268801813,
+    "sizeLargest": 1226
+  },
+  "6": {
+    "numNodes": 1832,
+    "numEdges": 11451,
+    "averageInDegree": 6.2505458515283845,
+    "averageOutDegree": 6.2505458515283845,
+    "selfLinks": 27,
+    "removed": "Janitor",
+    "averagePathLength": 3.7758598407243857,
+    "sizeLargest": 1213
+  },
+  "7": {
+    "numNodes": 1831,
+    "numEdges": 11110,
+    "averageInDegree": 6.067722555980339,
+    "averageOutDegree": 6.067722555980339,
+    "selfLinks": 27,
+    "removed": "Carla Espinosa",
+    "averagePathLength": 3.7832508322477927,
+    "sizeLargest": 1176
+  },
+  "8": {
+    "numNodes": 1830,
+    "numEdges": 10796,
+    "averageInDegree": 5.899453551912568,
+    "averageOutDegree": 5.899453551912568,
+    "selfLinks": 27,
+    "removed": "Robert Kelso",
+    "averagePathLength": 3.7888380150778103,
+    "sizeLargest": 1132
+  },
+  "9": {
+    "numNodes": 1829,
+    "numEdges": 10546,
+    "averageInDegree": 5.765992345544013,
+    "averageOutDegree": 5.765992345544013,
+    "selfLinks": 26,
+    "removed": "Season Eight",
+    "averagePathLength": 3.8491539020427075,
+    "sizeLargest": 1127
+  },
+  "10": {
+    "numNodes": 1828,
+    "numEdges": 10308,
+    "averageInDegree": 5.638949671772429,
+    "averageOutDegree": 5.638949671772429,
+    "selfLinks": 25,
+    "removed": "Season One",
+    "averagePathLength": 3.950552787663108,
+    "sizeLargest": 1125
+  },
+  "11": {
+    "numNodes": 1827,
+    "numEdges": 10090,
+    "averageInDegree": 5.522714833059661,
+    "averageOutDegree": 5.522714833059661,
+    "selfLinks": 25,
+    "removed": "Scrubs Wiki:Calendar",
+    "averagePathLength": 3.950552787663108,
+    "sizeLargest": 1125
+  },
+  "12": {
+    "numNodes": 1826,
+    "numEdges": 9877,
+    "averageInDegree": 5.409090909090909,
+    "averageOutDegree": 5.409090909090909,
+    "selfLinks": 24,
+    "removed": "Season Six",
+    "averagePathLength": 4.010129667388811,
+    "sizeLargest": 1121
+  },
+  "13": {
+    "numNodes": 1825,
+    "numEdges": 9665,
+    "averageInDegree": 5.295890410958904,
+    "averageOutDegree": 5.295890410958904,
+    "selfLinks": 24,
+    "removed": "My Finale",
+    "averagePathLength": 4.056177224090392,
+    "sizeLargest": 1109
+  },
+  "14": {
+    "numNodes": 1824,
+    "numEdges": 9455,
+    "averageInDegree": 5.183662280701754,
+    "averageOutDegree": 5.183662280701754,
+    "selfLinks": 23,
+    "removed": "Season Two",
+    "averagePathLength": 4.123975127123654,
+    "sizeLargest": 1104
+  },
+  "15": {
+    "numNodes": 1823,
+    "numEdges": 9255,
+    "averageInDegree": 5.076796489303346,
+    "averageOutDegree": 5.076796489303346,
+    "selfLinks": 22,
+    "removed": "Season Four",
+    "averagePathLength": 4.212829159838141,
+    "sizeLargest": 1098
+  },
+  "16": {
+    "numNodes": 1822,
+    "numEdges": 9065,
+    "averageInDegree": 4.97530186608123,
+    "averageOutDegree": 4.97530186608123,
+    "selfLinks": 21,
+    "removed": "Season Five",
+    "averagePathLength": 4.285373433399513,
+    "sizeLargest": 1094
+  },
+  "17": {
+    "numNodes": 1821,
+    "numEdges": 8878,
+    "averageInDegree": 4.875343218012081,
+    "averageOutDegree": 4.875343218012081,
+    "selfLinks": 20,
+    "removed": "Season Three",
+    "averagePathLength": 4.382599080046082,
+    "sizeLargest": 1091
+  },
+  "18": {
+    "numNodes": 1820,
+    "numEdges": 8703,
+    "averageInDegree": 4.781868131868132,
+    "averageOutDegree": 4.781868131868132,
+    "selfLinks": 20,
+    "removed": "Episode themes",
+    "averagePathLength": 4.382599080046082,
+    "sizeLargest": 1091
+  },
+  "19": {
+    "numNodes": 1819,
+    "numEdges": 8537,
+    "averageInDegree": 4.6932380428807035,
+    "averageOutDegree": 4.6932380428807035,
+    "selfLinks": 19,
+    "removed": "Season Nine",
+    "averagePathLength": 4.489371159853087,
+    "sizeLargest": 1080
+  },
+  "20": {
+    "numNodes": 1818,
+    "numEdges": 8377,
+    "averageInDegree": 4.607810781078108,
+    "averageOutDegree": 4.607810781078108,
+    "selfLinks": 19,
+    "removed": "Jordan Sullivan",
+    "averagePathLength": 4.539593044621961,
+    "sizeLargest": 1067
+  },
+  "21": {
+    "numNodes": 1817,
+    "numEdges": 8223,
+    "averageInDegree": 4.525591634562465,
+    "averageOutDegree": 4.525591634562465,
+    "selfLinks": 19,
+    "removed": "Ted Buckland",
+    "averagePathLength": 4.581889238205149,
+    "sizeLargest": 1052
+  },
+  "22": {
+    "numNodes": 1816,
+    "numEdges": 8072,
+    "averageInDegree": 4.4449339207048455,
+    "averageOutDegree": 4.4449339207048455,
+    "selfLinks": 18,
+    "removed": "Season Seven",
+    "averagePathLength": 4.723659148144293,
+    "sizeLargest": 1047
+  },
+  "23": {
+    "numNodes": 1815,
+    "numEdges": 7924,
+    "averageInDegree": 4.3658402203856745,
+    "averageOutDegree": 4.3658402203856745,
+    "selfLinks": 18,
+    "removed": "Todd Quinlan",
+    "averagePathLength": 4.723659148144293,
+    "sizeLargest": 1047
+  },
+  "24": {
+    "numNodes": 1814,
+    "numEdges": 7789,
+    "averageInDegree": 4.293825799338478,
+    "averageOutDegree": 4.293825799338478,
+    "selfLinks": 18,
+    "removed": "List of flashbacks in Scrubs",
+    "averagePathLength": 4.723659148144293,
+    "sizeLargest": 1047
+  },
+  "25": {
+    "numNodes": 1813,
+    "numEdges": 7684,
+    "averageInDegree": 4.2382790954219525,
+    "averageOutDegree": 4.2382790954219525,
+    "selfLinks": 18,
+    "removed": "List of music featured in Scrubs",
+    "averagePathLength": 4.742638728482649,
+    "sizeLargest": 1045
+  },
+  "26": {
+    "numNodes": 1812,
+    "numEdges": 7583,
+    "averageInDegree": 4.184878587196468,
+    "averageOutDegree": 4.184878587196468,
+    "selfLinks": 18,
+    "removed": "Bill Lawrence",
+    "averagePathLength": 4.775613315598906,
+    "sizeLargest": 1041
+  },
+  "27": {
+    "numNodes": 1811,
+    "numEdges": 7485,
+    "averageInDegree": 4.13307564881281,
+    "averageOutDegree": 4.13307564881281,
+    "selfLinks": 17,
+    "removed": "Scrubs: Interns",
+    "averagePathLength": 4.810646331531799,
+    "sizeLargest": 1040
+  },
+  "28": {
+    "numNodes": 1810,
+    "numEdges": 7393,
+    "averageInDegree": 4.084530386740331,
+    "averageOutDegree": 4.084530386740331,
+    "selfLinks": 17,
+    "removed": "List of J.D.'s girl names",
+    "averagePathLength": 4.881786240507764,
+    "sizeLargest": 1038
+  },
+  "29": {
+    "numNodes": 1809,
+    "numEdges": 7306,
+    "averageInDegree": 4.03869541182974,
+    "averageOutDegree": 4.03869541182974,
+    "selfLinks": 17,
+    "removed": "Denise Mahoney",
+    "averagePathLength": 4.900165624893648,
+    "sizeLargest": 1029
+  },
+  "30": {
+    "numNodes": 1808,
+    "numEdges": 7219,
+    "averageInDegree": 3.9928097345132745,
+    "averageOutDegree": 3.9928097345132745,
+    "selfLinks": 17,
+    "removed": "Laverne Roberts",
+    "averagePathLength": 4.907138629304511,
+    "sizeLargest": 1019
+  },
+  "31": {
+    "numNodes": 1807,
+    "numEdges": 7141,
+    "averageInDegree": 3.9518539014941894,
+    "averageOutDegree": 3.9518539014941894,
+    "selfLinks": 16,
+    "removed": "My Musical",
+    "averagePathLength": 4.941432858244058,
+    "sizeLargest": 1009
+  },
+  "32": {
+    "numNodes": 1806,
+    "numEdges": 7069,
+    "averageInDegree": 3.914174972314507,
+    "averageOutDegree": 3.914174972314507,
+    "selfLinks": 16,
+    "removed": "Keith Dudemeister",
+    "averagePathLength": 4.951149038297256,
+    "sizeLargest": 998
+  },
+  "33": {
+    "numNodes": 1805,
+    "numEdges": 6999,
+    "averageInDegree": 3.877562326869806,
+    "averageOutDegree": 3.877562326869806,
+    "selfLinks": 16,
+    "removed": "Scrubs Newbie Guide",
+    "averagePathLength": 4.951149038297256,
+    "sizeLargest": 998
+  },
+  "34": {
+    "numNodes": 1804,
+    "numEdges": 6931,
+    "averageInDegree": 3.8420177383592016,
+    "averageOutDegree": 3.8420177383592016,
+    "selfLinks": 16,
+    "removed": "Zach Braff",
+    "averagePathLength": 5.004752583983255,
+    "sizeLargest": 994
+  },
+  "35": {
+    "numNodes": 1803,
+    "numEdges": 6866,
+    "averageInDegree": 3.808097615085968,
+    "averageOutDegree": 3.808097615085968,
+    "selfLinks": 16,
+    "removed": "Doug Murphy",
+    "averagePathLength": 5.024367229811325,
+    "sizeLargest": 989
+  },
+  "36": {
+    "numNodes": 1802,
+    "numEdges": 6805,
+    "averageInDegree": 3.7763596004439512,
+    "averageOutDegree": 3.7763596004439512,
+    "selfLinks": 16,
+    "removed": "List of Scrubs' awards and nominations",
+    "averagePathLength": 5.035969648329199,
+    "sizeLargest": 980
+  },
+  "37": {
+    "numNodes": 1801,
+    "numEdges": 6751,
+    "averageInDegree": 3.7484730705163796,
+    "averageOutDegree": 3.7484730705163796,
+    "selfLinks": 16,
+    "removed": "My Words of Wisdom",
+    "averagePathLength": 5.052046428989393,
+    "sizeLargest": 970
+  },
+  "38": {
+    "numNodes": 1800,
+    "numEdges": 6698,
+    "averageInDegree": 3.721111111111111,
+    "averageOutDegree": 3.721111111111111,
+    "selfLinks": 16,
+    "removed": "My Best Friend's Wedding",
+    "averagePathLength": 5.0634463407616375,
+    "sizeLargest": 962
+  },
+  "39": {
+    "numNodes": 1799,
+    "numEdges": 6646,
+    "averageInDegree": 3.6942745969983326,
+    "averageOutDegree": 3.6942745969983326,
+    "selfLinks": 16,
+    "removed": "Lucy Bennett",
+    "averagePathLength": 5.07751093366655,
+    "sizeLargest": 959
+  },
+  "40": {
+    "numNodes": 1798,
+    "numEdges": 6594,
+    "averageInDegree": 3.667408231368187,
+    "averageOutDegree": 3.667408231368187,
+    "selfLinks": 16,
+    "removed": "My Last Words",
+    "averagePathLength": 5.104098665907249,
+    "sizeLargest": 956
+  },
+  "41": {
+    "numNodes": 1797,
+    "numEdges": 6542,
+    "averageInDegree": 3.640511964385086,
+    "averageOutDegree": 3.640511964385086,
+    "selfLinks": 16,
+    "removed": "Jack Cox",
+    "averagePathLength": 5.1006884988982675,
+    "sizeLargest": 947
+  },
+  "42": {
+    "numNodes": 1796,
+    "numEdges": 6492,
+    "averageInDegree": 3.6146993318485525,
+    "averageOutDegree": 3.6146993318485525,
+    "selfLinks": 16,
+    "removed": "Kim Briggs",
+    "averagePathLength": 5.104040673544409,
+    "sizeLargest": 937
+  },
+  "43": {
+    "numNodes": 1795,
+    "numEdges": 6442,
+    "averageInDegree": 3.5888579387186628,
+    "averageOutDegree": 3.5888579387186628,
+    "selfLinks": 16,
+    "removed": "Their Story",
+    "averagePathLength": 5.106074384766712,
+    "sizeLargest": 929
+  },
+  "44": {
+    "numNodes": 1794,
+    "numEdges": 6393,
+    "averageInDegree": 3.5635451505016724,
+    "averageOutDegree": 3.5635451505016724,
+    "selfLinks": 16,
+    "removed": "Sonja Dey",
+    "averagePathLength": 5.122385741111109,
+    "sizeLargest": 923
+  },
+  "45": {
+    "numNodes": 1793,
+    "numEdges": 6345,
+    "averageInDegree": 3.5387618516452872,
+    "averageOutDegree": 3.5387618516452872,
+    "selfLinks": 16,
+    "removed": "List of fantasies in Season One",
+    "averagePathLength": 5.122385741111109,
+    "sizeLargest": 923
+  },
+  "46": {
+    "numNodes": 1792,
+    "numEdges": 6298,
+    "averageInDegree": 3.5145089285714284,
+    "averageOutDegree": 3.5145089285714284,
+    "selfLinks": 16,
+    "removed": "Cougar Town",
+    "averagePathLength": 5.144369910679054,
+    "sizeLargest": 915
+  },
+  "47": {
+    "numNodes": 1791,
+    "numEdges": 6252,
+    "averageInDegree": 3.490787269681742,
+    "averageOutDegree": 3.490787269681742,
+    "selfLinks": 16,
+    "removed": "My Full Moon",
+    "averagePathLength": 5.15458726489389,
+    "sizeLargest": 909
+  },
+  "48": {
+    "numNodes": 1790,
+    "numEdges": 6208,
+    "averageInDegree": 3.4681564245810055,
+    "averageOutDegree": 3.4681564245810055,
+    "selfLinks": 16,
+    "removed": "The Worthless Peons",
+    "averagePathLength": 5.185145210971496,
+    "sizeLargest": 905
+  },
+  "49": {
+    "numNodes": 1789,
+    "numEdges": 6164,
+    "averageInDegree": 3.445500279485746,
+    "averageOutDegree": 3.445500279485746,
+    "selfLinks": 16,
+    "removed": "My Long Goodbye",
+    "averagePathLength": 5.203823787809061,
+    "sizeLargest": 902
+  },
+  "50": {
+    "numNodes": 1788,
+    "numEdges": 6121,
+    "averageInDegree": 3.4233780760626398,
+    "averageOutDegree": 3.4233780760626398,
+    "selfLinks": 15,
+    "removed": "My Fallen Idol",
+    "averagePathLength": 5.223959955506118,
+    "sizeLargest": 900
+  },
+  "51": {
+    "numNodes": 1787,
+    "numEdges": 6080,
+    "averageInDegree": 3.4023503077783994,
+    "averageOutDegree": 3.4023503077783994,
+    "selfLinks": 15,
+    "removed": "My Comedy Show",
+    "averagePathLength": 5.237242956989927,
+    "sizeLargest": 890
+  },
+  "52": {
+    "numNodes": 1786,
+    "numEdges": 6040,
+    "averageInDegree": 3.381858902575588,
+    "averageOutDegree": 3.381858902575588,
+    "selfLinks": 14,
+    "removed": "My Best Friend's Baby's Baby and My Baby's Baby",
+    "averagePathLength": 5.264437387611432,
+    "sizeLargest": 886
+  },
+  "53": {
+    "numNodes": 1785,
+    "numEdges": 5999,
+    "averageInDegree": 3.3607843137254902,
+    "averageOutDegree": 3.3607843137254902,
+    "selfLinks": 14,
+    "removed": "My First Day",
+    "averagePathLength": 5.289572756244816,
+    "sizeLargest": 883
+  },
+  "54": {
+    "numNodes": 1784,
+    "numEdges": 5959,
+    "averageInDegree": 3.3402466367713006,
+    "averageOutDegree": 3.3402466367713006,
+    "selfLinks": 14,
+    "removed": "Janitor story",
+    "averagePathLength": 5.303509977581649,
+    "sizeLargest": 882
+  },
+  "55": {
+    "numNodes": 1783,
+    "numEdges": 5920,
+    "averageInDegree": 3.3202467750981493,
+    "averageOutDegree": 3.3202467750981493,
+    "selfLinks": 14,
+    "removed": "Frank Encarnacao",
+    "averagePathLength": 5.345181766470162,
+    "sizeLargest": 880
+  },
+  "56": {
+    "numNodes": 1782,
+    "numEdges": 5881,
+    "averageInDegree": 3.3002244668911334,
+    "averageOutDegree": 3.3002244668911334,
+    "selfLinks": 14,
+    "removed": "My Jerks",
+    "averagePathLength": 5.35863354037267,
+    "sizeLargest": 875
+  },
+  "57": {
+    "numNodes": 1781,
+    "numEdges": 5842,
+    "averageInDegree": 3.2801796743402583,
+    "averageOutDegree": 3.2801796743402583,
+    "selfLinks": 14,
+    "removed": "My Ocardial Infarction",
+    "averagePathLength": 5.380195595817574,
+    "sizeLargest": 874
+  },
+  "58": {
+    "numNodes": 1780,
+    "numEdges": 5804,
+    "averageInDegree": 3.2606741573033706,
+    "averageOutDegree": 3.2606741573033706,
+    "selfLinks": 14,
+    "removed": "List of pre-Sacred Heart flashbacks",
+    "averagePathLength": 5.380195595817574,
+    "sizeLargest": 874
+  },
+  "59": {
+    "numNodes": 1779,
+    "numEdges": 5767,
+    "averageInDegree": 3.241708825182687,
+    "averageOutDegree": 3.241708825182687,
+    "selfLinks": 14,
+    "removed": "My Brother, My Keeper",
+    "averagePathLength": 5.39593808147591,
+    "sizeLargest": 871
+  },
+  "60": {
+    "numNodes": 1778,
+    "numEdges": 5730,
+    "averageInDegree": 3.2227221597300337,
+    "averageOutDegree": 3.2227221597300337,
+    "selfLinks": 14,
+    "removed": "Sarah Chalke",
+    "averagePathLength": 5.420590452759811,
+    "sizeLargest": 870
+  },
+  "61": {
+    "numNodes": 1777,
+    "numEdges": 5694,
+    "averageInDegree": 3.20427687113112,
+    "averageOutDegree": 3.20427687113112,
+    "selfLinks": 14,
+    "removed": "NBC",
+    "averagePathLength": 5.420590452759811,
+    "sizeLargest": 870
+  },
+  "62": {
+    "numNodes": 1776,
+    "numEdges": 5658,
+    "averageInDegree": 3.185810810810811,
+    "averageOutDegree": 3.185810810810811,
+    "selfLinks": 14,
+    "removed": "My Growing Pains",
+    "averagePathLength": 5.431573483970645,
+    "sizeLargest": 864
+  },
+  "63": {
+    "numNodes": 1775,
+    "numEdges": 5622,
+    "averageInDegree": 3.167323943661972,
+    "averageOutDegree": 3.167323943661972,
+    "selfLinks": 14,
+    "removed": "My Transition",
+    "averagePathLength": 5.434464087500339,
+    "sizeLargest": 860
+  },
+  "64": {
+    "numNodes": 1774,
+    "numEdges": 5586,
+    "averageInDegree": 3.148816234498309,
+    "averageOutDegree": 3.148816234498309,
+    "selfLinks": 14,
+    "removed": "My Identity Crisis",
+    "averagePathLength": 5.444683554681095,
+    "sizeLargest": 856
+  },
+  "65": {
+    "numNodes": 1773,
+    "numEdges": 5550,
+    "averageInDegree": 3.1302876480541455,
+    "averageOutDegree": 3.1302876480541455,
+    "selfLinks": 14,
+    "removed": "My Lunch",
+    "averagePathLength": 5.460649972133069,
+    "sizeLargest": 854
+  },
+  "66": {
+    "numNodes": 1772,
+    "numEdges": 5514,
+    "averageInDegree": 3.1117381489841986,
+    "averageOutDegree": 3.1117381489841986,
+    "selfLinks": 14,
+    "removed": "My Hero",
+    "averagePathLength": 5.487087825900302,
+    "sizeLargest": 853
+  },
+  "67": {
+    "numNodes": 1771,
+    "numEdges": 5478,
+    "averageInDegree": 3.093167701863354,
+    "averageOutDegree": 3.093167701863354,
+    "selfLinks": 14,
+    "removed": "My Old Lady",
+    "averagePathLength": 5.485111978401667,
+    "sizeLargest": 846
+  },
+  "68": {
+    "numNodes": 1770,
+    "numEdges": 5443,
+    "averageInDegree": 3.0751412429378533,
+    "averageOutDegree": 3.0751412429378533,
+    "selfLinks": 14,
+    "removed": "Our Histories",
+    "averagePathLength": 5.4982375065355615,
+    "sizeLargest": 844
+  },
+  "69": {
+    "numNodes": 1769,
+    "numEdges": 5408,
+    "averageInDegree": 3.0570944036178633,
+    "averageOutDegree": 3.0570944036178633,
+    "selfLinks": 14,
+    "removed": "My Friend the Doctor",
+    "averagePathLength": 5.4687915474356155,
+    "sizeLargest": 826
+  },
+  "70": {
+    "numNodes": 1768,
+    "numEdges": 5374,
+    "averageInDegree": 3.0395927601809953,
+    "averageOutDegree": 3.0395927601809953,
+    "selfLinks": 14,
+    "removed": "Cole Aaronson",
+    "averagePathLength": 5.493281742146303,
+    "sizeLargest": 824
+  },
+  "71": {
+    "numNodes": 1767,
+    "numEdges": 5340,
+    "averageInDegree": 3.0220713073005094,
+    "averageOutDegree": 3.0220713073005094,
+    "selfLinks": 14,
+    "removed": "List of vehicles seen in Scrubs",
+    "averagePathLength": 5.493281742146303,
+    "sizeLargest": 824
+  },
+  "72": {
+    "numNodes": 1766,
+    "numEdges": 5306,
+    "averageInDegree": 3.0045300113250284,
+    "averageOutDegree": 3.0045300113250284,
+    "selfLinks": 14,
+    "removed": "Randall Keenan Winston",
+    "averagePathLength": 5.638807522058168,
+    "sizeLargest": 821
+  },
+  "73": {
+    "numNodes": 1765,
+    "numEdges": 5272,
+    "averageInDegree": 2.986968838526912,
+    "averageOutDegree": 2.986968838526912,
+    "selfLinks": 14,
+    "removed": "My Old Man",
+    "averagePathLength": 5.66008059665584,
+    "sizeLargest": 816
+  },
+  "74": {
+    "numNodes": 1764,
+    "numEdges": 5239,
+    "averageInDegree": 2.9699546485260773,
+    "averageOutDegree": 2.9699546485260773,
+    "selfLinks": 14,
+    "removed": "My Lawyer's in Love",
+    "averagePathLength": 5.675744823950702,
+    "sizeLargest": 813
+  },
+  "75": {
+    "numNodes": 1763,
+    "numEdges": 5206,
+    "averageInDegree": 2.952921157118548,
+    "averageOutDegree": 2.952921157118548,
+    "selfLinks": 14,
+    "removed": "Sam Perry Gilligan Dorian",
+    "averagePathLength": 5.720873093486725,
+    "sizeLargest": 812
+  },
+  "76": {
+    "numNodes": 1762,
+    "numEdges": 5173,
+    "averageInDegree": 2.9358683314415437,
+    "averageOutDegree": 2.9358683314415437,
+    "selfLinks": 14,
+    "removed": "My Perspective",
+    "averagePathLength": 5.741296219994201,
+    "sizeLargest": 810
+  },
+  "77": {
+    "numNodes": 1761,
+    "numEdges": 5140,
+    "averageInDegree": 2.9187961385576378,
+    "averageOutDegree": 2.9187961385576378,
+    "selfLinks": 14,
+    "removed": "My Lucky Day",
+    "averagePathLength": 5.757428025865488,
+    "sizeLargest": 807
+  },
+  "78": {
+    "numNodes": 1760,
+    "numEdges": 5108,
+    "averageInDegree": 2.9022727272727273,
+    "averageOutDegree": 2.9022727272727273,
+    "selfLinks": 13,
+    "removed": "Danni Sullivan",
+    "averagePathLength": 5.768727370089135,
+    "sizeLargest": 802
+  },
+  "79": {
+    "numNodes": 1759,
+    "numEdges": 5076,
+    "averageInDegree": 2.885730528709494,
+    "averageOutDegree": 2.885730528709494,
+    "selfLinks": 12,
+    "removed": "My Mirror Image",
+    "averagePathLength": 5.7733378650090055,
+    "sizeLargest": 794
+  },
+  "80": {
+    "numNodes": 1758,
+    "numEdges": 5044,
+    "averageInDegree": 2.869169510807736,
+    "averageOutDegree": 2.869169510807736,
+    "selfLinks": 11,
+    "removed": "My New Game",
+    "averagePathLength": 5.797101865685937,
+    "sizeLargest": 792
+  },
+  "81": {
+    "numNodes": 1757,
+    "numEdges": 5012,
+    "averageInDegree": 2.852589641434263,
+    "averageOutDegree": 2.852589641434263,
+    "selfLinks": 11,
+    "removed": "My New Role",
+    "averagePathLength": 5.808837579617834,
+    "sizeLargest": 785
+  },
+  "82": {
+    "numNodes": 1756,
+    "numEdges": 4980,
+    "averageInDegree": 2.835990888382688,
+    "averageOutDegree": 2.835990888382688,
+    "selfLinks": 11,
+    "removed": "Brain Trust",
+    "averagePathLength": 5.880412734809066,
+    "sizeLargest": 783
+  },
+  "83": {
+    "numNodes": 1755,
+    "numEdges": 4948,
+    "averageInDegree": 2.8193732193732193,
+    "averageOutDegree": 2.8193732193732193,
+    "selfLinks": 11,
+    "removed": "My Philosophy",
+    "averagePathLength": 5.9199269280142195,
+    "sizeLargest": 780
+  },
+  "84": {
+    "numNodes": 1754,
+    "numEdges": 4917,
+    "averageInDegree": 2.8033067274800456,
+    "averageOutDegree": 2.8033067274800456,
+    "selfLinks": 11,
+    "removed": "The Complete Sixth Season DVD",
+    "averagePathLength": 5.875744316364124,
+    "sizeLargest": 763
+  },
+  "85": {
+    "numNodes": 1753,
+    "numEdges": 4886,
+    "averageInDegree": 2.787221905305191,
+    "averageOutDegree": 2.787221905305191,
+    "selfLinks": 11,
+    "removed": "New Sacred Heart Hospital",
+    "averagePathLength": 5.800252108300044,
+    "sizeLargest": 751
+  },
+  "86": {
+    "numNodes": 1752,
+    "numEdges": 4855,
+    "averageInDegree": 2.771118721461187,
+    "averageOutDegree": 2.771118721461187,
+    "selfLinks": 11,
+    "removed": "ABC",
+    "averagePathLength": 5.800252108300044,
+    "sizeLargest": 751
+  },
+  "87": {
+    "numNodes": 1751,
+    "numEdges": 4824,
+    "averageInDegree": 2.7549971444888635,
+    "averageOutDegree": 2.7549971444888635,
+    "selfLinks": 11,
+    "removed": "Walter Mickhead",
+    "averagePathLength": 5.79065362740416,
+    "sizeLargest": 744
+  },
+  "88": {
+    "numNodes": 1750,
+    "numEdges": 4794,
+    "averageInDegree": 2.7394285714285713,
+    "averageOutDegree": 2.7394285714285713,
+    "selfLinks": 10,
+    "removed": "My Way Home",
+    "averagePathLength": 5.796303037657243,
+    "sizeLargest": 738
+  },
+  "89": {
+    "numNodes": 1749,
+    "numEdges": 4763,
+    "averageInDegree": 2.7232704402515724,
+    "averageOutDegree": 2.7232704402515724,
+    "selfLinks": 10,
+    "removed": "His Story II",
+    "averagePathLength": 5.817717491106311,
+    "sizeLargest": 734
+  },
+  "90": {
+    "numNodes": 1748,
+    "numEdges": 4732,
+    "averageInDegree": 2.7070938215102975,
+    "averageOutDegree": 2.7070938215102975,
+    "selfLinks": 10,
+    "removed": "My Own Personal Jesus",
+    "averagePathLength": 5.817268013966776,
+    "sizeLargest": 728
+  },
+  "91": {
+    "numNodes": 1747,
+    "numEdges": 4703,
+    "averageInDegree": 2.692043503148254,
+    "averageOutDegree": 2.692043503148254,
+    "selfLinks": 9,
+    "removed": "My Urologist",
+    "averagePathLength": 5.862948274149301,
+    "sizeLargest": 724
+  },
+  "92": {
+    "numNodes": 1746,
+    "numEdges": 4674,
+    "averageInDegree": 2.676975945017182,
+    "averageOutDegree": 2.676975945017182,
+    "selfLinks": 9,
+    "removed": "List of fantasies in Season Two",
+    "averagePathLength": 5.862948274149301,
+    "sizeLargest": 724
+  },
+  "93": {
+    "numNodes": 1745,
+    "numEdges": 4645,
+    "averageInDegree": 2.66189111747851,
+    "averageOutDegree": 2.66189111747851,
+    "selfLinks": 9,
+    "removed": "Drew Suffin",
+    "averagePathLength": 5.854180673963908,
+    "sizeLargest": 722
+  },
+  "94": {
+    "numNodes": 1744,
+    "numEdges": 4616,
+    "averageInDegree": 2.646788990825688,
+    "averageOutDegree": 2.646788990825688,
+    "selfLinks": 9,
+    "removed": "Ways to Watch Scrubs",
+    "averagePathLength": 5.873400345656449,
+    "sizeLargest": 710
+  },
+  "95": {
+    "numNodes": 1743,
+    "numEdges": 4587,
+    "averageInDegree": 2.631669535283993,
+    "averageOutDegree": 2.631669535283993,
+    "selfLinks": 9,
+    "removed": "My No Good Reason",
+    "averagePathLength": 5.873400345656449,
+    "sizeLargest": 710
+  },
+  "96": {
+    "numNodes": 1742,
+    "numEdges": 4558,
+    "averageInDegree": 2.616532721010333,
+    "averageOutDegree": 2.616532721010333,
+    "selfLinks": 9,
+    "removed": "Ladinia Williams",
+    "averagePathLength": 5.914366594465279,
+    "sizeLargest": 704
+  },
+  "97": {
+    "numNodes": 1741,
+    "numEdges": 4529,
+    "averageInDegree": 2.6013785180930498,
+    "averageOutDegree": 2.6013785180930498,
+    "selfLinks": 9,
+    "removed": "Charles Chun",
+    "averagePathLength": 6.011529748371854,
+    "sizeLargest": 703
+  },
+  "98": {
+    "numNodes": 1740,
+    "numEdges": 4500,
+    "averageInDegree": 2.586206896551724,
+    "averageOutDegree": 2.586206896551724,
+    "selfLinks": 9,
+    "removed": "My Unicorn",
+    "averagePathLength": 5.986497927249372,
+    "sizeLargest": 693
+  },
+  "99": {
+    "numNodes": 1739,
+    "numEdges": 4472,
+    "averageInDegree": 2.57159286946521,
+    "averageOutDegree": 2.57159286946521,
+    "selfLinks": 9,
+    "removed": "My Saving Grace",
+    "averagePathLength": 5.991041457131823,
+    "sizeLargest": 687
+  },
+  "100": {
+    "numNodes": 1738,
+    "numEdges": 4444,
+    "averageInDegree": 2.5569620253164556,
+    "averageOutDegree": 2.5569620253164556,
+    "selfLinks": 9,
+    "removed": "My Princess",
+    "averagePathLength": 5.984327550927314,
+    "sizeLargest": 679
+  },
+  "101": {
+    "numNodes": 1737,
+    "numEdges": 4416,
+    "averageInDegree": 2.542314335060449,
+    "averageOutDegree": 2.542314335060449,
+    "selfLinks": 9,
+    "removed": "My Nightingale",
+    "averagePathLength": 5.97858915965979,
+    "sizeLargest": 674
+  },
+  "102": {
+    "numNodes": 1736,
+    "numEdges": 4388,
+    "averageInDegree": 2.5276497695852536,
+    "averageOutDegree": 2.5276497695852536,
+    "selfLinks": 9,
+    "removed": "Seymour Beardfac\u00e9",
+    "averagePathLength": 6.0000132668223305,
+    "sizeLargest": 673
+  },
+  "103": {
+    "numNodes": 1735,
+    "numEdges": 4360,
+    "averageInDegree": 2.5129682997118157,
+    "averageOutDegree": 2.5129682997118157,
+    "selfLinks": 9,
+    "removed": "My T.C.W.",
+    "averagePathLength": 6.0298909042232784,
+    "sizeLargest": 670
+  },
+  "104": {
+    "numNodes": 1734,
+    "numEdges": 4332,
+    "averageInDegree": 2.4982698961937717,
+    "averageOutDegree": 2.4982698961937717,
+    "selfLinks": 9,
+    "removed": "Her Story II",
+    "averagePathLength": 6.049208757373146,
+    "sizeLargest": 669
+  },
+  "105": {
+    "numNodes": 1733,
+    "numEdges": 4304,
+    "averageInDegree": 2.4835545297172534,
+    "averageOutDegree": 2.4835545297172534,
+    "selfLinks": 9,
+    "removed": "My Rite of Passage",
+    "averagePathLength": 6.051888730836099,
+    "sizeLargest": 666
+  },
+  "106": {
+    "numNodes": 1732,
+    "numEdges": 4276,
+    "averageInDegree": 2.468822170900693,
+    "averageOutDegree": 2.468822170900693,
+    "selfLinks": 9,
+    "removed": "Phillip Wen",
+    "averagePathLength": 6.027077068715893,
+    "sizeLargest": 657
+  }
+}

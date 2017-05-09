@@ -1,0 +1,32 @@
+{
+  "0": {
+    "numNodes": 31,
+    "numEdges": 81,
+    "averageInDegree": 2.6129032258064515,
+    "averageOutDegree": 2.6129032258064515,
+    "selfLinks": 0,
+    "removed": "Fawlty Towers",
+    "averagePathLength": 2.024731182795699,
+    "sizeLargest": 18
+  },
+  "1": {
+    "numNodes": 30,
+    "numEdges": 67,
+    "averageInDegree": 2.2333333333333334,
+    "averageOutDegree": 2.2333333333333334,
+    "selfLinks": 0,
+    "removed": "Basil Fawlty",
+    "averagePathLength": 3.456043956043956,
+    "sizeLargest": 14
+  },
+  "2": {
+    "numNodes": 29,
+    "numEdges": 55,
+    "averageInDegree": 1.896551724137931,
+    "averageOutDegree": 1.896551724137931,
+    "selfLinks": 0,
+    "removed": "Episode Guide",
+    "averagePathLength": 3.3555555555555556,
+    "sizeLargest": 10
+  }
+}

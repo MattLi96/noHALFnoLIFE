@@ -1,0 +1,672 @@
+{
+  "0": {
+    "numNodes": 604,
+    "numEdges": 6646,
+    "averageInDegree": 11.003311258278146,
+    "averageOutDegree": 11.003311258278146,
+    "selfLinks": 2,
+    "removed": "Don Draper",
+    "averagePathLength": 3.3504613136019,
+    "sizeLargest": 534
+  },
+  "1": {
+    "numNodes": 603,
+    "numEdges": 6487,
+    "averageInDegree": 10.75787728026534,
+    "averageOutDegree": 10.75787728026534,
+    "selfLinks": 2,
+    "removed": "Roger Sterling",
+    "averagePathLength": 3.3761397150268273,
+    "sizeLargest": 531
+  },
+  "2": {
+    "numNodes": 602,
+    "numEdges": 6336,
+    "averageInDegree": 10.524916943521594,
+    "averageOutDegree": 10.524916943521594,
+    "selfLinks": 2,
+    "removed": "Pete Campbell",
+    "averagePathLength": 3.405910384681732,
+    "sizeLargest": 528
+  },
+  "3": {
+    "numNodes": 601,
+    "numEdges": 6194,
+    "averageInDegree": 10.306156405990016,
+    "averageOutDegree": 10.306156405990016,
+    "selfLinks": 2,
+    "removed": "Peggy Olson",
+    "averagePathLength": 3.4374592499798537,
+    "sizeLargest": 523
+  },
+  "4": {
+    "numNodes": 600,
+    "numEdges": 6076,
+    "averageInDegree": 10.126666666666667,
+    "averageOutDegree": 10.126666666666667,
+    "selfLinks": 2,
+    "removed": "Sally Draper",
+    "averagePathLength": 3.4790610641766713,
+    "sizeLargest": 520
+  },
+  "5": {
+    "numNodes": 599,
+    "numEdges": 5962,
+    "averageInDegree": 9.953255425709516,
+    "averageOutDegree": 9.953255425709516,
+    "selfLinks": 2,
+    "removed": "Ken Cosgrove",
+    "averagePathLength": 3.4977808765537612,
+    "sizeLargest": 517
+  },
+  "6": {
+    "numNodes": 598,
+    "numEdges": 5849,
+    "averageInDegree": 9.780936454849499,
+    "averageOutDegree": 9.780936454849499,
+    "selfLinks": 2,
+    "removed": "Joan Harris",
+    "averagePathLength": 3.5610913133528266,
+    "sizeLargest": 513
+  },
+  "7": {
+    "numNodes": 597,
+    "numEdges": 5739,
+    "averageInDegree": 9.613065326633166,
+    "averageOutDegree": 9.613065326633166,
+    "selfLinks": 2,
+    "removed": "Bertram Cooper",
+    "averagePathLength": 3.578138346611999,
+    "sizeLargest": 508
+  },
+  "8": {
+    "numNodes": 596,
+    "numEdges": 5632,
+    "averageInDegree": 9.449664429530202,
+    "averageOutDegree": 9.449664429530202,
+    "selfLinks": 2,
+    "removed": "Shut the Door. Have a Seat",
+    "averagePathLength": 3.5964676349291733,
+    "sizeLargest": 507
+  },
+  "9": {
+    "numNodes": 595,
+    "numEdges": 5528,
+    "averageInDegree": 9.29075630252101,
+    "averageOutDegree": 9.29075630252101,
+    "selfLinks": 2,
+    "removed": "The Chrysanthemum and the Sword",
+    "averagePathLength": 3.6102557836428804,
+    "sizeLargest": 496
+  },
+  "10": {
+    "numNodes": 594,
+    "numEdges": 5425,
+    "averageInDegree": 9.132996632996633,
+    "averageOutDegree": 9.132996632996633,
+    "selfLinks": 2,
+    "removed": "Harry Crane",
+    "averagePathLength": 3.6262265208858984,
+    "sizeLargest": 493
+  },
+  "11": {
+    "numNodes": 593,
+    "numEdges": 5333,
+    "averageInDegree": 8.993254637436761,
+    "averageOutDegree": 8.993254637436761,
+    "selfLinks": 2,
+    "removed": "Seasons",
+    "averagePathLength": 3.6262265208858984,
+    "sizeLargest": 493
+  },
+  "12": {
+    "numNodes": 592,
+    "numEdges": 5243,
+    "averageInDegree": 8.85641891891892,
+    "averageOutDegree": 8.85641891891892,
+    "selfLinks": 2,
+    "removed": "Christmas Comes But Once a Year",
+    "averagePathLength": 3.637669546346146,
+    "sizeLargest": 490
+  },
+  "13": {
+    "numNodes": 591,
+    "numEdges": 5153,
+    "averageInDegree": 8.71912013536379,
+    "averageOutDegree": 8.71912013536379,
+    "selfLinks": 2,
+    "removed": "For Those Who Think Young",
+    "averagePathLength": 3.66525864091991,
+    "sizeLargest": 489
+  },
+  "14": {
+    "numNodes": 590,
+    "numEdges": 5064,
+    "averageInDegree": 8.583050847457628,
+    "averageOutDegree": 8.583050847457628,
+    "selfLinks": 2,
+    "removed": "Chinese Wall",
+    "averagePathLength": 3.7161634598321798,
+    "sizeLargest": 487
+  },
+  "15": {
+    "numNodes": 589,
+    "numEdges": 4979,
+    "averageInDegree": 8.453310696095077,
+    "averageOutDegree": 8.453310696095077,
+    "selfLinks": 2,
+    "removed": "The Suitcase",
+    "averagePathLength": 3.7389334351533665,
+    "sizeLargest": 486
+  },
+  "16": {
+    "numNodes": 588,
+    "numEdges": 4895,
+    "averageInDegree": 8.32482993197279,
+    "averageOutDegree": 8.32482993197279,
+    "selfLinks": 2,
+    "removed": "The Grown-Ups",
+    "averagePathLength": 3.7487466420272746,
+    "sizeLargest": 484
+  },
+  "17": {
+    "numNodes": 587,
+    "numEdges": 4811,
+    "averageInDegree": 8.195911413969336,
+    "averageOutDegree": 8.195911413969336,
+    "selfLinks": 2,
+    "removed": "The Hobo Code",
+    "averagePathLength": 3.766964768949254,
+    "sizeLargest": 483
+  },
+  "18": {
+    "numNodes": 586,
+    "numEdges": 4729,
+    "averageInDegree": 8.069965870307167,
+    "averageOutDegree": 8.069965870307167,
+    "selfLinks": 2,
+    "removed": "Flight 1",
+    "averagePathLength": 3.785438322938323,
+    "sizeLargest": 481
+  },
+  "19": {
+    "numNodes": 585,
+    "numEdges": 4648,
+    "averageInDegree": 7.9452991452991455,
+    "averageOutDegree": 7.9452991452991455,
+    "selfLinks": 2,
+    "removed": "Public Relations",
+    "averagePathLength": 3.7889145116125844,
+    "sizeLargest": 468
+  },
+  "20": {
+    "numNodes": 584,
+    "numEdges": 4568,
+    "averageInDegree": 7.821917808219178,
+    "averageOutDegree": 7.821917808219178,
+    "selfLinks": 2,
+    "removed": "Babylon",
+    "averagePathLength": 3.7986343045798305,
+    "sizeLargest": 457
+  },
+  "21": {
+    "numNodes": 583,
+    "numEdges": 4490,
+    "averageInDegree": 7.701543739279589,
+    "averageOutDegree": 7.701543739279589,
+    "selfLinks": 2,
+    "removed": "Season 1",
+    "averagePathLength": 3.813192904656319,
+    "sizeLargest": 452
+  },
+  "22": {
+    "numNodes": 582,
+    "numEdges": 4414,
+    "averageInDegree": 7.584192439862543,
+    "averageOutDegree": 7.584192439862543,
+    "selfLinks": 2,
+    "removed": "The Color Blue",
+    "averagePathLength": 3.8227593003202758,
+    "sizeLargest": 451
+  },
+  "23": {
+    "numNodes": 581,
+    "numEdges": 4340,
+    "averageInDegree": 7.469879518072289,
+    "averageOutDegree": 7.469879518072289,
+    "selfLinks": 2,
+    "removed": "Tomorrowland",
+    "averagePathLength": 3.8377127277085332,
+    "sizeLargest": 448
+  },
+  "24": {
+    "numNodes": 580,
+    "numEdges": 4268,
+    "averageInDegree": 7.358620689655172,
+    "averageOutDegree": 7.358620689655172,
+    "selfLinks": 2,
+    "removed": "Blowing Smoke",
+    "averagePathLength": 3.8628795848952535,
+    "sizeLargest": 443
+  },
+  "25": {
+    "numNodes": 579,
+    "numEdges": 4197,
+    "averageInDegree": 7.248704663212435,
+    "averageOutDegree": 7.248704663212435,
+    "selfLinks": 2,
+    "removed": "The Rejected",
+    "averagePathLength": 3.900221603793032,
+    "sizeLargest": 441
+  },
+  "26": {
+    "numNodes": 578,
+    "numEdges": 4127,
+    "averageInDegree": 7.140138408304498,
+    "averageOutDegree": 7.140138408304498,
+    "selfLinks": 2,
+    "removed": "Sterling Cooper Draper Pryce",
+    "averagePathLength": 3.9342112106177387,
+    "sizeLargest": 439
+  },
+  "27": {
+    "numNodes": 577,
+    "numEdges": 4058,
+    "averageInDegree": 7.032928942807626,
+    "averageOutDegree": 7.032928942807626,
+    "selfLinks": 2,
+    "removed": "Wee Small Hours",
+    "averagePathLength": 3.9463922070833246,
+    "sizeLargest": 437
+  },
+  "28": {
+    "numNodes": 576,
+    "numEdges": 3989,
+    "averageInDegree": 6.925347222222222,
+    "averageOutDegree": 6.925347222222222,
+    "selfLinks": 2,
+    "removed": "The Wheel",
+    "averagePathLength": 3.9543480805866262,
+    "sizeLargest": 434
+  },
+  "29": {
+    "numNodes": 575,
+    "numEdges": 3921,
+    "averageInDegree": 6.8191304347826085,
+    "averageOutDegree": 6.8191304347826085,
+    "selfLinks": 2,
+    "removed": "Guy Walks Into an Advertising Agency",
+    "averagePathLength": 3.9756329655290394,
+    "sizeLargest": 433
+  },
+  "30": {
+    "numNodes": 574,
+    "numEdges": 3853,
+    "averageInDegree": 6.7125435540069684,
+    "averageOutDegree": 6.7125435540069684,
+    "selfLinks": 2,
+    "removed": "New Amsterdam",
+    "averagePathLength": 3.987594587130627,
+    "sizeLargest": 426
+  },
+  "31": {
+    "numNodes": 573,
+    "numEdges": 3786,
+    "averageInDegree": 6.607329842931938,
+    "averageOutDegree": 6.607329842931938,
+    "selfLinks": 2,
+    "removed": "Waldorf Stories",
+    "averagePathLength": 4.012238434566226,
+    "sizeLargest": 421
+  },
+  "32": {
+    "numNodes": 572,
+    "numEdges": 3720,
+    "averageInDegree": 6.503496503496503,
+    "averageOutDegree": 6.503496503496503,
+    "selfLinks": 2,
+    "removed": "Meditations in an Emergency",
+    "averagePathLength": 4.031694282353747,
+    "sizeLargest": 419
+  },
+  "33": {
+    "numNodes": 571,
+    "numEdges": 3654,
+    "averageInDegree": 6.399299474605955,
+    "averageOutDegree": 6.399299474605955,
+    "selfLinks": 2,
+    "removed": "Indian Summer",
+    "averagePathLength": 4.040096618357488,
+    "sizeLargest": 415
+  },
+  "34": {
+    "numNodes": 570,
+    "numEdges": 3590,
+    "averageInDegree": 6.298245614035087,
+    "averageOutDegree": 6.298245614035087,
+    "selfLinks": 2,
+    "removed": "5G",
+    "averagePathLength": 4.041654242948297,
+    "sizeLargest": 410
+  },
+  "35": {
+    "numNodes": 569,
+    "numEdges": 3526,
+    "averageInDegree": 6.1968365553602816,
+    "averageOutDegree": 6.1968365553602816,
+    "selfLinks": 2,
+    "removed": "Ladies Room",
+    "averagePathLength": 4.061467215878981,
+    "sizeLargest": 408
+  },
+  "36": {
+    "numNodes": 568,
+    "numEdges": 3463,
+    "averageInDegree": 6.096830985915493,
+    "averageOutDegree": 6.096830985915493,
+    "selfLinks": 2,
+    "removed": "The Summer Man",
+    "averagePathLength": 4.102915723605379,
+    "sizeLargest": 407
+  },
+  "37": {
+    "numNodes": 567,
+    "numEdges": 3400,
+    "averageInDegree": 5.99647266313933,
+    "averageOutDegree": 5.99647266313933,
+    "selfLinks": 2,
+    "removed": "The Benefactor",
+    "averagePathLength": 4.107219513405541,
+    "sizeLargest": 402
+  },
+  "38": {
+    "numNodes": 566,
+    "numEdges": 3338,
+    "averageInDegree": 5.897526501766785,
+    "averageOutDegree": 5.897526501766785,
+    "selfLinks": 2,
+    "removed": "The Inheritance",
+    "averagePathLength": 4.129320448877806,
+    "sizeLargest": 401
+  },
+  "39": {
+    "numNodes": 565,
+    "numEdges": 3276,
+    "averageInDegree": 5.7982300884955755,
+    "averageOutDegree": 5.7982300884955755,
+    "selfLinks": 2,
+    "removed": "Maidenform",
+    "averagePathLength": 4.128233631047999,
+    "sizeLargest": 395
+  },
+  "40": {
+    "numNodes": 564,
+    "numEdges": 3215,
+    "averageInDegree": 5.700354609929078,
+    "averageOutDegree": 5.700354609929078,
+    "selfLinks": 2,
+    "removed": "Season 5",
+    "averagePathLength": 4.199232746533728,
+    "sizeLargest": 393
+  },
+  "41": {
+    "numNodes": 563,
+    "numEdges": 3154,
+    "averageInDegree": 5.602131438721137,
+    "averageOutDegree": 5.602131438721137,
+    "selfLinks": 2,
+    "removed": "My Old Kentucky Home",
+    "averagePathLength": 4.23079884127564,
+    "sizeLargest": 392
+  },
+  "42": {
+    "numNodes": 562,
+    "numEdges": 3093,
+    "averageInDegree": 5.50355871886121,
+    "averageOutDegree": 5.50355871886121,
+    "selfLinks": 2,
+    "removed": "Shoot",
+    "averagePathLength": 4.247855563547244,
+    "sizeLargest": 388
+  },
+  "43": {
+    "numNodes": 561,
+    "numEdges": 3032,
+    "averageInDegree": 5.404634581105169,
+    "averageOutDegree": 5.404634581105169,
+    "selfLinks": 2,
+    "removed": "Smoke Gets in Your Eyes",
+    "averagePathLength": 4.2647511146227215,
+    "sizeLargest": 377
+  },
+  "44": {
+    "numNodes": 560,
+    "numEdges": 2972,
+    "averageInDegree": 5.307142857142857,
+    "averageOutDegree": 5.307142857142857,
+    "selfLinks": 2,
+    "removed": "Seven Twenty Three",
+    "averagePathLength": 4.2822198581560285,
+    "sizeLargest": 376
+  },
+  "45": {
+    "numNodes": 559,
+    "numEdges": 2912,
+    "averageInDegree": 5.209302325581396,
+    "averageOutDegree": 5.209302325581396,
+    "selfLinks": 2,
+    "removed": "Six Month Leave",
+    "averagePathLength": 4.315336898395722,
+    "sizeLargest": 375
+  },
+  "46": {
+    "numNodes": 558,
+    "numEdges": 2853,
+    "averageInDegree": 5.112903225806452,
+    "averageOutDegree": 5.112903225806452,
+    "selfLinks": 2,
+    "removed": "A Little Kiss, Part 1",
+    "averagePathLength": 4.33124256283064,
+    "sizeLargest": 374
+  },
+  "47": {
+    "numNodes": 557,
+    "numEdges": 2795,
+    "averageInDegree": 5.017953321364453,
+    "averageOutDegree": 5.017953321364453,
+    "selfLinks": 2,
+    "removed": "The Other Woman",
+    "averagePathLength": 4.345178005092241,
+    "sizeLargest": 367
+  },
+  "48": {
+    "numNodes": 556,
+    "numEdges": 2737,
+    "averageInDegree": 4.922661870503597,
+    "averageOutDegree": 4.922661870503597,
+    "selfLinks": 2,
+    "removed": "Hands and Knees",
+    "averagePathLength": 4.399669725887707,
+    "sizeLargest": 363
+  },
+  "49": {
+    "numNodes": 555,
+    "numEdges": 2679,
+    "averageInDegree": 4.827027027027027,
+    "averageOutDegree": 4.827027027027027,
+    "selfLinks": 2,
+    "removed": "Nixon vs. Kennedy",
+    "averagePathLength": 4.430673347753692,
+    "sizeLargest": 359
+  },
+  "50": {
+    "numNodes": 554,
+    "numEdges": 2622,
+    "averageInDegree": 4.7328519855595665,
+    "averageOutDegree": 4.7328519855595665,
+    "selfLinks": 2,
+    "removed": "The Phantom",
+    "averagePathLength": 4.449287817299276,
+    "sizeLargest": 355
+  },
+  "51": {
+    "numNodes": 553,
+    "numEdges": 2565,
+    "averageInDegree": 4.638336347197106,
+    "averageOutDegree": 4.638336347197106,
+    "selfLinks": 2,
+    "removed": "At the Codfish Ball",
+    "averagePathLength": 4.405106167846309,
+    "sizeLargest": 345
+  },
+  "52": {
+    "numNodes": 552,
+    "numEdges": 2508,
+    "averageInDegree": 4.543478260869565,
+    "averageOutDegree": 4.543478260869565,
+    "selfLinks": 2,
+    "removed": "Sterling Cooper Advertising Agency",
+    "averagePathLength": 4.42825663266202,
+    "sizeLargest": 338
+  },
+  "53": {
+    "numNodes": 551,
+    "numEdges": 2451,
+    "averageInDegree": 4.448275862068965,
+    "averageOutDegree": 4.448275862068965,
+    "selfLinks": 2,
+    "removed": "Marriage of Figaro",
+    "averagePathLength": 4.4478439989014005,
+    "sizeLargest": 331
+  },
+  "54": {
+    "numNodes": 550,
+    "numEdges": 2395,
+    "averageInDegree": 4.3545454545454545,
+    "averageOutDegree": 4.3545454545454545,
+    "selfLinks": 2,
+    "removed": "The Good News",
+    "averagePathLength": 4.486503744122598,
+    "sizeLargest": 322
+  },
+  "55": {
+    "numNodes": 549,
+    "numEdges": 2339,
+    "averageInDegree": 4.260473588342441,
+    "averageOutDegree": 4.260473588342441,
+    "selfLinks": 2,
+    "removed": "The Gypsy and the Hobo",
+    "averagePathLength": 4.501448326488503,
+    "sizeLargest": 318
+  },
+  "56": {
+    "numNodes": 548,
+    "numEdges": 2283,
+    "averageInDegree": 4.166058394160584,
+    "averageOutDegree": 4.166058394160584,
+    "selfLinks": 2,
+    "removed": "A Night to Remember",
+    "averagePathLength": 4.5381860361002015,
+    "sizeLargest": 314
+  },
+  "57": {
+    "numNodes": 547,
+    "numEdges": 2228,
+    "averageInDegree": 4.073126142595978,
+    "averageOutDegree": 4.073126142595978,
+    "selfLinks": 2,
+    "removed": "Souvenir",
+    "averagePathLength": 4.546762896255136,
+    "sizeLargest": 307
+  },
+  "58": {
+    "numNodes": 546,
+    "numEdges": 2174,
+    "averageInDegree": 3.9816849816849818,
+    "averageOutDegree": 3.9816849816849818,
+    "selfLinks": 2,
+    "removed": "The Beautiful Girls",
+    "averagePathLength": 4.645926382257816,
+    "sizeLargest": 302
+  },
+  "59": {
+    "numNodes": 545,
+    "numEdges": 2121,
+    "averageInDegree": 3.891743119266055,
+    "averageOutDegree": 3.891743119266055,
+    "selfLinks": 2,
+    "removed": "Love Among the Ruins",
+    "averagePathLength": 4.670664451827243,
+    "sizeLargest": 301
+  },
+  "60": {
+    "numNodes": 544,
+    "numEdges": 2068,
+    "averageInDegree": 3.801470588235294,
+    "averageOutDegree": 3.801470588235294,
+    "selfLinks": 2,
+    "removed": "The Mountain King",
+    "averagePathLength": 4.771358222629409,
+    "sizeLargest": 296
+  },
+  "61": {
+    "numNodes": 543,
+    "numEdges": 2015,
+    "averageInDegree": 3.710865561694291,
+    "averageOutDegree": 3.710865561694291,
+    "selfLinks": 2,
+    "removed": "Three Sundays",
+    "averagePathLength": 4.798293636686811,
+    "sizeLargest": 291
+  },
+  "62": {
+    "numNodes": 542,
+    "numEdges": 1963,
+    "averageInDegree": 3.621771217712177,
+    "averageOutDegree": 3.621771217712177,
+    "selfLinks": 2,
+    "removed": "The Arrangements",
+    "averagePathLength": 4.839256535947713,
+    "sizeLargest": 289
+  },
+  "63": {
+    "numNodes": 541,
+    "numEdges": 1911,
+    "averageInDegree": 3.532347504621072,
+    "averageOutDegree": 3.532347504621072,
+    "selfLinks": 2,
+    "removed": "Long Weekend",
+    "averagePathLength": 4.874297018862291,
+    "sizeLargest": 284
+  },
+  "64": {
+    "numNodes": 540,
+    "numEdges": 1862,
+    "averageInDegree": 3.448148148148148,
+    "averageOutDegree": 3.448148148148148,
+    "selfLinks": 2,
+    "removed": "Dark Shadows",
+    "averagePathLength": 4.914691571181918,
+    "sizeLargest": 277
+  },
+  "65": {
+    "numNodes": 539,
+    "numEdges": 1814,
+    "averageInDegree": 3.3654916512059367,
+    "averageOutDegree": 3.3654916512059367,
+    "selfLinks": 1,
+    "removed": "Mystery Date",
+    "averagePathLength": 5.0025823451910405,
+    "sizeLargest": 276
+  },
+  "66": {
+    "numNodes": 538,
+    "numEdges": 1766,
+    "averageInDegree": 3.282527881040892,
+    "averageOutDegree": 3.282527881040892,
+    "selfLinks": 1,
+    "removed": "Far Away Places",
+    "averagePathLength": 5.031487543694168,
+    "sizeLargest": 269
+  }
+}

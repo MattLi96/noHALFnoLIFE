@@ -1,0 +1,7012 @@
+{
+  "0": {
+    "numNodes": 9769,
+    "numEdges": 141504,
+    "averageInDegree": 14.485003582761797,
+    "averageOutDegree": 14.485003582761797,
+    "selfLinks": 57,
+    "removed": "Agents of S.H.I.E.L.D.",
+    "averagePathLength": 3.4786511120485613,
+    "sizeLargest": 6537
+  },
+  "1": {
+    "numNodes": 9768,
+    "numEdges": 139508,
+    "averageInDegree": 14.282145782145783,
+    "averageOutDegree": 14.282145782145783,
+    "selfLinks": 57,
+    "removed": "S.H.I.E.L.D.",
+    "averagePathLength": 3.4942415038610353,
+    "sizeLargest": 6535
+  },
+  "2": {
+    "numNodes": 9767,
+    "numEdges": 138031,
+    "averageInDegree": 14.132384560253916,
+    "averageOutDegree": 14.132384560253916,
+    "selfLinks": 57,
+    "removed": "Phil Coulson",
+    "averagePathLength": 3.5062378559727683,
+    "sizeLargest": 6534
+  },
+  "3": {
+    "numNodes": 9766,
+    "numEdges": 136664,
+    "averageInDegree": 13.993856235920541,
+    "averageOutDegree": 13.993856235920541,
+    "selfLinks": 57,
+    "removed": "Humans",
+    "averagePathLength": 3.5098377318262393,
+    "sizeLargest": 6533
+  },
+  "4": {
+    "numNodes": 9765,
+    "numEdges": 135324,
+    "averageInDegree": 13.858064516129032,
+    "averageOutDegree": 13.858064516129032,
+    "selfLinks": 56,
+    "removed": "New York City",
+    "averagePathLength": 3.547519025331447,
+    "sizeLargest": 6532
+  },
+  "5": {
+    "numNodes": 9764,
+    "numEdges": 133989,
+    "averageInDegree": 13.72275706677591,
+    "averageOutDegree": 13.72275706677591,
+    "selfLinks": 56,
+    "removed": "HYDRA",
+    "averagePathLength": 3.5573731240780617,
+    "sizeLargest": 6530
+  },
+  "6": {
+    "numNodes": 9763,
+    "numEdges": 132834,
+    "averageInDegree": 13.605858854860186,
+    "averageOutDegree": 13.605858854860186,
+    "selfLinks": 56,
+    "removed": "United States of America",
+    "averagePathLength": 3.576320527157869,
+    "sizeLargest": 6529
+  },
+  "7": {
+    "numNodes": 9762,
+    "numEdges": 131827,
+    "averageInDegree": 13.504097520999796,
+    "averageOutDegree": 13.504097520999796,
+    "selfLinks": 56,
+    "removed": "Agents of S.H.I.E.L.D./Credits",
+    "averagePathLength": 3.576320527157869,
+    "sizeLargest": 6529
+  },
+  "8": {
+    "numNodes": 9761,
+    "numEdges": 130836,
+    "averageInDegree": 13.40395451285729,
+    "averageOutDegree": 13.40395451285729,
+    "selfLinks": 56,
+    "removed": "Daredevil (TV series)",
+    "averagePathLength": 3.5841678218553223,
+    "sizeLargest": 6520
+  },
+  "9": {
+    "numNodes": 9760,
+    "numEdges": 129868,
+    "averageInDegree": 13.306147540983607,
+    "averageOutDegree": 13.306147540983607,
+    "selfLinks": 56,
+    "removed": "2015",
+    "averagePathLength": 3.6012448477211843,
+    "sizeLargest": 6518
+  },
+  "10": {
+    "numNodes": 9759,
+    "numEdges": 128962,
+    "averageInDegree": 13.214673634593709,
+    "averageOutDegree": 13.214673634593709,
+    "selfLinks": 56,
+    "removed": "Melinda May",
+    "averagePathLength": 3.6044362371708956,
+    "sizeLargest": 6517
+  },
+  "11": {
+    "numNodes": 9758,
+    "numEdges": 128059,
+    "averageInDegree": 13.123488419758147,
+    "averageOutDegree": 13.123488419758147,
+    "selfLinks": 56,
+    "removed": "Captain America: The Winter Soldier",
+    "averagePathLength": 3.609853448810922,
+    "sizeLargest": 6510
+  },
+  "12": {
+    "numNodes": 9757,
+    "numEdges": 127165,
+    "averageInDegree": 13.033206928359126,
+    "averageOutDegree": 13.033206928359126,
+    "selfLinks": 56,
+    "removed": "Grant Ward",
+    "averagePathLength": 3.613897116403433,
+    "sizeLargest": 6509
+  },
+  "13": {
+    "numNodes": 9756,
+    "numEdges": 126286,
+    "averageInDegree": 12.944444444444445,
+    "averageOutDegree": 12.944444444444445,
+    "selfLinks": 55,
+    "removed": "Captain America",
+    "averagePathLength": 3.6237366418463606,
+    "sizeLargest": 6506
+  },
+  "14": {
+    "numNodes": 9755,
+    "numEdges": 125414,
+    "averageInDegree": 12.856381342901077,
+    "averageOutDegree": 12.856381342901077,
+    "selfLinks": 55,
+    "removed": "Iron Man 3",
+    "averagePathLength": 3.6376969353083273,
+    "sizeLargest": 6496
+  },
+  "15": {
+    "numNodes": 9754,
+    "numEdges": 124561,
+    "averageInDegree": 12.770248103342219,
+    "averageOutDegree": 12.770248103342219,
+    "selfLinks": 55,
+    "removed": "Iron Man",
+    "averagePathLength": 3.65056731079368,
+    "sizeLargest": 6493
+  },
+  "16": {
+    "numNodes": 9753,
+    "numEdges": 123737,
+    "averageInDegree": 12.687070644929765,
+    "averageOutDegree": 12.687070644929765,
+    "selfLinks": 55,
+    "removed": "Leo Fitz",
+    "averagePathLength": 3.6546331557425407,
+    "sizeLargest": 6492
+  },
+  "17": {
+    "numNodes": 9752,
+    "numEdges": 122917,
+    "averageInDegree": 12.604286300246104,
+    "averageOutDegree": 12.604286300246104,
+    "selfLinks": 55,
+    "removed": "Captain America: Civil War",
+    "averagePathLength": 3.6580684570633726,
+    "sizeLargest": 6440
+  },
+  "18": {
+    "numNodes": 9751,
+    "numEdges": 122125,
+    "averageInDegree": 12.524356476258845,
+    "averageOutDegree": 12.524356476258845,
+    "selfLinks": 55,
+    "removed": "The Avengers",
+    "averagePathLength": 3.6720092601656895,
+    "sizeLargest": 6423
+  },
+  "19": {
+    "numNodes": 9750,
+    "numEdges": 121340,
+    "averageInDegree": 12.445128205128205,
+    "averageOutDegree": 12.445128205128205,
+    "selfLinks": 55,
+    "removed": "Agent Carter (TV series)",
+    "averagePathLength": 3.678344809986313,
+    "sizeLargest": 6421
+  },
+  "20": {
+    "numNodes": 9749,
+    "numEdges": 120580,
+    "averageInDegree": 12.36844804595343,
+    "averageOutDegree": 12.36844804595343,
+    "selfLinks": 55,
+    "removed": "Nick Fury",
+    "averagePathLength": 3.6839538868982706,
+    "sizeLargest": 6420
+  },
+  "21": {
+    "numNodes": 9748,
+    "numEdges": 119828,
+    "averageInDegree": 12.292572835453427,
+    "averageOutDegree": 12.292572835453427,
+    "selfLinks": 55,
+    "removed": "Avengers: Age of Ultron",
+    "averagePathLength": 3.6906161601433634,
+    "sizeLargest": 6410
+  },
+  "22": {
+    "numNodes": 9747,
+    "numEdges": 119076,
+    "averageInDegree": 12.216682056017236,
+    "averageOutDegree": 12.216682056017236,
+    "selfLinks": 55,
+    "removed": "Captain America: The First Avenger",
+    "averagePathLength": 3.695665863539747,
+    "sizeLargest": 6355
+  },
+  "23": {
+    "numNodes": 9746,
+    "numEdges": 118329,
+    "averageInDegree": 12.141288733839524,
+    "averageOutDegree": 12.141288733839524,
+    "selfLinks": 55,
+    "removed": "Jemma Simmons",
+    "averagePathLength": 3.7002849013012176,
+    "sizeLargest": 6354
+  },
+  "24": {
+    "numNodes": 9745,
+    "numEdges": 117633,
+    "averageInDegree": 12.071113391482811,
+    "averageOutDegree": 12.071113391482811,
+    "selfLinks": 55,
+    "removed": "United States Armed Forces",
+    "averagePathLength": 3.714419737743357,
+    "sizeLargest": 6352
+  },
+  "25": {
+    "numNodes": 9744,
+    "numEdges": 116939,
+    "averageInDegree": 12.001128899835797,
+    "averageOutDegree": 12.001128899835797,
+    "selfLinks": 55,
+    "removed": "Guardians of the Galaxy (film)",
+    "averagePathLength": 3.721063749799049,
+    "sizeLargest": 6315
+  },
+  "26": {
+    "numNodes": 9743,
+    "numEdges": 116269,
+    "averageInDegree": 11.933593349071128,
+    "averageOutDegree": 11.933593349071128,
+    "selfLinks": 54,
+    "removed": "Marvel Cinematic Universe",
+    "averagePathLength": 3.755165621153924,
+    "sizeLargest": 6257
+  },
+  "27": {
+    "numNodes": 9742,
+    "numEdges": 115620,
+    "averageInDegree": 11.868199548347363,
+    "averageOutDegree": 11.868199548347363,
+    "selfLinks": 54,
+    "removed": "Iron Man 2",
+    "averagePathLength": 3.7511107631005376,
+    "sizeLargest": 6153
+  },
+  "28": {
+    "numNodes": 9741,
+    "numEdges": 114979,
+    "averageInDegree": 11.803613592033672,
+    "averageOutDegree": 11.803613592033672,
+    "selfLinks": 54,
+    "removed": "List of Marvel Comics Features",
+    "averagePathLength": 3.7511107631005376,
+    "sizeLargest": 6153
+  },
+  "29": {
+    "numNodes": 9740,
+    "numEdges": 114340,
+    "averageInDegree": 11.739219712525667,
+    "averageOutDegree": 11.739219712525667,
+    "selfLinks": 54,
+    "removed": "Peggy Carter",
+    "averagePathLength": 3.755875460004283,
+    "sizeLargest": 6152
+  },
+  "30": {
+    "numNodes": 9739,
+    "numEdges": 113724,
+    "averageInDegree": 11.677174247869392,
+    "averageOutDegree": 11.677174247869392,
+    "selfLinks": 54,
+    "removed": "Earth",
+    "averagePathLength": 3.768431921163275,
+    "sizeLargest": 6146
+  },
+  "31": {
+    "numNodes": 9738,
+    "numEdges": 113119,
+    "averageInDegree": 11.616245635654138,
+    "averageOutDegree": 11.616245635654138,
+    "selfLinks": 54,
+    "removed": "Thor",
+    "averagePathLength": 3.7739702932962316,
+    "sizeLargest": 6144
+  },
+  "32": {
+    "numNodes": 9737,
+    "numEdges": 112521,
+    "averageInDegree": 11.5560234158365,
+    "averageOutDegree": 11.5560234158365,
+    "selfLinks": 54,
+    "removed": "List of Firearms",
+    "averagePathLength": 3.7739702932962316,
+    "sizeLargest": 6144
+  },
+  "33": {
+    "numNodes": 9736,
+    "numEdges": 111944,
+    "averageInDegree": 11.497945768282662,
+    "averageOutDegree": 11.497945768282662,
+    "selfLinks": 53,
+    "removed": "Avengers",
+    "averagePathLength": 3.7812166962017217,
+    "sizeLargest": 6143
+  },
+  "34": {
+    "numNodes": 9735,
+    "numEdges": 111375,
+    "averageInDegree": 11.440677966101696,
+    "averageOutDegree": 11.440677966101696,
+    "selfLinks": 53,
+    "removed": "Jessica Jones (TV series)",
+    "averagePathLength": 3.785767133078258,
+    "sizeLargest": 6140
+  },
+  "35": {
+    "numNodes": 9734,
+    "numEdges": 110808,
+    "averageInDegree": 11.383603862749126,
+    "averageOutDegree": 11.383603862749126,
+    "selfLinks": 53,
+    "removed": "Thor: The Dark World",
+    "averagePathLength": 3.79096302954368,
+    "sizeLargest": 6120
+  },
+  "36": {
+    "numNodes": 9733,
+    "numEdges": 110243,
+    "averageInDegree": 11.326723517928697,
+    "averageOutDegree": 11.326723517928697,
+    "selfLinks": 53,
+    "removed": "Tony Stark",
+    "averagePathLength": 3.79096302954368,
+    "sizeLargest": 6120
+  },
+  "37": {
+    "numNodes": 9732,
+    "numEdges": 109681,
+    "averageInDegree": 11.270139745170571,
+    "averageOutDegree": 11.270139745170571,
+    "selfLinks": 53,
+    "removed": "Ant-Man (film)",
+    "averagePathLength": 3.799265297594993,
+    "sizeLargest": 6095
+  },
+  "38": {
+    "numNodes": 9731,
+    "numEdges": 109121,
+    "averageInDegree": 11.213749871544548,
+    "averageOutDegree": 11.213749871544548,
+    "selfLinks": 53,
+    "removed": "Luke Cage (TV series)",
+    "averagePathLength": 3.802492742660248,
+    "sizeLargest": 6088
+  },
+  "39": {
+    "numNodes": 9730,
+    "numEdges": 108566,
+    "averageInDegree": 11.157862281603288,
+    "averageOutDegree": 11.157862281603288,
+    "selfLinks": 53,
+    "removed": "Howard Stark",
+    "averagePathLength": 3.8088599036179365,
+    "sizeLargest": 6087
+  },
+  "40": {
+    "numNodes": 9729,
+    "numEdges": 108034,
+    "averageInDegree": 11.10432726898962,
+    "averageOutDegree": 11.10432726898962,
+    "selfLinks": 53,
+    "removed": "Black Widow",
+    "averagePathLength": 3.8176122825305514,
+    "sizeLargest": 6083
+  },
+  "41": {
+    "numNodes": 9728,
+    "numEdges": 107504,
+    "averageInDegree": 11.050986842105264,
+    "averageOutDegree": 11.050986842105264,
+    "selfLinks": 53,
+    "removed": "Iron Man (film)",
+    "averagePathLength": 3.805299409053415,
+    "sizeLargest": 6005
+  },
+  "42": {
+    "numNodes": 9727,
+    "numEdges": 106981,
+    "averageInDegree": 10.998355094068058,
+    "averageOutDegree": 10.998355094068058,
+    "selfLinks": 53,
+    "removed": "Daredevil (TV series)/Credits",
+    "averagePathLength": 3.805299409053415,
+    "sizeLargest": 6005
+  },
+  "43": {
+    "numNodes": 9726,
+    "numEdges": 106465,
+    "averageInDegree": 10.946432243471108,
+    "averageOutDegree": 10.946432243471108,
+    "selfLinks": 52,
+    "removed": "California",
+    "averagePathLength": 3.8125536531967272,
+    "sizeLargest": 6003
+  },
+  "44": {
+    "numNodes": 9725,
+    "numEdges": 105954,
+    "averageInDegree": 10.895012853470437,
+    "averageOutDegree": 10.895012853470437,
+    "selfLinks": 51,
+    "removed": "World War II",
+    "averagePathLength": 3.8172374192216436,
+    "sizeLargest": 6002
+  },
+  "45": {
+    "numNodes": 9724,
+    "numEdges": 105446,
+    "averageInDegree": 10.843891402714933,
+    "averageOutDegree": 10.843891402714933,
+    "selfLinks": 51,
+    "removed": "Alphonso Mackenzie",
+    "averagePathLength": 3.8192590123868246,
+    "sizeLargest": 6001
+  },
+  "46": {
+    "numNodes": 9723,
+    "numEdges": 104950,
+    "averageInDegree": 10.793993623367273,
+    "averageOutDegree": 10.793993623367273,
+    "selfLinks": 51,
+    "removed": "Thor (film)",
+    "averagePathLength": 3.8279259279258944,
+    "sizeLargest": 5982
+  },
+  "47": {
+    "numNodes": 9722,
+    "numEdges": 104458,
+    "averageInDegree": 10.744497017074677,
+    "averageOutDegree": 10.744497017074677,
+    "selfLinks": 51,
+    "removed": "Bobbi Morse",
+    "averagePathLength": 3.8291604226834055,
+    "sizeLargest": 5980
+  },
+  "48": {
+    "numNodes": 9721,
+    "numEdges": 103971,
+    "averageInDegree": 10.695504577718342,
+    "averageOutDegree": 10.695504577718342,
+    "selfLinks": 51,
+    "removed": "Lance Hunter",
+    "averagePathLength": 3.832153000540366,
+    "sizeLargest": 5979
+  },
+  "49": {
+    "numNodes": 9720,
+    "numEdges": 103488,
+    "averageInDegree": 10.646913580246913,
+    "averageOutDegree": 10.646913580246913,
+    "selfLinks": 51,
+    "removed": "Strategic Scientific Reserve",
+    "averagePathLength": 3.843000578522892,
+    "sizeLargest": 5977
+  },
+  "50": {
+    "numNodes": 9719,
+    "numEdges": 103007,
+    "averageInDegree": 10.598518366087045,
+    "averageOutDegree": 10.598518366087045,
+    "selfLinks": 50,
+    "removed": "Inhumans",
+    "averagePathLength": 3.8459008698671955,
+    "sizeLargest": 5976
+  },
+  "51": {
+    "numNodes": 9718,
+    "numEdges": 102531,
+    "averageInDegree": 10.550627701173081,
+    "averageOutDegree": 10.550627701173081,
+    "selfLinks": 50,
+    "removed": "New York",
+    "averagePathLength": 3.888406881295032,
+    "sizeLargest": 5974
+  },
+  "52": {
+    "numNodes": 9717,
+    "numEdges": 102059,
+    "averageInDegree": 10.503138828856644,
+    "averageOutDegree": 10.503138828856644,
+    "selfLinks": 50,
+    "removed": "Coulson's Team",
+    "averagePathLength": 3.890606271423011,
+    "sizeLargest": 5973
+  },
+  "53": {
+    "numNodes": 9716,
+    "numEdges": 101594,
+    "averageInDegree": 10.456360642239606,
+    "averageOutDegree": 10.456360642239606,
+    "selfLinks": 49,
+    "removed": "Hulk",
+    "averagePathLength": 3.900548070559912,
+    "sizeLargest": 5971
+  },
+  "54": {
+    "numNodes": 9715,
+    "numEdges": 101147,
+    "averageInDegree": 10.411425630468347,
+    "averageOutDegree": 10.411425630468347,
+    "selfLinks": 49,
+    "removed": "Skye",
+    "averagePathLength": 3.9009399765903847,
+    "sizeLargest": 5970
+  },
+  "55": {
+    "numNodes": 9714,
+    "numEdges": 100704,
+    "averageInDegree": 10.366893143915998,
+    "averageOutDegree": 10.366893143915998,
+    "selfLinks": 49,
+    "removed": "2014",
+    "averagePathLength": 3.911504850575157,
+    "sizeLargest": 5969
+  },
+  "56": {
+    "numNodes": 9713,
+    "numEdges": 100265,
+    "averageInDegree": 10.322763306908268,
+    "averageOutDegree": 10.322763306908268,
+    "selfLinks": 49,
+    "removed": "List of Minor Characters",
+    "averagePathLength": 3.9088095731604855,
+    "sizeLargest": 5931
+  },
+  "57": {
+    "numNodes": 9712,
+    "numEdges": 99832,
+    "averageInDegree": 10.279242174629324,
+    "averageOutDegree": 10.279242174629324,
+    "selfLinks": 49,
+    "removed": "Loki",
+    "averagePathLength": 3.9143523371137863,
+    "sizeLargest": 5929
+  },
+  "58": {
+    "numNodes": 9711,
+    "numEdges": 99406,
+    "averageInDegree": 10.236432911131706,
+    "averageOutDegree": 10.236432911131706,
+    "selfLinks": 49,
+    "removed": "North America",
+    "averagePathLength": 3.9258278636136876,
+    "sizeLargest": 5928
+  },
+  "59": {
+    "numNodes": 9710,
+    "numEdges": 98987,
+    "averageInDegree": 10.194335736354274,
+    "averageOutDegree": 10.194335736354274,
+    "selfLinks": 49,
+    "removed": "Agents of S.H.I.E.L.D./Season Two",
+    "averagePathLength": 3.9278778006754584,
+    "sizeLargest": 5927
+  },
+  "60": {
+    "numNodes": 9709,
+    "numEdges": 98580,
+    "averageInDegree": 10.153465856421876,
+    "averageOutDegree": 10.153465856421876,
+    "selfLinks": 48,
+    "removed": "Playground",
+    "averagePathLength": 3.931604461441925,
+    "sizeLargest": 5912
+  },
+  "61": {
+    "numNodes": 9708,
+    "numEdges": 98173,
+    "averageInDegree": 10.112587556654306,
+    "averageOutDegree": 10.112587556654306,
+    "selfLinks": 48,
+    "removed": "Quake",
+    "averagePathLength": 3.9335617267989207,
+    "sizeLargest": 5910
+  },
+  "62": {
+    "numNodes": 9707,
+    "numEdges": 97767,
+    "averageInDegree": 10.071803852889667,
+    "averageOutDegree": 10.071803852889667,
+    "selfLinks": 48,
+    "removed": "1940s",
+    "averagePathLength": 3.9408314812572036,
+    "sizeLargest": 5909
+  },
+  "63": {
+    "numNodes": 9706,
+    "numEdges": 97362,
+    "averageInDegree": 10.03111477436637,
+    "averageOutDegree": 10.03111477436637,
+    "selfLinks": 48,
+    "removed": "John Garrett",
+    "averagePathLength": 3.9430113021158584,
+    "sizeLargest": 5907
+  },
+  "64": {
+    "numNodes": 9705,
+    "numEdges": 96972,
+    "averageInDegree": 9.991962905718701,
+    "averageOutDegree": 9.991962905718701,
+    "selfLinks": 48,
+    "removed": "Agents of S.H.I.E.L.D./Season Three",
+    "averagePathLength": 3.947090245055689,
+    "sizeLargest": 5906
+  },
+  "65": {
+    "numNodes": 9704,
+    "numEdges": 96585,
+    "averageInDegree": 9.953112118713932,
+    "averageOutDegree": 9.953112118713932,
+    "selfLinks": 48,
+    "removed": "Agent Carter (TV series)/Credits",
+    "averagePathLength": 3.947090245055689,
+    "sizeLargest": 5906
+  },
+  "66": {
+    "numNodes": 9703,
+    "numEdges": 96201,
+    "averageInDegree": 9.914562506441307,
+    "averageOutDegree": 9.914562506441307,
+    "selfLinks": 48,
+    "removed": "The Incredible Hulk",
+    "averagePathLength": 3.954343407211772,
+    "sizeLargest": 5891
+  },
+  "67": {
+    "numNodes": 9702,
+    "numEdges": 95823,
+    "averageInDegree": 9.876623376623376,
+    "averageOutDegree": 9.876623376623376,
+    "selfLinks": 48,
+    "removed": "Daredevil",
+    "averagePathLength": 3.9591920063751873,
+    "sizeLargest": 5889
+  },
+  "68": {
+    "numNodes": 9701,
+    "numEdges": 95449,
+    "averageInDegree": 9.839088753736728,
+    "averageOutDegree": 9.839088753736728,
+    "selfLinks": 47,
+    "removed": "Europe",
+    "averagePathLength": 3.964543224846936,
+    "sizeLargest": 5888
+  },
+  "69": {
+    "numNodes": 9700,
+    "numEdges": 95075,
+    "averageInDegree": 9.801546391752577,
+    "averageOutDegree": 9.801546391752577,
+    "selfLinks": 47,
+    "removed": "Washington, D.C.",
+    "averagePathLength": 3.9723921070384267,
+    "sizeLargest": 5880
+  },
+  "70": {
+    "numNodes": 9699,
+    "numEdges": 94705,
+    "averageInDegree": 9.764408701928033,
+    "averageOutDegree": 9.764408701928033,
+    "selfLinks": 47,
+    "removed": "Marvel Studios",
+    "averagePathLength": 3.9792295516219562,
+    "sizeLargest": 5873
+  },
+  "71": {
+    "numNodes": 9698,
+    "numEdges": 94337,
+    "averageInDegree": 9.727469581356981,
+    "averageOutDegree": 9.727469581356981,
+    "selfLinks": 47,
+    "removed": "Doctor Strange (film)",
+    "averagePathLength": 3.989081647945664,
+    "sizeLargest": 5858
+  },
+  "72": {
+    "numNodes": 9697,
+    "numEdges": 93970,
+    "averageInDegree": 9.690625966793855,
+    "averageOutDegree": 9.690625966793855,
+    "selfLinks": 47,
+    "removed": "Battle of New York",
+    "averagePathLength": 4.003485711600057,
+    "sizeLargest": 5857
+  },
+  "73": {
+    "numNodes": 9696,
+    "numEdges": 93607,
+    "averageInDegree": 9.654187293729374,
+    "averageOutDegree": 9.654187293729374,
+    "selfLinks": 47,
+    "removed": "Iron Man 3/Credits",
+    "averagePathLength": 4.003485711600057,
+    "sizeLargest": 5857
+  },
+  "74": {
+    "numNodes": 9695,
+    "numEdges": 93246,
+    "averageInDegree": 9.617947395564723,
+    "averageOutDegree": 9.617947395564723,
+    "selfLinks": 47,
+    "removed": "Maria Hill",
+    "averagePathLength": 4.007195478378688,
+    "sizeLargest": 5854
+  },
+  "75": {
+    "numNodes": 9694,
+    "numEdges": 92888,
+    "averageInDegree": 9.582009490406437,
+    "averageOutDegree": 9.582009490406437,
+    "selfLinks": 47,
+    "removed": "Asgardians",
+    "averagePathLength": 4.011943352188834,
+    "sizeLargest": 5852
+  },
+  "76": {
+    "numNodes": 9693,
+    "numEdges": 92534,
+    "averageInDegree": 9.546476838955948,
+    "averageOutDegree": 9.546476838955948,
+    "selfLinks": 47,
+    "removed": "2016",
+    "averagePathLength": 4.017188709985619,
+    "sizeLargest": 5849
+  },
+  "77": {
+    "numNodes": 9692,
+    "numEdges": 92181,
+    "averageInDegree": 9.511040033016922,
+    "averageOutDegree": 9.511040033016922,
+    "selfLinks": 47,
+    "removed": "Agents of S.H.I.E.L.D./Season One",
+    "averagePathLength": 4.021172596140011,
+    "sizeLargest": 5848
+  },
+  "78": {
+    "numNodes": 9691,
+    "numEdges": 91828,
+    "averageInDegree": 9.475595913734393,
+    "averageOutDegree": 9.475595913734393,
+    "selfLinks": 47,
+    "removed": "Quinjet",
+    "averagePathLength": 4.025684665902629,
+    "sizeLargest": 5847
+  },
+  "79": {
+    "numNodes": 9690,
+    "numEdges": 91480,
+    "averageInDegree": 9.440660474716202,
+    "averageOutDegree": 9.440660474716202,
+    "selfLinks": 47,
+    "removed": "List of Deleted Scenes",
+    "averagePathLength": 4.027193500078827,
+    "sizeLargest": 5815
+  },
+  "80": {
+    "numNodes": 9689,
+    "numEdges": 91137,
+    "averageInDegree": 9.406233873464753,
+    "averageOutDegree": 9.406233873464753,
+    "selfLinks": 47,
+    "removed": "Jessica Jones (TV series)/Credits",
+    "averagePathLength": 4.027193500078827,
+    "sizeLargest": 5815
+  },
+  "81": {
+    "numNodes": 9688,
+    "numEdges": 90799,
+    "averageInDegree": 9.37231626754748,
+    "averageOutDegree": 9.37231626754748,
+    "selfLinks": 47,
+    "removed": "HYDRA Uprising",
+    "averagePathLength": 4.031282919184436,
+    "sizeLargest": 5814
+  },
+  "82": {
+    "numNodes": 9687,
+    "numEdges": 90463,
+    "averageInDegree": 9.338598121193352,
+    "averageOutDegree": 9.338598121193352,
+    "selfLinks": 47,
+    "removed": "Luke Cage (TV series)/Credits",
+    "averagePathLength": 4.031282919184436,
+    "sizeLargest": 5814
+  },
+  "83": {
+    "numNodes": 9686,
+    "numEdges": 90128,
+    "averageInDegree": 9.304976254387777,
+    "averageOutDegree": 9.304976254387777,
+    "selfLinks": 47,
+    "removed": "Los Angeles",
+    "averagePathLength": 4.043179345293232,
+    "sizeLargest": 5812
+  },
+  "84": {
+    "numNodes": 9685,
+    "numEdges": 89800,
+    "averageInDegree": 9.272070211667527,
+    "averageOutDegree": 9.272070211667527,
+    "selfLinks": 47,
+    "removed": "Antoine Triplett",
+    "averagePathLength": 4.045482764452603,
+    "sizeLargest": 5811
+  },
+  "85": {
+    "numNodes": 9684,
+    "numEdges": 89480,
+    "averageInDegree": 9.239983477901694,
+    "averageOutDegree": 9.239983477901694,
+    "selfLinks": 47,
+    "removed": "Stark Industries",
+    "averagePathLength": 4.053910914543253,
+    "sizeLargest": 5810
+  },
+  "86": {
+    "numNodes": 9683,
+    "numEdges": 89168,
+    "averageInDegree": 9.20871630692967,
+    "averageOutDegree": 9.20871630692967,
+    "selfLinks": 47,
+    "removed": "Bus",
+    "averagePathLength": 4.056246730754547,
+    "sizeLargest": 5809
+  },
+  "87": {
+    "numNodes": 9682,
+    "numEdges": 88859,
+    "averageInDegree": 9.177752530468911,
+    "averageOutDegree": 9.177752530468911,
+    "selfLinks": 47,
+    "removed": "Other Products",
+    "averagePathLength": 4.056246730754547,
+    "sizeLargest": 5809
+  },
+  "88": {
+    "numNodes": 9681,
+    "numEdges": 88554,
+    "averageInDegree": 9.147195537651069,
+    "averageOutDegree": 9.147195537651069,
+    "selfLinks": 47,
+    "removed": "Raina",
+    "averagePathLength": 4.05888352662622,
+    "sizeLargest": 5808
+  },
+  "89": {
+    "numNodes": 9680,
+    "numEdges": 88260,
+    "averageInDegree": 9.117768595041323,
+    "averageOutDegree": 9.117768595041323,
+    "selfLinks": 47,
+    "removed": "Flags/Gallery",
+    "averagePathLength": 4.05888352662622,
+    "sizeLargest": 5808
+  },
+  "90": {
+    "numNodes": 9679,
+    "numEdges": 87967,
+    "averageInDegree": 9.088438888314908,
+    "averageOutDegree": 9.088438888314908,
+    "selfLinks": 47,
+    "removed": "Captain America: The Winter Soldier/Credits",
+    "averagePathLength": 4.05888352662622,
+    "sizeLargest": 5808
+  },
+  "91": {
+    "numNodes": 9678,
+    "numEdges": 87677,
+    "averageInDegree": 9.059413101880553,
+    "averageOutDegree": 9.059413101880553,
+    "selfLinks": 46,
+    "removed": "Germany",
+    "averagePathLength": 4.066444745997741,
+    "sizeLargest": 5805
+  },
+  "92": {
+    "numNodes": 9677,
+    "numEdges": 87388,
+    "averageInDegree": 9.030484654335021,
+    "averageOutDegree": 9.030484654335021,
+    "selfLinks": 46,
+    "removed": "Steve Rogers",
+    "averagePathLength": 4.066444745997741,
+    "sizeLargest": 5805
+  },
+  "93": {
+    "numNodes": 9676,
+    "numEdges": 87105,
+    "averageInDegree": 9.002170318313352,
+    "averageOutDegree": 9.002170318313352,
+    "selfLinks": 46,
+    "removed": "Winter Soldier",
+    "averagePathLength": 4.069848282414312,
+    "sizeLargest": 5799
+  },
+  "94": {
+    "numNodes": 9675,
+    "numEdges": 86825,
+    "averageInDegree": 8.974160206718347,
+    "averageOutDegree": 8.974160206718347,
+    "selfLinks": 46,
+    "removed": "War Machine",
+    "averagePathLength": 4.073295587507614,
+    "sizeLargest": 5796
+  },
+  "95": {
+    "numNodes": 9674,
+    "numEdges": 86547,
+    "averageInDegree": 8.94635104403556,
+    "averageOutDegree": 8.94635104403556,
+    "selfLinks": 46,
+    "removed": "2013",
+    "averagePathLength": 4.080639607245959,
+    "sizeLargest": 5795
+  },
+  "96": {
+    "numNodes": 9673,
+    "numEdges": 86272,
+    "averageInDegree": 8.918846273131397,
+    "averageOutDegree": 8.918846273131397,
+    "selfLinks": 46,
+    "removed": "Daniel Whitehall",
+    "averagePathLength": 4.0830371755109285,
+    "sizeLargest": 5793
+  },
+  "97": {
+    "numNodes": 9672,
+    "numEdges": 85999,
+    "averageInDegree": 8.891542597187758,
+    "averageOutDegree": 8.891542597187758,
+    "selfLinks": 45,
+    "removed": "Jessica Jones",
+    "averagePathLength": 4.085849124331812,
+    "sizeLargest": 5792
+  },
+  "98": {
+    "numNodes": 9671,
+    "numEdges": 85726,
+    "averageInDegree": 8.86423327473891,
+    "averageOutDegree": 8.86423327473891,
+    "selfLinks": 45,
+    "removed": "Captain America: Civil War/Credits",
+    "averagePathLength": 4.085849124331812,
+    "sizeLargest": 5792
+  },
+  "99": {
+    "numNodes": 9670,
+    "numEdges": 85469,
+    "averageInDegree": 8.83857290589452,
+    "averageOutDegree": 8.83857290589452,
+    "selfLinks": 45,
+    "removed": "Lincoln Campbell",
+    "averagePathLength": 4.087535807603306,
+    "sizeLargest": 5791
+  },
+  "100": {
+    "numNodes": 9669,
+    "numEdges": 85212,
+    "averageInDegree": 8.812907229289483,
+    "averageOutDegree": 8.812907229289483,
+    "selfLinks": 45,
+    "removed": "Foggy Nelson",
+    "averagePathLength": 4.089591539668915,
+    "sizeLargest": 5790
+  },
+  "101": {
+    "numNodes": 9668,
+    "numEdges": 84955,
+    "averageInDegree": 8.787236243276789,
+    "averageOutDegree": 8.787236243276789,
+    "selfLinks": 45,
+    "removed": "Russia",
+    "averagePathLength": 4.0994599533013245,
+    "sizeLargest": 5789
+  },
+  "102": {
+    "numNodes": 9667,
+    "numEdges": 84699,
+    "averageInDegree": 8.761663390917555,
+    "averageOutDegree": 8.761663390917555,
+    "selfLinks": 45,
+    "removed": "Luke Cage",
+    "averagePathLength": 4.104941072314187,
+    "sizeLargest": 5787
+  },
+  "103": {
+    "numNodes": 9666,
+    "numEdges": 84446,
+    "averageInDegree": 8.736395613490586,
+    "averageOutDegree": 8.736395613490586,
+    "selfLinks": 45,
+    "removed": "Glenn Talbot",
+    "averagePathLength": 4.108767683805066,
+    "sizeLargest": 5786
+  },
+  "104": {
+    "numNodes": 9665,
+    "numEdges": 84193,
+    "averageInDegree": 8.711122607346095,
+    "averageOutDegree": 8.711122607346095,
+    "selfLinks": 45,
+    "removed": "Hawkeye",
+    "averagePathLength": 4.112707358263083,
+    "sizeLargest": 5784
+  },
+  "105": {
+    "numNodes": 9664,
+    "numEdges": 83942,
+    "averageInDegree": 8.68605132450331,
+    "averageOutDegree": 8.68605132450331,
+    "selfLinks": 45,
+    "removed": "New York City Police Department",
+    "averagePathLength": 4.131093036019963,
+    "sizeLargest": 5782
+  },
+  "106": {
+    "numNodes": 9663,
+    "numEdges": 83691,
+    "averageInDegree": 8.66097485253027,
+    "averageOutDegree": 8.66097485253027,
+    "selfLinks": 45,
+    "removed": "List of S.H.I.E.L.D. Missions",
+    "averagePathLength": 4.131437910491893,
+    "sizeLargest": 5781
+  },
+  "107": {
+    "numNodes": 9662,
+    "numEdges": 83441,
+    "averageInDegree": 8.635996688056302,
+    "averageOutDegree": 8.635996688056302,
+    "selfLinks": 45,
+    "removed": "Sif",
+    "averagePathLength": 4.134541152759874,
+    "sizeLargest": 5780
+  },
+  "108": {
+    "numNodes": 9661,
+    "numEdges": 83193,
+    "averageInDegree": 8.611220370562053,
+    "averageOutDegree": 8.611220370562053,
+    "selfLinks": 45,
+    "removed": "England",
+    "averagePathLength": 4.139933195296394,
+    "sizeLargest": 5779
+  },
+  "109": {
+    "numNodes": 9660,
+    "numEdges": 82946,
+    "averageInDegree": 8.586542443064182,
+    "averageOutDegree": 8.586542443064182,
+    "selfLinks": 45,
+    "removed": "2012",
+    "averagePathLength": 4.146059711009504,
+    "sizeLargest": 5778
+  },
+  "110": {
+    "numNodes": 9659,
+    "numEdges": 82700,
+    "averageInDegree": 8.561962936121752,
+    "averageOutDegree": 8.561962936121752,
+    "selfLinks": 45,
+    "removed": "Daredevil (TV series)/Season Two",
+    "averagePathLength": 4.148385587173676,
+    "sizeLargest": 5776
+  },
+  "111": {
+    "numNodes": 9658,
+    "numEdges": 82454,
+    "averageInDegree": 8.537378339200663,
+    "averageOutDegree": 8.537378339200663,
+    "selfLinks": 45,
+    "removed": "Daredevil (episode)",
+    "averagePathLength": 4.150243160978852,
+    "sizeLargest": 5762
+  },
+  "112": {
+    "numNodes": 9657,
+    "numEdges": 82208,
+    "averageInDegree": 8.512788650719685,
+    "averageOutDegree": 8.512788650719685,
+    "selfLinks": 45,
+    "removed": "Deathlok",
+    "averagePathLength": 4.152166405380503,
+    "sizeLargest": 5759
+  },
+  "113": {
+    "numNodes": 9656,
+    "numEdges": 81964,
+    "averageInDegree": 8.488400994200497,
+    "averageOutDegree": 8.488400994200497,
+    "selfLinks": 45,
+    "removed": "Captain America: The First Avenger/Credits",
+    "averagePathLength": 4.152166405380503,
+    "sizeLargest": 5759
+  },
+  "114": {
+    "numNodes": 9655,
+    "numEdges": 81720,
+    "averageInDegree": 8.464008285862247,
+    "averageOutDegree": 8.464008285862247,
+    "selfLinks": 45,
+    "removed": "Tesseract",
+    "averagePathLength": 4.156067188592236,
+    "sizeLargest": 5757
+  },
+  "115": {
+    "numNodes": 9654,
+    "numEdges": 81477,
+    "averageInDegree": 8.439714108141702,
+    "averageOutDegree": 8.439714108141702,
+    "selfLinks": 45,
+    "removed": "Edwin Jarvis",
+    "averagePathLength": 4.15957541226199,
+    "sizeLargest": 5756
+  },
+  "116": {
+    "numNodes": 9653,
+    "numEdges": 81235,
+    "averageInDegree": 8.415518491660624,
+    "averageOutDegree": 8.415518491660624,
+    "selfLinks": 45,
+    "removed": "Asgard",
+    "averagePathLength": 4.16183657377922,
+    "sizeLargest": 5755
+  },
+  "117": {
+    "numNodes": 9652,
+    "numEdges": 80993,
+    "averageInDegree": 8.391317861583092,
+    "averageOutDegree": 8.391317861583092,
+    "selfLinks": 45,
+    "removed": "Pepper Potts",
+    "averagePathLength": 4.16447913515192,
+    "sizeLargest": 5752
+  },
+  "118": {
+    "numNodes": 9651,
+    "numEdges": 80754,
+    "averageInDegree": 8.367423064967362,
+    "averageOutDegree": 8.367423064967362,
+    "selfLinks": 45,
+    "removed": "Karen Page",
+    "averagePathLength": 4.165972556757615,
+    "sizeLargest": 5751
+  },
+  "119": {
+    "numNodes": 9650,
+    "numEdges": 80515,
+    "averageInDegree": 8.343523316062177,
+    "averageOutDegree": 8.343523316062177,
+    "selfLinks": 45,
+    "removed": "Ragtag",
+    "averagePathLength": 4.168765358417527,
+    "sizeLargest": 5742
+  },
+  "120": {
+    "numNodes": 9649,
+    "numEdges": 80280,
+    "averageInDegree": 8.32003316405845,
+    "averageOutDegree": 8.32003316405845,
+    "selfLinks": 45,
+    "removed": "Moment of Truth",
+    "averagePathLength": 4.1740816958423,
+    "sizeLargest": 5726
+  },
+  "121": {
+    "numNodes": 9648,
+    "numEdges": 80045,
+    "averageInDegree": 8.296538142620232,
+    "averageOutDegree": 8.296538142620232,
+    "selfLinks": 45,
+    "removed": "Guardians of the Galaxy Vol. 2",
+    "averagePathLength": 4.179090041572451,
+    "sizeLargest": 5717
+  },
+  "122": {
+    "numNodes": 9647,
+    "numEdges": 79810,
+    "averageInDegree": 8.273038250233233,
+    "averageOutDegree": 8.273038250233233,
+    "selfLinks": 45,
+    "removed": "Ant-Man (film)/Credits",
+    "averagePathLength": 4.179090041572451,
+    "sizeLargest": 5717
+  },
+  "123": {
+    "numNodes": 9646,
+    "numEdges": 79577,
+    "averageInDegree": 8.249740825212523,
+    "averageOutDegree": 8.249740825212523,
+    "selfLinks": 45,
+    "removed": "Laws of Nature",
+    "averagePathLength": 4.183061956026169,
+    "sizeLargest": 5708
+  },
+  "124": {
+    "numNodes": 9645,
+    "numEdges": 79345,
+    "averageInDegree": 8.226542249870398,
+    "averageOutDegree": 8.226542249870398,
+    "selfLinks": 45,
+    "removed": "Shadows",
+    "averagePathLength": 4.18663147453378,
+    "sizeLargest": 5706
+  },
+  "125": {
+    "numNodes": 9644,
+    "numEdges": 79116,
+    "averageInDegree": 8.203649937785151,
+    "averageOutDegree": 8.203649937785151,
+    "selfLinks": 45,
+    "removed": "Now is Not the End",
+    "averagePathLength": 4.191546205006703,
+    "sizeLargest": 5695
+  },
+  "126": {
+    "numNodes": 9643,
+    "numEdges": 78888,
+    "averageInDegree": 8.18085657990252,
+    "averageOutDegree": 8.18085657990252,
+    "selfLinks": 45,
+    "removed": "Hive",
+    "averagePathLength": 4.192986379969211,
+    "sizeLargest": 5692
+  },
+  "127": {
+    "numNodes": 9642,
+    "numEdges": 78661,
+    "averageInDegree": 8.158162207010994,
+    "averageOutDegree": 8.158162207010994,
+    "selfLinks": 45,
+    "removed": "Daredevil (TV series)/Season One",
+    "averagePathLength": 4.195975948210399,
+    "sizeLargest": 5691
+  },
+  "128": {
+    "numNodes": 9641,
+    "numEdges": 78438,
+    "averageInDegree": 8.135878020952184,
+    "averageOutDegree": 8.135878020952184,
+    "selfLinks": 45,
+    "removed": "Avengers: Age of Ultron/Credits",
+    "averagePathLength": 4.195975948210399,
+    "sizeLargest": 5691
+  },
+  "129": {
+    "numNodes": 9640,
+    "numEdges": 78218,
+    "averageInDegree": 8.11390041493776,
+    "averageOutDegree": 8.11390041493776,
+    "selfLinks": 45,
+    "removed": "Iron Man 2/Credits",
+    "averagePathLength": 4.195975948210399,
+    "sizeLargest": 5691
+  },
+  "130": {
+    "numNodes": 9639,
+    "numEdges": 78003,
+    "averageInDegree": 8.092436974789916,
+    "averageOutDegree": 8.092436974789916,
+    "selfLinks": 45,
+    "removed": "Daniel Sousa",
+    "averagePathLength": 4.197388232030425,
+    "sizeLargest": 5690
+  },
+  "131": {
+    "numNodes": 9638,
+    "numEdges": 77788,
+    "averageInDegree": 8.070969080722142,
+    "averageOutDegree": 8.070969080722142,
+    "selfLinks": 45,
+    "removed": "Guardians of the Galaxy (film)/Credits",
+    "averagePathLength": 4.197388232030425,
+    "sizeLargest": 5690
+  },
+  "132": {
+    "numNodes": 9637,
+    "numEdges": 77573,
+    "averageInDegree": 8.04949673134793,
+    "averageOutDegree": 8.04949673134793,
+    "selfLinks": 45,
+    "removed": "Thaddeus Ross",
+    "averagePathLength": 4.201144528061013,
+    "sizeLargest": 5688
+  },
+  "133": {
+    "numNodes": 9636,
+    "numEdges": 77360,
+    "averageInDegree": 8.028227480282276,
+    "averageOutDegree": 8.028227480282276,
+    "selfLinks": 45,
+    "removed": "Jack Thompson",
+    "averagePathLength": 4.203294553158585,
+    "sizeLargest": 5687
+  },
+  "134": {
+    "numNodes": 9635,
+    "numEdges": 77147,
+    "averageInDegree": 8.006953814218994,
+    "averageOutDegree": 8.006953814218994,
+    "selfLinks": 45,
+    "removed": "Infinity Stones",
+    "averagePathLength": 4.209175720147035,
+    "sizeLargest": 5685
+  },
+  "135": {
+    "numNodes": 9634,
+    "numEdges": 76935,
+    "averageInDegree": 7.985779530828316,
+    "averageOutDegree": 7.985779530828316,
+    "selfLinks": 45,
+    "removed": "Gideon Malick",
+    "averagePathLength": 4.211216261247077,
+    "sizeLargest": 5684
+  },
+  "136": {
+    "numNodes": 9633,
+    "numEdges": 76723,
+    "averageInDegree": 7.964600851240528,
+    "averageOutDegree": 7.964600851240528,
+    "selfLinks": 45,
+    "removed": "The Magical Place",
+    "averagePathLength": 4.212872597628257,
+    "sizeLargest": 5675
+  },
+  "137": {
+    "numNodes": 9632,
+    "numEdges": 76511,
+    "averageInDegree": 7.943417774086379,
+    "averageOutDegree": 7.943417774086379,
+    "selfLinks": 45,
+    "removed": "Odin",
+    "averagePathLength": 4.216057049737243,
+    "sizeLargest": 5673
+  },
+  "138": {
+    "numNodes": 9631,
+    "numEdges": 76301,
+    "averageInDegree": 7.922437960751739,
+    "averageOutDegree": 7.922437960751739,
+    "selfLinks": 45,
+    "removed": "Red Skull",
+    "averagePathLength": 4.220974195979496,
+    "sizeLargest": 5669
+  },
+  "139": {
+    "numNodes": 9630,
+    "numEdges": 76092,
+    "averageInDegree": 7.901557632398754,
+    "averageOutDegree": 7.901557632398754,
+    "selfLinks": 45,
+    "removed": "WHiH Newsfront (web series)",
+    "averagePathLength": 4.226264610478656,
+    "sizeLargest": 5665
+  },
+  "140": {
+    "numNodes": 9629,
+    "numEdges": 75883,
+    "averageInDegree": 7.880672967078617,
+    "averageOutDegree": 7.880672967078617,
+    "selfLinks": 45,
+    "removed": "Calvin Zabo",
+    "averagePathLength": 4.227796285164816,
+    "sizeLargest": 5661
+  },
+  "141": {
+    "numNodes": 9628,
+    "numEdges": 75675,
+    "averageInDegree": 7.859887827170752,
+    "averageOutDegree": 7.859887827170752,
+    "selfLinks": 45,
+    "removed": "Pilot",
+    "averagePathLength": 4.230333210571841,
+    "sizeLargest": 5647
+  },
+  "142": {
+    "numNodes": 9627,
+    "numEdges": 75467,
+    "averageInDegree": 7.839098369170043,
+    "averageOutDegree": 7.839098369170043,
+    "selfLinks": 45,
+    "removed": "Asia",
+    "averagePathLength": 4.236055062745642,
+    "sizeLargest": 5645
+  },
+  "143": {
+    "numNodes": 9626,
+    "numEdges": 75261,
+    "averageInDegree": 7.818512362351964,
+    "averageOutDegree": 7.818512362351964,
+    "selfLinks": 45,
+    "removed": "Spider-Man: Homecoming",
+    "averagePathLength": 4.239849914854666,
+    "sizeLargest": 5622
+  },
+  "144": {
+    "numNodes": 9625,
+    "numEdges": 75055,
+    "averageInDegree": 7.797922077922078,
+    "averageOutDegree": 7.797922077922078,
+    "selfLinks": 45,
+    "removed": "Iron Man (film)/Credits",
+    "averagePathLength": 4.239849914854666,
+    "sizeLargest": 5622
+  },
+  "145": {
+    "numNodes": 9624,
+    "numEdges": 74850,
+    "averageInDegree": 7.777431421446384,
+    "averageOutDegree": 7.777431421446384,
+    "selfLinks": 45,
+    "removed": "Aftershocks",
+    "averagePathLength": 4.241987559895251,
+    "sizeLargest": 5617
+  },
+  "146": {
+    "numNodes": 9623,
+    "numEdges": 74645,
+    "averageInDegree": 7.756936506287021,
+    "averageOutDegree": 7.756936506287021,
+    "selfLinks": 45,
+    "removed": "Captain America: First Vengeance",
+    "averagePathLength": 4.245190124327472,
+    "sizeLargest": 5608
+  },
+  "147": {
+    "numNodes": 9622,
+    "numEdges": 74441,
+    "averageInDegree": 7.736541259613386,
+    "averageOutDegree": 7.736541259613386,
+    "selfLinks": 45,
+    "removed": "The Dirty Half Dozen",
+    "averagePathLength": 4.2463361066882905,
+    "sizeLargest": 5606
+  },
+  "148": {
+    "numNodes": 9621,
+    "numEdges": 74240,
+    "averageInDegree": 7.716453591102796,
+    "averageOutDegree": 7.716453591102796,
+    "selfLinks": 45,
+    "removed": "Agents of S.H.I.E.L.D./Trivia",
+    "averagePathLength": 4.2463361066882905,
+    "sizeLargest": 5606
+  },
+  "149": {
+    "numNodes": 9620,
+    "numEdges": 74039,
+    "averageInDegree": 7.696361746361746,
+    "averageOutDegree": 7.696361746361746,
+    "selfLinks": 45,
+    "removed": "Ten Rings",
+    "averagePathLength": 4.250756946261782,
+    "sizeLargest": 5605
+  },
+  "150": {
+    "numNodes": 9619,
+    "numEdges": 73839,
+    "averageInDegree": 7.67636968499844,
+    "averageOutDegree": 7.67636968499844,
+    "selfLinks": 45,
+    "removed": "Timeline",
+    "averagePathLength": 4.252711692255207,
+    "sizeLargest": 5604
+  },
+  "151": {
+    "numNodes": 9618,
+    "numEdges": 73640,
+    "averageInDegree": 7.656477438136827,
+    "averageOutDegree": 7.656477438136827,
+    "selfLinks": 45,
+    "removed": "The Avengers Prelude: Fury's Big Week",
+    "averagePathLength": 4.2565488363314,
+    "sizeLargest": 5599
+  },
+  "152": {
+    "numNodes": 9617,
+    "numEdges": 73443,
+    "averageInDegree": 7.636789019444733,
+    "averageOutDegree": 7.636789019444733,
+    "selfLinks": 45,
+    "removed": "Providence (episode)",
+    "averagePathLength": 4.258353610826122,
+    "sizeLargest": 5593
+  },
+  "153": {
+    "numNodes": 9616,
+    "numEdges": 73246,
+    "averageInDegree": 7.6170965058236275,
+    "averageOutDegree": 7.6170965058236275,
+    "selfLinks": 45,
+    "removed": "Thor: The Dark World Prelude",
+    "averagePathLength": 4.262512882895932,
+    "sizeLargest": 5589
+  },
+  "154": {
+    "numNodes": 9615,
+    "numEdges": 73051,
+    "averageInDegree": 7.597607904316173,
+    "averageOutDegree": 7.597607904316173,
+    "selfLinks": 45,
+    "removed": "Jessica Jones (TV series)/Season One",
+    "averagePathLength": 4.268649714626666,
+    "sizeLargest": 5588
+  },
+  "155": {
+    "numNodes": 9614,
+    "numEdges": 72856,
+    "averageInDegree": 7.578115248595798,
+    "averageOutDegree": 7.578115248595798,
+    "selfLinks": 45,
+    "removed": "Nelson v. Murdock",
+    "averagePathLength": 4.270786844323204,
+    "sizeLargest": 5576
+  },
+  "156": {
+    "numNodes": 9613,
+    "numEdges": 72661,
+    "averageInDegree": 7.558618537397274,
+    "averageOutDegree": 7.558618537397274,
+    "selfLinks": 45,
+    "removed": "The Iron Ceiling",
+    "averagePathLength": 4.274070071790719,
+    "sizeLargest": 5570
+  },
+  "157": {
+    "numNodes": 9612,
+    "numEdges": 72466,
+    "averageInDegree": 7.539117769454848,
+    "averageOutDegree": 7.539117769454848,
+    "selfLinks": 45,
+    "removed": "The Things We Bury",
+    "averagePathLength": 4.278778266078848,
+    "sizeLargest": 5569
+  },
+  "158": {
+    "numNodes": 9611,
+    "numEdges": 72271,
+    "averageInDegree": 7.519612943502237,
+    "averageOutDegree": 7.519612943502237,
+    "selfLinks": 45,
+    "removed": "T.A.H.I.T.I.",
+    "averagePathLength": 4.284887258315552,
+    "sizeLargest": 5566
+  },
+  "159": {
+    "numNodes": 9610,
+    "numEdges": 72077,
+    "averageInDegree": 7.500208116545266,
+    "averageOutDegree": 7.500208116545266,
+    "selfLinks": 45,
+    "removed": "A Fractured House",
+    "averagePathLength": 4.288861765417671,
+    "sizeLargest": 5560
+  },
+  "160": {
+    "numNodes": 9609,
+    "numEdges": 71884,
+    "averageInDegree": 7.48090331980435,
+    "averageOutDegree": 7.48090331980435,
+    "selfLinks": 45,
+    "removed": "Scars",
+    "averagePathLength": 4.290199656080779,
+    "sizeLargest": 5557
+  },
+  "161": {
+    "numNodes": 9608,
+    "numEdges": 71691,
+    "averageInDegree": 7.461594504579517,
+    "averageOutDegree": 7.461594504579517,
+    "selfLinks": 45,
+    "removed": "World on Fire",
+    "averagePathLength": 4.2922161447805705,
+    "sizeLargest": 5550
+  },
+  "162": {
+    "numNodes": 9607,
+    "numEdges": 71499,
+    "averageInDegree": 7.442385760383054,
+    "averageOutDegree": 7.442385760383054,
+    "selfLinks": 45,
+    "removed": "S.O.S. Part Two",
+    "averagePathLength": 4.29329223541317,
+    "sizeLargest": 5546
+  },
+  "163": {
+    "numNodes": 9606,
+    "numEdges": 71307,
+    "averageInDegree": 7.423173016864459,
+    "averageOutDegree": 7.423173016864459,
+    "selfLinks": 45,
+    "removed": "Arnim Zola",
+    "averagePathLength": 4.296400286725922,
+    "sizeLargest": 5544
+  },
+  "164": {
+    "numNodes": 9605,
+    "numEdges": 71116,
+    "averageInDegree": 7.404060385216034,
+    "averageOutDegree": 7.404060385216034,
+    "selfLinks": 45,
+    "removed": ".380",
+    "averagePathLength": 4.297420357197904,
+    "sizeLargest": 5532
+  },
+  "165": {
+    "numNodes": 9604,
+    "numEdges": 70925,
+    "averageInDegree": 7.3849437734277386,
+    "averageOutDegree": 7.3849437734277386,
+    "selfLinks": 45,
+    "removed": "End of the Beginning",
+    "averagePathLength": 4.298969771889037,
+    "sizeLargest": 5531
+  },
+  "166": {
+    "numNodes": 9603,
+    "numEdges": 70735,
+    "averageInDegree": 7.365927314380922,
+    "averageOutDegree": 7.365927314380922,
+    "selfLinks": 45,
+    "removed": "Bridge and Tunnel",
+    "averagePathLength": 4.302052271876398,
+    "sizeLargest": 5523
+  },
+  "167": {
+    "numNodes": 9602,
+    "numEdges": 70545,
+    "averageInDegree": 7.346906894397001,
+    "averageOutDegree": 7.346906894397001,
+    "selfLinks": 45,
+    "removed": "Beginning of the End",
+    "averagePathLength": 4.304318130510908,
+    "sizeLargest": 5521
+  },
+  "168": {
+    "numNodes": 9601,
+    "numEdges": 70355,
+    "averageInDegree": 7.327882512238308,
+    "averageOutDegree": 7.327882512238308,
+    "selfLinks": 45,
+    "removed": "Bruce Banner",
+    "averagePathLength": 4.304318130510908,
+    "sizeLargest": 5521
+  },
+  "169": {
+    "numNodes": 9600,
+    "numEdges": 70166,
+    "averageInDegree": 7.308958333333333,
+    "averageOutDegree": 7.308958333333333,
+    "selfLinks": 45,
+    "removed": "Melinda",
+    "averagePathLength": 4.307823581218454,
+    "sizeLargest": 5509
+  },
+  "170": {
+    "numNodes": 9599,
+    "numEdges": 69977,
+    "averageInDegree": 7.290030211480363,
+    "averageOutDegree": 7.290030211480363,
+    "selfLinks": 45,
+    "removed": "Mj\u00f8lnir",
+    "averagePathLength": 4.318585413631008,
+    "sizeLargest": 5507
+  },
+  "171": {
+    "numNodes": 9598,
+    "numEdges": 69790,
+    "averageInDegree": 7.271306522192123,
+    "averageOutDegree": 7.271306522192123,
+    "selfLinks": 44,
+    "removed": "Inhuman Outbreak",
+    "averagePathLength": 4.319962072586655,
+    "sizeLargest": 5506
+  },
+  "172": {
+    "numNodes": 9597,
+    "numEdges": 69602,
+    "averageInDegree": 7.252474731686985,
+    "averageOutDegree": 7.252474731686985,
+    "selfLinks": 44,
+    "removed": "Punisher",
+    "averagePathLength": 4.32694560894903,
+    "sizeLargest": 5504
+  },
+  "173": {
+    "numNodes": 9596,
+    "numEdges": 69414,
+    "averageInDegree": 7.233639016256774,
+    "averageOutDegree": 7.233639016256774,
+    "selfLinks": 44,
+    "removed": "The Blitzkrieg Button",
+    "averagePathLength": 4.332227779592533,
+    "sizeLargest": 5494
+  },
+  "174": {
+    "numNodes": 9595,
+    "numEdges": 69227,
+    "averageInDegree": 7.2149035956227205,
+    "averageOutDegree": 7.2149035956227205,
+    "selfLinks": 44,
+    "removed": "The Writing on the Wall",
+    "averagePathLength": 4.337593687241964,
+    "sizeLargest": 5489
+  },
+  "175": {
+    "numNodes": 9594,
+    "numEdges": 69040,
+    "averageInDegree": 7.196164269335001,
+    "averageOutDegree": 7.196164269335001,
+    "selfLinks": 44,
+    "removed": "The Avengers/Credits",
+    "averagePathLength": 4.337593687241964,
+    "sizeLargest": 5489
+  },
+  "176": {
+    "numNodes": 9593,
+    "numEdges": 68854,
+    "averageInDegree": 7.177525278849161,
+    "averageOutDegree": 7.177525278849161,
+    "selfLinks": 44,
+    "removed": "Speak of the Devil",
+    "averagePathLength": 4.338715739931251,
+    "sizeLargest": 5483
+  },
+  "177": {
+    "numNodes": 9592,
+    "numEdges": 68668,
+    "averageInDegree": 7.158882402001668,
+    "averageOutDegree": 7.158882402001668,
+    "selfLinks": 44,
+    "removed": "Helicarrier",
+    "averagePathLength": 4.341900627878442,
+    "sizeLargest": 5480
+  },
+  "178": {
+    "numNodes": 9591,
+    "numEdges": 68484,
+    "averageInDegree": 7.140444166406006,
+    "averageOutDegree": 7.140444166406006,
+    "selfLinks": 44,
+    "removed": "The Ones We Leave Behind",
+    "averagePathLength": 4.345233233543711,
+    "sizeLargest": 5468
+  },
+  "179": {
+    "numNodes": 9590,
+    "numEdges": 68300,
+    "averageInDegree": 7.122002085505735,
+    "averageOutDegree": 7.122002085505735,
+    "selfLinks": 44,
+    "removed": "Into the Ring",
+    "averagePathLength": 4.345964549997178,
+    "sizeLargest": 5456
+  },
+  "180": {
+    "numNodes": 9589,
+    "numEdges": 68116,
+    "averageInDegree": 7.10355615809782,
+    "averageOutDegree": 7.10355615809782,
+    "selfLinks": 44,
+    "removed": "J.A.R.V.I.S.",
+    "averagePathLength": 4.3486217366007915,
+    "sizeLargest": 5455
+  },
+  "181": {
+    "numNodes": 9588,
+    "numEdges": 67933,
+    "averageInDegree": 7.085210680016687,
+    "averageOutDegree": 7.085210680016687,
+    "selfLinks": 44,
+    "removed": "Turn, Turn, Turn",
+    "averagePathLength": 4.351147682285978,
+    "sizeLargest": 5452
+  },
+  "182": {
+    "numNodes": 9587,
+    "numEdges": 67750,
+    "averageInDegree": 7.0668613747783455,
+    "averageOutDegree": 7.0668613747783455,
+    "selfLinks": 44,
+    "removed": "Natasha Romanoff",
+    "averagePathLength": 4.351147682285978,
+    "sizeLargest": 5452
+  },
+  "183": {
+    "numNodes": 9586,
+    "numEdges": 67569,
+    "averageInDegree": 7.048716878781557,
+    "averageOutDegree": 7.048716878781557,
+    "selfLinks": 44,
+    "removed": "The Only Light in the Darkness",
+    "averagePathLength": 4.354148459524158,
+    "sizeLargest": 5449
+  },
+  "184": {
+    "numNodes": 9585,
+    "numEdges": 67388,
+    "averageInDegree": 7.03056859676578,
+    "averageOutDegree": 7.03056859676578,
+    "selfLinks": 44,
+    "removed": "Centipede Project",
+    "averagePathLength": 4.356047678240754,
+    "sizeLargest": 5448
+  },
+  "185": {
+    "numNodes": 9584,
+    "numEdges": 67209,
+    "averageInDegree": 7.012625208681135,
+    "averageOutDegree": 7.012625208681135,
+    "selfLinks": 44,
+    "removed": "Wilson Fisk",
+    "averagePathLength": 4.356059813573252,
+    "sizeLargest": 5446
+  },
+  "186": {
+    "numNodes": 9583,
+    "numEdges": 67032,
+    "averageInDegree": 6.994886778670563,
+    "averageOutDegree": 6.994886778670563,
+    "selfLinks": 44,
+    "removed": "Kilgrave",
+    "averagePathLength": 4.35991216052511,
+    "sizeLargest": 5442
+  },
+  "187": {
+    "numNodes": 9582,
+    "numEdges": 66855,
+    "averageInDegree": 6.977144646211647,
+    "averageOutDegree": 6.977144646211647,
+    "selfLinks": 44,
+    "removed": "Love in the Time of HYDRA",
+    "averagePathLength": 4.3641068764392354,
+    "sizeLargest": 5441
+  },
+  "188": {
+    "numNodes": 9581,
+    "numEdges": 66678,
+    "averageInDegree": 6.959398810145079,
+    "averageOutDegree": 6.959398810145079,
+    "selfLinks": 44,
+    "removed": "A Hen in the Wolf House",
+    "averagePathLength": 4.369293798222277,
+    "sizeLargest": 5434
+  },
+  "189": {
+    "numNodes": 9580,
+    "numEdges": 66502,
+    "averageInDegree": 6.941753653444676,
+    "averageOutDegree": 6.941753653444676,
+    "selfLinks": 44,
+    "removed": "Lockup",
+    "averagePathLength": 4.370413718690553,
+    "sizeLargest": 5423
+  },
+  "190": {
+    "numNodes": 9579,
+    "numEdges": 66326,
+    "averageInDegree": 6.92410481261092,
+    "averageOutDegree": 6.92410481261092,
+    "selfLinks": 44,
+    "removed": "Lash",
+    "averagePathLength": 4.371679800638626,
+    "sizeLargest": 5421
+  },
+  "191": {
+    "numNodes": 9578,
+    "numEdges": 66150,
+    "averageInDegree": 6.9064522864898725,
+    "averageOutDegree": 6.9064522864898725,
+    "selfLinks": 44,
+    "removed": "Falcon",
+    "averagePathLength": 4.37433788042552,
+    "sizeLargest": 5418
+  },
+  "192": {
+    "numNodes": 9577,
+    "numEdges": 65976,
+    "averageInDegree": 6.8890049075911035,
+    "averageOutDegree": 6.8890049075911035,
+    "selfLinks": 44,
+    "removed": "Rabbit in a Snowstorm",
+    "averagePathLength": 4.379008427221342,
+    "sizeLargest": 5409
+  },
+  "193": {
+    "numNodes": 9576,
+    "numEdges": 65802,
+    "averageInDegree": 6.87155388471178,
+    "averageOutDegree": 6.87155388471178,
+    "selfLinks": 44,
+    "removed": "Kree",
+    "averagePathLength": 4.385432523367145,
+    "sizeLargest": 5408
+  },
+  "194": {
+    "numNodes": 9575,
+    "numEdges": 65629,
+    "averageInDegree": 6.854203655352481,
+    "averageOutDegree": 6.854203655352481,
+    "selfLinks": 44,
+    "removed": "Uprising (episode)",
+    "averagePathLength": 4.388609246817915,
+    "sizeLargest": 5396
+  },
+  "195": {
+    "numNodes": 9574,
+    "numEdges": 65456,
+    "averageInDegree": 6.836849801545854,
+    "averageOutDegree": 6.836849801545854,
+    "selfLinks": 44,
+    "removed": "Ultron",
+    "averagePathLength": 4.392282404215598,
+    "sizeLargest": 5393
+  },
+  "196": {
+    "numNodes": 9573,
+    "numEdges": 65284,
+    "averageInDegree": 6.819596782617779,
+    "averageOutDegree": 6.819596782617779,
+    "selfLinks": 44,
+    "removed": "One Door Closes",
+    "averagePathLength": 4.395026011551739,
+    "sizeLargest": 5390
+  },
+  "197": {
+    "numNodes": 9572,
+    "numEdges": 65113,
+    "averageInDegree": 6.802444630171333,
+    "averageOutDegree": 6.802444630171333,
+    "selfLinks": 44,
+    "removed": "The Man in the Box",
+    "averagePathLength": 4.399035238521867,
+    "sizeLargest": 5383
+  },
+  "198": {
+    "numNodes": 9571,
+    "numEdges": 64943,
+    "averageInDegree": 6.785393375822798,
+    "averageOutDegree": 6.785393375822798,
+    "selfLinks": 44,
+    "removed": "The Ghost",
+    "averagePathLength": 4.402117907401835,
+    "sizeLargest": 5378
+  },
+  "199": {
+    "numNodes": 9570,
+    "numEdges": 64773,
+    "averageInDegree": 6.76833855799373,
+    "averageOutDegree": 6.76833855799373,
+    "selfLinks": 44,
+    "removed": "Bang",
+    "averagePathLength": 4.405470899627429,
+    "sizeLargest": 5367
+  },
+  "200": {
+    "numNodes": 9569,
+    "numEdges": 64603,
+    "averageInDegree": 6.751280175566935,
+    "averageOutDegree": 6.751280175566935,
+    "selfLinks": 44,
+    "removed": "The Bridge",
+    "averagePathLength": 4.408383376903952,
+    "sizeLargest": 5361
+  },
+  "201": {
+    "numNodes": 9568,
+    "numEdges": 64434,
+    "averageInDegree": 6.734322742474917,
+    "averageOutDegree": 6.734322742474917,
+    "selfLinks": 44,
+    "removed": "Purpose in the Machine",
+    "averagePathLength": 4.411633030078686,
+    "sizeLargest": 5354
+  },
+  "202": {
+    "numNodes": 9567,
+    "numEdges": 64266,
+    "averageInDegree": 6.7174662903731575,
+    "averageOutDegree": 6.7174662903731575,
+    "selfLinks": 44,
+    "removed": "Thor: The Dark World/Credits",
+    "averagePathLength": 4.411633030078686,
+    "sizeLargest": 5354
+  },
+  "203": {
+    "numNodes": 9566,
+    "numEdges": 64098,
+    "averageInDegree": 6.700606314028852,
+    "averageOutDegree": 6.700606314028852,
+    "selfLinks": 44,
+    "removed": "New Mexico",
+    "averagePathLength": 4.417218548363001,
+    "sizeLargest": 5353
+  },
+  "204": {
+    "numNodes": 9565,
+    "numEdges": 63931,
+    "averageInDegree": 6.6838473601672765,
+    "averageOutDegree": 6.6838473601672765,
+    "selfLinks": 44,
+    "removed": "Bouncing Back",
+    "averagePathLength": 4.419250726131012,
+    "sizeLargest": 5347
+  },
+  "205": {
+    "numNodes": 9564,
+    "numEdges": 63766,
+    "averageInDegree": 6.667294019238812,
+    "averageOutDegree": 6.667294019238812,
+    "selfLinks": 44,
+    "removed": "The Well",
+    "averagePathLength": 4.426792915751096,
+    "sizeLargest": 5343
+  },
+  "206": {
+    "numNodes": 9563,
+    "numEdges": 63602,
+    "averageInDegree": 6.650841786050402,
+    "averageOutDegree": 6.650841786050402,
+    "selfLinks": 44,
+    "removed": "Luke Cage (TV series)/Season One",
+    "averagePathLength": 4.433215188396931,
+    "sizeLargest": 5342
+  },
+  "207": {
+    "numNodes": 9562,
+    "numEdges": 63438,
+    "averageInDegree": 6.634386111692114,
+    "averageOutDegree": 6.634386111692114,
+    "selfLinks": 44,
+    "removed": "Seven Minutes in Heaven",
+    "averagePathLength": 4.436534077244691,
+    "sizeLargest": 5332
+  },
+  "208": {
+    "numNodes": 9561,
+    "numEdges": 63274,
+    "averageInDegree": 6.617926995084196,
+    "averageOutDegree": 6.617926995084196,
+    "selfLinks": 44,
+    "removed": "Agent Carter (TV series)/Season Two",
+    "averagePathLength": 4.4389639979686235,
+    "sizeLargest": 5331
+  },
+  "209": {
+    "numNodes": 9560,
+    "numEdges": 63110,
+    "averageInDegree": 6.601464435146443,
+    "averageOutDegree": 6.601464435146443,
+    "selfLinks": 44,
+    "removed": "Florida",
+    "averagePathLength": 4.445793508593558,
+    "sizeLargest": 5327
+  },
+  "210": {
+    "numNodes": 9559,
+    "numEdges": 62946,
+    "averageInDegree": 6.5849984307982,
+    "averageOutDegree": 6.5849984307982,
+    "selfLinks": 44,
+    "removed": "Tony Stark's Mansion",
+    "averagePathLength": 4.448117076473109,
+    "sizeLargest": 5326
+  },
+  "211": {
+    "numNodes": 9558,
+    "numEdges": 62783,
+    "averageInDegree": 6.568633605356769,
+    "averageOutDegree": 6.568633605356769,
+    "selfLinks": 44,
+    "removed": "S.O.S. Part One",
+    "averagePathLength": 4.450820023654325,
+    "sizeLargest": 5321
+  },
+  "212": {
+    "numNodes": 9557,
+    "numEdges": 62621,
+    "averageInDegree": 6.552369990582819,
+    "averageOutDegree": 6.552369990582819,
+    "selfLinks": 43,
+    "removed": "Thor: God of Thunder",
+    "averagePathLength": 4.453185506098958,
+    "sizeLargest": 5312
+  },
+  "213": {
+    "numNodes": 9556,
+    "numEdges": 62458,
+    "averageInDegree": 6.535998325659271,
+    "averageOutDegree": 6.535998325659271,
+    "selfLinks": 43,
+    "removed": "Captain America's Shield",
+    "averagePathLength": 4.4581037614785926,
+    "sizeLargest": 5311
+  },
+  "214": {
+    "numNodes": 9555,
+    "numEdges": 62296,
+    "averageInDegree": 6.519727891156463,
+    "averageOutDegree": 6.519727891156463,
+    "selfLinks": 43,
+    "removed": "Yes Men",
+    "averagePathLength": 4.463482491523828,
+    "sizeLargest": 5308
+  },
+  "215": {
+    "numNodes": 9554,
+    "numEdges": 62135,
+    "averageInDegree": 6.50355871886121,
+    "averageOutDegree": 6.50355871886121,
+    "selfLinks": 43,
+    "removed": "Afterlife (episode)",
+    "averagePathLength": 4.465726271506296,
+    "sizeLargest": 5304
+  },
+  "216": {
+    "numNodes": 9553,
+    "numEdges": 61974,
+    "averageInDegree": 6.487386161415262,
+    "averageOutDegree": 6.487386161415262,
+    "selfLinks": 43,
+    "removed": "Ye Who Enter Here",
+    "averagePathLength": 4.468214220628821,
+    "sizeLargest": 5302
+  },
+  "217": {
+    "numNodes": 9552,
+    "numEdges": 61813,
+    "averageInDegree": 6.471210217755444,
+    "averageOutDegree": 6.471210217755444,
+    "selfLinks": 43,
+    "removed": "Iron Man 3 - The Official Game",
+    "averagePathLength": 4.473055896864775,
+    "sizeLargest": 5298
+  },
+  "218": {
+    "numNodes": 9551,
+    "numEdges": 61652,
+    "averageInDegree": 6.455030886818134,
+    "averageOutDegree": 6.455030886818134,
+    "selfLinks": 43,
+    "removed": "Chitauri",
+    "averagePathLength": 4.483466279721692,
+    "sizeLargest": 5297
+  },
+  "219": {
+    "numNodes": 9550,
+    "numEdges": 61492,
+    "averageInDegree": 6.4389528795811515,
+    "averageOutDegree": 6.4389528795811515,
+    "selfLinks": 43,
+    "removed": "Code of the Streets",
+    "averagePathLength": 4.487041954290108,
+    "sizeLargest": 5281
+  },
+  "220": {
+    "numNodes": 9549,
+    "numEdges": 61332,
+    "averageInDegree": 6.42287150486962,
+    "averageOutDegree": 6.42287150486962,
+    "selfLinks": 43,
+    "removed": "Many Heads, One Tale",
+    "averagePathLength": 4.488906978475274,
+    "sizeLargest": 5279
+  },
+  "221": {
+    "numNodes": 9548,
+    "numEdges": 61172,
+    "averageInDegree": 6.4067867616254714,
+    "averageOutDegree": 6.4067867616254714,
+    "selfLinks": 43,
+    "removed": "AKA 99 Friends",
+    "averagePathLength": 4.490938900867979,
+    "sizeLargest": 5265
+  },
+  "222": {
+    "numNodes": 9547,
+    "numEdges": 61012,
+    "averageInDegree": 6.390698648790196,
+    "averageOutDegree": 6.390698648790196,
+    "selfLinks": 43,
+    "removed": "AKA Crush Syndrome",
+    "averagePathLength": 4.4940070136658,
+    "sizeLargest": 5254
+  },
+  "223": {
+    "numNodes": 9546,
+    "numEdges": 60852,
+    "averageInDegree": 6.374607165304839,
+    "averageOutDegree": 6.374607165304839,
+    "selfLinks": 43,
+    "removed": "Valediction",
+    "averagePathLength": 4.497809833566097,
+    "sizeLargest": 5247
+  },
+  "224": {
+    "numNodes": 9545,
+    "numEdges": 60694,
+    "averageInDegree": 6.358721843897328,
+    "averageOutDegree": 6.358721843897328,
+    "selfLinks": 43,
+    "removed": "Daisy Johnson",
+    "averagePathLength": 4.497809833566097,
+    "sizeLargest": 5247
+  },
+  "225": {
+    "numNodes": 9544,
+    "numEdges": 60536,
+    "averageInDegree": 6.342833193629505,
+    "averageOutDegree": 6.342833193629505,
+    "selfLinks": 43,
+    "removed": "AKA Ladies Night",
+    "averagePathLength": 4.501474421073652,
+    "sizeLargest": 5237
+  },
+  "226": {
+    "numNodes": 9543,
+    "numEdges": 60378,
+    "averageInDegree": 6.326941213454888,
+    "averageOutDegree": 6.326941213454888,
+    "selfLinks": 43,
+    "removed": "Scarlet Witch",
+    "averagePathLength": 4.503511351646479,
+    "sizeLargest": 5235
+  },
+  "227": {
+    "numNodes": 9542,
+    "numEdges": 60220,
+    "averageInDegree": 6.311045902326557,
+    "averageOutDegree": 6.311045902326557,
+    "selfLinks": 43,
+    "removed": "London",
+    "averagePathLength": 4.514782988910869,
+    "sizeLargest": 5234
+  },
+  "228": {
+    "numNodes": 9541,
+    "numEdges": 60062,
+    "averageInDegree": 6.295147259197149,
+    "averageOutDegree": 6.295147259197149,
+    "selfLinks": 43,
+    "removed": "James Rhodes",
+    "averagePathLength": 4.514782988910869,
+    "sizeLargest": 5234
+  },
+  "229": {
+    "numNodes": 9540,
+    "numEdges": 59905,
+    "averageInDegree": 6.279350104821803,
+    "averageOutDegree": 6.279350104821803,
+    "selfLinks": 43,
+    "removed": "Rocket Raccoon",
+    "averagePathLength": 4.515773958073942,
+    "sizeLargest": 5230
+  },
+  "230": {
+    "numNodes": 9539,
+    "numEdges": 59749,
+    "averageInDegree": 6.263654471118566,
+    "averageOutDegree": 6.263654471118566,
+    "selfLinks": 42,
+    "removed": "Iron Man 2 (video game)",
+    "averagePathLength": 4.5219366303025375,
+    "sizeLargest": 5212
+  },
+  "231": {
+    "numNodes": 9538,
+    "numEdges": 59593,
+    "averageInDegree": 6.247955546236108,
+    "averageOutDegree": 6.247955546236108,
+    "selfLinks": 42,
+    "removed": "Take It Personal",
+    "averagePathLength": 4.524145141598029,
+    "sizeLargest": 5198
+  },
+  "232": {
+    "numNodes": 9537,
+    "numEdges": 59437,
+    "averageInDegree": 6.232253329139143,
+    "averageOutDegree": 6.232253329139143,
+    "selfLinks": 42,
+    "removed": "AKA Top Shelf Perverts",
+    "averagePathLength": 4.526270821694201,
+    "sizeLargest": 5179
+  },
+  "233": {
+    "numNodes": 9536,
+    "numEdges": 59281,
+    "averageInDegree": 6.2165478187919465,
+    "averageOutDegree": 6.2165478187919465,
+    "selfLinks": 42,
+    "removed": "A Sin to Err",
+    "averagePathLength": 4.532255397345394,
+    "sizeLargest": 5174
+  },
+  "234": {
+    "numNodes": 9535,
+    "numEdges": 59126,
+    "averageInDegree": 6.200943890928159,
+    "averageOutDegree": 6.200943890928159,
+    "selfLinks": 42,
+    "removed": "You Know My Steez",
+    "averagePathLength": 4.532750654881022,
+    "sizeLargest": 5163
+  },
+  "235": {
+    "numNodes": 9534,
+    "numEdges": 58971,
+    "averageInDegree": 6.185336689741976,
+    "averageOutDegree": 6.185336689741976,
+    "selfLinks": 42,
+    "removed": "The Path of the Righteous",
+    "averagePathLength": 4.533709719537052,
+    "sizeLargest": 5158
+  },
+  "236": {
+    "numNodes": 9533,
+    "numEdges": 58816,
+    "averageInDegree": 6.169726214203294,
+    "averageOutDegree": 6.169726214203294,
+    "selfLinks": 42,
+    "removed": "United Kingdom",
+    "averagePathLength": 4.542780629463297,
+    "sizeLargest": 5154
+  },
+  "237": {
+    "numNodes": 9532,
+    "numEdges": 58662,
+    "averageInDegree": 6.154217373059169,
+    "averageOutDegree": 6.154217373059169,
+    "selfLinks": 42,
+    "removed": "Penny and Dime",
+    "averagePathLength": 4.546199672937382,
+    "sizeLargest": 5145
+  },
+  "238": {
+    "numNodes": 9531,
+    "numEdges": 58508,
+    "averageInDegree": 6.138705277515476,
+    "averageOutDegree": 6.138705277515476,
+    "selfLinks": 42,
+    "removed": "Ian Quinn",
+    "averagePathLength": 4.548217405227598,
+    "sizeLargest": 5144
+  },
+  "239": {
+    "numNodes": 9530,
+    "numEdges": 58355,
+    "averageInDegree": 6.123294858342078,
+    "averageOutDegree": 6.123294858342078,
+    "selfLinks": 42,
+    "removed": "Condemned",
+    "averagePathLength": 4.552296097823074,
+    "sizeLargest": 5137
+  },
+  "240": {
+    "numNodes": 9529,
+    "numEdges": 58203,
+    "averageInDegree": 6.107986147549585,
+    "averageOutDegree": 6.107986147549585,
+    "selfLinks": 42,
+    "removed": "Soliloquy of Chaos",
+    "averagePathLength": 4.556550532177913,
+    "sizeLargest": 5122
+  },
+  "241": {
+    "numNodes": 9528,
+    "numEdges": 58051,
+    "averageInDegree": 6.09267422334173,
+    "averageOutDegree": 6.09267422334173,
+    "selfLinks": 42,
+    "removed": "The Lady in the Lake",
+    "averagePathLength": 4.557653605175018,
+    "sizeLargest": 5108
+  },
+  "242": {
+    "numNodes": 9527,
+    "numEdges": 57899,
+    "averageInDegree": 6.0773590847066234,
+    "averageOutDegree": 6.0773590847066234,
+    "selfLinks": 42,
+    "removed": "Among Us Hide...",
+    "averagePathLength": 4.560603502006454,
+    "sizeLargest": 5105
+  },
+  "243": {
+    "numNodes": 9526,
+    "numEdges": 57747,
+    "averageInDegree": 6.062040730631955,
+    "averageOutDegree": 6.062040730631955,
+    "selfLinks": 42,
+    "removed": "Shadows in the Glass",
+    "averagePathLength": 4.562990321054878,
+    "sizeLargest": 5100
+  },
+  "244": {
+    "numNodes": 9525,
+    "numEdges": 57595,
+    "averageInDegree": 6.046719160104987,
+    "averageOutDegree": 6.046719160104987,
+    "selfLinks": 42,
+    "removed": "Captain America: The First Avenger Adaptation",
+    "averagePathLength": 4.567349117851514,
+    "sizeLargest": 5097
+  },
+  "245": {
+    "numNodes": 9524,
+    "numEdges": 57444,
+    "averageInDegree": 6.031499370012599,
+    "averageOutDegree": 6.031499370012599,
+    "selfLinks": 41,
+    "removed": "Roxxon Oil Corporation",
+    "averagePathLength": 4.582529119867396,
+    "sizeLargest": 5095
+  },
+  "246": {
+    "numNodes": 9523,
+    "numEdges": 57293,
+    "averageInDegree": 6.016276383492597,
+    "averageOutDegree": 6.016276383492597,
+    "selfLinks": 40,
+    "removed": "The Incredible Hulk (video game)",
+    "averagePathLength": 4.594295527817038,
+    "sizeLargest": 5090
+  },
+  "247": {
+    "numNodes": 9522,
+    "numEdges": 57142,
+    "averageInDegree": 6.001050199537913,
+    "averageOutDegree": 6.001050199537913,
+    "selfLinks": 40,
+    "removed": "Maps/Gallery",
+    "averagePathLength": 4.594295527817038,
+    "sizeLargest": 5090
+  },
+  "248": {
+    "numNodes": 9521,
+    "numEdges": 56992,
+    "averageInDegree": 5.985925848125197,
+    "averageOutDegree": 5.985925848125197,
+    "selfLinks": 40,
+    "removed": "Agents of S.H.I.E.L.D.: Season Two Declassified",
+    "averagePathLength": 4.5951315406518685,
+    "sizeLargest": 5089
+  },
+  "249": {
+    "numNodes": 9520,
+    "numEdges": 56843,
+    "averageInDegree": 5.970903361344538,
+    "averageOutDegree": 5.970903361344538,
+    "selfLinks": 40,
+    "removed": "Manifest",
+    "averagePathLength": 4.59883648862956,
+    "sizeLargest": 5083
+  },
+  "250": {
+    "numNodes": 9519,
+    "numEdges": 56694,
+    "averageInDegree": 5.955877718247715,
+    "averageOutDegree": 5.955877718247715,
+    "selfLinks": 40,
+    "removed": "The Inside Man",
+    "averagePathLength": 4.6027046009016575,
+    "sizeLargest": 5079
+  },
+  "251": {
+    "numNodes": 9518,
+    "numEdges": 56545,
+    "averageInDegree": 5.940848917839882,
+    "averageOutDegree": 5.940848917839882,
+    "selfLinks": 40,
+    "removed": "Chaos Theory",
+    "averagePathLength": 4.604054165833351,
+    "sizeLargest": 5075
+  },
+  "252": {
+    "numNodes": 9517,
+    "numEdges": 56397,
+    "averageInDegree": 5.925922034254492,
+    "averageOutDegree": 5.925922034254492,
+    "selfLinks": 40,
+    "removed": "Meet the New Boss",
+    "averagePathLength": 4.606883783612095,
+    "sizeLargest": 5066
+  },
+  "253": {
+    "numNodes": 9516,
+    "numEdges": 56249,
+    "averageInDegree": 5.91099201345103,
+    "averageOutDegree": 5.91099201345103,
+    "selfLinks": 40,
+    "removed": "Smoke & Mirrors",
+    "averagePathLength": 4.611199041504006,
+    "sizeLargest": 5059
+  },
+  "254": {
+    "numNodes": 9515,
+    "numEdges": 56101,
+    "averageInDegree": 5.896058854440358,
+    "averageOutDegree": 5.896058854440358,
+    "selfLinks": 40,
+    "removed": "Time and Tide",
+    "averagePathLength": 4.614128444323347,
+    "sizeLargest": 5051
+  },
+  "255": {
+    "numNodes": 9514,
+    "numEdges": 55953,
+    "averageInDegree": 5.88112255623292,
+    "averageOutDegree": 5.88112255623292,
+    "selfLinks": 40,
+    "removed": "Jasper Sitwell",
+    "averagePathLength": 4.618227469805804,
+    "sizeLargest": 5050
+  },
+  "256": {
+    "numNodes": 9513,
+    "numEdges": 55806,
+    "averageInDegree": 5.866288237149164,
+    "averageOutDegree": 5.866288237149164,
+    "selfLinks": 40,
+    "removed": "AKA You're a Winner!",
+    "averagePathLength": 4.623475108439883,
+    "sizeLargest": 5040
+  },
+  "257": {
+    "numNodes": 9512,
+    "numEdges": 55659,
+    "averageInDegree": 5.851450798990749,
+    "averageOutDegree": 5.851450798990749,
+    "selfLinks": 40,
+    "removed": "Star-Lord",
+    "averagePathLength": 4.627846417413293,
+    "sizeLargest": 5036
+  },
+  "258": {
+    "numNodes": 9511,
+    "numEdges": 55513,
+    "averageInDegree": 5.836715382189044,
+    "averageOutDegree": 5.836715382189044,
+    "selfLinks": 40,
+    "removed": "Kinbaku",
+    "averagePathLength": 4.632884273742061,
+    "sizeLargest": 5024
+  },
+  "259": {
+    "numNodes": 9510,
+    "numEdges": 55367,
+    "averageInDegree": 5.821976866456362,
+    "averageOutDegree": 5.821976866456362,
+    "selfLinks": 40,
+    "removed": "In the Blood",
+    "averagePathLength": 4.635699288895898,
+    "sizeLargest": 5019
+  },
+  "260": {
+    "numNodes": 9509,
+    "numEdges": 55222,
+    "averageInDegree": 5.8073404143443055,
+    "averageOutDegree": 5.8073404143443055,
+    "selfLinks": 40,
+    "removed": "Paradise Lost",
+    "averagePathLength": 4.636475160593625,
+    "sizeLargest": 5014
+  },
+  "261": {
+    "numNodes": 9508,
+    "numEdges": 55077,
+    "averageInDegree": 5.792700883466554,
+    "averageOutDegree": 5.792700883466554,
+    "selfLinks": 40,
+    "removed": "2011",
+    "averagePathLength": 4.642741316271003,
+    "sizeLargest": 5012
+  },
+  "262": {
+    "numNodes": 9507,
+    "numEdges": 54933,
+    "averageInDegree": 5.77816345850426,
+    "averageOutDegree": 5.77816345850426,
+    "selfLinks": 40,
+    "removed": "Just to Get a Rep",
+    "averagePathLength": 4.642910473611312,
+    "sizeLargest": 4989
+  },
+  "263": {
+    "numNodes": 9506,
+    "numEdges": 54789,
+    "averageInDegree": 5.763622974963181,
+    "averageOutDegree": 5.763622974963181,
+    "selfLinks": 40,
+    "removed": "List of Powers and Abilities",
+    "averagePathLength": 4.641847865822981,
+    "sizeLargest": 4987
+  },
+  "264": {
+    "numNodes": 9505,
+    "numEdges": 54645,
+    "averageInDegree": 5.749079431877959,
+    "averageOutDegree": 5.749079431877959,
+    "selfLinks": 40,
+    "removed": "Who You Really Are",
+    "averagePathLength": 4.647282000920768,
+    "sizeLargest": 4981
+  },
+  "265": {
+    "numNodes": 9504,
+    "numEdges": 54501,
+    "averageInDegree": 5.734532828282828,
+    "averageOutDegree": 5.734532828282828,
+    "selfLinks": 40,
+    "removed": "Face My Enemy",
+    "averagePathLength": 4.650155975008408,
+    "sizeLargest": 4973
+  },
+  "266": {
+    "numNodes": 9503,
+    "numEdges": 54357,
+    "averageInDegree": 5.719983163211618,
+    "averageOutDegree": 5.719983163211618,
+    "selfLinks": 40,
+    "removed": "Thor: The Dark World - The Official Game",
+    "averagePathLength": 4.651317357208069,
+    "sizeLargest": 4962
+  },
+  "267": {
+    "numNodes": 9502,
+    "numEdges": 54213,
+    "averageInDegree": 5.705430435697748,
+    "averageOutDegree": 5.705430435697748,
+    "selfLinks": 40,
+    "removed": "Thor: Ragnarok",
+    "averagePathLength": 4.658604207498793,
+    "sizeLargest": 4953
+  },
+  "268": {
+    "numNodes": 9501,
+    "numEdges": 54070,
+    "averageInDegree": 5.690979896852963,
+    "averageOutDegree": 5.690979896852963,
+    "selfLinks": 40,
+    "removed": "Dottie Underwood",
+    "averagePathLength": 4.658713425710837,
+    "sizeLargest": 4941
+  },
+  "269": {
+    "numNodes": 9500,
+    "numEdges": 53927,
+    "averageInDegree": 5.676526315789474,
+    "averageOutDegree": 5.676526315789474,
+    "selfLinks": 40,
+    "removed": "Nothing Personal",
+    "averagePathLength": 4.6621745044670995,
+    "sizeLargest": 4938
+  },
+  "270": {
+    "numNodes": 9499,
+    "numEdges": 53784,
+    "averageInDegree": 5.6620696915464785,
+    "averageOutDegree": 5.6620696915464785,
+    "selfLinks": 40,
+    "removed": "0-8-4 (episode)",
+    "averagePathLength": 4.667483517069551,
+    "sizeLargest": 4934
+  },
+  "271": {
+    "numNodes": 9498,
+    "numEdges": 53642,
+    "averageInDegree": 5.6477153084859975,
+    "averageOutDegree": 5.6477153084859975,
+    "selfLinks": 40,
+    "removed": "Emancipation",
+    "averagePathLength": 4.671042183410258,
+    "sizeLargest": 4928
+  },
+  "272": {
+    "numNodes": 9497,
+    "numEdges": 53500,
+    "averageInDegree": 5.633357902495525,
+    "averageOutDegree": 5.633357902495525,
+    "selfLinks": 40,
+    "removed": "Agents of S.H.I.E.L.D./Season Four",
+    "averagePathLength": 4.675127795575862,
+    "sizeLargest": 4927
+  },
+  "273": {
+    "numNodes": 9496,
+    "numEdges": 53358,
+    "averageInDegree": 5.618997472620051,
+    "averageOutDegree": 5.618997472620051,
+    "selfLinks": 40,
+    "removed": "The Frenemy of My Enemy",
+    "averagePathLength": 4.678960170211839,
+    "sizeLargest": 4924
+  },
+  "274": {
+    "numNodes": 9495,
+    "numEdges": 53216,
+    "averageInDegree": 5.60463401790416,
+    "averageOutDegree": 5.60463401790416,
+    "selfLinks": 40,
+    "removed": "What They Become",
+    "averagePathLength": 4.681415516736993,
+    "sizeLargest": 4920
+  },
+  "275": {
+    "numNodes": 9494,
+    "numEdges": 53074,
+    "averageInDegree": 5.590267537392037,
+    "averageOutDegree": 5.590267537392037,
+    "selfLinks": 40,
+    "removed": "Making Friends and Influencing People",
+    "averagePathLength": 4.684475730374366,
+    "sizeLargest": 4914
+  },
+  "276": {
+    "numNodes": 9493,
+    "numEdges": 52932,
+    "averageInDegree": 5.575898030127463,
+    "averageOutDegree": 5.575898030127463,
+    "selfLinks": 40,
+    "removed": "T.R.A.C.K.S.",
+    "averagePathLength": 4.688778414807334,
+    "sizeLargest": 4910
+  },
+  "277": {
+    "numNodes": 9492,
+    "numEdges": 52791,
+    "averageInDegree": 5.561630847029077,
+    "averageOutDegree": 5.561630847029077,
+    "selfLinks": 39,
+    "removed": "Captain America: Super Soldier",
+    "averagePathLength": 4.694044877501541,
+    "sizeLargest": 4894
+  },
+  "278": {
+    "numNodes": 9491,
+    "numEdges": 52651,
+    "averageInDegree": 5.547466020440417,
+    "averageOutDegree": 5.547466020440417,
+    "selfLinks": 39,
+    "removed": "AKA I've Got the Blues",
+    "averagePathLength": 4.695362888560778,
+    "sizeLargest": 4883
+  },
+  "279": {
+    "numNodes": 9490,
+    "numEdges": 52511,
+    "averageInDegree": 5.533298208640675,
+    "averageOutDegree": 5.533298208640675,
+    "selfLinks": 39,
+    "removed": "Heavy is the Head",
+    "averagePathLength": 4.698658855785417,
+    "sizeLargest": 4880
+  },
+  "280": {
+    "numNodes": 9489,
+    "numEdges": 52371,
+    "averageInDegree": 5.519127410686058,
+    "averageOutDegree": 5.519127410686058,
+    "selfLinks": 39,
+    "removed": "Iron Fist (TV series)",
+    "averagePathLength": 4.700874046484223,
+    "sizeLargest": 4875
+  },
+  "281": {
+    "numNodes": 9488,
+    "numEdges": 52231,
+    "averageInDegree": 5.5049536256323774,
+    "averageOutDegree": 5.5049536256323774,
+    "selfLinks": 39,
+    "removed": "The Incredible Hulk/Credits",
+    "averagePathLength": 4.700874046484223,
+    "sizeLargest": 4875
+  },
+  "282": {
+    "numNodes": 9487,
+    "numEdges": 52092,
+    "averageInDegree": 5.490882259934647,
+    "averageOutDegree": 5.490882259934647,
+    "selfLinks": 39,
+    "removed": "Marvel Cinematic Universe Wiki:Community Portal/Archive IV",
+    "averagePathLength": 4.700874046484223,
+    "sizeLargest": 4875
+  },
+  "283": {
+    "numNodes": 9486,
+    "numEdges": 51953,
+    "averageInDegree": 5.4768079274720645,
+    "averageOutDegree": 5.4768079274720645,
+    "selfLinks": 39,
+    "removed": "Snafu",
+    "averagePathLength": 4.703832084708173,
+    "sizeLargest": 4865
+  },
+  "284": {
+    "numNodes": 9485,
+    "numEdges": 51814,
+    "averageInDegree": 5.462730627306273,
+    "averageOutDegree": 5.462730627306273,
+    "selfLinks": 39,
+    "removed": "Aldrich Killian",
+    "averagePathLength": 4.706333936369687,
+    "sizeLargest": 4864
+  },
+  "285": {
+    "numNodes": 9484,
+    "numEdges": 51675,
+    "averageInDegree": 5.448650358498524,
+    "averageOutDegree": 5.448650358498524,
+    "selfLinks": 39,
+    "removed": "Jane Foster",
+    "averagePathLength": 4.709733123739516,
+    "sizeLargest": 4859
+  },
+  "286": {
+    "numNodes": 9483,
+    "numEdges": 51537,
+    "averageInDegree": 5.4346725719708955,
+    "averageOutDegree": 5.4346725719708955,
+    "selfLinks": 39,
+    "removed": "Cut Man",
+    "averagePathLength": 4.7159040481280545,
+    "sizeLargest": 4849
+  },
+  "287": {
+    "numNodes": 9482,
+    "numEdges": 51400,
+    "averageInDegree": 5.420797300147648,
+    "averageOutDegree": 5.420797300147648,
+    "selfLinks": 38,
+    "removed": "Ant-Man",
+    "averagePathLength": 4.71869859756554,
+    "sizeLargest": 4844
+  },
+  "288": {
+    "numNodes": 9481,
+    "numEdges": 51263,
+    "averageInDegree": 5.406919101360616,
+    "averageOutDegree": 5.406919101360616,
+    "selfLinks": 38,
+    "removed": "AKA WWJD?",
+    "averagePathLength": 4.728682640966532,
+    "sizeLargest": 4831
+  },
+  "289": {
+    "numNodes": 9480,
+    "numEdges": 51126,
+    "averageInDegree": 5.393037974683544,
+    "averageOutDegree": 5.393037974683544,
+    "selfLinks": 38,
+    "removed": "Agents of S.H.I.E.L.D.: Season One Declassified",
+    "averagePathLength": 4.730746784213647,
+    "sizeLargest": 4825
+  },
+  "290": {
+    "numNodes": 9479,
+    "numEdges": 50989,
+    "averageInDegree": 5.379153919189788,
+    "averageOutDegree": 5.379153919189788,
+    "selfLinks": 38,
+    "removed": "Wolfgang von Strucker",
+    "averagePathLength": 4.736407348226182,
+    "sizeLargest": 4822
+  },
+  "291": {
+    "numNodes": 9478,
+    "numEdges": 50853,
+    "averageInDegree": 5.365372441443342,
+    "averageOutDegree": 5.365372441443342,
+    "selfLinks": 38,
+    "removed": "The Singularity",
+    "averagePathLength": 4.738636052485881,
+    "sizeLargest": 4820
+  },
+  "292": {
+    "numNodes": 9477,
+    "numEdges": 50717,
+    "averageInDegree": 5.351588055291759,
+    "averageOutDegree": 5.351588055291759,
+    "selfLinks": 38,
+    "removed": "The Asset",
+    "averagePathLength": 4.744043254997319,
+    "sizeLargest": 4811
+  },
+  "293": {
+    "numNodes": 9476,
+    "numEdges": 50581,
+    "averageInDegree": 5.337800759814268,
+    "averageOutDegree": 5.337800759814268,
+    "selfLinks": 38,
+    "removed": "Agents of S.H.I.E.L.D./Gallery",
+    "averagePathLength": 4.744043254997319,
+    "sizeLargest": 4811
+  },
+  "294": {
+    "numNodes": 9475,
+    "numEdges": 50445,
+    "averageInDegree": 5.32401055408971,
+    "averageOutDegree": 5.32401055408971,
+    "selfLinks": 38,
+    "removed": "Howling Commandos",
+    "averagePathLength": 4.7486189918504325,
+    "sizeLargest": 4810
+  },
+  "295": {
+    "numNodes": 9474,
+    "numEdges": 50310,
+    "averageInDegree": 5.3103229892336925,
+    "averageOutDegree": 5.3103229892336925,
+    "selfLinks": 38,
+    "removed": "One of Us",
+    "averagePathLength": 4.752617407285342,
+    "sizeLargest": 4807
+  },
+  "296": {
+    "numNodes": 9473,
+    "numEdges": 50176,
+    "averageInDegree": 5.296738097751504,
+    "averageOutDegree": 5.296738097751504,
+    "selfLinks": 38,
+    "removed": "Better Angels",
+    "averagePathLength": 4.759596166041609,
+    "sizeLargest": 4799
+  },
+  "297": {
+    "numNodes": 9472,
+    "numEdges": 50042,
+    "averageInDegree": 5.283150337837838,
+    "averageOutDegree": 5.283150337837838,
+    "selfLinks": 38,
+    "removed": "Devils You Know",
+    "averagePathLength": 4.7620997598798445,
+    "sizeLargest": 4796
+  },
+  "298": {
+    "numNodes": 9471,
+    "numEdges": 49908,
+    "averageInDegree": 5.269559708584099,
+    "averageOutDegree": 5.269559708584099,
+    "selfLinks": 38,
+    "removed": "The Avengers Adaptation",
+    "averagePathLength": 4.769782338849217,
+    "sizeLargest": 4794
+  },
+  "299": {
+    "numNodes": 9470,
+    "numEdges": 49774,
+    "averageInDegree": 5.2559662090813095,
+    "averageOutDegree": 5.2559662090813095,
+    "selfLinks": 38,
+    "removed": "Seeds",
+    "averagePathLength": 4.77472483418588,
+    "sizeLargest": 4791
+  },
+  "300": {
+    "numNodes": 9469,
+    "numEdges": 49641,
+    "averageInDegree": 5.24247544619284,
+    "averageOutDegree": 5.24247544619284,
+    "selfLinks": 38,
+    "removed": "Parting Shot",
+    "averagePathLength": 4.780757881097552,
+    "sizeLargest": 4782
+  },
+  "301": {
+    "numNodes": 9468,
+    "numEdges": 49508,
+    "averageInDegree": 5.228981833544571,
+    "averageOutDegree": 5.228981833544571,
+    "selfLinks": 38,
+    "removed": "AKA Sin Bin",
+    "averagePathLength": 4.784349211205925,
+    "sizeLargest": 4774
+  },
+  "302": {
+    "numNodes": 9467,
+    "numEdges": 49375,
+    "averageInDegree": 5.215485370233442,
+    "averageOutDegree": 5.215485370233442,
+    "selfLinks": 38,
+    "removed": "AKA It's Called Whiskey",
+    "averagePathLength": 4.785747206174077,
+    "sizeLargest": 4759
+  },
+  "303": {
+    "numNodes": 9466,
+    "numEdges": 49242,
+    "averageInDegree": 5.201986055356011,
+    "averageOutDegree": 5.201986055356011,
+    "selfLinks": 38,
+    "removed": "Agent Carter (TV series)/Season One",
+    "averagePathLength": 4.794202353771169,
+    "sizeLargest": 4758
+  },
+  "304": {
+    "numNodes": 9465,
+    "numEdges": 49109,
+    "averageInDegree": 5.188483888008452,
+    "averageOutDegree": 5.188483888008452,
+    "selfLinks": 38,
+    "removed": "Thor (film)/Credits",
+    "averagePathLength": 4.794202353771169,
+    "sizeLargest": 4758
+  },
+  "305": {
+    "numNodes": 9464,
+    "numEdges": 48977,
+    "averageInDegree": 5.175084530853762,
+    "averageOutDegree": 5.175084530853762,
+    "selfLinks": 38,
+    "removed": "James Wesley",
+    "averagePathLength": 4.798986342565251,
+    "sizeLargest": 4755
+  },
+  "306": {
+    "numNodes": 9463,
+    "numEdges": 48845,
+    "averageInDegree": 5.161682341752087,
+    "averageOutDegree": 5.161682341752087,
+    "selfLinks": 38,
+    "removed": "Gamora",
+    "averagePathLength": 4.801256625025525,
+    "sizeLargest": 4754
+  },
+  "307": {
+    "numNodes": 9462,
+    "numEdges": 48714,
+    "averageInDegree": 5.148383005707038,
+    "averageOutDegree": 5.148383005707038,
+    "selfLinks": 38,
+    "removed": "A Cold Day in Hell's Kitchen",
+    "averagePathLength": 4.80458038589175,
+    "sizeLargest": 4748
+  },
+  "308": {
+    "numNodes": 9461,
+    "numEdges": 48583,
+    "averageInDegree": 5.135080858260226,
+    "averageOutDegree": 5.135080858260226,
+    "selfLinks": 38,
+    "removed": "List of S.H.I.E.L.D. Members",
+    "averagePathLength": 4.80458038589175,
+    "sizeLargest": 4748
+  },
+  "309": {
+    "numNodes": 9460,
+    "numEdges": 48453,
+    "averageInDegree": 5.121881606765328,
+    "averageOutDegree": 5.121881606765328,
+    "selfLinks": 38,
+    "removed": "Groot",
+    "averagePathLength": 4.810180815165338,
+    "sizeLargest": 4745
+  },
+  "310": {
+    "numNodes": 9459,
+    "numEdges": 48324,
+    "averageInDegree": 5.108785283856644,
+    "averageOutDegree": 5.108785283856644,
+    "selfLinks": 38,
+    "removed": "Robert Gonzales",
+    "averagePathLength": 4.812435347240396,
+    "sizeLargest": 4743
+  },
+  "311": {
+    "numNodes": 9458,
+    "numEdges": 48195,
+    "averageInDegree": 5.0956861915838445,
+    "averageOutDegree": 5.0956861915838445,
+    "selfLinks": 38,
+    "removed": "Soviet Union",
+    "averagePathLength": 4.821019840390453,
+    "sizeLargest": 4741
+  },
+  "312": {
+    "numNodes": 9457,
+    "numEdges": 48066,
+    "averageInDegree": 5.082584329068415,
+    "averageOutDegree": 5.082584329068415,
+    "selfLinks": 38,
+    "removed": "The Hub",
+    "averagePathLength": 4.825099549940831,
+    "sizeLargest": 4730
+  },
+  "313": {
+    "numNodes": 9456,
+    "numEdges": 47938,
+    "averageInDegree": 5.069585448392555,
+    "averageOutDegree": 5.069585448392555,
+    "selfLinks": 37,
+    "removed": "Italy",
+    "averagePathLength": 4.835623848260327,
+    "sizeLargest": 4726
+  },
+  "314": {
+    "numNodes": 9455,
+    "numEdges": 47810,
+    "averageInDegree": 5.056583818085669,
+    "averageOutDegree": 5.056583818085669,
+    "selfLinks": 37,
+    "removed": "AKA 1,000 Cuts",
+    "averagePathLength": 4.841911303335635,
+    "sizeLargest": 4719
+  },
+  "315": {
+    "numNodes": 9454,
+    "numEdges": 47682,
+    "averageInDegree": 5.043579437275228,
+    "averageOutDegree": 5.043579437275228,
+    "selfLinks": 37,
+    "removed": "Repairs",
+    "averagePathLength": 4.848000174492286,
+    "sizeLargest": 4716
+  },
+  "316": {
+    "numNodes": 9453,
+    "numEdges": 47554,
+    "averageInDegree": 5.030572305088332,
+    "averageOutDegree": 5.030572305088332,
+    "selfLinks": 37,
+    "removed": "Afghanistan",
+    "averagePathLength": 4.857466835653755,
+    "sizeLargest": 4714
+  },
+  "317": {
+    "numNodes": 9452,
+    "numEdges": 47427,
+    "averageInDegree": 5.017668218366484,
+    "averageOutDegree": 5.017668218366484,
+    "selfLinks": 37,
+    "removed": "Whitney Frost",
+    "averagePathLength": 4.8601438773671966,
+    "sizeLargest": 4702
+  },
+  "318": {
+    "numNodes": 9451,
+    "numEdges": 47301,
+    "averageInDegree": 5.004867209819067,
+    "averageOutDegree": 5.004867209819067,
+    "selfLinks": 37,
+    "removed": "Maveth (episode)",
+    "averagePathLength": 4.861449647674646,
+    "sizeLargest": 4699
+  },
+  "319": {
+    "numNodes": 9450,
+    "numEdges": 47175,
+    "averageInDegree": 4.992063492063492,
+    "averageOutDegree": 4.992063492063492,
+    "selfLinks": 37,
+    "removed": "AKA Smile",
+    "averagePathLength": 4.861892680702274,
+    "sizeLargest": 4687
+  },
+  "320": {
+    "numNodes": 9449,
+    "numEdges": 47049,
+    "averageInDegree": 4.979257064239602,
+    "averageOutDegree": 4.979257064239602,
+    "selfLinks": 37,
+    "removed": "War on HYDRA",
+    "averagePathLength": 4.866777840866111,
+    "sizeLargest": 4685
+  },
+  "321": {
+    "numNodes": 9448,
+    "numEdges": 46923,
+    "averageInDegree": 4.966447925486875,
+    "averageOutDegree": 4.966447925486875,
+    "selfLinks": 37,
+    "removed": "Ronan the Accuser",
+    "averagePathLength": 4.867601264008265,
+    "sizeLargest": 4683
+  },
+  "322": {
+    "numNodes": 9447,
+    "numEdges": 46798,
+    "averageInDegree": 4.953741928654599,
+    "averageOutDegree": 4.953741928654599,
+    "selfLinks": 37,
+    "removed": "Roger Dooley",
+    "averagePathLength": 4.870109375932287,
+    "sizeLargest": 4679
+  },
+  "323": {
+    "numNodes": 9446,
+    "numEdges": 46673,
+    "averageInDegree": 4.941033241583739,
+    "averageOutDegree": 4.941033241583739,
+    "selfLinks": 37,
+    "removed": "Matthew Ellis",
+    "averagePathLength": 4.87748081425637,
+    "sizeLargest": 4678
+  },
+  "324": {
+    "numNodes": 9445,
+    "numEdges": 46549,
+    "averageInDegree": 4.928427739544732,
+    "averageOutDegree": 4.928427739544732,
+    "selfLinks": 37,
+    "removed": "A Little Song and Dance",
+    "averagePathLength": 4.877066112468267,
+    "sizeLargest": 4661
+  },
+  "325": {
+    "numNodes": 9444,
+    "numEdges": 46425,
+    "averageInDegree": 4.9158195679796695,
+    "averageOutDegree": 4.9158195679796695,
+    "selfLinks": 37,
+    "removed": "Marvel Cinematic Universe Wiki:To-Do List",
+    "averagePathLength": 4.877066112468267,
+    "sizeLargest": 4661
+  },
+  "326": {
+    "numNodes": 9443,
+    "numEdges": 46301,
+    "averageInDegree": 4.903208726040453,
+    "averageOutDegree": 4.903208726040453,
+    "selfLinks": 37,
+    "removed": "Doctor Strange (film)/Credits",
+    "averagePathLength": 4.877066112468267,
+    "sizeLargest": 4661
+  },
+  "327": {
+    "numNodes": 9442,
+    "numEdges": 46178,
+    "averageInDegree": 4.890701122643508,
+    "averageOutDegree": 4.890701122643508,
+    "selfLinks": 37,
+    "removed": "Sunil Bakshi",
+    "averagePathLength": 4.885362393649654,
+    "sizeLargest": 4659
+  },
+  "328": {
+    "numNodes": 9441,
+    "numEdges": 46055,
+    "averageInDegree": 4.87819086961127,
+    "averageOutDegree": 4.87819086961127,
+    "selfLinks": 37,
+    "removed": "Eye-Spy",
+    "averagePathLength": 4.889911061446055,
+    "sizeLargest": 4647
+  },
+  "329": {
+    "numNodes": 9440,
+    "numEdges": 45932,
+    "averageInDegree": 4.865677966101695,
+    "averageOutDegree": 4.865677966101695,
+    "selfLinks": 37,
+    "removed": "Guardians of the Galaxy",
+    "averagePathLength": 4.892536515316716,
+    "sizeLargest": 4646
+  },
+  "330": {
+    "numNodes": 9439,
+    "numEdges": 45809,
+    "averageInDegree": 4.853162411272381,
+    "averageOutDegree": 4.853162411272381,
+    "selfLinks": 37,
+    "removed": "Arc Reactor",
+    "averagePathLength": 4.896281230037206,
+    "sizeLargest": 4645
+  },
+  "331": {
+    "numNodes": 9438,
+    "numEdges": 45687,
+    "averageInDegree": 4.840750158931977,
+    "averageOutDegree": 4.840750158931977,
+    "selfLinks": 37,
+    "removed": "Let Me Stand Next to Your Fire",
+    "averagePathLength": 4.899522667157049,
+    "sizeLargest": 4641
+  },
+  "332": {
+    "numNodes": 9437,
+    "numEdges": 45565,
+    "averageInDegree": 4.8283352760411145,
+    "averageOutDegree": 4.8283352760411145,
+    "selfLinks": 37,
+    "removed": "Absolution",
+    "averagePathLength": 4.903283575004677,
+    "sizeLargest": 4636
+  },
+  "333": {
+    "numNodes": 9436,
+    "numEdges": 45443,
+    "averageInDegree": 4.815917761763459,
+    "averageOutDegree": 4.815917761763459,
+    "selfLinks": 37,
+    "removed": "A View in the Dark",
+    "averagePathLength": 4.904473694385983,
+    "sizeLargest": 4628
+  },
+  "334": {
+    "numNodes": 9435,
+    "numEdges": 45321,
+    "averageInDegree": 4.803497615262321,
+    "averageOutDegree": 4.803497615262321,
+    "selfLinks": 37,
+    "removed": "Stick (episode)",
+    "averagePathLength": 4.910864943373998,
+    "sizeLargest": 4624
+  },
+  "335": {
+    "numNodes": 9434,
+    "numEdges": 45200,
+    "averageInDegree": 4.791180835276659,
+    "averageOutDegree": 4.791180835276659,
+    "selfLinks": 37,
+    "removed": "Hub (S.H.I.E.L.D. Facility)",
+    "averagePathLength": 4.915856007931337,
+    "sizeLargest": 4616
+  },
+  "336": {
+    "numNodes": 9433,
+    "numEdges": 45080,
+    "averageInDegree": 4.7789674546803775,
+    "averageOutDegree": 4.7789674546803775,
+    "selfLinks": 36,
+    "removed": "Iron Man (video game)",
+    "averagePathLength": 4.9260500004245,
+    "sizeLargest": 4605
+  },
+  "337": {
+    "numNodes": 9432,
+    "numEdges": 44960,
+    "averageInDegree": 4.766751484308736,
+    "averageOutDegree": 4.766751484308736,
+    "selfLinks": 36,
+    "removed": "The Good Samaritan",
+    "averagePathLength": 4.932387201882779,
+    "sizeLargest": 4602
+  },
+  "338": {
+    "numNodes": 9431,
+    "numEdges": 44840,
+    "averageInDegree": 4.754532923337928,
+    "averageOutDegree": 4.754532923337928,
+    "selfLinks": 36,
+    "removed": "Failed Experiments",
+    "averagePathLength": 4.936677017721802,
+    "sizeLargest": 4596
+  },
+  "339": {
+    "numNodes": 9430,
+    "numEdges": 44720,
+    "averageInDegree": 4.742311770943797,
+    "averageOutDegree": 4.742311770943797,
+    "selfLinks": 36,
+    "removed": "Metro-General Hospital",
+    "averagePathLength": 4.94126536189781,
+    "sizeLargest": 4584
+  },
+  "340": {
+    "numNodes": 9429,
+    "numEdges": 44600,
+    "averageInDegree": 4.730088026301835,
+    "averageOutDegree": 4.730088026301835,
+    "selfLinks": 36,
+    "removed": "Hank Pym",
+    "averagePathLength": 4.94776166548393,
+    "sizeLargest": 4575
+  },
+  "341": {
+    "numNodes": 9428,
+    "numEdges": 44480,
+    "averageInDegree": 4.717861688587187,
+    "averageOutDegree": 4.717861688587187,
+    "selfLinks": 36,
+    "removed": "Volstagg",
+    "averagePathLength": 4.95044924955122,
+    "sizeLargest": 4573
+  },
+  "342": {
+    "numNodes": 9427,
+    "numEdges": 44361,
+    "averageInDegree": 4.705738835260422,
+    "averageOutDegree": 4.705738835260422,
+    "selfLinks": 36,
+    "removed": "Girl in the Flower Dress",
+    "averagePathLength": 4.955615428859322,
+    "sizeLargest": 4567
+  },
+  "343": {
+    "numNodes": 9426,
+    "numEdges": 44242,
+    "averageInDegree": 4.693613409717802,
+    "averageOutDegree": 4.693613409717802,
+    "selfLinks": 36,
+    "removed": "Malibu",
+    "averagePathLength": 4.9622683067542255,
+    "sizeLargest": 4565
+  },
+  "344": {
+    "numNodes": 9425,
+    "numEdges": 44124,
+    "averageInDegree": 4.68159151193634,
+    "averageOutDegree": 4.68159151193634,
+    "selfLinks": 36,
+    "removed": "Who's Gonna Take the Weight?",
+    "averagePathLength": 4.95935548653449,
+    "sizeLargest": 4547
+  },
+  "345": {
+    "numNodes": 9424,
+    "numEdges": 44006,
+    "averageInDegree": 4.669567062818336,
+    "averageOutDegree": 4.669567062818336,
+    "selfLinks": 36,
+    "removed": "Semper Fidelis",
+    "averagePathLength": 4.959752335532731,
+    "sizeLargest": 4535
+  },
+  "346": {
+    "numNodes": 9423,
+    "numEdges": 43888,
+    "averageInDegree": 4.657540061551523,
+    "averageOutDegree": 4.657540061551523,
+    "selfLinks": 36,
+    "removed": "New York Bell Company Office",
+    "averagePathLength": 4.968761299163591,
+    "sizeLargest": 4533
+  },
+  "347": {
+    "numNodes": 9422,
+    "numEdges": 43770,
+    "averageInDegree": 4.645510507323286,
+    "averageOutDegree": 4.645510507323286,
+    "selfLinks": 36,
+    "removed": "Nine Realms",
+    "averagePathLength": 4.973035612470959,
+    "sizeLargest": 4532
+  },
+  "348": {
+    "numNodes": 9421,
+    "numEdges": 43653,
+    "averageInDegree": 4.633584545165057,
+    "averageOutDegree": 4.633584545165057,
+    "selfLinks": 36,
+    "removed": "Dum Dum Dugan",
+    "averagePathLength": 4.980208584657032,
+    "sizeLargest": 4530
+  },
+  "349": {
+    "numNodes": 9420,
+    "numEdges": 43537,
+    "averageInDegree": 4.62176220806794,
+    "averageOutDegree": 4.62176220806794,
+    "selfLinks": 36,
+    "removed": "The Atomic Job",
+    "averagePathLength": 4.981186909466737,
+    "sizeLargest": 4521
+  },
+  "350": {
+    "numNodes": 9419,
+    "numEdges": 43421,
+    "averageInDegree": 4.609937360653997,
+    "averageOutDegree": 4.609937360653997,
+    "selfLinks": 36,
+    "removed": "Closure",
+    "averagePathLength": 4.983484113872898,
+    "sizeLargest": 4518
+  },
+  "351": {
+    "numNodes": 9418,
+    "numEdges": 43305,
+    "averageInDegree": 4.598110002123593,
+    "averageOutDegree": 4.598110002123593,
+    "selfLinks": 36,
+    "removed": "Battle of Sokovia",
+    "averagePathLength": 4.988940951935734,
+    "sizeLargest": 4517
+  },
+  "352": {
+    "numNodes": 9417,
+    "numEdges": 43189,
+    "averageInDegree": 4.586280131676755,
+    "averageOutDegree": 4.586280131676755,
+    "selfLinks": 36,
+    "removed": "The Avengers Prelude: Black Widow Strikes",
+    "averagePathLength": 4.993660961695191,
+    "sizeLargest": 4500
+  },
+  "353": {
+    "numNodes": 9416,
+    "numEdges": 43074,
+    "averageInDegree": 4.574553950722175,
+    "averageOutDegree": 4.574553950722175,
+    "selfLinks": 36,
+    "removed": "The Dark at the End of the Tunnel",
+    "averagePathLength": 4.996444449724834,
+    "sizeLargest": 4495
+  },
+  "354": {
+    "numNodes": 9415,
+    "numEdges": 42959,
+    "averageInDegree": 4.562825278810409,
+    "averageOutDegree": 4.562825278810409,
+    "selfLinks": 36,
+    "removed": "A Wanted (Inhu)man",
+    "averagePathLength": 5.0018404326700185,
+    "sizeLargest": 4488
+  },
+  "355": {
+    "numNodes": 9414,
+    "numEdges": 42844,
+    "averageInDegree": 4.551094115147652,
+    "averageOutDegree": 4.551094115147652,
+    "selfLinks": 36,
+    "removed": "Orb",
+    "averagePathLength": 5.003426925115635,
+    "sizeLargest": 4485
+  },
+  "356": {
+    "numNodes": 9413,
+    "numEdges": 42729,
+    "averageInDegree": 4.539360458939764,
+    "averageOutDegree": 4.539360458939764,
+    "selfLinks": 36,
+    "removed": "Iron Legion",
+    "averagePathLength": 5.017269373068205,
+    "sizeLargest": 4484
+  },
+  "357": {
+    "numNodes": 9412,
+    "numEdges": 42615,
+    "averageInDegree": 4.527730556736081,
+    "averageOutDegree": 4.527730556736081,
+    "selfLinks": 36,
+    "removed": "Regrets Only",
+    "averagePathLength": 5.022364908992816,
+    "sizeLargest": 4473
+  },
+  "358": {
+    "numNodes": 9411,
+    "numEdges": 42501,
+    "averageInDegree": 4.516098182977367,
+    "averageOutDegree": 4.516098182977367,
+    "selfLinks": 36,
+    "removed": "AKA The Sandwich Saved Me",
+    "averagePathLength": 5.0289222487127985,
+    "sizeLargest": 4452
+  },
+  "359": {
+    "numNodes": 9410,
+    "numEdges": 42387,
+    "averageInDegree": 4.504463336875665,
+    "averageOutDegree": 4.504463336875665,
+    "selfLinks": 36,
+    "removed": "Claire Temple",
+    "averagePathLength": 5.035185528312032,
+    "sizeLargest": 4451
+  },
+  "360": {
+    "numNodes": 9409,
+    "numEdges": 42273,
+    "averageInDegree": 4.492826017642683,
+    "averageOutDegree": 4.492826017642683,
+    "selfLinks": 36,
+    "removed": "Alexander Pierce",
+    "averagePathLength": 5.040089422020628,
+    "sizeLargest": 4446
+  },
+  "361": {
+    "numNodes": 9408,
+    "numEdges": 42160,
+    "averageInDegree": 4.4812925170068025,
+    "averageOutDegree": 4.4812925170068025,
+    "selfLinks": 36,
+    "removed": "The Team",
+    "averagePathLength": 5.042365867241687,
+    "sizeLargest": 4444
+  },
+  "362": {
+    "numNodes": 9407,
+    "numEdges": 42047,
+    "averageInDegree": 4.469756564260657,
+    "averageOutDegree": 4.469756564260657,
+    "selfLinks": 36,
+    "removed": "Dogs to a Gunfight",
+    "averagePathLength": 5.04743822180451,
+    "sizeLargest": 4429
+  },
+  "363": {
+    "numNodes": 9406,
+    "numEdges": 41934,
+    "averageInDegree": 4.458218158622156,
+    "averageOutDegree": 4.458218158622156,
+    "selfLinks": 36,
+    "removed": "FZZT",
+    "averagePathLength": 5.054304018333011,
+    "sizeLargest": 4420
+  },
+  "364": {
+    "numNodes": 9405,
+    "numEdges": 41822,
+    "averageInDegree": 4.446783625730994,
+    "averageOutDegree": 4.446783625730994,
+    "selfLinks": 36,
+    "removed": "Ascension",
+    "averagePathLength": 5.059323503485084,
+    "sizeLargest": 4418
+  },
+  "365": {
+    "numNodes": 9404,
+    "numEdges": 41710,
+    "averageInDegree": 4.435346660995321,
+    "averageOutDegree": 4.435346660995321,
+    "selfLinks": 36,
+    "removed": "Victoria Hand",
+    "averagePathLength": 5.065697986935184,
+    "sizeLargest": 4416
+  },
+  "366": {
+    "numNodes": 9403,
+    "numEdges": 41599,
+    "averageInDegree": 4.424013612676806,
+    "averageOutDegree": 4.424013612676806,
+    "selfLinks": 36,
+    "removed": "Step in the Arena",
+    "averagePathLength": 5.068636551379318,
+    "sizeLargest": 4396
+  },
+  "367": {
+    "numNodes": 9402,
+    "numEdges": 41488,
+    "averageInDegree": 4.412678153584344,
+    "averageOutDegree": 4.412678153584344,
+    "selfLinks": 36,
+    "removed": "Terrigenesis",
+    "averagePathLength": 5.072381932152789,
+    "sizeLargest": 4394
+  },
+  "368": {
+    "numNodes": 9401,
+    "numEdges": 41378,
+    "averageInDegree": 4.401446654611211,
+    "averageOutDegree": 4.401446654611211,
+    "selfLinks": 36,
+    "removed": "Spacetime",
+    "averagePathLength": 5.077701863818662,
+    "sizeLargest": 4388
+  },
+  "369": {
+    "numNodes": 9400,
+    "numEdges": 41268,
+    "averageInDegree": 4.390212765957447,
+    "averageOutDegree": 4.390212765957447,
+    "selfLinks": 36,
+    "removed": "AKA Take a Bloody Number",
+    "averagePathLength": 5.079941132428384,
+    "sizeLargest": 4372
+  },
+  "370": {
+    "numNodes": 9399,
+    "numEdges": 41158,
+    "averageInDegree": 4.378976486860305,
+    "averageOutDegree": 4.378976486860305,
+    "selfLinks": 36,
+    "removed": "Avengers: Infinity War",
+    "averagePathLength": 5.0922254173198755,
+    "sizeLargest": 4368
+  },
+  "371": {
+    "numNodes": 9398,
+    "numEdges": 41049,
+    "averageInDegree": 4.367844222174931,
+    "averageOutDegree": 4.367844222174931,
+    "selfLinks": 36,
+    "removed": "Now You're Mine",
+    "averagePathLength": 5.089584511857621,
+    "sizeLargest": 4348
+  },
+  "372": {
+    "numNodes": 9397,
+    "numEdges": 40940,
+    "averageInDegree": 4.356709588166436,
+    "averageOutDegree": 4.356709588166436,
+    "selfLinks": 36,
+    "removed": "Suckas Need Bodyguards",
+    "averagePathLength": 5.090692042513795,
+    "sizeLargest": 4334
+  },
+  "373": {
+    "numNodes": 9396,
+    "numEdges": 40831,
+    "averageInDegree": 4.345572584078331,
+    "averageOutDegree": 4.345572584078331,
+    "selfLinks": 36,
+    "removed": "2000s",
+    "averagePathLength": 5.101955175949206,
+    "sizeLargest": 4332
+  },
+  "374": {
+    "numNodes": 9395,
+    "numEdges": 40723,
+    "averageInDegree": 4.334539648749335,
+    "averageOutDegree": 4.334539648749335,
+    "selfLinks": 36,
+    "removed": "DWYCK",
+    "averagePathLength": 5.104028934468832,
+    "sizeLargest": 4317
+  },
+  "375": {
+    "numNodes": 9394,
+    "numEdges": 40615,
+    "averageInDegree": 4.323504364487971,
+    "averageOutDegree": 4.323504364487971,
+    "selfLinks": 36,
+    "removed": "Guilty as Sin",
+    "averagePathLength": 5.108061754940438,
+    "sizeLargest": 4305
+  },
+  "376": {
+    "numNodes": 9393,
+    "numEdges": 40507,
+    "averageInDegree": 4.312466730544022,
+    "averageOutDegree": 4.312466730544022,
+    "selfLinks": 36,
+    "removed": "New York's Finest",
+    "averagePathLength": 5.1096921740090195,
+    "sizeLargest": 4287
+  },
+  "377": {
+    "numNodes": 9392,
+    "numEdges": 40399,
+    "averageInDegree": 4.301426746166951,
+    "averageOutDegree": 4.301426746166951,
+    "selfLinks": 36,
+    "removed": "Diviner",
+    "averagePathLength": 5.118255711463894,
+    "sizeLargest": 4285
+  },
+  "378": {
+    "numNodes": 9391,
+    "numEdges": 40291,
+    "averageInDegree": 4.290384410605899,
+    "averageOutDegree": 4.290384410605899,
+    "selfLinks": 36,
+    "removed": "Triskelion",
+    "averagePathLength": 5.124931964929182,
+    "sizeLargest": 4283
+  },
+  "379": {
+    "numNodes": 9390,
+    "numEdges": 40183,
+    "averageInDegree": 4.2793397231096915,
+    "averageOutDegree": 4.2793397231096915,
+    "selfLinks": 36,
+    "removed": "Heimdall",
+    "averagePathLength": 5.127577461375737,
+    "sizeLargest": 4281
+  },
+  "380": {
+    "numNodes": 9389,
+    "numEdges": 40076,
+    "averageInDegree": 4.268399190542124,
+    "averageOutDegree": 4.268399190542124,
+    "selfLinks": 36,
+    "removed": "Watchdogs (episode)",
+    "averagePathLength": 5.136062260678059,
+    "sizeLargest": 4278
+  },
+  "381": {
+    "numNodes": 9388,
+    "numEdges": 39969,
+    "averageInDegree": 4.2574563272262465,
+    "averageOutDegree": 4.2574563272262465,
+    "selfLinks": 36,
+    "removed": "Bucky Barnes",
+    "averagePathLength": 5.136062260678059,
+    "sizeLargest": 4278
+  },
+  "382": {
+    "numNodes": 9387,
+    "numEdges": 39863,
+    "averageInDegree": 4.246617662725045,
+    "averageOutDegree": 4.246617662725045,
+    "selfLinks": 36,
+    "removed": "Iron Man 2: Public Identity",
+    "averagePathLength": 5.143596128127336,
+    "sizeLargest": 4271
+  },
+  "383": {
+    "numNodes": 9386,
+    "numEdges": 39757,
+    "averageInDegree": 4.235776688685276,
+    "averageOutDegree": 4.235776688685276,
+    "selfLinks": 36,
+    "removed": "Erik Selvig",
+    "averagePathLength": 5.149591999864764,
+    "sizeLargest": 4269
+  },
+  "384": {
+    "numNodes": 9385,
+    "numEdges": 39652,
+    "averageInDegree": 4.225039957378796,
+    "averageOutDegree": 4.225039957378796,
+    "selfLinks": 36,
+    "removed": "Trevor Slattery",
+    "averagePathLength": 5.155401364569151,
+    "sizeLargest": 4265
+  },
+  "385": {
+    "numNodes": 9384,
+    "numEdges": 39548,
+    "averageInDegree": 4.214407502131287,
+    "averageOutDegree": 4.214407502131287,
+    "selfLinks": 36,
+    "removed": "Doctor Strange",
+    "averagePathLength": 5.164555092943195,
+    "sizeLargest": 4260
+  },
+  "386": {
+    "numNodes": 9383,
+    "numEdges": 39444,
+    "averageInDegree": 4.2037727805605885,
+    "averageOutDegree": 4.2037727805605885,
+    "selfLinks": 36,
+    "removed": "Super Soldier Serum",
+    "averagePathLength": 5.168016206610686,
+    "sizeLargest": 4259
+  },
+  "387": {
+    "numNodes": 9382,
+    "numEdges": 39341,
+    "averageInDegree": 4.193242379023662,
+    "averageOutDegree": 4.193242379023662,
+    "selfLinks": 36,
+    "removed": "Matt Murdock",
+    "averagePathLength": 5.168016206610686,
+    "sizeLargest": 4259
+  },
+  "388": {
+    "numNodes": 9381,
+    "numEdges": 39238,
+    "averageInDegree": 4.182709732437907,
+    "averageOutDegree": 4.182709732437907,
+    "selfLinks": 36,
+    "removed": "China",
+    "averagePathLength": 5.182477610165027,
+    "sizeLargest": 4258
+  },
+  "389": {
+    "numNodes": 9380,
+    "numEdges": 39135,
+    "averageInDegree": 4.172174840085288,
+    "averageOutDegree": 4.172174840085288,
+    "selfLinks": 36,
+    "removed": "Iron Man: I Am Iron Man!",
+    "averagePathLength": 5.185063090683328,
+    "sizeLargest": 4252
+  },
+  "390": {
+    "numNodes": 9379,
+    "numEdges": 39033,
+    "averageInDegree": 4.161744322422433,
+    "averageOutDegree": 4.161744322422433,
+    "selfLinks": 36,
+    "removed": "Captain America: Civil War Prelude",
+    "averagePathLength": 5.191385045616269,
+    "sizeLargest": 4250
+  },
+  "391": {
+    "numNodes": 9378,
+    "numEdges": 38931,
+    "averageInDegree": 4.151311580294306,
+    "averageOutDegree": 4.151311580294306,
+    "selfLinks": 36,
+    "removed": "Marvel One-Shot: All Hail the King",
+    "averagePathLength": 5.202463395978414,
+    "sizeLargest": 4245
+  },
+  "392": {
+    "numNodes": 9377,
+    "numEdges": 38829,
+    "averageInDegree": 4.140876612989229,
+    "averageOutDegree": 4.140876612989229,
+    "selfLinks": 36,
+    "removed": "Vision",
+    "averagePathLength": 5.207244709532116,
+    "sizeLargest": 4244
+  },
+  "393": {
+    "numNodes": 9376,
+    "numEdges": 38727,
+    "averageInDegree": 4.130439419795222,
+    "averageOutDegree": 4.130439419795222,
+    "selfLinks": 36,
+    "removed": "Thanos",
+    "averagePathLength": 5.214557176737168,
+    "sizeLargest": 4243
+  },
+  "394": {
+    "numNodes": 9375,
+    "numEdges": 38625,
+    "averageInDegree": 4.12,
+    "averageOutDegree": 4.12,
+    "selfLinks": 36,
+    "removed": "Abraham Erskine",
+    "averagePathLength": 5.221193882272337,
+    "sizeLargest": 4241
+  },
+  "395": {
+    "numNodes": 9374,
+    "numEdges": 38525,
+    "averageInDegree": 4.109771708982292,
+    "averageOutDegree": 4.109771708982292,
+    "selfLinks": 36,
+    "removed": "Jiaying",
+    "averagePathLength": 5.225424511105685,
+    "sizeLargest": 4236
+  },
+  "396": {
+    "numNodes": 9373,
+    "numEdges": 38426,
+    "averageInDegree": 4.099647924890643,
+    "averageOutDegree": 4.099647924890643,
+    "selfLinks": 36,
+    "removed": "Symbols/Gallery",
+    "averagePathLength": 5.225424511105685,
+    "sizeLargest": 4236
+  },
+  "397": {
+    "numNodes": 9372,
+    "numEdges": 38327,
+    "averageInDegree": 4.089521980367051,
+    "averageOutDegree": 4.089521980367051,
+    "selfLinks": 36,
+    "removed": "Spider-Man: Homecoming/Credits",
+    "averagePathLength": 5.225424511105685,
+    "sizeLargest": 4236
+  },
+  "398": {
+    "numNodes": 9371,
+    "numEdges": 38229,
+    "averageInDegree": 4.079500586917085,
+    "averageOutDegree": 4.079500586917085,
+    "selfLinks": 35,
+    "removed": "Fridge",
+    "averagePathLength": 5.232028794840664,
+    "sizeLargest": 4235
+  },
+  "399": {
+    "numNodes": 9370,
+    "numEdges": 38130,
+    "averageInDegree": 4.069370330843117,
+    "averageOutDegree": 4.069370330843117,
+    "selfLinks": 35,
+    "removed": "Joss Whedon",
+    "averagePathLength": 5.239566906499146,
+    "sizeLargest": 4227
+  },
+  "400": {
+    "numNodes": 9369,
+    "numEdges": 38032,
+    "averageInDegree": 4.059344647240901,
+    "averageOutDegree": 4.059344647240901,
+    "selfLinks": 35,
+    "removed": "Ghost Rider",
+    "averagePathLength": 5.24513709701879,
+    "sizeLargest": 4220
+  },
+  "401": {
+    "numNodes": 9368,
+    "numEdges": 37934,
+    "averageInDegree": 4.04931682322801,
+    "averageOutDegree": 4.04931682322801,
+    "selfLinks": 35,
+    "removed": "WHiH World News",
+    "averagePathLength": 5.267387277248681,
+    "sizeLargest": 4219
+  },
+  "402": {
+    "numNodes": 9367,
+    "numEdges": 37836,
+    "averageInDegree": 4.0392868581189285,
+    "averageOutDegree": 4.0392868581189285,
+    "selfLinks": 35,
+    "removed": "Virginia",
+    "averagePathLength": 5.2741240839126355,
+    "sizeLargest": 4217
+  },
+  "403": {
+    "numNodes": 9366,
+    "numEdges": 37738,
+    "averageInDegree": 4.029254751227845,
+    "averageOutDegree": 4.029254751227845,
+    "selfLinks": 35,
+    "removed": "Fandral",
+    "averagePathLength": 5.277330099465094,
+    "sizeLargest": 4215
+  },
+  "404": {
+    "numNodes": 9365,
+    "numEdges": 37641,
+    "averageInDegree": 4.019327282434597,
+    "averageOutDegree": 4.019327282434597,
+    "selfLinks": 35,
+    "removed": "Agent 33",
+    "averagePathLength": 5.2881475448026345,
+    "sizeLargest": 4211
+  },
+  "405": {
+    "numNodes": 9364,
+    "numEdges": 37544,
+    "averageInDegree": 4.009397693293464,
+    "averageOutDegree": 4.009397693293464,
+    "selfLinks": 35,
+    "removed": "Kingpin",
+    "averagePathLength": 5.292662990571612,
+    "sizeLargest": 4210
+  },
+  "406": {
+    "numNodes": 9363,
+    "numEdges": 37447,
+    "averageInDegree": 3.999465983125067,
+    "averageOutDegree": 3.999465983125067,
+    "selfLinks": 35,
+    "removed": "Drax the Destroyer",
+    "averagePathLength": 5.296018139276285,
+    "sizeLargest": 4207
+  },
+  "407": {
+    "numNodes": 9362,
+    "numEdges": 37351,
+    "averageInDegree": 3.989638966032899,
+    "averageOutDegree": 3.989638966032899,
+    "selfLinks": 35,
+    "removed": "Life of the Party",
+    "averagePathLength": 5.299434199095249,
+    "sizeLargest": 4199
+  },
+  "408": {
+    "numNodes": 9361,
+    "numEdges": 37255,
+    "averageInDegree": 3.9798098493750667,
+    "averageOutDegree": 3.9798098493750667,
+    "selfLinks": 35,
+    "removed": "Helmut Zemo",
+    "averagePathLength": 5.305332602864682,
+    "sizeLargest": 4197
+  },
+  "409": {
+    "numNodes": 9360,
+    "numEdges": 37160,
+    "averageInDegree": 3.97008547008547,
+    "averageOutDegree": 3.97008547008547,
+    "selfLinks": 34,
+    "removed": "Stark Expo",
+    "averagePathLength": 5.319899305094095,
+    "sizeLargest": 4193
+  },
+  "410": {
+    "numNodes": 9359,
+    "numEdges": 37065,
+    "averageInDegree": 3.960359012715034,
+    "averageOutDegree": 3.960359012715034,
+    "selfLinks": 34,
+    "removed": "Cottonmouth",
+    "averagePathLength": 5.325020754087603,
+    "sizeLargest": 4189
+  },
+  "411": {
+    "numNodes": 9358,
+    "numEdges": 36970,
+    "averageInDegree": 3.9506304765975635,
+    "averageOutDegree": 3.9506304765975635,
+    "selfLinks": 34,
+    "removed": "Agents of S.H.I.E.L.D./Quote",
+    "averagePathLength": 5.325020754087603,
+    "sizeLargest": 4189
+  },
+  "412": {
+    "numNodes": 9357,
+    "numEdges": 36876,
+    "averageInDegree": 3.9410067329272205,
+    "averageOutDegree": 3.9410067329272205,
+    "selfLinks": 34,
+    "removed": "Guardians of the Galaxy Vol. 2/Credits",
+    "averagePathLength": 5.325020754087603,
+    "sizeLargest": 4189
+  },
+  "413": {
+    "numNodes": 9356,
+    "numEdges": 36782,
+    "averageInDegree": 3.9313809320222317,
+    "averageOutDegree": 3.9313809320222317,
+    "selfLinks": 34,
+    "removed": "Extremis",
+    "averagePathLength": 5.331455994008588,
+    "sizeLargest": 4186
+  },
+  "414": {
+    "numNodes": 9355,
+    "numEdges": 36689,
+    "averageInDegree": 3.9218599679315873,
+    "averageOutDegree": 3.9218599679315873,
+    "selfLinks": 34,
+    "removed": "Avengers Civil War",
+    "averagePathLength": 5.337389520526509,
+    "sizeLargest": 4185
+  },
+  "415": {
+    "numNodes": 9354,
+    "numEdges": 36596,
+    "averageInDegree": 3.9123369681419713,
+    "averageOutDegree": 3.9123369681419713,
+    "selfLinks": 34,
+    "removed": "Giyera",
+    "averagePathLength": 5.344988842595296,
+    "sizeLargest": 4180
+  },
+  "416": {
+    "numNodes": 9353,
+    "numEdges": 36503,
+    "averageInDegree": 3.9028119320004278,
+    "averageOutDegree": 3.9028119320004278,
+    "selfLinks": 34,
+    "removed": "Words of Creation",
+    "averagePathLength": 5.350034604463363,
+    "sizeLargest": 4178
+  },
+  "417": {
+    "numNodes": 9352,
+    "numEdges": 36410,
+    "averageInDegree": 3.893284858853721,
+    "averageOutDegree": 3.893284858853721,
+    "selfLinks": 34,
+    "removed": "Daredevil (TV series)/Trivia",
+    "averagePathLength": 5.350034604463363,
+    "sizeLargest": 4178
+  },
+  "418": {
+    "numNodes": 9351,
+    "numEdges": 36318,
+    "averageInDegree": 3.883862688482515,
+    "averageOutDegree": 3.883862688482515,
+    "selfLinks": 34,
+    "removed": "Hollywood Ending",
+    "averagePathLength": 5.357021833045794,
+    "sizeLargest": 4173
+  },
+  "419": {
+    "numNodes": 9350,
+    "numEdges": 36226,
+    "averageInDegree": 3.874438502673797,
+    "averageOutDegree": 3.874438502673797,
+    "selfLinks": 34,
+    "removed": "The Edge of Mystery",
+    "averagePathLength": 5.360418733023694,
+    "sizeLargest": 4166
+  },
+  "420": {
+    "numNodes": 9349,
+    "numEdges": 36134,
+    "averageInDegree": 3.8650123007808324,
+    "averageOutDegree": 3.8650123007808324,
+    "selfLinks": 34,
+    "removed": "Cybertek",
+    "averagePathLength": 5.367285690985193,
+    "sizeLargest": 4163
+  },
+  "421": {
+    "numNodes": 9348,
+    "numEdges": 36042,
+    "averageInDegree": 3.855584082156611,
+    "averageOutDegree": 3.855584082156611,
+    "selfLinks": 34,
+    "removed": "Iron Man 3 Prelude",
+    "averagePathLength": 5.372169929755888,
+    "sizeLargest": 4159
+  },
+  "422": {
+    "numNodes": 9347,
+    "numEdges": 35950,
+    "averageInDegree": 3.8461538461538463,
+    "averageOutDegree": 3.8461538461538463,
+    "selfLinks": 34,
+    "removed": "Black Panther",
+    "averagePathLength": 5.377543958048553,
+    "sizeLargest": 4154
+  },
+  "423": {
+    "numNodes": 9346,
+    "numEdges": 35859,
+    "averageInDegree": 3.836828589771025,
+    "averageOutDegree": 3.836828589771025,
+    "selfLinks": 34,
+    "removed": "Blowin' Up the Spot",
+    "averagePathLength": 5.381682695021347,
+    "sizeLargest": 4146
+  },
+  "424": {
+    "numNodes": 9345,
+    "numEdges": 35769,
+    "averageInDegree": 3.82760834670947,
+    "averageOutDegree": 3.82760834670947,
+    "selfLinks": 33,
+    "removed": "Ancient One",
+    "averagePathLength": 5.386629585742818,
+    "sizeLargest": 4143
+  },
+  "425": {
+    "numNodes": 9344,
+    "numEdges": 35678,
+    "averageInDegree": 3.818279109589041,
+    "averageOutDegree": 3.818279109589041,
+    "selfLinks": 33,
+    "removed": "The Defenders",
+    "averagePathLength": 5.394192263192432,
+    "sizeLargest": 4130
+  },
+  "426": {
+    "numNodes": 9343,
+    "numEdges": 35587,
+    "averageInDegree": 3.808947875414749,
+    "averageOutDegree": 3.808947875414749,
+    "selfLinks": 33,
+    "removed": "Marvel One-Shot: Agent Carter",
+    "averagePathLength": 5.415471400589737,
+    "sizeLargest": 4120
+  },
+  "427": {
+    "numNodes": 9342,
+    "numEdges": 35496,
+    "averageInDegree": 3.7996146435452793,
+    "averageOutDegree": 3.7996146435452793,
+    "selfLinks": 33,
+    "removed": "Scepter",
+    "averagePathLength": 5.419119761641906,
+    "sizeLargest": 4119
+  },
+  "428": {
+    "numNodes": 9341,
+    "numEdges": 35406,
+    "averageInDegree": 3.7903864682582165,
+    "averageOutDegree": 3.7903864682582165,
+    "selfLinks": 33,
+    "removed": "Nelson and Murdock",
+    "averagePathLength": 5.42297154213874,
+    "sizeLargest": 4111
+  },
+  "429": {
+    "numNodes": 9340,
+    "numEdges": 35317,
+    "averageInDegree": 3.7812633832976443,
+    "averageOutDegree": 3.7812633832976443,
+    "selfLinks": 33,
+    "removed": "Monsters",
+    "averagePathLength": 5.427504059093261,
+    "sizeLargest": 4101
+  },
+  "430": {
+    "numNodes": 9339,
+    "numEdges": 35228,
+    "averageInDegree": 3.7721383445765073,
+    "averageOutDegree": 3.7721383445765073,
+    "selfLinks": 33,
+    "removed": "Rosalind Price",
+    "averagePathLength": 5.433920464849885,
+    "sizeLargest": 4092
+  },
+  "431": {
+    "numNodes": 9338,
+    "numEdges": 35140,
+    "averageInDegree": 3.76311844077961,
+    "averageOutDegree": 3.76311844077961,
+    "selfLinks": 33,
+    "removed": "Gordon",
+    "averagePathLength": 5.437032477099635,
+    "sizeLargest": 4085
+  },
+  "432": {
+    "numNodes": 9337,
+    "numEdges": 35052,
+    "averageInDegree": 3.754096604905216,
+    "averageOutDegree": 3.754096604905216,
+    "selfLinks": 33,
+    "removed": "Canada",
+    "averagePathLength": 5.449002046342892,
+    "sizeLargest": 4083
+  },
+  "433": {
+    "numNodes": 9336,
+    "numEdges": 34964,
+    "averageInDegree": 3.7450728363324766,
+    "averageOutDegree": 3.7450728363324766,
+    "selfLinks": 33,
+    "removed": "List of Post-credits Scenes",
+    "averagePathLength": 5.475336404972266,
+    "sizeLargest": 4082
+  },
+  "434": {
+    "numNodes": 9335,
+    "numEdges": 34876,
+    "averageInDegree": 3.7360471344402786,
+    "averageOutDegree": 3.7360471344402786,
+    "selfLinks": 33,
+    "removed": "Guardians of the Galaxy Prelude",
+    "averagePathLength": 5.48211258908812,
+    "sizeLargest": 4074
+  },
+  "435": {
+    "numNodes": 9334,
+    "numEdges": 34788,
+    "averageInDegree": 3.7270194986072425,
+    "averageOutDegree": 3.7270194986072425,
+    "selfLinks": 33,
+    "removed": "Johann Schmidt",
+    "averagePathLength": 5.48211258908812,
+    "sizeLargest": 4074
+  },
+  "436": {
+    "numNodes": 9333,
+    "numEdges": 34700,
+    "averageInDegree": 3.717989928211722,
+    "averageOutDegree": 3.717989928211722,
+    "selfLinks": 33,
+    "removed": "Dark Elves",
+    "averagePathLength": 5.486418201192102,
+    "sizeLargest": 4072
+  },
+  "437": {
+    "numNodes": 9332,
+    "numEdges": 34612,
+    "averageInDegree": 3.7089584226318046,
+    "averageOutDegree": 3.7089584226318046,
+    "selfLinks": 33,
+    "removed": "A.I.M.",
+    "averagePathLength": 5.493310480211439,
+    "sizeLargest": 4070
+  },
+  "438": {
+    "numNodes": 9331,
+    "numEdges": 34525,
+    "averageInDegree": 3.7000321508948666,
+    "averageOutDegree": 3.7000321508948666,
+    "selfLinks": 33,
+    "removed": "Advanced Threat Containment Unit",
+    "averagePathLength": 5.500971264974629,
+    "sizeLargest": 4060
+  },
+  "439": {
+    "numNodes": 9330,
+    "numEdges": 34440,
+    "averageInDegree": 3.6913183279742765,
+    "averageOutDegree": 3.6913183279742765,
+    "selfLinks": 33,
+    "removed": "Bifrost Bridge",
+    "averagePathLength": 5.506761893417581,
+    "sizeLargest": 4059
+  },
+  "440": {
+    "numNodes": 9329,
+    "numEdges": 34355,
+    "averageInDegree": 3.6826026369385785,
+    "averageOutDegree": 3.6826026369385785,
+    "selfLinks": 33,
+    "removed": "Justin Hammer",
+    "averagePathLength": 5.511303744217595,
+    "sizeLargest": 4058
+  },
+  "441": {
+    "numNodes": 9328,
+    "numEdges": 34271,
+    "averageInDegree": 3.673992281303602,
+    "averageOutDegree": 3.673992281303602,
+    "selfLinks": 33,
+    "removed": "Trish Walker",
+    "averagePathLength": 5.519497147596267,
+    "sizeLargest": 4050
+  },
+  "442": {
+    "numNodes": 9327,
+    "numEdges": 34187,
+    "averageInDegree": 3.6653800793395517,
+    "averageOutDegree": 3.6653800793395517,
+    "selfLinks": 33,
+    "removed": "Ben Urich",
+    "averagePathLength": 5.5287133225118685,
+    "sizeLargest": 4048
+  },
+  "443": {
+    "numNodes": 9326,
+    "numEdges": 34103,
+    "averageInDegree": 3.6567660304524985,
+    "averageOutDegree": 3.6567660304524985,
+    "selfLinks": 33,
+    "removed": "Miami",
+    "averagePathLength": 5.547437900485578,
+    "sizeLargest": 4046
+  },
+  "444": {
+    "numNodes": 9325,
+    "numEdges": 34019,
+    "averageInDegree": 3.648150134048257,
+    "averageOutDegree": 3.648150134048257,
+    "selfLinks": 33,
+    "removed": "Africa",
+    "averagePathLength": 5.556659897925369,
+    "sizeLargest": 4038
+  },
+  "445": {
+    "numNodes": 9324,
+    "numEdges": 33936,
+    "averageInDegree": 3.6396396396396398,
+    "averageOutDegree": 3.6396396396396398,
+    "selfLinks": 33,
+    "removed": "Felix Blake",
+    "averagePathLength": 5.569135336013157,
+    "sizeLargest": 4035
+  },
+  "446": {
+    "numNodes": 9323,
+    "numEdges": 33854,
+    "averageInDegree": 3.6312345811434086,
+    "averageOutDegree": 3.6312345811434086,
+    "selfLinks": 33,
+    "removed": "Kaecilius",
+    "averagePathLength": 5.571967005963813,
+    "sizeLargest": 4034
+  },
+  "447": {
+    "numNodes": 9322,
+    "numEdges": 33772,
+    "averageInDegree": 3.622827719373525,
+    "averageOutDegree": 3.622827719373525,
+    "selfLinks": 33,
+    "removed": "Leviathan",
+    "averagePathLength": 5.57640746086847,
+    "sizeLargest": 4033
+  },
+  "448": {
+    "numNodes": 9321,
+    "numEdges": 33691,
+    "averageInDegree": 3.6145263383757107,
+    "averageOutDegree": 3.6145263383757107,
+    "selfLinks": 32,
+    "removed": "Before 20th Century",
+    "averagePathLength": 5.591962661581182,
+    "sizeLargest": 4031
+  },
+  "449": {
+    "numNodes": 9320,
+    "numEdges": 33609,
+    "averageInDegree": 3.606115879828326,
+    "averageOutDegree": 3.606115879828326,
+    "selfLinks": 32,
+    "removed": "I.C.E.R.",
+    "averagePathLength": 5.598640255172333,
+    "sizeLargest": 4030
+  },
+  "450": {
+    "numNodes": 9319,
+    "numEdges": 33528,
+    "averageInDegree": 3.5978109239188756,
+    "averageOutDegree": 3.5978109239188756,
+    "selfLinks": 31,
+    "removed": "Austria",
+    "averagePathLength": 5.605466992901267,
+    "sizeLargest": 4029
+  },
+  "451": {
+    "numNodes": 9318,
+    "numEdges": 33447,
+    "averageInDegree": 3.589504185447521,
+    "averageOutDegree": 3.589504185447521,
+    "selfLinks": 31,
+    "removed": "Turk Barrett",
+    "averagePathLength": 5.618892581878085,
+    "sizeLargest": 4027
+  },
+  "452": {
+    "numNodes": 9317,
+    "numEdges": 33367,
+    "averageInDegree": 3.581302994526135,
+    "averageOutDegree": 3.581302994526135,
+    "selfLinks": 31,
+    "removed": "Black Panther (film)",
+    "averagePathLength": 5.623092026307606,
+    "sizeLargest": 4003
+  },
+  "453": {
+    "numNodes": 9316,
+    "numEdges": 33287,
+    "averageInDegree": 3.5731000429368827,
+    "averageOutDegree": 3.5731000429368827,
+    "selfLinks": 31,
+    "removed": "Mojave Desert",
+    "averagePathLength": 5.630235994224832,
+    "sizeLargest": 4002
+  },
+  "454": {
+    "numNodes": 9315,
+    "numEdges": 33208,
+    "averageInDegree": 3.5650026838432636,
+    "averageOutDegree": 3.5650026838432636,
+    "selfLinks": 31,
+    "removed": "Index",
+    "averagePathLength": 5.636109347663084,
+    "sizeLargest": 4001
+  },
+  "455": {
+    "numNodes": 9314,
+    "numEdges": 33129,
+    "averageInDegree": 3.5569035859995703,
+    "averageOutDegree": 3.5569035859995703,
+    "selfLinks": 31,
+    "removed": "Abomination",
+    "averagePathLength": 5.647355010752559,
+    "sizeLargest": 3997
+  },
+  "456": {
+    "numNodes": 9313,
+    "numEdges": 33051,
+    "averageInDegree": 3.5489101256308384,
+    "averageOutDegree": 3.5489101256308384,
+    "selfLinks": 31,
+    "removed": "Sokovia",
+    "averagePathLength": 5.651516472667912,
+    "sizeLargest": 3996
+  },
+  "457": {
+    "numNodes": 9312,
+    "numEdges": 32973,
+    "averageInDegree": 3.5409149484536084,
+    "averageOutDegree": 3.5409149484536084,
+    "selfLinks": 31,
+    "removed": "Malekith",
+    "averagePathLength": 5.653701226055217,
+    "sizeLargest": 3992
+  },
+  "458": {
+    "numNodes": 9311,
+    "numEdges": 32896,
+    "averageInDegree": 3.5330254537643646,
+    "averageOutDegree": 3.5330254537643646,
+    "selfLinks": 31,
+    "removed": "Yondu Udonta",
+    "averagePathLength": 5.6576944366431245,
+    "sizeLargest": 3990
+  },
+  "459": {
+    "numNodes": 9310,
+    "numEdges": 32820,
+    "averageInDegree": 3.5252416756176155,
+    "averageOutDegree": 3.5252416756176155,
+    "selfLinks": 30,
+    "removed": "Norway",
+    "averagePathLength": 5.665687775283735,
+    "sizeLargest": 3989
+  },
+  "460": {
+    "numNodes": 9309,
+    "numEdges": 32744,
+    "averageInDegree": 3.517456225158449,
+    "averageOutDegree": 3.517456225158449,
+    "selfLinks": 30,
+    "removed": "Iron Fist (TV series)/Credits",
+    "averagePathLength": 5.665687775283735,
+    "sizeLargest": 3989
+  },
+  "461": {
+    "numNodes": 9308,
+    "numEdges": 32668,
+    "averageInDegree": 3.509669101847873,
+    "averageOutDegree": 3.509669101847873,
+    "selfLinks": 30,
+    "removed": "1990s",
+    "averagePathLength": 5.704007495272373,
+    "sizeLargest": 3988
+  },
+  "462": {
+    "numNodes": 9307,
+    "numEdges": 32592,
+    "averageInDegree": 3.501880305146664,
+    "averageOutDegree": 3.501880305146664,
+    "selfLinks": 30,
+    "removed": "Happy Hogan",
+    "averagePathLength": 5.719232827814331,
+    "sizeLargest": 3987
+  },
+  "463": {
+    "numNodes": 9306,
+    "numEdges": 32518,
+    "averageInDegree": 3.4943047496238986,
+    "averageOutDegree": 3.4943047496238986,
+    "selfLinks": 30,
+    "removed": "Monolith",
+    "averagePathLength": 5.727554911449798,
+    "sizeLargest": 3986
+  },
+  "464": {
+    "numNodes": 9305,
+    "numEdges": 32444,
+    "averageInDegree": 3.4867275658248253,
+    "averageOutDegree": 3.4867275658248253,
+    "selfLinks": 30,
+    "removed": "Vladimir Ranskahov",
+    "averagePathLength": 5.7358487426986375,
+    "sizeLargest": 3984
+  },
+  "465": {
+    "numNodes": 9304,
+    "numEdges": 32371,
+    "averageInDegree": 3.479256233877902,
+    "averageOutDegree": 3.479256233877902,
+    "selfLinks": 29,
+    "removed": "Agents of S.H.I.E.L.D.: Double Agent",
+    "averagePathLength": 5.742063803813116,
+    "sizeLargest": 3983
+  },
+  "466": {
+    "numNodes": 9303,
+    "numEdges": 32297,
+    "averageInDegree": 3.471675803504246,
+    "averageOutDegree": 3.471675803504246,
+    "selfLinks": 29,
+    "removed": "The Art of Guardians of the Galaxy",
+    "averagePathLength": 5.743340382660046,
+    "sizeLargest": 3979
+  },
+  "467": {
+    "numNodes": 9302,
+    "numEdges": 32224,
+    "averageInDegree": 3.4642012470436465,
+    "averageOutDegree": 3.4642012470436465,
+    "selfLinks": 28,
+    "removed": "New Jersey",
+    "averagePathLength": 5.758059402223185,
+    "sizeLargest": 3974
+  },
+  "468": {
+    "numNodes": 9301,
+    "numEdges": 32151,
+    "averageInDegree": 3.4567250833243737,
+    "averageOutDegree": 3.4567250833243737,
+    "selfLinks": 28,
+    "removed": "Johann Fennhoff",
+    "averagePathLength": 5.7626151002829795,
+    "sizeLargest": 3968
+  },
+  "469": {
+    "numNodes": 9300,
+    "numEdges": 32078,
+    "averageInDegree": 3.449247311827957,
+    "averageOutDegree": 3.449247311827957,
+    "selfLinks": 28,
+    "removed": "Frost Giants",
+    "averagePathLength": 5.767027167271696,
+    "sizeLargest": 3967
+  },
+  "470": {
+    "numNodes": 9299,
+    "numEdges": 32006,
+    "averageInDegree": 3.4418754704806966,
+    "averageOutDegree": 3.4418754704806966,
+    "selfLinks": 27,
+    "removed": "Chester Phillips",
+    "averagePathLength": 5.770704519309465,
+    "sizeLargest": 3966
+  },
+  "471": {
+    "numNodes": 9298,
+    "numEdges": 31934,
+    "averageInDegree": 3.4345020434502045,
+    "averageOutDegree": 3.4345020434502045,
+    "selfLinks": 27,
+    "removed": "Watchdogs",
+    "averagePathLength": 5.780097209128915,
+    "sizeLargest": 3963
+  },
+  "472": {
+    "numNodes": 9297,
+    "numEdges": 31862,
+    "averageInDegree": 3.4271270302248036,
+    "averageOutDegree": 3.4271270302248036,
+    "selfLinks": 27,
+    "removed": "Project T.A.H.I.T.I.",
+    "averagePathLength": 5.783816555178768,
+    "sizeLargest": 3962
+  },
+  "473": {
+    "numNodes": 9296,
+    "numEdges": 31790,
+    "averageInDegree": 3.419750430292599,
+    "averageOutDegree": 3.419750430292599,
+    "selfLinks": 27,
+    "removed": "Marvel One-Shot: Item 47",
+    "averagePathLength": 5.804529278185416,
+    "sizeLargest": 3949
+  },
+  "474": {
+    "numNodes": 9295,
+    "numEdges": 31719,
+    "averageInDegree": 3.412479827864443,
+    "averageOutDegree": 3.412479827864443,
+    "selfLinks": 27,
+    "removed": "Jeri Hogarth",
+    "averagePathLength": 5.824357689627591,
+    "sizeLargest": 3941
+  },
+  "475": {
+    "numNodes": 9294,
+    "numEdges": 31648,
+    "averageInDegree": 3.4052076608564668,
+    "averageOutDegree": 3.4052076608564668,
+    "selfLinks": 27,
+    "removed": "Spider-Man",
+    "averagePathLength": 5.829810106787122,
+    "sizeLargest": 3927
+  },
+  "476": {
+    "numNodes": 9293,
+    "numEdges": 31577,
+    "averageInDegree": 3.3979339287635857,
+    "averageOutDegree": 3.3979339287635857,
+    "selfLinks": 27,
+    "removed": "Battle of Xandar",
+    "averagePathLength": 5.8334559796989085,
+    "sizeLargest": 3924
+  },
+  "477": {
+    "numNodes": 9292,
+    "numEdges": 31506,
+    "averageInDegree": 3.390658631080499,
+    "averageOutDegree": 3.390658631080499,
+    "selfLinks": 27,
+    "removed": "FBI",
+    "averagePathLength": 5.862144188622802,
+    "sizeLargest": 3922
+  },
+  "478": {
+    "numNodes": 9291,
+    "numEdges": 31435,
+    "averageInDegree": 3.3833817673016897,
+    "averageOutDegree": 3.3833817673016897,
+    "selfLinks": 27,
+    "removed": "Scott Lang",
+    "averagePathLength": 5.862144188622802,
+    "sizeLargest": 3922
+  },
+  "479": {
+    "numNodes": 9290,
+    "numEdges": 31365,
+    "averageInDegree": 3.376210979547901,
+    "averageOutDegree": 3.376210979547901,
+    "selfLinks": 27,
+    "removed": "Karl Mordo",
+    "averagePathLength": 5.865274358073604,
+    "sizeLargest": 3919
+  },
+  "480": {
+    "numNodes": 9289,
+    "numEdges": 31295,
+    "averageInDegree": 3.369038647863064,
+    "averageOutDegree": 3.369038647863064,
+    "selfLinks": 27,
+    "removed": "Captain America: The Winter Soldier - The Official Game",
+    "averagePathLength": 5.879999856501213,
+    "sizeLargest": 3916
+  },
+  "481": {
+    "numNodes": 9288,
+    "numEdges": 31225,
+    "averageInDegree": 3.361864771748493,
+    "averageOutDegree": 3.361864771748493,
+    "selfLinks": 27,
+    "removed": "Shades",
+    "averagePathLength": 5.879950684625904,
+    "sizeLargest": 3909
+  },
+  "482": {
+    "numNodes": 9287,
+    "numEdges": 31155,
+    "averageInDegree": 3.354689350705287,
+    "averageOutDegree": 3.354689350705287,
+    "selfLinks": 27,
+    "removed": "Quicksilver",
+    "averagePathLength": 5.884413307340316,
+    "sizeLargest": 3905
+  },
+  "483": {
+    "numNodes": 9286,
+    "numEdges": 31086,
+    "averageInDegree": 3.347620073228516,
+    "averageOutDegree": 3.347620073228516,
+    "selfLinks": 27,
+    "removed": "Clearance Level",
+    "averagePathLength": 5.897088846383899,
+    "sizeLargest": 3901
+  },
+  "484": {
+    "numNodes": 9285,
+    "numEdges": 31017,
+    "averageInDegree": 3.3405492730210016,
+    "averageOutDegree": 3.3405492730210016,
+    "selfLinks": 27,
+    "removed": "Iron Man: Security Measures",
+    "averagePathLength": 5.903081635331963,
+    "sizeLargest": 3898
+  },
+  "485": {
+    "numNodes": 9284,
+    "numEdges": 30949,
+    "averageInDegree": 3.3335846617837137,
+    "averageOutDegree": 3.3335846617837137,
+    "selfLinks": 27,
+    "removed": "Calvin Chadwick",
+    "averagePathLength": 5.909188868487828,
+    "sizeLargest": 3894
+  },
+  "486": {
+    "numNodes": 9283,
+    "numEdges": 30881,
+    "averageInDegree": 3.3266185500377032,
+    "averageOutDegree": 3.3266185500377032,
+    "selfLinks": 27,
+    "removed": "Elektra",
+    "averagePathLength": 5.913695183692397,
+    "sizeLargest": 3888
+  },
+  "487": {
+    "numNodes": 9282,
+    "numEdges": 30813,
+    "averageInDegree": 3.3196509372979963,
+    "averageOutDegree": 3.3196509372979963,
+    "selfLinks": 27,
+    "removed": "Leland Owlsley",
+    "averagePathLength": 5.918448762710214,
+    "sizeLargest": 3886
+  },
+  "488": {
+    "numNodes": 9281,
+    "numEdges": 30746,
+    "averageInDegree": 3.31278957008943,
+    "averageOutDegree": 3.31278957008943,
+    "selfLinks": 26,
+    "removed": "South America",
+    "averagePathLength": 5.924660720747229,
+    "sizeLargest": 3885
+  },
+  "489": {
+    "numNodes": 9280,
+    "numEdges": 30678,
+    "averageInDegree": 3.305818965517241,
+    "averageOutDegree": 3.305818965517241,
+    "selfLinks": 26,
+    "removed": "Hogun",
+    "averagePathLength": 5.927574010479992,
+    "sizeLargest": 3882
+  },
+  "490": {
+    "numNodes": 9279,
+    "numEdges": 30611,
+    "averageInDegree": 3.2989546287315443,
+    "averageOutDegree": 3.2989546287315443,
+    "selfLinks": 26,
+    "removed": "2017",
+    "averagePathLength": 5.933863611361379,
+    "sizeLargest": 3878
+  },
+  "491": {
+    "numNodes": 9278,
+    "numEdges": 30544,
+    "averageInDegree": 3.292088812244018,
+    "averageOutDegree": 3.292088812244018,
+    "selfLinks": 26,
+    "removed": "Ultron Offensive",
+    "averagePathLength": 5.943934358313202,
+    "sizeLargest": 3874
+  },
+  "492": {
+    "numNodes": 9277,
+    "numEdges": 30477,
+    "averageInDegree": 3.285221515576156,
+    "averageOutDegree": 3.285221515576156,
+    "selfLinks": 26,
+    "removed": "Hope van Dyne",
+    "averagePathLength": 5.948892643603844,
+    "sizeLargest": 3873
+  },
+  "493": {
+    "numNodes": 9276,
+    "numEdges": 30410,
+    "averageInDegree": 3.2783527382492452,
+    "averageOutDegree": 3.2783527382492452,
+    "selfLinks": 26,
+    "removed": "The Avengers: The Avengers Initiative",
+    "averagePathLength": 5.956884266386835,
+    "sizeLargest": 3868
+  },
+  "494": {
+    "numNodes": 9275,
+    "numEdges": 30344,
+    "averageInDegree": 3.271590296495957,
+    "averageOutDegree": 3.271590296495957,
+    "selfLinks": 26,
+    "removed": "Japan",
+    "averagePathLength": 5.981052516749665,
+    "sizeLargest": 3866
+  },
+  "495": {
+    "numNodes": 9274,
+    "numEdges": 30278,
+    "averageInDegree": 3.264826396376968,
+    "averageOutDegree": 3.264826396376968,
+    "selfLinks": 26,
+    "removed": "Resurrection of Phil Coulson",
+    "averagePathLength": 5.987982879748446,
+    "sizeLargest": 3865
+  },
+  "496": {
+    "numNodes": 9273,
+    "numEdges": 30212,
+    "averageInDegree": 3.258061037420468,
+    "averageOutDegree": 3.258061037420468,
+    "selfLinks": 26,
+    "removed": "Berlin",
+    "averagePathLength": 6.005595249410379,
+    "sizeLargest": 3863
+  },
+  "497": {
+    "numNodes": 9272,
+    "numEdges": 30146,
+    "averageInDegree": 3.2512942191544436,
+    "averageOutDegree": 3.2512942191544436,
+    "selfLinks": 26,
+    "removed": "Robert Downey, Jr.",
+    "averagePathLength": 6.008756846150288,
+    "sizeLargest": 3857
+  },
+  "498": {
+    "numNodes": 9271,
+    "numEdges": 30081,
+    "averageInDegree": 3.2446338043361016,
+    "averageOutDegree": 3.2446338043361016,
+    "selfLinks": 26,
+    "removed": "Deals With Our Devils",
+    "averagePathLength": 6.013818881044775,
+    "sizeLargest": 3852
+  },
+  "499": {
+    "numNodes": 9270,
+    "numEdges": 30016,
+    "averageInDegree": 3.237971952535059,
+    "averageOutDegree": 3.237971952535059,
+    "selfLinks": 26,
+    "removed": "Masters of the Mystic Arts",
+    "averagePathLength": 6.0166277607098175,
+    "sizeLargest": 3851
+  },
+  "500": {
+    "numNodes": 9269,
+    "numEdges": 29951,
+    "averageInDegree": 3.2313086632862227,
+    "averageOutDegree": 3.2313086632862227,
+    "selfLinks": 26,
+    "removed": "Ravagers",
+    "averagePathLength": 6.026963387353099,
+    "sizeLargest": 3850
+  },
+  "501": {
+    "numNodes": 9268,
+    "numEdges": 29886,
+    "averageInDegree": 3.2246439361242984,
+    "averageOutDegree": 3.2246439361242984,
+    "selfLinks": 26,
+    "removed": "Guardians of the Galaxy Prequel Infinite Comic",
+    "averagePathLength": 6.034718318721423,
+    "sizeLargest": 3845
+  },
+  "502": {
+    "numNodes": 9267,
+    "numEdges": 29821,
+    "averageInDegree": 3.2179777705837918,
+    "averageOutDegree": 3.2179777705837918,
+    "selfLinks": 26,
+    "removed": "Nova Corps",
+    "averagePathLength": 6.037259074044048,
+    "sizeLargest": 3843
+  },
+  "503": {
+    "numNodes": 9266,
+    "numEdges": 29756,
+    "averageInDegree": 3.211310166199007,
+    "averageOutDegree": 3.211310166199007,
+    "selfLinks": 26,
+    "removed": "World Security Council",
+    "averagePathLength": 6.042002905444571,
+    "sizeLargest": 3842
+  },
+  "504": {
+    "numNodes": 9265,
+    "numEdges": 29692,
+    "averageInDegree": 3.204749055585537,
+    "averageOutDegree": 3.204749055585537,
+    "selfLinks": 26,
+    "removed": "Atlanta Boy Choir",
+    "averagePathLength": 6.042002905444571,
+    "sizeLargest": 3842
+  },
+  "505": {
+    "numNodes": 9264,
+    "numEdges": 29628,
+    "averageInDegree": 3.198186528497409,
+    "averageOutDegree": 3.198186528497409,
+    "selfLinks": 26,
+    "removed": "Clash of the Avengers",
+    "averagePathLength": 6.049439910938991,
+    "sizeLargest": 3841
+  },
+  "506": {
+    "numNodes": 9263,
+    "numEdges": 29564,
+    "averageInDegree": 3.191622584475872,
+    "averageOutDegree": 3.191622584475872,
+    "selfLinks": 26,
+    "removed": "Leet Brannis",
+    "averagePathLength": 6.054015173799087,
+    "sizeLargest": 3839
+  },
+  "507": {
+    "numNodes": 9262,
+    "numEdges": 29500,
+    "averageInDegree": 3.185057223061974,
+    "averageOutDegree": 3.185057223061974,
+    "selfLinks": 26,
+    "removed": "United States Congress",
+    "averagePathLength": 6.073753352919504,
+    "sizeLargest": 3836
+  },
+  "508": {
+    "numNodes": 9261,
+    "numEdges": 29436,
+    "averageInDegree": 3.178490443796566,
+    "averageOutDegree": 3.178490443796566,
+    "selfLinks": 26,
+    "removed": "Agents of S.H.I.E.L.D.: The Chase",
+    "averagePathLength": 6.089352136649921,
+    "sizeLargest": 3828
+  },
+  "509": {
+    "numNodes": 9260,
+    "numEdges": 29372,
+    "averageInDegree": 3.1719222462203023,
+    "averageOutDegree": 3.1719222462203023,
+    "selfLinks": 26,
+    "removed": "Battle on the Norco",
+    "averagePathLength": 6.098422006180436,
+    "sizeLargest": 3825
+  },
+  "510": {
+    "numNodes": 9259,
+    "numEdges": 29309,
+    "averageInDegree": 3.1654606328977213,
+    "averageOutDegree": 3.1654606328977213,
+    "selfLinks": 26,
+    "removed": "2010",
+    "averagePathLength": 6.111061161413466,
+    "sizeLargest": 3824
+  },
+  "511": {
+    "numNodes": 9258,
+    "numEdges": 29247,
+    "averageInDegree": 3.159105638366818,
+    "averageOutDegree": 3.159105638366818,
+    "selfLinks": 26,
+    "removed": "Hellfire",
+    "averagePathLength": 6.117655179599385,
+    "sizeLargest": 3820
+  },
+  "512": {
+    "numNodes": 9257,
+    "numEdges": 29185,
+    "averageInDegree": 3.152749270822081,
+    "averageOutDegree": 3.152749270822081,
+    "selfLinks": 26,
+    "removed": "Stick",
+    "averagePathLength": 6.12772537679508,
+    "sizeLargest": 3818
+  },
+  "513": {
+    "numNodes": 9256,
+    "numEdges": 29123,
+    "averageInDegree": 3.146391529818496,
+    "averageOutDegree": 3.146391529818496,
+    "selfLinks": 26,
+    "removed": "Isabelle Hartley",
+    "averagePathLength": 6.134233811968185,
+    "sizeLargest": 3815
+  },
+  "514": {
+    "numNodes": 9255,
+    "numEdges": 29061,
+    "averageInDegree": 3.140032414910859,
+    "averageOutDegree": 3.140032414910859,
+    "selfLinks": 26,
+    "removed": "Project Insight",
+    "averagePathLength": 6.137777627416818,
+    "sizeLargest": 3814
+  },
+  "515": {
+    "numNodes": 9254,
+    "numEdges": 28999,
+    "averageInDegree": 3.1336719256537715,
+    "averageOutDegree": 3.1336719256537715,
+    "selfLinks": 26,
+    "removed": "Einherjar",
+    "averagePathLength": 6.138974207378712,
+    "sizeLargest": 3810
+  },
+  "516": {
+    "numNodes": 9253,
+    "numEdges": 28937,
+    "averageInDegree": 3.127310061601643,
+    "averageOutDegree": 3.127310061601643,
+    "selfLinks": 26,
+    "removed": "France",
+    "averagePathLength": 6.153255511126187,
+    "sizeLargest": 3802
+  },
+  "517": {
+    "numNodes": 9252,
+    "numEdges": 28876,
+    "averageInDegree": 3.121054907047125,
+    "averageOutDegree": 3.121054907047125,
+    "selfLinks": 25,
+    "removed": "Culver University",
+    "averagePathLength": 6.162268602540835,
+    "sizeLargest": 3800
+  },
+  "518": {
+    "numNodes": 9251,
+    "numEdges": 28815,
+    "averageInDegree": 3.1147984001729543,
+    "averageOutDegree": 3.1147984001729543,
+    "selfLinks": 25,
+    "removed": "The Punisher",
+    "averagePathLength": 6.1666160037571505,
+    "sizeLargest": 3786
+  },
+  "519": {
+    "numNodes": 9250,
+    "numEdges": 28754,
+    "averageInDegree": 3.1085405405405404,
+    "averageOutDegree": 3.1085405405405404,
+    "selfLinks": 25,
+    "removed": "Joey Gutierrez",
+    "averagePathLength": 6.167934078810653,
+    "sizeLargest": 3782
+  },
+  "520": {
+    "numNodes": 9249,
+    "numEdges": 28693,
+    "averageInDegree": 3.102281327711104,
+    "averageOutDegree": 3.102281327711104,
+    "selfLinks": 25,
+    "removed": "Iron Man Manual",
+    "averagePathLength": 6.167934078810653,
+    "sizeLargest": 3782
+  },
+  "521": {
+    "numNodes": 9248,
+    "numEdges": 28632,
+    "averageInDegree": 3.0960207612456747,
+    "averageOutDegree": 3.0960207612456747,
+    "selfLinks": 25,
+    "removed": "Thor Adaptation",
+    "averagePathLength": 6.17422167005338,
+    "sizeLargest": 3775
+  },
+  "522": {
+    "numNodes": 9247,
+    "numEdges": 28571,
+    "averageInDegree": 3.0897588407050933,
+    "averageOutDegree": 3.0897588407050933,
+    "selfLinks": 25,
+    "removed": "Hammer Industries",
+    "averagePathLength": 6.181102907993664,
+    "sizeLargest": 3774
+  },
+  "523": {
+    "numNodes": 9246,
+    "numEdges": 28510,
+    "averageInDegree": 3.083495565650011,
+    "averageOutDegree": 3.083495565650011,
+    "selfLinks": 25,
+    "removed": "Vibranium",
+    "averagePathLength": 6.1914811871476605,
+    "sizeLargest": 3772
+  },
+  "524": {
+    "numNodes": 9245,
+    "numEdges": 28449,
+    "averageInDegree": 3.077230935640887,
+    "averageOutDegree": 3.077230935640887,
+    "selfLinks": 25,
+    "removed": "Adolf Hitler",
+    "averagePathLength": 6.198055381464155,
+    "sizeLargest": 3771
+  },
+  "525": {
+    "numNodes": 9244,
+    "numEdges": 28389,
+    "averageInDegree": 3.071073128515794,
+    "averageOutDegree": 3.071073128515794,
+    "selfLinks": 25,
+    "removed": "Avengers: Operation HYDRA",
+    "averagePathLength": 6.208605534182374,
+    "sizeLargest": 3767
+  },
+  "526": {
+    "numNodes": 9243,
+    "numEdges": 28329,
+    "averageInDegree": 3.064913988964622,
+    "averageOutDegree": 3.064913988964622,
+    "selfLinks": 25,
+    "removed": "Marvel Studios: Assembling a Universe",
+    "averagePathLength": 6.215585935524576,
+    "sizeLargest": 3758
+  },
+  "527": {
+    "numNodes": 9242,
+    "numEdges": 28270,
+    "averageInDegree": 3.0588617182428046,
+    "averageOutDegree": 3.0588617182428046,
+    "selfLinks": 25,
+    "removed": "Doctor Strange Prelude",
+    "averagePathLength": 6.231142706545774,
+    "sizeLargest": 3755
+  },
+  "528": {
+    "numNodes": 9241,
+    "numEdges": 28211,
+    "averageInDegree": 3.0528081376474407,
+    "averageOutDegree": 3.0528081376474407,
+    "selfLinks": 25,
+    "removed": "Anatoly Ranskahov",
+    "averagePathLength": 6.245216949083991,
+    "sizeLargest": 3748
+  },
+  "529": {
+    "numNodes": 9240,
+    "numEdges": 28152,
+    "averageInDegree": 3.0467532467532465,
+    "averageOutDegree": 3.0467532467532465,
+    "selfLinks": 25,
+    "removed": "Avengers: Age of Ultron Prelude - This Scepter'd Isle",
+    "averagePathLength": 6.253180155799314,
+    "sizeLargest": 3747
+  },
+  "530": {
+    "numNodes": 9239,
+    "numEdges": 28093,
+    "averageInDegree": 3.040697045134755,
+    "averageOutDegree": 3.040697045134755,
+    "selfLinks": 25,
+    "removed": "Obelisk",
+    "averagePathLength": 6.253180155799314,
+    "sizeLargest": 3747
+  },
+  "531": {
+    "numNodes": 9238,
+    "numEdges": 28034,
+    "averageInDegree": 3.034639532366313,
+    "averageOutDegree": 3.034639532366313,
+    "selfLinks": 25,
+    "removed": "1980s",
+    "averagePathLength": 6.2812391593349535,
+    "sizeLargest": 3745
+  },
+  "532": {
+    "numNodes": 9237,
+    "numEdges": 27975,
+    "averageInDegree": 3.0285807080220852,
+    "averageOutDegree": 3.0285807080220852,
+    "selfLinks": 25,
+    "removed": "Belarus",
+    "averagePathLength": 6.287419181046023,
+    "sizeLargest": 3743
+  },
+  "533": {
+    "numNodes": 9236,
+    "numEdges": 27916,
+    "averageInDegree": 3.02252057167605,
+    "averageOutDegree": 3.02252057167605,
+    "selfLinks": 25,
+    "removed": "James Gunn",
+    "averagePathLength": 6.296441010293852,
+    "sizeLargest": 3736
+  },
+  "534": {
+    "numNodes": 9235,
+    "numEdges": 27857,
+    "averageInDegree": 3.0164591229020035,
+    "averageOutDegree": 3.0164591229020035,
+    "selfLinks": 25,
+    "removed": "Kevin Feige",
+    "averagePathLength": 6.303457202092603,
+    "sizeLargest": 3732
+  },
+  "535": {
+    "numNodes": 9234,
+    "numEdges": 27799,
+    "averageInDegree": 3.010504656703487,
+    "averageOutDegree": 3.010504656703487,
+    "selfLinks": 25,
+    "removed": "Jeffrey Mace",
+    "averagePathLength": 6.31117431642385,
+    "sizeLargest": 3725
+  },
+  "536": {
+    "numNodes": 9233,
+    "numEdges": 27741,
+    "averageInDegree": 3.004548900682335,
+    "averageOutDegree": 3.004548900682335,
+    "selfLinks": 25,
+    "removed": "Marvel Cinematic Universe Wiki:Community Portal/Archive I",
+    "averagePathLength": 6.31117431642385,
+    "sizeLargest": 3725
+  },
+  "537": {
+    "numNodes": 9232,
+    "numEdges": 27683,
+    "averageInDegree": 2.9985918544194106,
+    "averageOutDegree": 2.9985918544194106,
+    "selfLinks": 25,
+    "removed": "Battle at the Triskelion",
+    "averagePathLength": 6.321675894582779,
+    "sizeLargest": 3724
+  },
+  "538": {
+    "numNodes": 9231,
+    "numEdges": 27625,
+    "averageInDegree": 2.992633517495396,
+    "averageOutDegree": 2.992633517495396,
+    "selfLinks": 25,
+    "removed": "GH.325",
+    "averagePathLength": 6.329797071604068,
+    "sizeLargest": 3723
+  },
+  "539": {
+    "numNodes": 9230,
+    "numEdges": 27567,
+    "averageInDegree": 2.986673889490791,
+    "averageOutDegree": 2.986673889490791,
+    "selfLinks": 25,
+    "removed": "Clairvoyant",
+    "averagePathLength": 6.329797071604068,
+    "sizeLargest": 3723
+  },
+  "540": {
+    "numNodes": 9229,
+    "numEdges": 27510,
+    "averageInDegree": 2.980821324087117,
+    "averageOutDegree": 2.980821324087117,
+    "selfLinks": 25,
+    "removed": "Jason Wilkes",
+    "averagePathLength": 6.334719172485735,
+    "sizeLargest": 3719
+  },
+  "541": {
+    "numNodes": 9228,
+    "numEdges": 27453,
+    "averageInDegree": 2.974967490247074,
+    "averageOutDegree": 2.974967490247074,
+    "selfLinks": 25,
+    "removed": "Nobu Yoshioka",
+    "averagePathLength": 6.340846235534346,
+    "sizeLargest": 3717
+  },
+  "542": {
+    "numNodes": 9227,
+    "numEdges": 27396,
+    "averageInDegree": 2.969112387558253,
+    "averageOutDegree": 2.969112387558253,
+    "selfLinks": 25,
+    "removed": "Iron Man 2 Adaptation",
+    "averagePathLength": 6.348045549727952,
+    "sizeLargest": 3711
+  },
+  "543": {
+    "numNodes": 9226,
+    "numEdges": 27339,
+    "averageInDegree": 2.963256015608064,
+    "averageOutDegree": 2.963256015608064,
+    "selfLinks": 25,
+    "removed": "Xandar",
+    "averagePathLength": 6.352467553608582,
+    "sizeLargest": 3710
+  },
+  "544": {
+    "numNodes": 9225,
+    "numEdges": 27282,
+    "averageInDegree": 2.95739837398374,
+    "averageOutDegree": 2.95739837398374,
+    "selfLinks": 25,
+    "removed": "Anne Weaver",
+    "averagePathLength": 6.356534868433114,
+    "sizeLargest": 3708
+  },
+  "545": {
+    "numNodes": 9224,
+    "numEdges": 27226,
+    "averageInDegree": 2.9516478751084128,
+    "averageOutDegree": 2.9516478751084128,
+    "selfLinks": 24,
+    "removed": "Captain America & Thor: Avengers!",
+    "averagePathLength": 6.364821165479974,
+    "sizeLargest": 3702
+  },
+  "546": {
+    "numNodes": 9223,
+    "numEdges": 27171,
+    "averageInDegree": 2.9460045538328092,
+    "averageOutDegree": 2.9460045538328092,
+    "selfLinks": 24,
+    "removed": "Johann Fennhoff's Campaign",
+    "averagePathLength": 6.380201844643888,
+    "sizeLargest": 3701
+  },
+  "547": {
+    "numNodes": 9222,
+    "numEdges": 27116,
+    "averageInDegree": 2.940360008674908,
+    "averageOutDegree": 2.940360008674908,
+    "selfLinks": 24,
+    "removed": "Griffith Hotel",
+    "averagePathLength": 6.387407210295632,
+    "sizeLargest": 3698
+  },
+  "548": {
+    "numNodes": 9221,
+    "numEdges": 27061,
+    "averageInDegree": 2.9347142392365253,
+    "averageOutDegree": 2.9347142392365253,
+    "selfLinks": 24,
+    "removed": "The Art of Captain America: The First Avenger",
+    "averagePathLength": 6.380429465196061,
+    "sizeLargest": 3688
+  },
+  "549": {
+    "numNodes": 9220,
+    "numEdges": 27006,
+    "averageInDegree": 2.929067245119306,
+    "averageOutDegree": 2.929067245119306,
+    "selfLinks": 24,
+    "removed": "Daredevil (TV series)/Gallery",
+    "averagePathLength": 6.380429465196061,
+    "sizeLargest": 3688
+  },
+  "550": {
+    "numNodes": 9219,
+    "numEdges": 26951,
+    "averageInDegree": 2.9234190259247206,
+    "averageOutDegree": 2.9234190259247206,
+    "selfLinks": 24,
+    "removed": "Iron Man/Quote",
+    "averagePathLength": 6.380429465196061,
+    "sizeLargest": 3688
+  },
+  "551": {
+    "numNodes": 9218,
+    "numEdges": 26896,
+    "averageInDegree": 2.9177695812540683,
+    "averageOutDegree": 2.9177695812540683,
+    "selfLinks": 24,
+    "removed": "Phil Coulson/Quote",
+    "averagePathLength": 6.380429465196061,
+    "sizeLargest": 3688
+  },
+  "552": {
+    "numNodes": 9217,
+    "numEdges": 26841,
+    "averageInDegree": 2.9121189107084735,
+    "averageOutDegree": 2.9121189107084735,
+    "selfLinks": 24,
+    "removed": "Chitauri Invasion",
+    "averagePathLength": 6.390936700209753,
+    "sizeLargest": 3687
+  },
+  "553": {
+    "numNodes": 9216,
+    "numEdges": 26787,
+    "averageInDegree": 2.9065755208333335,
+    "averageOutDegree": 2.9065755208333335,
+    "selfLinks": 24,
+    "removed": "Diamondback",
+    "averagePathLength": 6.401835602358433,
+    "sizeLargest": 3679
+  },
+  "554": {
+    "numNodes": 9215,
+    "numEdges": 26733,
+    "averageInDegree": 2.9010309278350515,
+    "averageOutDegree": 2.9010309278350515,
+    "selfLinks": 24,
+    "removed": "Samantha Reyes",
+    "averagePathLength": 6.403781972233641,
+    "sizeLargest": 3675
+  },
+  "555": {
+    "numNodes": 9214,
+    "numEdges": 26679,
+    "averageInDegree": 2.8954851313219017,
+    "averageOutDegree": 2.8954851313219017,
+    "selfLinks": 24,
+    "removed": "Will Simpson",
+    "averagePathLength": 6.412114885061681,
+    "sizeLargest": 3662
+  },
+  "556": {
+    "numNodes": 9213,
+    "numEdges": 26625,
+    "averageInDegree": 2.8899381309019865,
+    "averageOutDegree": 2.8899381309019865,
+    "selfLinks": 24,
+    "removed": "Nitramene",
+    "averagePathLength": 6.415957956800882,
+    "sizeLargest": 3660
+  },
+  "557": {
+    "numNodes": 9212,
+    "numEdges": 26571,
+    "averageInDegree": 2.884389926183239,
+    "averageOutDegree": 2.884389926183239,
+    "selfLinks": 24,
+    "removed": "Thor: Ragnarok/Credits",
+    "averagePathLength": 6.415957956800882,
+    "sizeLargest": 3660
+  },
+  "558": {
+    "numNodes": 9211,
+    "numEdges": 26517,
+    "averageInDegree": 2.878840516773423,
+    "averageOutDegree": 2.878840516773423,
+    "selfLinks": 24,
+    "removed": "Marvel Studios: Assembling a Universe/Credits",
+    "averagePathLength": 6.415957956800882,
+    "sizeLargest": 3660
+  },
+  "559": {
+    "numNodes": 9210,
+    "numEdges": 26463,
+    "averageInDegree": 2.8732899022801304,
+    "averageOutDegree": 2.8732899022801304,
+    "selfLinks": 24,
+    "removed": "Lorelei",
+    "averagePathLength": 6.430886794846249,
+    "sizeLargest": 3657
+  },
+  "560": {
+    "numNodes": 9209,
+    "numEdges": 26409,
+    "averageInDegree": 2.8677380823107828,
+    "averageOutDegree": 2.8677380823107828,
+    "selfLinks": 24,
+    "removed": "Nebula",
+    "averagePathLength": 6.435813682522939,
+    "sizeLargest": 3653
+  },
+  "561": {
+    "numNodes": 9208,
+    "numEdges": 26355,
+    "averageInDegree": 2.8621850564726325,
+    "averageOutDegree": 2.8621850564726325,
+    "selfLinks": 24,
+    "removed": "Mangog",
+    "averagePathLength": 6.437081491324228,
+    "sizeLargest": 3649
+  },
+  "562": {
+    "numNodes": 9207,
+    "numEdges": 26301,
+    "averageInDegree": 2.85663082437276,
+    "averageOutDegree": 2.85663082437276,
+    "selfLinks": 24,
+    "removed": "War Machine Armor: Mark II",
+    "averagePathLength": 6.451274208349245,
+    "sizeLargest": 3647
+  },
+  "563": {
+    "numNodes": 9206,
+    "numEdges": 26248,
+    "averageInDegree": 2.8511840104279815,
+    "averageOutDegree": 2.8511840104279815,
+    "selfLinks": 24,
+    "removed": "Holden Radcliffe",
+    "averagePathLength": 6.460302572667669,
+    "sizeLargest": 3644
+  },
+  "564": {
+    "numNodes": 9205,
+    "numEdges": 26195,
+    "averageInDegree": 2.8457360130363933,
+    "averageOutDegree": 2.8457360130363933,
+    "selfLinks": 24,
+    "removed": "Guidebook to the Marvel Cinematic Universe",
+    "averagePathLength": 6.472068128187562,
+    "sizeLargest": 3625
+  },
+  "565": {
+    "numNodes": 9204,
+    "numEdges": 26142,
+    "averageInDegree": 2.8402868318122554,
+    "averageOutDegree": 2.8402868318122554,
+    "selfLinks": 24,
+    "removed": "4,722 Hours",
+    "averagePathLength": 6.480307751381559,
+    "sizeLargest": 3622
+  },
+  "566": {
+    "numNodes": 9203,
+    "numEdges": 26089,
+    "averageInDegree": 2.834836466369662,
+    "averageOutDegree": 2.834836466369662,
+    "selfLinks": 24,
+    "removed": "Frank Castle",
+    "averagePathLength": 6.480307751381559,
+    "sizeLargest": 3622
+  },
+  "567": {
+    "numNodes": 9202,
+    "numEdges": 26036,
+    "averageInDegree": 2.8293849163225384,
+    "averageOutDegree": 2.8293849163225384,
+    "selfLinks": 24,
+    "removed": "List",
+    "averagePathLength": 6.486877274610574,
+    "sizeLargest": 3618
+  },
+  "568": {
+    "numNodes": 9201,
+    "numEdges": 25983,
+    "averageInDegree": 2.823932181284643,
+    "averageOutDegree": 2.823932181284643,
+    "selfLinks": 24,
+    "removed": "CIA",
+    "averagePathLength": 6.494634988851517,
+    "sizeLargest": 3614
+  },
+  "569": {
+    "numNodes": 9200,
+    "numEdges": 25930,
+    "averageInDegree": 2.8184782608695653,
+    "averageOutDegree": 2.8184782608695653,
+    "selfLinks": 24,
+    "removed": "Brazil",
+    "averagePathLength": 6.505370648256083,
+    "sizeLargest": 3612
+  },
+  "570": {
+    "numNodes": 9199,
+    "numEdges": 25877,
+    "averageInDegree": 2.813023154690727,
+    "averageOutDegree": 2.813023154690727,
+    "selfLinks": 24,
+    "removed": "Chris Evans",
+    "averagePathLength": 6.509859943022463,
+    "sizeLargest": 3609
+  },
+  "571": {
+    "numNodes": 9198,
+    "numEdges": 25825,
+    "averageInDegree": 2.8076755816481844,
+    "averageOutDegree": 2.8076755816481844,
+    "selfLinks": 24,
+    "removed": "Andrew Garner",
+    "averagePathLength": 6.509859943022463,
+    "sizeLargest": 3609
+  },
+  "572": {
+    "numNodes": 9197,
+    "numEdges": 25773,
+    "averageInDegree": 2.802326845710558,
+    "averageOutDegree": 2.802326845710558,
+    "selfLinks": 24,
+    "removed": "S.H.I.E.L.D. Headquarters",
+    "averagePathLength": 6.527625709347112,
+    "sizeLargest": 3606
+  },
+  "573": {
+    "numNodes": 9196,
+    "numEdges": 25721,
+    "averageInDegree": 2.7969769464984777,
+    "averageOutDegree": 2.7969769464984777,
+    "selfLinks": 24,
+    "removed": "Switzerland",
+    "averagePathLength": 6.539873973563158,
+    "sizeLargest": 3604
+  },
+  "574": {
+    "numNodes": 9195,
+    "numEdges": 25670,
+    "averageInDegree": 2.79173463839043,
+    "averageOutDegree": 2.79173463839043,
+    "selfLinks": 24,
+    "removed": "Hand",
+    "averagePathLength": 6.55139652621065,
+    "sizeLargest": 3599
+  },
+  "575": {
+    "numNodes": 9194,
+    "numEdges": 25619,
+    "averageInDegree": 2.7864911899064606,
+    "averageOutDegree": 2.7864911899064606,
+    "selfLinks": 24,
+    "removed": "Hope Shlottman",
+    "averagePathLength": 6.553605229976699,
+    "sizeLargest": 3592
+  },
+  "576": {
+    "numNodes": 9193,
+    "numEdges": 25568,
+    "averageInDegree": 2.781246600674426,
+    "averageOutDegree": 2.781246600674426,
+    "selfLinks": 24,
+    "removed": "Aether",
+    "averagePathLength": 6.556931092820259,
+    "sizeLargest": 3591
+  },
+  "577": {
+    "numNodes": 9192,
+    "numEdges": 25518,
+    "averageInDegree": 2.7761096605744124,
+    "averageOutDegree": 2.7761096605744124,
+    "selfLinks": 24,
+    "removed": "Zephyr One",
+    "averagePathLength": 6.567870195201985,
+    "sizeLargest": 3588
+  },
+  "578": {
+    "numNodes": 9191,
+    "numEdges": 25468,
+    "averageInDegree": 2.770971602654771,
+    "averageOutDegree": 2.770971602654771,
+    "selfLinks": 24,
+    "removed": "Crossbones",
+    "averagePathLength": 6.5770820102361025,
+    "sizeLargest": 3585
+  },
+  "579": {
+    "numNodes": 9190,
+    "numEdges": 25418,
+    "averageInDegree": 2.7658324265505985,
+    "averageOutDegree": 2.7658324265505985,
+    "selfLinks": 24,
+    "removed": "Extremis Soldiers",
+    "averagePathLength": 6.589193045781667,
+    "sizeLargest": 3584
+  },
+  "580": {
+    "numNodes": 9189,
+    "numEdges": 25368,
+    "averageInDegree": 2.760692131896833,
+    "averageOutDegree": 2.760692131896833,
+    "selfLinks": 24,
+    "removed": "Oceania",
+    "averagePathLength": 6.596224630552932,
+    "sizeLargest": 3582
+  },
+  "581": {
+    "numNodes": 9188,
+    "numEdges": 25318,
+    "averageInDegree": 2.755550718328254,
+    "averageOutDegree": 2.755550718328254,
+    "selfLinks": 24,
+    "removed": "James Montgomery Falsworth",
+    "averagePathLength": 6.602393066442016,
+    "sizeLargest": 3579
+  },
+  "582": {
+    "numNodes": 9187,
+    "numEdges": 25268,
+    "averageInDegree": 2.7504081854794817,
+    "averageOutDegree": 2.7504081854794817,
+    "selfLinks": 24,
+    "removed": "Marvel One-Shot: The Consultant",
+    "averagePathLength": 6.613109951822653,
+    "sizeLargest": 3574
+  },
+  "583": {
+    "numNodes": 9186,
+    "numEdges": 25218,
+    "averageInDegree": 2.745264532984977,
+    "averageOutDegree": 2.745264532984977,
+    "selfLinks": 24,
+    "removed": "Warriors Three",
+    "averagePathLength": 6.6145819157026775,
+    "sizeLargest": 3570
+  },
+  "584": {
+    "numNodes": 9185,
+    "numEdges": 25169,
+    "averageInDegree": 2.740228633641807,
+    "averageOutDegree": 2.740228633641807,
+    "selfLinks": 24,
+    "removed": "Captain America: 75 Heroic Years",
+    "averagePathLength": 6.63168139238733,
+    "sizeLargest": 3565
+  },
+  "585": {
+    "numNodes": 9184,
+    "numEdges": 25120,
+    "averageInDegree": 2.735191637630662,
+    "averageOutDegree": 2.735191637630662,
+    "selfLinks": 24,
+    "removed": "Ant-Man - Scott Lang: Small Time",
+    "averagePathLength": 6.641323372111735,
+    "sizeLargest": 3561
+  },
+  "586": {
+    "numNodes": 9183,
+    "numEdges": 25071,
+    "averageInDegree": 2.73015354459327,
+    "averageOutDegree": 2.73015354459327,
+    "selfLinks": 24,
+    "removed": "Ant-Man Suit",
+    "averagePathLength": 6.646816271947344,
+    "sizeLargest": 3559
+  },
+  "587": {
+    "numNodes": 9182,
+    "numEdges": 25022,
+    "averageInDegree": 2.7251143541712044,
+    "averageOutDegree": 2.7251143541712044,
+    "selfLinks": 24,
+    "removed": "Vanessa Marianna",
+    "averagePathLength": 6.6487476399851,
+    "sizeLargest": 3545
+  },
+  "588": {
+    "numNodes": 9181,
+    "numEdges": 24973,
+    "averageInDegree": 2.7200740660058815,
+    "averageOutDegree": 2.7200740660058815,
+    "selfLinks": 24,
+    "removed": "Ray Krzeminski",
+    "averagePathLength": 6.6541089204454815,
+    "sizeLargest": 3543
+  },
+  "589": {
+    "numNodes": 9180,
+    "numEdges": 24924,
+    "averageInDegree": 2.715032679738562,
+    "averageOutDegree": 2.715032679738562,
+    "selfLinks": 24,
+    "removed": "Battle at Cybertek",
+    "averagePathLength": 6.6659626978377515,
+    "sizeLargest": 3542
+  },
+  "590": {
+    "numNodes": 9179,
+    "numEdges": 24875,
+    "averageInDegree": 2.7099901950103495,
+    "averageOutDegree": 2.7099901950103495,
+    "selfLinks": 24,
+    "removed": "Betty Ross",
+    "averagePathLength": 6.673409610107231,
+    "sizeLargest": 3540
+  },
+  "591": {
+    "numNodes": 9178,
+    "numEdges": 24827,
+    "averageInDegree": 2.7050555676618,
+    "averageOutDegree": 2.7050555676618,
+    "selfLinks": 24,
+    "removed": "Doctor Strange Prelude - The Zealot",
+    "averagePathLength": 6.67950956242889,
+    "sizeLargest": 3539
+  },
+  "592": {
+    "numNodes": 9177,
+    "numEdges": 24779,
+    "averageInDegree": 2.70011986487959,
+    "averageOutDegree": 2.70011986487959,
+    "selfLinks": 24,
+    "removed": "Wong",
+    "averagePathLength": 6.677106002310279,
+    "sizeLargest": 3530
+  },
+  "593": {
+    "numNodes": 9176,
+    "numEdges": 24731,
+    "averageInDegree": 2.6951830863121184,
+    "averageOutDegree": 2.6951830863121184,
+    "selfLinks": 24,
+    "removed": "Sam Wilson",
+    "averagePathLength": 6.677106002310279,
+    "sizeLargest": 3530
+  },
+  "594": {
+    "numNodes": 9175,
+    "numEdges": 24683,
+    "averageInDegree": 2.6902452316076295,
+    "averageOutDegree": 2.6902452316076295,
+    "selfLinks": 24,
+    "removed": "Iron Man Armor: Mark III",
+    "averagePathLength": 6.683324401830252,
+    "sizeLargest": 3529
+  },
+  "595": {
+    "numNodes": 9174,
+    "numEdges": 24635,
+    "averageInDegree": 2.685306300414214,
+    "averageOutDegree": 2.685306300414214,
+    "selfLinks": 24,
+    "removed": "Clint Barton",
+    "averagePathLength": 6.683324401830252,
+    "sizeLargest": 3529
+  },
+  "596": {
+    "numNodes": 9173,
+    "numEdges": 24587,
+    "averageInDegree": 2.6803662923798104,
+    "averageOutDegree": 2.6803662923798104,
+    "selfLinks": 24,
+    "removed": "Iron Monger",
+    "averagePathLength": 6.69133504704666,
+    "sizeLargest": 3526
+  },
+  "597": {
+    "numNodes": 9172,
+    "numEdges": 24540,
+    "averageInDegree": 2.675534234627126,
+    "averageOutDegree": 2.675534234627126,
+    "selfLinks": 24,
+    "removed": "Kitchen Irish",
+    "averagePathLength": 6.6999914668212295,
+    "sizeLargest": 3525
+  },
+  "598": {
+    "numNodes": 9171,
+    "numEdges": 24493,
+    "averageInDegree": 2.670701123105441,
+    "averageOutDegree": 2.670701123105441,
+    "selfLinks": 24,
+    "removed": "Terrigen Crystals",
+    "averagePathLength": 6.705213075225138,
+    "sizeLargest": 3524
+  },
+  "599": {
+    "numNodes": 9170,
+    "numEdges": 24446,
+    "averageInDegree": 2.665866957470011,
+    "averageOutDegree": 2.665866957470011,
+    "selfLinks": 24,
+    "removed": "Agent Carter (TV series)/Gallery",
+    "averagePathLength": 6.705213075225138,
+    "sizeLargest": 3524
+  },
+  "600": {
+    "numNodes": 9169,
+    "numEdges": 24399,
+    "averageInDegree": 2.6610317373759407,
+    "averageOutDegree": 2.6610317373759407,
+    "selfLinks": 24,
+    "removed": "Centipede Soldiers",
+    "averagePathLength": 6.708035118616158,
+    "sizeLargest": 3523
+  },
+  "601": {
+    "numNodes": 9168,
+    "numEdges": 24352,
+    "averageInDegree": 2.656195462478185,
+    "averageOutDegree": 2.656195462478185,
+    "selfLinks": 24,
+    "removed": "American Broadcasting Company",
+    "averagePathLength": 6.730323097282864,
+    "sizeLargest": 3518
+  },
+  "602": {
+    "numNodes": 9167,
+    "numEdges": 24305,
+    "averageInDegree": 2.651358132431548,
+    "averageOutDegree": 2.651358132431548,
+    "selfLinks": 24,
+    "removed": "Wakanda",
+    "averagePathLength": 6.732589522109901,
+    "sizeLargest": 3517
+  },
+  "603": {
+    "numNodes": 9166,
+    "numEdges": 24258,
+    "averageInDegree": 2.646519746890683,
+    "averageOutDegree": 2.646519746890683,
+    "selfLinks": 24,
+    "removed": "Schutzstaffel",
+    "averagePathLength": 6.739015891480664,
+    "sizeLargest": 3512
+  },
+  "604": {
+    "numNodes": 9165,
+    "numEdges": 24211,
+    "averageInDegree": 2.641680305510093,
+    "averageOutDegree": 2.641680305510093,
+    "selfLinks": 24,
+    "removed": "Scarlett Johansson",
+    "averagePathLength": 6.7429148601749,
+    "sizeLargest": 3511
+  },
+  "605": {
+    "numNodes": 9164,
+    "numEdges": 24164,
+    "averageInDegree": 2.636839807944129,
+    "averageOutDegree": 2.636839807944129,
+    "selfLinks": 24,
+    "removed": "Jotunheim",
+    "averagePathLength": 6.744775285444531,
+    "sizeLargest": 3509
+  },
+  "606": {
+    "numNodes": 9163,
+    "numEdges": 24118,
+    "averageInDegree": 2.6321073884099095,
+    "averageOutDegree": 2.6321073884099095,
+    "selfLinks": 24,
+    "removed": "Pop",
+    "averagePathLength": 6.75669531154364,
+    "sizeLargest": 3501
+  },
+  "607": {
+    "numNodes": 9162,
+    "numEdges": 24072,
+    "averageInDegree": 2.627373935821873,
+    "averageOutDegree": 2.627373935821873,
+    "selfLinks": 24,
+    "removed": "Brock Rumlow",
+    "averagePathLength": 6.75669531154364,
+    "sizeLargest": 3501
+  },
+  "608": {
+    "numNodes": 9161,
+    "numEdges": 24026,
+    "averageInDegree": 2.6226394498417203,
+    "averageOutDegree": 2.6226394498417203,
+    "selfLinks": 24,
+    "removed": "Council of Nine",
+    "averagePathLength": 6.763716281847726,
+    "sizeLargest": 3498
+  },
+  "609": {
+    "numNodes": 9160,
+    "numEdges": 23980,
+    "averageInDegree": 2.6179039301310043,
+    "averageOutDegree": 2.6179039301310043,
+    "selfLinks": 24,
+    "removed": "Grant Ward's Campaign",
+    "averagePathLength": 6.767799990707956,
+    "sizeLargest": 3497
+  },
+  "610": {
+    "numNodes": 9159,
+    "numEdges": 23934,
+    "averageInDegree": 2.61316737635113,
+    "averageOutDegree": 2.61316737635113,
+    "selfLinks": 24,
+    "removed": "Angie Martinelli",
+    "averagePathLength": 6.778475013646559,
+    "sizeLargest": 3494
+  },
+  "611": {
+    "numNodes": 9158,
+    "numEdges": 23888,
+    "averageInDegree": 2.6084297881633542,
+    "averageOutDegree": 2.6084297881633542,
+    "selfLinks": 24,
+    "removed": "S.H.I.E.L.D. SUV",
+    "averagePathLength": 6.792759795486899,
+    "sizeLargest": 3493
+  },
+  "612": {
+    "numNodes": 9157,
+    "numEdges": 23842,
+    "averageInDegree": 2.6036911652287866,
+    "averageOutDegree": 2.6036911652287866,
+    "selfLinks": 24,
+    "removed": "Australia",
+    "averagePathLength": 6.810065424066305,
+    "sizeLargest": 3491
+  },
+  "613": {
+    "numNodes": 9156,
+    "numEdges": 23796,
+    "averageInDegree": 2.5989515072083877,
+    "averageOutDegree": 2.5989515072083877,
+    "selfLinks": 24,
+    "removed": "Christian Ward",
+    "averagePathLength": 6.815126702270044,
+    "sizeLargest": 3489
+  },
+  "614": {
+    "numNodes": 9155,
+    "numEdges": 23750,
+    "averageInDegree": 2.594210813762971,
+    "averageOutDegree": 2.594210813762971,
+    "selfLinks": 24,
+    "removed": "Collector",
+    "averagePathLength": 6.826325840356713,
+    "sizeLargest": 3486
+  },
+  "615": {
+    "numNodes": 9154,
+    "numEdges": 23704,
+    "averageInDegree": 2.5894690845532007,
+    "averageOutDegree": 2.5894690845532007,
+    "selfLinks": 24,
+    "removed": "Avengers Tower",
+    "averagePathLength": 6.849337095085099,
+    "sizeLargest": 3484
+  },
+  "616": {
+    "numNodes": 9153,
+    "numEdges": 23659,
+    "averageInDegree": 2.584835573036163,
+    "averageOutDegree": 2.584835573036163,
+    "selfLinks": 24,
+    "removed": "Matt Murdock's Apartment",
+    "averagePathLength": 6.857236079604553,
+    "sizeLargest": 3481
+  },
+  "617": {
+    "numNodes": 9152,
+    "numEdges": 23614,
+    "averageInDegree": 2.5802010489510487,
+    "averageOutDegree": 2.5802010489510487,
+    "selfLinks": 24,
+    "removed": "HYDRA Laboratories",
+    "averagePathLength": 6.8616325611265845,
+    "sizeLargest": 3473
+  },
+  "618": {
+    "numNodes": 9151,
+    "numEdges": 23569,
+    "averageInDegree": 2.5755655119659053,
+    "averageOutDegree": 2.5755655119659053,
+    "selfLinks": 24,
+    "removed": "Raid of the Fridge",
+    "averagePathLength": 6.869920967941084,
+    "sizeLargest": 3472
+  },
+  "619": {
+    "numNodes": 9150,
+    "numEdges": 23524,
+    "averageInDegree": 2.570928961748634,
+    "averageOutDegree": 2.570928961748634,
+    "selfLinks": 24,
+    "removed": "Liberation of Allied Prisoners of War",
+    "averagePathLength": 6.874909687816591,
+    "sizeLargest": 3469
+  },
+  "620": {
+    "numNodes": 9149,
+    "numEdges": 23479,
+    "averageInDegree": 2.566291397966991,
+    "averageOutDegree": 2.566291397966991,
+    "selfLinks": 24,
+    "removed": "Iron Man (film)/Trivia",
+    "averagePathLength": 6.874909687816591,
+    "sizeLargest": 3469
+  },
+  "621": {
+    "numNodes": 9148,
+    "numEdges": 23434,
+    "averageInDegree": 2.5616528202885878,
+    "averageOutDegree": 2.5616528202885878,
+    "selfLinks": 24,
+    "removed": "Comics",
+    "averagePathLength": 6.874909687816591,
+    "sizeLargest": 3469
+  },
+  "622": {
+    "numNodes": 9147,
+    "numEdges": 23390,
+    "averageInDegree": 2.55712255384279,
+    "averageOutDegree": 2.55712255384279,
+    "selfLinks": 24,
+    "removed": "Secret Warriors",
+    "averagePathLength": 6.887098459058202,
+    "sizeLargest": 3468
+  },
+  "623": {
+    "numNodes": 9146,
+    "numEdges": 23346,
+    "averageInDegree": 2.552591296741745,
+    "averageOutDegree": 2.552591296741745,
+    "selfLinks": 24,
+    "removed": "Ultron Sentries",
+    "averagePathLength": 6.892351278087968,
+    "sizeLargest": 3467
+  },
+  "624": {
+    "numNodes": 9145,
+    "numEdges": 23302,
+    "averageInDegree": 2.54805904866047,
+    "averageOutDegree": 2.54805904866047,
+    "selfLinks": 24,
+    "removed": "Elliot Randolph",
+    "averagePathLength": 6.898022288207046,
+    "sizeLargest": 3465
+  },
+  "625": {
+    "numNodes": 9144,
+    "numEdges": 23258,
+    "averageInDegree": 2.5435258092738406,
+    "averageOutDegree": 2.5435258092738406,
+    "selfLinks": 24,
+    "removed": "Sharon Carter",
+    "averagePathLength": 6.9105297573357145,
+    "sizeLargest": 3464
+  },
+  "626": {
+    "numNodes": 9143,
+    "numEdges": 23214,
+    "averageInDegree": 2.53899157825659,
+    "averageOutDegree": 2.53899157825659,
+    "selfLinks": 24,
+    "removed": "Samuel Sterns",
+    "averagePathLength": 6.918397569615518,
+    "sizeLargest": 3461
+  },
+  "627": {
+    "numNodes": 9142,
+    "numEdges": 23171,
+    "averageInDegree": 2.5345657405381754,
+    "averageOutDegree": 2.5345657405381754,
+    "selfLinks": 24,
+    "removed": "Darren Cross",
+    "averagePathLength": 6.9205111237000905,
+    "sizeLargest": 3460
+  },
+  "628": {
+    "numNodes": 9141,
+    "numEdges": 23128,
+    "averageInDegree": 2.5301389344710645,
+    "averageOutDegree": 2.5301389344710645,
+    "selfLinks": 24,
+    "removed": "Kidnapping of Phil Coulson",
+    "averagePathLength": 6.927161121163039,
+    "sizeLargest": 3459
+  },
+  "629": {
+    "numNodes": 9140,
+    "numEdges": 23085,
+    "averageInDegree": 2.5257111597374178,
+    "averageOutDegree": 2.5257111597374178,
+    "selfLinks": 24,
+    "removed": "New York Bulletin",
+    "averagePathLength": 6.9453857377409225,
+    "sizeLargest": 3457
+  },
+  "630": {
+    "numNodes": 9139,
+    "numEdges": 23042,
+    "averageInDegree": 2.521282416019258,
+    "averageOutDegree": 2.521282416019258,
+    "selfLinks": 24,
+    "removed": "Marvel 75 Years: From Pulp to Pop",
+    "averagePathLength": 6.941545531636722,
+    "sizeLargest": 3453
+  },
+  "631": {
+    "numNodes": 9138,
+    "numEdges": 22999,
+    "averageInDegree": 2.516852702998468,
+    "averageOutDegree": 2.516852702998468,
+    "selfLinks": 24,
+    "removed": "Cuba",
+    "averagePathLength": 6.949199486403423,
+    "sizeLargest": 3452
+  },
+  "632": {
+    "numNodes": 9137,
+    "numEdges": 22956,
+    "averageInDegree": 2.512422020356791,
+    "averageOutDegree": 2.512422020356791,
+    "selfLinks": 24,
+    "removed": "The Avengers/Awards",
+    "averagePathLength": 6.949199486403423,
+    "sizeLargest": 3452
+  },
+  "633": {
+    "numNodes": 9136,
+    "numEdges": 22913,
+    "averageInDegree": 2.507990367775832,
+    "averageOutDegree": 2.507990367775832,
+    "selfLinks": 24,
+    "removed": "The Incredible Hulk: The Big Picture",
+    "averagePathLength": 6.962728373150082,
+    "sizeLargest": 3446
+  },
+  "634": {
+    "numNodes": 9135,
+    "numEdges": 22870,
+    "averageInDegree": 2.5035577449370554,
+    "averageOutDegree": 2.5035577449370554,
+    "selfLinks": 24,
+    "removed": "Iron Man Armor: Mark IV",
+    "averagePathLength": 6.970576792435973,
+    "sizeLargest": 3445
+  },
+  "635": {
+    "numNodes": 9134,
+    "numEdges": 22828,
+    "averageInDegree": 2.4992336325815634,
+    "averageOutDegree": 2.4992336325815634,
+    "selfLinks": 24,
+    "removed": "Avengers: Infinity War/Credits",
+    "averagePathLength": 6.970576792435973,
+    "sizeLargest": 3445
+  },
+  "636": {
+    "numNodes": 9133,
+    "numEdges": 22786,
+    "averageInDegree": 2.494908573305595,
+    "averageOutDegree": 2.494908573305595,
+    "selfLinks": 24,
+    "removed": "15th Precinct Police Station",
+    "averagePathLength": 6.9785331244160504,
+    "sizeLargest": 3442
+  },
+  "637": {
+    "numNodes": 9132,
+    "numEdges": 22744,
+    "averageInDegree": 2.4905825667980728,
+    "averageOutDegree": 2.4905825667980728,
+    "selfLinks": 24,
+    "removed": "Terrigen Mist",
+    "averagePathLength": 6.983279350242966,
+    "sizeLargest": 3441
+  },
+  "638": {
+    "numNodes": 9131,
+    "numEdges": 22702,
+    "averageInDegree": 2.486255612747782,
+    "averageOutDegree": 2.486255612747782,
+    "selfLinks": 24,
+    "removed": "The Art of Thor: The Dark World",
+    "averagePathLength": 6.983384309026884,
+    "sizeLargest": 3439
+  },
+  "639": {
+    "numNodes": 9130,
+    "numEdges": 22660,
+    "averageInDegree": 2.4819277108433737,
+    "averageOutDegree": 2.4819277108433737,
+    "selfLinks": 24,
+    "removed": "Eric Koenig",
+    "averagePathLength": 6.990929814022978,
+    "sizeLargest": 3438
+  },
+  "640": {
+    "numNodes": 9129,
+    "numEdges": 22618,
+    "averageInDegree": 2.4775988607733597,
+    "averageOutDegree": 2.4775988607733597,
+    "selfLinks": 24,
+    "removed": "Mandarin",
+    "averagePathLength": 7.003425791978886,
+    "sizeLargest": 3437
+  },
+  "641": {
+    "numNodes": 9128,
+    "numEdges": 22576,
+    "averageInDegree": 2.4732690622261173,
+    "averageOutDegree": 2.4732690622261173,
+    "selfLinks": 24,
+    "removed": "Hong Kong",
+    "averagePathLength": 7.033859401185834,
+    "sizeLargest": 3436
+  },
+  "642": {
+    "numNodes": 9127,
+    "numEdges": 22534,
+    "averageInDegree": 2.468938314889887,
+    "averageOutDegree": 2.468938314889887,
+    "selfLinks": 24,
+    "removed": "Edison Po",
+    "averagePathLength": 7.039667324968305,
+    "sizeLargest": 3434
+  },
+  "643": {
+    "numNodes": 9126,
+    "numEdges": 22492,
+    "averageInDegree": 2.4646066184527724,
+    "averageOutDegree": 2.4646066184527724,
+    "selfLinks": 24,
+    "removed": "Iron Man Armor: Mark XLII",
+    "averagePathLength": 7.0553783652021345,
+    "sizeLargest": 3433
+  },
+  "644": {
+    "numNodes": 9125,
+    "numEdges": 22451,
+    "averageInDegree": 2.4603835616438356,
+    "averageOutDegree": 2.4603835616438356,
+    "selfLinks": 24,
+    "removed": "Maveth",
+    "averagePathLength": 7.059424064416956,
+    "sizeLargest": 3431
+  },
+  "645": {
+    "numNodes": 9124,
+    "numEdges": 22410,
+    "averageInDegree": 2.4561595791319597,
+    "averageOutDegree": 2.4561595791319597,
+    "selfLinks": 24,
+    "removed": "Vernon Masters",
+    "averagePathLength": 7.0757713108990625,
+    "sizeLargest": 3430
+  },
+  "646": {
+    "numNodes": 9123,
+    "numEdges": 22369,
+    "averageInDegree": 2.451934670612737,
+    "averageOutDegree": 2.451934670612737,
+    "selfLinks": 24,
+    "removed": "Werner von Strucker",
+    "averagePathLength": 7.081677553039088,
+    "sizeLargest": 3425
+  },
+  "647": {
+    "numNodes": 9122,
+    "numEdges": 22328,
+    "averageInDegree": 2.447708835781627,
+    "averageOutDegree": 2.447708835781627,
+    "selfLinks": 24,
+    "removed": "Blake Tower",
+    "averagePathLength": 7.092664495647258,
+    "sizeLargest": 3418
+  },
+  "648": {
+    "numNodes": 9121,
+    "numEdges": 22287,
+    "averageInDegree": 2.4434820743339545,
+    "averageOutDegree": 2.4434820743339545,
+    "selfLinks": 24,
+    "removed": "Puerto Rico",
+    "averagePathLength": 7.109051193269086,
+    "sizeLargest": 3417
+  },
+  "649": {
+    "numNodes": 9120,
+    "numEdges": 22246,
+    "averageInDegree": 2.439254385964912,
+    "averageOutDegree": 2.439254385964912,
+    "selfLinks": 24,
+    "removed": "Marcus Scarlotti",
+    "averagePathLength": 7.118808198018129,
+    "sizeLargest": 3413
+  },
+  "650": {
+    "numNodes": 9119,
+    "numEdges": 22205,
+    "averageInDegree": 2.435025770369558,
+    "averageOutDegree": 2.435025770369558,
+    "selfLinks": 24,
+    "removed": "Luis",
+    "averagePathLength": 7.128097479948157,
+    "sizeLargest": 3412
+  },
+  "651": {
+    "numNodes": 9118,
+    "numEdges": 22164,
+    "averageInDegree": 2.4307962272428165,
+    "averageOutDegree": 2.4307962272428165,
+    "selfLinks": 24,
+    "removed": "1930s",
+    "averagePathLength": 7.141262140513141,
+    "sizeLargest": 3411
+  },
+  "652": {
+    "numNodes": 9117,
+    "numEdges": 22123,
+    "averageInDegree": 2.426565756279478,
+    "averageOutDegree": 2.426565756279478,
+    "selfLinks": 24,
+    "removed": "Georges Batroc",
+    "averagePathLength": 7.14593610602699,
+    "sizeLargest": 3409
+  },
+  "653": {
+    "numNodes": 9116,
+    "numEdges": 22082,
+    "averageInDegree": 2.4223343571741993,
+    "averageOutDegree": 2.4223343571741993,
+    "selfLinks": 24,
+    "removed": "Gamma Radiation",
+    "averagePathLength": 7.156724032824513,
+    "sizeLargest": 3406
+  },
+  "654": {
+    "numNodes": 9115,
+    "numEdges": 22041,
+    "averageInDegree": 2.4181020296215032,
+    "averageOutDegree": 2.4181020296215032,
+    "selfLinks": 24,
+    "removed": "Gabe Jones",
+    "averagePathLength": 7.165022274187461,
+    "sizeLargest": 3404
+  },
+  "655": {
+    "numNodes": 9114,
+    "numEdges": 22000,
+    "averageInDegree": 2.413868773315778,
+    "averageOutDegree": 2.413868773315778,
+    "selfLinks": 24,
+    "removed": "Frigga",
+    "averagePathLength": 7.189023061135838,
+    "sizeLargest": 3402
+  },
+  "656": {
+    "numNodes": 9113,
+    "numEdges": 21960,
+    "averageInDegree": 2.4097443212992427,
+    "averageOutDegree": 2.4097443212992427,
+    "selfLinks": 24,
+    "removed": "Malcolm Ducasse",
+    "averagePathLength": 7.188400664436976,
+    "sizeLargest": 3398
+  },
+  "657": {
+    "numNodes": 9112,
+    "numEdges": 21920,
+    "averageInDegree": 2.4056189640035117,
+    "averageOutDegree": 2.4056189640035117,
+    "selfLinks": 24,
+    "removed": "List of Undeveloped Movies",
+    "averagePathLength": 7.189875738135345,
+    "sizeLargest": 3394
+  },
+  "658": {
+    "numNodes": 9111,
+    "numEdges": 21880,
+    "averageInDegree": 2.4014927011305014,
+    "averageOutDegree": 2.4014927011305014,
+    "selfLinks": 24,
+    "removed": "1970s",
+    "averagePathLength": 7.240025535824574,
+    "sizeLargest": 3392
+  },
+  "659": {
+    "numNodes": 9110,
+    "numEdges": 21840,
+    "averageInDegree": 2.397365532381998,
+    "averageOutDegree": 2.397365532381998,
+    "selfLinks": 24,
+    "removed": "Dogs of Hell",
+    "averagePathLength": 7.257001832892726,
+    "sizeLargest": 3391
+  },
+  "660": {
+    "numNodes": 9109,
+    "numEdges": 21800,
+    "averageInDegree": 2.393237457459655,
+    "averageOutDegree": 2.393237457459655,
+    "selfLinks": 24,
+    "removed": "Guest House",
+    "averagePathLength": 7.264059393488831,
+    "sizeLargest": 3389
+  },
+  "661": {
+    "numNodes": 9108,
+    "numEdges": 21760,
+    "averageInDegree": 2.389108476064998,
+    "averageOutDegree": 2.389108476064998,
+    "selfLinks": 24,
+    "removed": "Knowhere",
+    "averagePathLength": 7.275519074966286,
+    "sizeLargest": 3387
+  },
+  "662": {
+    "numNodes": 9107,
+    "numEdges": 21720,
+    "averageInDegree": 2.384978587899418,
+    "averageOutDegree": 2.384978587899418,
+    "selfLinks": 24,
+    "removed": "Eric Savin",
+    "averagePathLength": 7.296088682131044,
+    "sizeLargest": 3386
+  },
+  "663": {
+    "numNodes": 9106,
+    "numEdges": 21681,
+    "averageInDegree": 2.3809576103667913,
+    "averageOutDegree": 2.3809576103667913,
+    "selfLinks": 24,
+    "removed": "Nelson and Murdock Law Office",
+    "averagePathLength": 7.298349509757365,
+    "sizeLargest": 3382
+  },
+  "664": {
+    "numNodes": 9105,
+    "numEdges": 21642,
+    "averageInDegree": 2.3769357495881382,
+    "averageOutDegree": 2.3769357495881382,
+    "selfLinks": 24,
+    "removed": "Luther Banks",
+    "averagePathLength": 7.302884258837997,
+    "sizeLargest": 3378
+  },
+  "665": {
+    "numNodes": 9104,
+    "numEdges": 21603,
+    "averageInDegree": 2.372913005272408,
+    "averageOutDegree": 2.372913005272408,
+    "selfLinks": 24,
+    "removed": "Dogs",
+    "averagePathLength": 7.337637201475832,
+    "sizeLargest": 3377
+  },
+  "666": {
+    "numNodes": 9103,
+    "numEdges": 21564,
+    "averageInDegree": 2.3688893771284194,
+    "averageOutDegree": 2.3688893771284194,
+    "selfLinks": 24,
+    "removed": "Second Dark Elf Conflict",
+    "averagePathLength": 7.346876777251185,
+    "sizeLargest": 3376
+  },
+  "667": {
+    "numNodes": 9102,
+    "numEdges": 21525,
+    "averageInDegree": 2.364864864864865,
+    "averageOutDegree": 2.364864864864865,
+    "selfLinks": 24,
+    "removed": "United Nations",
+    "averagePathLength": 7.359708877173029,
+    "sizeLargest": 3373
+  },
+  "668": {
+    "numNodes": 9101,
+    "numEdges": 21487,
+    "averageInDegree": 2.3609493462256896,
+    "averageOutDegree": 2.3609493462256896,
+    "selfLinks": 24,
+    "removed": "Black Mariah",
+    "averagePathLength": 7.3651151237883985,
+    "sizeLargest": 3355
+  },
+  "669": {
+    "numNodes": 9100,
+    "numEdges": 21449,
+    "averageInDegree": 2.357032967032967,
+    "averageOutDegree": 2.357032967032967,
+    "selfLinks": 24,
+    "removed": "Yellowjacket",
+    "averagePathLength": 7.365474013582394,
+    "sizeLargest": 3353
+  },
+  "670": {
+    "numNodes": 9099,
+    "numEdges": 21411,
+    "averageInDegree": 2.3531157270029674,
+    "averageOutDegree": 2.3531157270029674,
+    "selfLinks": 24,
+    "removed": "Vin-Tak",
+    "averagePathLength": 7.375354550032757,
+    "sizeLargest": 3350
+  },
+  "671": {
+    "numNodes": 9098,
+    "numEdges": 21373,
+    "averageInDegree": 2.3491976258518354,
+    "averageOutDegree": 2.3491976258518354,
+    "selfLinks": 24,
+    "removed": "Hugh Jones",
+    "averagePathLength": 7.378135884452264,
+    "sizeLargest": 3345
+  },
+  "672": {
+    "numNodes": 9097,
+    "numEdges": 21335,
+    "averageInDegree": 2.3452786632955918,
+    "averageOutDegree": 2.3452786632955918,
+    "selfLinks": 24,
+    "removed": "Carl Creel",
+    "averagePathLength": 7.3841513112870345,
+    "sizeLargest": 3343
+  },
+  "673": {
+    "numNodes": 9096,
+    "numEdges": 21297,
+    "averageInDegree": 2.341358839050132,
+    "averageOutDegree": 2.341358839050132,
+    "selfLinks": 24,
+    "removed": "The Avengers: Iron Man Mark VII",
+    "averagePathLength": 7.391281023126163,
+    "sizeLargest": 3342
+  },
+  "674": {
+    "numNodes": 9095,
+    "numEdges": 21259,
+    "averageInDegree": 2.337438152831226,
+    "averageOutDegree": 2.337438152831226,
+    "selfLinks": 24,
+    "removed": "Barbershop Headquarters",
+    "averagePathLength": 7.402335168035673,
+    "sizeLargest": 3341
+  },
+  "675": {
+    "numNodes": 9094,
+    "numEdges": 21221,
+    "averageInDegree": 2.3335166043545192,
+    "averageOutDegree": 2.3335166043545192,
+    "selfLinks": 24,
+    "removed": "S.H.I.E.L.D. Academy",
+    "averagePathLength": 7.40942859690952,
+    "sizeLargest": 3339
+  },
+  "676": {
+    "numNodes": 9093,
+    "numEdges": 21183,
+    "averageInDegree": 2.3295941933355326,
+    "averageOutDegree": 2.3295941933355326,
+    "selfLinks": 24,
+    "removed": "Moscow",
+    "averagePathLength": 7.430814413497671,
+    "sizeLargest": 3337
+  },
+  "677": {
+    "numNodes": 9092,
+    "numEdges": 21145,
+    "averageInDegree": 2.3256709194896614,
+    "averageOutDegree": 2.3256709194896614,
+    "selfLinks": 24,
+    "removed": "HYDRA Headquarters",
+    "averagePathLength": 7.435380690949489,
+    "sizeLargest": 3336
+  },
+  "678": {
+    "numNodes": 9091,
+    "numEdges": 21107,
+    "averageInDegree": 2.3217467825321747,
+    "averageOutDegree": 2.3217467825321747,
+    "selfLinks": 24,
+    "removed": "Iron Man: Fast Friends",
+    "averagePathLength": 7.440826680453821,
+    "sizeLargest": 3329
+  },
+  "679": {
+    "numNodes": 9090,
+    "numEdges": 21069,
+    "averageInDegree": 2.3178217821782177,
+    "averageOutDegree": 2.3178217821782177,
+    "selfLinks": 24,
+    "removed": "Stan Lee",
+    "averagePathLength": 7.464410020250011,
+    "sizeLargest": 3323
+  },
+  "680": {
+    "numNodes": 9089,
+    "numEdges": 21031,
+    "averageInDegree": 2.31389591814281,
+    "averageOutDegree": 2.31389591814281,
+    "selfLinks": 24,
+    "removed": "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer",
+    "averagePathLength": 7.476281326957446,
+    "sizeLargest": 3314
+  },
+  "681": {
+    "numNodes": 9088,
+    "numEdges": 20994,
+    "averageInDegree": 2.3100792253521125,
+    "averageOutDegree": 2.3100792253521125,
+    "selfLinks": 24,
+    "removed": "Bombing of Hell's Kitchen",
+    "averagePathLength": 7.48433952545309,
+    "sizeLargest": 3313
+  },
+  "682": {
+    "numNodes": 9087,
+    "numEdges": 20957,
+    "averageInDegree": 2.306261692527787,
+    "averageOutDegree": 2.306261692527787,
+    "selfLinks": 24,
+    "removed": "Attack on the HYDRA Research Base",
+    "averagePathLength": 7.493873991978138,
+    "sizeLargest": 3312
+  },
+  "683": {
+    "numNodes": 9086,
+    "numEdges": 20920,
+    "averageInDegree": 2.302443319392472,
+    "averageOutDegree": 2.302443319392472,
+    "selfLinks": 24,
+    "removed": "Kree City",
+    "averagePathLength": 7.501787458284413,
+    "sizeLargest": 3308
+  },
+  "684": {
+    "numNodes": 9085,
+    "numEdges": 20883,
+    "averageInDegree": 2.2986241056686847,
+    "averageOutDegree": 2.2986241056686847,
+    "selfLinks": 24,
+    "removed": "S.H.I.E.L.D. Safe House",
+    "averagePathLength": 7.509929806633933,
+    "sizeLargest": 3307
+  },
+  "685": {
+    "numNodes": 9084,
+    "numEdges": 20846,
+    "averageInDegree": 2.29480405107882,
+    "averageOutDegree": 2.29480405107882,
+    "selfLinks": 24,
+    "removed": "Pym Technologies",
+    "averagePathLength": 7.514217214360808,
+    "sizeLargest": 3305
+  },
+  "686": {
+    "numNodes": 9083,
+    "numEdges": 20809,
+    "averageInDegree": 2.2909831553451503,
+    "averageOutDegree": 2.2909831553451503,
+    "selfLinks": 24,
+    "removed": "The Art of Thor",
+    "averagePathLength": 7.516368679278034,
+    "sizeLargest": 3302
+  },
+  "687": {
+    "numNodes": 9082,
+    "numEdges": 20772,
+    "averageInDegree": 2.287161418189826,
+    "averageOutDegree": 2.287161418189826,
+    "selfLinks": 24,
+    "removed": "Winter Soldier's Prosthetic Arm",
+    "averagePathLength": 7.521490549236686,
+    "sizeLargest": 3301
+  },
+  "688": {
+    "numNodes": 9081,
+    "numEdges": 20735,
+    "averageInDegree": 2.283338839334875,
+    "averageOutDegree": 2.283338839334875,
+    "selfLinks": 24,
+    "removed": "Battle at Culver University",
+    "averagePathLength": 7.54161297730258,
+    "sizeLargest": 3300
+  },
+  "689": {
+    "numNodes": 9080,
+    "numEdges": 20698,
+    "averageInDegree": 2.2795154185022026,
+    "averageOutDegree": 2.2795154185022026,
+    "selfLinks": 24,
+    "removed": "Star Spangled Singers",
+    "averagePathLength": 7.54350676124176,
+    "sizeLargest": 3299
+  },
+  "690": {
+    "numNodes": 9079,
+    "numEdges": 20661,
+    "averageInDegree": 2.275691155413592,
+    "averageOutDegree": 2.275691155413592,
+    "selfLinks": 24,
+    "removed": "Christine Everhart",
+    "averagePathLength": 7.560839643767403,
+    "sizeLargest": 3296
+  },
+  "691": {
+    "numNodes": 9078,
+    "numEdges": 20624,
+    "averageInDegree": 2.271866049790703,
+    "averageOutDegree": 2.271866049790703,
+    "selfLinks": 24,
+    "removed": "Whiplash",
+    "averagePathLength": 7.571758219781347,
+    "sizeLargest": 3293
+  },
+  "692": {
+    "numNodes": 9077,
+    "numEdges": 20588,
+    "averageInDegree": 2.268150269912967,
+    "averageOutDegree": 2.268150269912967,
+    "selfLinks": 24,
+    "removed": "Captain America: Road to War",
+    "averagePathLength": 7.5827140775331525,
+    "sizeLargest": 3292
+  },
+  "693": {
+    "numNodes": 9076,
+    "numEdges": 20552,
+    "averageInDegree": 2.264433671220802,
+    "averageOutDegree": 2.264433671220802,
+    "selfLinks": 24,
+    "removed": "Yo-Yo Rodriguez",
+    "averagePathLength": 7.595788970504451,
+    "sizeLargest": 3286
+  },
+  "694": {
+    "numNodes": 9075,
+    "numEdges": 20516,
+    "averageInDegree": 2.260716253443526,
+    "averageOutDegree": 2.260716253443526,
+    "selfLinks": 24,
+    "removed": "Madame Gao",
+    "averagePathLength": 7.612271441360522,
+    "sizeLargest": 3283
+  },
+  "695": {
+    "numNodes": 9074,
+    "numEdges": 20480,
+    "averageInDegree": 2.2569980163103374,
+    "averageOutDegree": 2.2569980163103374,
+    "selfLinks": 24,
+    "removed": "The Art of Avengers: Age of Ultron",
+    "averagePathLength": 7.612271441360522,
+    "sizeLargest": 3283
+  },
+  "696": {
+    "numNodes": 9073,
+    "numEdges": 20444,
+    "averageInDegree": 2.253278959550314,
+    "averageOutDegree": 2.253278959550314,
+    "selfLinks": 24,
+    "removed": "L&L Automat",
+    "averagePathLength": 7.620775593391799,
+    "sizeLargest": 3280
+  },
+  "697": {
+    "numNodes": 9072,
+    "numEdges": 20408,
+    "averageInDegree": 2.249559082892416,
+    "averageOutDegree": 2.249559082892416,
+    "selfLinks": 24,
+    "removed": "Marvel One-Shot: Agent Carter/Credits",
+    "averagePathLength": 7.620775593391799,
+    "sizeLargest": 3280
+  },
+  "698": {
+    "numNodes": 9071,
+    "numEdges": 20372,
+    "averageInDegree": 2.2458383860654836,
+    "averageOutDegree": 2.2458383860654836,
+    "selfLinks": 24,
+    "removed": "Absorbing Man",
+    "averagePathLength": 7.648724735398583,
+    "sizeLargest": 3278
+  },
+  "699": {
+    "numNodes": 9070,
+    "numEdges": 20336,
+    "averageInDegree": 2.242116868798236,
+    "averageOutDegree": 2.242116868798236,
+    "selfLinks": 24,
+    "removed": "Enclave",
+    "averagePathLength": 7.651685311522194,
+    "sizeLargest": 3275
+  },
+  "700": {
+    "numNodes": 9069,
+    "numEdges": 20300,
+    "averageInDegree": 2.2383945308192743,
+    "averageOutDegree": 2.2383945308192743,
+    "selfLinks": 24,
+    "removed": "Quest for the Orb",
+    "averagePathLength": 7.665859097721896,
+    "sizeLargest": 3269
+  }
+}

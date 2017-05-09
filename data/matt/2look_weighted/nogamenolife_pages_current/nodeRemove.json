@@ -1,0 +1,252 @@
+{
+  "0": {
+    "numNodes": 171,
+    "numEdges": 1101,
+    "averageInDegree": 6.43859649122807,
+    "averageOutDegree": 6.43859649122807,
+    "selfLinks": 1,
+    "removed": "Sora",
+    "averagePathLength": 1.9595803233574132,
+    "sizeLargest": 114
+  },
+  "1": {
+    "numNodes": 170,
+    "numEdges": 1036,
+    "averageInDegree": 6.094117647058823,
+    "averageOutDegree": 6.094117647058823,
+    "selfLinks": 1,
+    "removed": "Jibril",
+    "averagePathLength": 1.9807170205360252,
+    "sizeLargest": 112
+  },
+  "2": {
+    "numNodes": 169,
+    "numEdges": 972,
+    "averageInDegree": 5.7514792899408285,
+    "averageOutDegree": 5.7514792899408285,
+    "selfLinks": 1,
+    "removed": "No Game, No Life",
+    "averagePathLength": 3.001834862385321,
+    "sizeLargest": 110
+  },
+  "3": {
+    "numNodes": 168,
+    "numEdges": 912,
+    "averageInDegree": 5.428571428571429,
+    "averageOutDegree": 5.428571428571429,
+    "selfLinks": 1,
+    "removed": "Shiro",
+    "averagePathLength": 3.0571695548759767,
+    "sizeLargest": 109
+  },
+  "4": {
+    "numNodes": 167,
+    "numEdges": 857,
+    "averageInDegree": 5.131736526946108,
+    "averageOutDegree": 5.131736526946108,
+    "selfLinks": 1,
+    "removed": "Imanity",
+    "averagePathLength": 3.142263759086189,
+    "sizeLargest": 108
+  },
+  "5": {
+    "numNodes": 166,
+    "numEdges": 805,
+    "averageInDegree": 4.849397590361446,
+    "averageOutDegree": 4.849397590361446,
+    "selfLinks": 1,
+    "removed": "Exceed",
+    "averagePathLength": 3.195940594059406,
+    "sizeLargest": 101
+  },
+  "6": {
+    "numNodes": 165,
+    "numEdges": 758,
+    "averageInDegree": 4.593939393939394,
+    "averageOutDegree": 4.593939393939394,
+    "selfLinks": 1,
+    "removed": "Episode 01",
+    "averagePathLength": 3.292609182530795,
+    "sizeLargest": 95
+  },
+  "7": {
+    "numNodes": 164,
+    "numEdges": 720,
+    "averageInDegree": 4.390243902439025,
+    "averageOutDegree": 4.390243902439025,
+    "selfLinks": 1,
+    "removed": "Volume 1",
+    "averagePathLength": 3.4049416609471517,
+    "sizeLargest": 94
+  },
+  "8": {
+    "numNodes": 163,
+    "numEdges": 684,
+    "averageInDegree": 4.196319018404908,
+    "averageOutDegree": 4.196319018404908,
+    "selfLinks": 1,
+    "removed": "Stephanie Dola",
+    "averagePathLength": 3.4855921855921856,
+    "sizeLargest": 91
+  },
+  "9": {
+    "numNodes": 162,
+    "numEdges": 651,
+    "averageInDegree": 4.018518518518518,
+    "averageOutDegree": 4.018518518518518,
+    "selfLinks": 1,
+    "removed": "Volume 2",
+    "averagePathLength": 3.533333333333333,
+    "sizeLargest": 90
+  },
+  "10": {
+    "numNodes": 161,
+    "numEdges": 620,
+    "averageInDegree": 3.8509316770186337,
+    "averageOutDegree": 3.8509316770186337,
+    "selfLinks": 1,
+    "removed": "Disboard",
+    "averagePathLength": 3.6363636363636362,
+    "sizeLargest": 89
+  },
+  "11": {
+    "numNodes": 160,
+    "numEdges": 591,
+    "averageInDegree": 3.69375,
+    "averageOutDegree": 3.69375,
+    "selfLinks": 1,
+    "removed": "Fl\u00fcgel",
+    "averagePathLength": 3.73483025928896,
+    "sizeLargest": 87
+  },
+  "12": {
+    "numNodes": 159,
+    "numEdges": 564,
+    "averageInDegree": 3.547169811320755,
+    "averageOutDegree": 3.547169811320755,
+    "selfLinks": 1,
+    "removed": "Episode 04",
+    "averagePathLength": 3.79593837535014,
+    "sizeLargest": 85
+  },
+  "13": {
+    "numNodes": 158,
+    "numEdges": 538,
+    "averageInDegree": 3.4050632911392404,
+    "averageOutDegree": 3.4050632911392404,
+    "selfLinks": 1,
+    "removed": "Werebeast",
+    "averagePathLength": 4.005450372920253,
+    "sizeLargest": 84
+  },
+  "14": {
+    "numNodes": 157,
+    "numEdges": 513,
+    "averageInDegree": 3.267515923566879,
+    "averageOutDegree": 3.267515923566879,
+    "selfLinks": 1,
+    "removed": "Volume 6",
+    "averagePathLength": 4.107405230678813,
+    "sizeLargest": 83
+  },
+  "15": {
+    "numNodes": 156,
+    "numEdges": 489,
+    "averageInDegree": 3.1346153846153846,
+    "averageOutDegree": 3.1346153846153846,
+    "selfLinks": 1,
+    "removed": "Episode 02",
+    "averagePathLength": 3.966336295283664,
+    "sizeLargest": 77
+  },
+  "16": {
+    "numNodes": 155,
+    "numEdges": 465,
+    "averageInDegree": 3,
+    "averageOutDegree": 3,
+    "selfLinks": 1,
+    "removed": "Tet",
+    "averagePathLength": 4.079337899543379,
+    "sizeLargest": 73
+  },
+  "17": {
+    "numNodes": 154,
+    "numEdges": 444,
+    "averageInDegree": 2.883116883116883,
+    "averageOutDegree": 2.883116883116883,
+    "selfLinks": 1,
+    "removed": "Volume 5",
+    "averagePathLength": 4.1112676056338024,
+    "sizeLargest": 71
+  },
+  "18": {
+    "numNodes": 153,
+    "numEdges": 424,
+    "averageInDegree": 2.7712418300653594,
+    "averageOutDegree": 2.7712418300653594,
+    "selfLinks": 1,
+    "removed": "Episode 05",
+    "averagePathLength": 4.234654731457801,
+    "sizeLargest": 69
+  },
+  "19": {
+    "numNodes": 152,
+    "numEdges": 405,
+    "averageInDegree": 2.664473684210526,
+    "averageOutDegree": 2.664473684210526,
+    "selfLinks": 1,
+    "removed": "Volume 3",
+    "averagePathLength": 4.257901668129938,
+    "sizeLargest": 68
+  },
+  "20": {
+    "numNodes": 151,
+    "numEdges": 387,
+    "averageInDegree": 2.562913907284768,
+    "averageOutDegree": 2.562913907284768,
+    "selfLinks": 1,
+    "removed": "Episode 08",
+    "averagePathLength": 4.3375,
+    "sizeLargest": 65
+  },
+  "21": {
+    "numNodes": 150,
+    "numEdges": 371,
+    "averageInDegree": 2.473333333333333,
+    "averageOutDegree": 2.473333333333333,
+    "selfLinks": 0,
+    "removed": "Plum",
+    "averagePathLength": 4.419394841269841,
+    "sizeLargest": 64
+  },
+  "22": {
+    "numNodes": 149,
+    "numEdges": 355,
+    "averageInDegree": 2.38255033557047,
+    "averageOutDegree": 2.38255033557047,
+    "selfLinks": 0,
+    "removed": "Elchea Federation",
+    "averagePathLength": 4.712749615975422,
+    "sizeLargest": 63
+  },
+  "23": {
+    "numNodes": 148,
+    "numEdges": 339,
+    "averageInDegree": 2.2905405405405403,
+    "averageOutDegree": 2.2905405405405403,
+    "selfLinks": 0,
+    "removed": "Episode 03",
+    "averagePathLength": 4.6954802259887005,
+    "sizeLargest": 60
+  },
+  "24": {
+    "numNodes": 147,
+    "numEdges": 324,
+    "averageInDegree": 2.204081632653061,
+    "averageOutDegree": 2.204081632653061,
+    "selfLinks": 0,
+    "removed": "Volume 7",
+    "averagePathLength": 4.637987012987013,
+    "sizeLargest": 56
+  }
+}
