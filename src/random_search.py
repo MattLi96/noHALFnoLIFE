@@ -5,27 +5,13 @@ import networkx as nx
 
 
 class HierarchicalDecentralizedSearch:
-    def __init__(self, G, hierarchy, network_analysis, detailed_print=True, hierarchy_nodes_only=True,
-                 apply_weighted_score=False):
+    def __init__(self, G, network_analysis):
         """
         Initializations for hierarchy-based decentralized search, which requires a graph of nodes and a hierarchy
         that expresses "distance" between any pair of nodes
         """
         self.G = G.copy()
-        if hierarchy_nodes_only:
-            i = 0
-            total_nodes = len(self.G.nodes())
-            for node in self.G.nodes():
-                if len(node.categories) == 0:
-                    self.G.remove_node(node)
-                    i += 1
-            print("Performing decentralized search only on pages in the hierarchy (" + str(total_nodes - i) +
-                  " of " + str(total_nodes) + " nodes)")
-
-        self.hierarchy = hierarchy
         self.network_analysis = network_analysis
-        self.detailed_print = detailed_print
-        self.apply_weighted_score = apply_weighted_score
 
     def get_hierarchy_distance(self, node1, node2):
         """
@@ -68,17 +54,15 @@ class HierarchicalDecentralizedSearch:
         target_zone = set()
         target_zone.add(node2)
 
-        if widen_target == 'hierarchy':
+        if widen_target:
+            # If you know the neighbors
+            # target_zone.update(self.G.predecessors(node2))
             all_nodes = list(map(lambda x: (x, self.get_hierarchy_distance(x, node2)), self.G.nodes()))
             sorted_by_hierarchy = sorted(all_nodes, key=lambda tup: tup[1])
             for i in range(0, 3):
                 if self.detailed_print:
                     print(sorted_by_hierarchy[i])
                 target_zone.add(sorted_by_hierarchy[i][0])
-        elif widen_target == "2look":  # know neighbors of target
-            target_zone.update(self.G.predecessors(node2))
-        else:
-            assert widen_target == 'none'
 
         if self.detailed_print:
             print("TARGET ZONE: " + str(target_zone))
