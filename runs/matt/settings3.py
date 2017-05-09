@@ -14,8 +14,8 @@ decentralized_search_settings = {
     "plots": True,
 }
 
-output_path = "../data/kevin/none_weighted/"
-public_data = "../data/kevin/none_weighted/overview/"
+output_path = "../data/matt/none_weighted/"
+public_data = "../data/matt/none_weighted/overview/"
 public_out_path = "../public/data/"
 
 current_only = True  # Only use current files. Has no effect in time series mode
