@@ -11,7 +11,7 @@ class HierarchicalDecentralizedSearch:
         Initializations for hierarchy-based decentralized search, which requires a graph of nodes and a hierarchy
         that expresses "distance" between any pair of nodes
         """
-        self.G = G.copy()
+        self.G = G
         if hierarchy_nodes_only:
             i = 0
             total_nodes = len(self.G.nodes())

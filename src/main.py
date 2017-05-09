@@ -68,12 +68,13 @@ class Runner:
 
         # Run Decentralized Search
         if decentralized_search_settings["run_decentralized_search"]:
-            category_hierarchy = CategoryBasedHierarchicalModel(net.G,
+            hiearchyG = net.G.copy()
+            category_hierarchy = CategoryBasedHierarchicalModel(hiearchyG,
                 similarity_matrix_type=category_hierarchical_model_settings["similarity_matrix_type"],
                 max_branching_factor_root=category_hierarchical_model_settings["max_branching_factor_root"]
             )
             category_hierarchy.build_hierarchical_model()
-            decentralized_search_model = HierarchicalDecentralizedSearch(net.G, category_hierarchy.hierarchy, na,
+            decentralized_search_model = HierarchicalDecentralizedSearch(hiearchyG, category_hierarchy.hierarchy, na,
                 detailed_print=decentralized_search_settings["detailed_print"],
                 hierarchy_nodes_only=decentralized_search_settings["hierarchy_nodes_only"],
                 apply_weighted_score=decentralized_search_settings["apply_weighted_score"],
