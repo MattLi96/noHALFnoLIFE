@@ -4,8 +4,8 @@ import shutil
 
 import matplotlib.pyplot as plt
 
-DATA_PATH = "../data/"
-OUTPUT_PATH = "../output/overall/"
+DATA_PATH = "../data/current/"
+OUTPUT_PATH = "../output/visual/"
 
 
 def retrieve_basic_dicts(dir, current_only=True):
@@ -29,10 +29,10 @@ def visualize(data):
     for x in xfields:
         xdata[x] = list(map(lambda z: z[x], data))
 
-    decentralized_fields = ["average_num_unique_nodes", "average_decentralized_path_length", "num_paths_found"]
+    decentralized_fields = ["decentralized_average_num_unique_nodes", "decentralized_average_decentralized_path_length", "decentralized_num_paths_found"]
     ydata = {}
     for y in decentralized_fields:
-        ydata[y] = list(map(lambda z: z['decentralized'][y], data))
+        ydata[y] = list(map(lambda z: z[y], data))
 
     for x, xd in xdata.items():
         for y, yd in ydata.items():
