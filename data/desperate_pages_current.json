@@ -1,14 +1,16 @@
 {
-  "numNodes": 2034,
-  "selfLinks": 11,
-  "averagePathLength": 3.141630994017798,
-  "decentralized": {
-    "average_num_unique_nodes": 81.94945054945055,
-    "num_paths_found": 910,
-    "average_decentralized_path_length": 152.98681318681318,
-    "num_paths_missing": 90
-  },
+  "random_num_paths_missing": 174,
+  "averageOutDegree": 13.923303834808259,
   "averageInDegree": 13.923303834808259,
+  "decentralized_average_decentralized_path_length": 150.86644951140065,
+  "decentralized_num_paths_found": 921,
+  "decentralized_average_num_unique_nodes": 80.25732899022802,
+  "averagePathLength": 3.141630994017798,
+  "selfLinks": 11,
   "numEdges": 28320,
-  "averageOutDegree": 13.923303834808259
+  "decentralized_num_paths_missing": 79,
+  "random_num_paths_found": 826,
+  "random_average_num_unique_nodes": 75.41041162227603,
+  "numNodes": 2034,
+  "random_average_decentralized_path_length": 87.70823244552058
 }
