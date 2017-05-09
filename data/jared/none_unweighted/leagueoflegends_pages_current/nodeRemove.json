@@ -1,0 +1,232 @@
+{
+  "0": {
+    "numEdges": 3260,
+    "selfLinks": 3,
+    "sizeLargest": 215,
+    "averageInDegree": 3.638392857142857,
+    "removed": "League of Legends",
+    "averagePathLength": 4.025059769615301,
+    "numNodes": 896,
+    "averageOutDegree": 3.638392857142857
+  },
+  "1": {
+    "numEdges": 3155,
+    "selfLinks": 3,
+    "sizeLargest": 214,
+    "averageInDegree": 3.525139664804469,
+    "removed": "Runeterra",
+    "averagePathLength": 4.064082313193804,
+    "numNodes": 895,
+    "averageOutDegree": 3.525139664804469
+  },
+  "2": {
+    "numEdges": 3054,
+    "selfLinks": 2,
+    "sizeLargest": 208,
+    "averageInDegree": 3.4161073825503356,
+    "removed": "Noxus",
+    "averagePathLength": 4.0659606094388705,
+    "numNodes": 894,
+    "averageOutDegree": 3.4161073825503356
+  },
+  "3": {
+    "numEdges": 2960,
+    "selfLinks": 2,
+    "sizeLargest": 204,
+    "averageInDegree": 3.3146696528555433,
+    "removed": "Summoner's Rift",
+    "averagePathLength": 4.28923983386458,
+    "numNodes": 893,
+    "averageOutDegree": 3.3146696528555433
+  },
+  "4": {
+    "numEdges": 2874,
+    "selfLinks": 2,
+    "sizeLargest": 200,
+    "averageInDegree": 3.2219730941704037,
+    "removed": "Valoran",
+    "averagePathLength": 4.350527638190955,
+    "numNodes": 892,
+    "averageOutDegree": 3.2219730941704037
+  },
+  "5": {
+    "numEdges": 2795,
+    "selfLinks": 2,
+    "sizeLargest": 197,
+    "averageInDegree": 3.1369248035914703,
+    "removed": "Twisted Treeline",
+    "averagePathLength": 4.382549466487102,
+    "numNodes": 891,
+    "averageOutDegree": 3.1369248035914703
+  },
+  "6": {
+    "numEdges": 2728,
+    "selfLinks": 2,
+    "sizeLargest": 196,
+    "averageInDegree": 3.0651685393258425,
+    "removed": "Demacia",
+    "averagePathLength": 4.404578754578755,
+    "numNodes": 890,
+    "averageOutDegree": 3.0651685393258425
+  },
+  "7": {
+    "numEdges": 2667,
+    "selfLinks": 2,
+    "sizeLargest": 183,
+    "averageInDegree": 3,
+    "removed": "Champion ability",
+    "averagePathLength": 4.531886146640245,
+    "numNodes": 889,
+    "averageOutDegree": 3
+  },
+  "8": {
+    "numEdges": 2609,
+    "selfLinks": 2,
+    "sizeLargest": 177,
+    "averageInDegree": 2.938063063063063,
+    "removed": "Riot Games Inc.",
+    "averagePathLength": 4.4632126348228045,
+    "numNodes": 888,
+    "averageOutDegree": 2.938063063063063
+  },
+  "9": {
+    "numEdges": 2553,
+    "selfLinks": 2,
+    "sizeLargest": 177,
+    "averageInDegree": 2.878241262683202,
+    "removed": "League of Legends terminology",
+    "averagePathLength": 4.4632126348228045,
+    "numNodes": 887,
+    "averageOutDegree": 2.878241262683202
+  },
+  "10": {
+    "numEdges": 2502,
+    "selfLinks": 2,
+    "sizeLargest": 171,
+    "averageInDegree": 2.8239277652370203,
+    "removed": "Dominion",
+    "averagePathLength": 4.586240110079119,
+    "numNodes": 886,
+    "averageOutDegree": 2.8239277652370203
+  },
+  "11": {
+    "numEdges": 2455,
+    "selfLinks": 1,
+    "sizeLargest": 170,
+    "averageInDegree": 2.774011299435028,
+    "removed": "Zaun",
+    "averagePathLength": 4.595161851722938,
+    "numNodes": 885,
+    "averageOutDegree": 2.774011299435028
+  },
+  "12": {
+    "numEdges": 2408,
+    "selfLinks": 1,
+    "sizeLargest": 164,
+    "averageInDegree": 2.723981900452489,
+    "removed": "Rune",
+    "averagePathLength": 5.045638186443214,
+    "numNodes": 884,
+    "averageOutDegree": 2.723981900452489
+  },
+  "13": {
+    "numEdges": 2362,
+    "selfLinks": 1,
+    "sizeLargest": 162,
+    "averageInDegree": 2.6749716874292186,
+    "removed": "Mastery",
+    "averagePathLength": 5.50851161720727,
+    "numNodes": 883,
+    "averageOutDegree": 2.6749716874292186
+  },
+  "14": {
+    "numEdges": 2317,
+    "selfLinks": 1,
+    "sizeLargest": 155,
+    "averageInDegree": 2.626984126984127,
+    "removed": "Freljord",
+    "averagePathLength": 5.528906577293674,
+    "numNodes": 882,
+    "averageOutDegree": 2.626984126984127
+  },
+  "15": {
+    "numEdges": 2275,
+    "selfLinks": 1,
+    "sizeLargest": 155,
+    "averageInDegree": 2.5822928490351873,
+    "removed": "May 15, 2009 Patch",
+    "averagePathLength": 5.528906577293674,
+    "numNodes": 881,
+    "averageOutDegree": 2.5822928490351873
+  },
+  "16": {
+    "numEdges": 2234,
+    "selfLinks": 1,
+    "sizeLargest": 151,
+    "averageInDegree": 2.5386363636363636,
+    "removed": "Field of Justice",
+    "averagePathLength": 5.689227373068433,
+    "numNodes": 880,
+    "averageOutDegree": 2.5386363636363636
+  },
+  "17": {
+    "numEdges": 2194,
+    "selfLinks": 1,
+    "sizeLargest": 141,
+    "averageInDegree": 2.496018202502844,
+    "removed": "Ionia",
+    "averagePathLength": 5.653444782168187,
+    "numNodes": 879,
+    "averageOutDegree": 2.496018202502844
+  },
+  "18": {
+    "numEdges": 2155,
+    "selfLinks": 1,
+    "sizeLargest": 140,
+    "averageInDegree": 2.4544419134396356,
+    "removed": "June 26, 2009 Patch",
+    "averagePathLength": 5.626002055498458,
+    "numNodes": 878,
+    "averageOutDegree": 2.4544419134396356
+  },
+  "19": {
+    "numEdges": 2116,
+    "selfLinks": 1,
+    "sizeLargest": 139,
+    "averageInDegree": 2.4127708095781073,
+    "removed": "V1.0.0.61",
+    "averagePathLength": 5.602231258471484,
+    "numNodes": 877,
+    "averageOutDegree": 2.4127708095781073
+  },
+  "20": {
+    "numEdges": 2080,
+    "selfLinks": 1,
+    "sizeLargest": 114,
+    "averageInDegree": 2.374429223744292,
+    "removed": "Minion",
+    "averagePathLength": 5.14244682502717,
+    "numNodes": 876,
+    "averageOutDegree": 2.374429223744292
+  },
+  "21": {
+    "numEdges": 2044,
+    "selfLinks": 1,
+    "sizeLargest": 113,
+    "averageInDegree": 2.336,
+    "removed": "Champion statistic",
+    "averagePathLength": 5.1902654867256635,
+    "numNodes": 875,
+    "averageOutDegree": 2.336
+  },
+  "22": {
+    "numEdges": 2009,
+    "selfLinks": 1,
+    "sizeLargest": 112,
+    "averageInDegree": 2.2986270022883297,
+    "removed": "Piltover",
+    "averagePathLength": 5.193613256113256,
+    "numNodes": 874,
+    "averageOutDegree": 2.2986270022883297
+  }
+}

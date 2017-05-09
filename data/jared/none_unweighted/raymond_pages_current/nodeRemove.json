@@ -1,0 +1,832 @@
+{
+  "0": {
+    "numEdges": 5631,
+    "selfLinks": 0,
+    "sizeLargest": 674,
+    "averageInDegree": 7.173248407643312,
+    "removed": "Timeline",
+    "averagePathLength": 4.091115118540042,
+    "numNodes": 785,
+    "averageOutDegree": 7.173248407643312
+  },
+  "1": {
+    "numEdges": 5415,
+    "selfLinks": 0,
+    "sizeLargest": 672,
+    "averageInDegree": 6.906887755102041,
+    "removed": "Everybody Loves Raymond (show)",
+    "averagePathLength": 4.1211455893832944,
+    "numNodes": 784,
+    "averageOutDegree": 6.906887755102041
+  },
+  "2": {
+    "numEdges": 5208,
+    "selfLinks": 0,
+    "sizeLargest": 671,
+    "averageInDegree": 6.6513409961685825,
+    "removed": "Ray",
+    "averagePathLength": 4.126887915118892,
+    "numNodes": 783,
+    "averageOutDegree": 6.6513409961685825
+  },
+  "3": {
+    "numEdges": 5040,
+    "selfLinks": 0,
+    "sizeLargest": 667,
+    "averageInDegree": 6.445012787723785,
+    "removed": "List of characters",
+    "averagePathLength": 4.119987303645474,
+    "numNodes": 782,
+    "averageOutDegree": 6.445012787723785
+  },
+  "4": {
+    "numEdges": 4893,
+    "selfLinks": 0,
+    "sizeLargest": 666,
+    "averageInDegree": 6.265044814340589,
+    "removed": "1998",
+    "averagePathLength": 4.290288785025627,
+    "numNodes": 781,
+    "averageOutDegree": 6.265044814340589
+  },
+  "5": {
+    "numEdges": 4761,
+    "selfLinks": 0,
+    "sizeLargest": 665,
+    "averageInDegree": 6.1038461538461535,
+    "removed": "1997",
+    "averagePathLength": 4.472563185071111,
+    "numNodes": 780,
+    "averageOutDegree": 6.1038461538461535
+  },
+  "6": {
+    "numEdges": 4630,
+    "selfLinks": 0,
+    "sizeLargest": 662,
+    "averageInDegree": 5.943517329910141,
+    "removed": "Robert",
+    "averagePathLength": 4.482316457258297,
+    "numNodes": 779,
+    "averageOutDegree": 5.943517329910141
+  },
+  "7": {
+    "numEdges": 4502,
+    "selfLinks": 0,
+    "sizeLargest": 661,
+    "averageInDegree": 5.786632390745501,
+    "removed": "Debra",
+    "averagePathLength": 4.486854169531931,
+    "numNodes": 778,
+    "averageOutDegree": 5.786632390745501
+  },
+  "8": {
+    "numEdges": 4376,
+    "selfLinks": 0,
+    "sizeLargest": 660,
+    "averageInDegree": 5.631917631917632,
+    "removed": "Frank",
+    "averagePathLength": 4.49112061433761,
+    "numNodes": 777,
+    "averageOutDegree": 5.631917631917632
+  },
+  "9": {
+    "numEdges": 4266,
+    "selfLinks": 0,
+    "sizeLargest": 658,
+    "averageInDegree": 5.497422680412371,
+    "removed": "Marie",
+    "averagePathLength": 4.4932270197499,
+    "numNodes": 776,
+    "averageOutDegree": 5.497422680412371
+  },
+  "10": {
+    "numEdges": 4162,
+    "selfLinks": 0,
+    "sizeLargest": 656,
+    "averageInDegree": 5.370322580645161,
+    "removed": "Patricia Heaton",
+    "averagePathLength": 4.603942468814001,
+    "numNodes": 775,
+    "averageOutDegree": 5.370322580645161
+  },
+  "11": {
+    "numEdges": 4063,
+    "selfLinks": 0,
+    "sizeLargest": 652,
+    "averageInDegree": 5.249354005167959,
+    "removed": "Ray Romano",
+    "averagePathLength": 4.740684459020101,
+    "numNodes": 774,
+    "averageOutDegree": 5.249354005167959
+  },
+  "12": {
+    "numEdges": 3977,
+    "selfLinks": 0,
+    "sizeLargest": 648,
+    "averageInDegree": 5.144890038809832,
+    "removed": "List of episodes",
+    "averagePathLength": 4.7346084492529625,
+    "numNodes": 773,
+    "averageOutDegree": 5.144890038809832
+  },
+  "13": {
+    "numEdges": 3893,
+    "selfLinks": 0,
+    "sizeLargest": 648,
+    "averageInDegree": 5.0427461139896375,
+    "removed": "Timeline within universe",
+    "averagePathLength": 4.7346084492529625,
+    "numNodes": 772,
+    "averageOutDegree": 5.0427461139896375
+  },
+  "14": {
+    "numEdges": 3815,
+    "selfLinks": 0,
+    "sizeLargest": 634,
+    "averageInDegree": 4.948119325551232,
+    "removed": "Big Shots",
+    "averagePathLength": 4.821078834452136,
+    "numNodes": 771,
+    "averageOutDegree": 4.948119325551232
+  },
+  "15": {
+    "numEdges": 3740,
+    "selfLinks": 0,
+    "sizeLargest": 633,
+    "averageInDegree": 4.857142857142857,
+    "removed": "Brad Garrett",
+    "averagePathLength": 4.843051972723819,
+    "numNodes": 770,
+    "averageOutDegree": 4.857142857142857
+  },
+  "16": {
+    "numEdges": 3665,
+    "selfLinks": 0,
+    "sizeLargest": 632,
+    "averageInDegree": 4.76592977893368,
+    "removed": "Doris Roberts",
+    "averagePathLength": 4.848515015346346,
+    "numNodes": 769,
+    "averageOutDegree": 4.76592977893368
+  },
+  "17": {
+    "numEdges": 3591,
+    "selfLinks": 0,
+    "sizeLargest": 629,
+    "averageInDegree": 4.67578125,
+    "removed": "Peter Boyle",
+    "averagePathLength": 4.85760685751319,
+    "numNodes": 768,
+    "averageOutDegree": 4.67578125
+  },
+  "18": {
+    "numEdges": 3518,
+    "selfLinks": 0,
+    "sizeLargest": 627,
+    "averageInDegree": 4.586701434159061,
+    "removed": "1999",
+    "averagePathLength": 4.955618060544914,
+    "numNodes": 767,
+    "averageOutDegree": 4.586701434159061
+  },
+  "19": {
+    "numEdges": 3446,
+    "selfLinks": 0,
+    "sizeLargest": 626,
+    "averageInDegree": 4.4986945169712795,
+    "removed": "Ally",
+    "averagePathLength": 4.960403833865815,
+    "numNodes": 766,
+    "averageOutDegree": 4.4986945169712795
+  },
+  "20": {
+    "numEdges": 3374,
+    "selfLinks": 0,
+    "sizeLargest": 625,
+    "averageInDegree": 4.41045751633987,
+    "removed": "1996",
+    "averagePathLength": 5.088058974358974,
+    "numNodes": 765,
+    "averageOutDegree": 4.41045751633987
+  },
+  "21": {
+    "numEdges": 3307,
+    "selfLinks": 0,
+    "sizeLargest": 624,
+    "averageInDegree": 4.3285340314136125,
+    "removed": "Madylin Sweeten",
+    "averagePathLength": 5.107536424249908,
+    "numNodes": 764,
+    "averageOutDegree": 4.3285340314136125
+  },
+  "22": {
+    "numEdges": 3242,
+    "selfLinks": 0,
+    "sizeLargest": 621,
+    "averageInDegree": 4.249017038007864,
+    "removed": "Ray Barone",
+    "averagePathLength": 5.1337670770349595,
+    "numNodes": 763,
+    "averageOutDegree": 4.249017038007864
+  },
+  "23": {
+    "numEdges": 3180,
+    "selfLinks": 0,
+    "sizeLargest": 620,
+    "averageInDegree": 4.173228346456693,
+    "removed": "Sullivan Sweeten",
+    "averagePathLength": 5.138910313200271,
+    "numNodes": 762,
+    "averageOutDegree": 4.173228346456693
+  },
+  "24": {
+    "numEdges": 3120,
+    "selfLinks": 0,
+    "sizeLargest": 619,
+    "averageInDegree": 4.099868593955322,
+    "removed": "Sawyer Sweeten",
+    "averagePathLength": 5.162293290671351,
+    "numNodes": 761,
+    "averageOutDegree": 4.099868593955322
+  },
+  "25": {
+    "numEdges": 3060,
+    "selfLinks": 0,
+    "sizeLargest": 618,
+    "averageInDegree": 4.026315789473684,
+    "removed": "Geoffrey",
+    "averagePathLength": 5.167699957514437,
+    "numNodes": 760,
+    "averageOutDegree": 4.026315789473684
+  },
+  "26": {
+    "numEdges": 3001,
+    "selfLinks": 0,
+    "sizeLargest": 617,
+    "averageInDegree": 3.953886693017128,
+    "removed": "Michael",
+    "averagePathLength": 5.189156265128712,
+    "numNodes": 759,
+    "averageOutDegree": 3.953886693017128
+  },
+  "27": {
+    "numEdges": 2945,
+    "selfLinks": 0,
+    "sizeLargest": 615,
+    "averageInDegree": 3.8852242744063323,
+    "removed": "Everybody Wikis Raymond:Improving the Wiki",
+    "averagePathLength": 5.19008500834194,
+    "numNodes": 758,
+    "averageOutDegree": 3.8852242744063323
+  },
+  "28": {
+    "numEdges": 2894,
+    "selfLinks": 0,
+    "sizeLargest": 613,
+    "averageInDegree": 3.8229854689564067,
+    "removed": "Robert Barone",
+    "averagePathLength": 5.238892620669802,
+    "numNodes": 757,
+    "averageOutDegree": 3.8229854689564067
+  },
+  "29": {
+    "numEdges": 2850,
+    "selfLinks": 0,
+    "sizeLargest": 605,
+    "averageInDegree": 3.7698412698412698,
+    "removed": "Cruising with Marie",
+    "averagePathLength": 5.410650758031854,
+    "numNodes": 756,
+    "averageOutDegree": 3.7698412698412698
+  },
+  "30": {
+    "numEdges": 2807,
+    "selfLinks": 0,
+    "sizeLargest": 598,
+    "averageInDegree": 3.717880794701987,
+    "removed": "The Wedding: Part 2",
+    "averagePathLength": 5.456070766317653,
+    "numNodes": 755,
+    "averageOutDegree": 3.717880794701987
+  },
+  "31": {
+    "numEdges": 2765,
+    "selfLinks": 0,
+    "sizeLargest": 588,
+    "averageInDegree": 3.6671087533156497,
+    "removed": "Halloween Candy",
+    "averagePathLength": 5.493550742273059,
+    "numNodes": 754,
+    "averageOutDegree": 3.6671087533156497
+  },
+  "32": {
+    "numEdges": 2723,
+    "selfLinks": 0,
+    "sizeLargest": 583,
+    "averageInDegree": 3.6162018592297476,
+    "removed": "Pilot",
+    "averagePathLength": 5.546763098795777,
+    "numNodes": 753,
+    "averageOutDegree": 3.6162018592297476
+  },
+  "33": {
+    "numEdges": 2682,
+    "selfLinks": 0,
+    "sizeLargest": 573,
+    "averageInDegree": 3.5664893617021276,
+    "removed": "Neighbors",
+    "averagePathLength": 5.580370763616837,
+    "numNodes": 752,
+    "averageOutDegree": 3.5664893617021276
+  },
+  "34": {
+    "numEdges": 2642,
+    "selfLinks": 0,
+    "sizeLargest": 569,
+    "averageInDegree": 3.51797603195739,
+    "removed": "Debra's Sick",
+    "averagePathLength": 5.689884031782965,
+    "numNodes": 751,
+    "averageOutDegree": 3.51797603195739
+  },
+  "35": {
+    "numEdges": 2604,
+    "selfLinks": 0,
+    "sizeLargest": 561,
+    "averageInDegree": 3.472,
+    "removed": "I Wish I Were Gus",
+    "averagePathLength": 5.738200280112045,
+    "numNodes": 750,
+    "averageOutDegree": 3.472
+  },
+  "36": {
+    "numEdges": 2567,
+    "selfLinks": 0,
+    "sizeLargest": 561,
+    "averageInDegree": 3.427236315086782,
+    "removed": "Quotes/Ray",
+    "averagePathLength": 5.738200280112045,
+    "numNodes": 749,
+    "averageOutDegree": 3.427236315086782
+  },
+  "37": {
+    "numEdges": 2531,
+    "selfLinks": 0,
+    "sizeLargest": 555,
+    "averageInDegree": 3.3836898395721926,
+    "removed": "Frank's Tribute",
+    "averagePathLength": 5.82501707483657,
+    "numNodes": 748,
+    "averageOutDegree": 3.3836898395721926
+  },
+  "38": {
+    "numEdges": 2495,
+    "selfLinks": 0,
+    "sizeLargest": 555,
+    "averageInDegree": 3.3400267737617133,
+    "removed": "Quotes/Season 2",
+    "averagePathLength": 5.82501707483657,
+    "numNodes": 747,
+    "averageOutDegree": 3.3400267737617133
+  },
+  "39": {
+    "numEdges": 2460,
+    "selfLinks": 0,
+    "sizeLargest": 551,
+    "averageInDegree": 3.297587131367292,
+    "removed": "Captain Nemo",
+    "averagePathLength": 5.9106946048506845,
+    "numNodes": 746,
+    "averageOutDegree": 3.297587131367292
+  },
+  "40": {
+    "numEdges": 2425,
+    "selfLinks": 0,
+    "sizeLargest": 549,
+    "averageInDegree": 3.2550335570469797,
+    "removed": "Ray's on TV",
+    "averagePathLength": 5.996732612713227,
+    "numNodes": 745,
+    "averageOutDegree": 3.2550335570469797
+  },
+  "41": {
+    "numEdges": 2391,
+    "selfLinks": 0,
+    "sizeLargest": 546,
+    "averageInDegree": 3.213709677419355,
+    "removed": "The Toaster",
+    "averagePathLength": 6.125748563363242,
+    "numNodes": 744,
+    "averageOutDegree": 3.213709677419355
+  },
+  "42": {
+    "numEdges": 2357,
+    "selfLinks": 0,
+    "sizeLargest": 539,
+    "averageInDegree": 3.172274562584118,
+    "removed": "Recovering Pessimist",
+    "averagePathLength": 6.212364905407922,
+    "numNodes": 743,
+    "averageOutDegree": 3.172274562584118
+  },
+  "43": {
+    "numEdges": 2324,
+    "selfLinks": 0,
+    "sizeLargest": 534,
+    "averageInDegree": 3.1320754716981134,
+    "removed": "I Love You",
+    "averagePathLength": 6.2692869841403684,
+    "numNodes": 742,
+    "averageOutDegree": 3.1320754716981134
+  },
+  "44": {
+    "numEdges": 2291,
+    "selfLinks": 0,
+    "sizeLargest": 530,
+    "averageInDegree": 3.0917678812415654,
+    "removed": "High School",
+    "averagePathLength": 6.371252273781075,
+    "numNodes": 741,
+    "averageOutDegree": 3.0917678812415654
+  },
+  "45": {
+    "numEdges": 2261,
+    "selfLinks": 0,
+    "sizeLargest": 530,
+    "averageInDegree": 3.0554054054054056,
+    "removed": "Quotes/Other characters",
+    "averagePathLength": 6.371252273781075,
+    "numNodes": 740,
+    "averageOutDegree": 3.0554054054054056
+  },
+  "46": {
+    "numEdges": 2231,
+    "selfLinks": 0,
+    "sizeLargest": 528,
+    "averageInDegree": 3.0189445196211095,
+    "removed": "Anniversary",
+    "averagePathLength": 6.460669311712955,
+    "numNodes": 739,
+    "averageOutDegree": 3.0189445196211095
+  },
+  "47": {
+    "numEdges": 2202,
+    "selfLinks": 0,
+    "sizeLargest": 521,
+    "averageInDegree": 2.983739837398374,
+    "removed": "The Garage Sale",
+    "averagePathLength": 6.51967739554112,
+    "numNodes": 738,
+    "averageOutDegree": 2.983739837398374
+  },
+  "48": {
+    "numEdges": 2173,
+    "selfLinks": 0,
+    "sizeLargest": 520,
+    "averageInDegree": 2.948439620081411,
+    "removed": "Ally Barone",
+    "averagePathLength": 6.532444049207055,
+    "numNodes": 737,
+    "averageOutDegree": 2.948439620081411
+  },
+  "49": {
+    "numEdges": 2144,
+    "selfLinks": 0,
+    "sizeLargest": 519,
+    "averageInDegree": 2.9130434782608696,
+    "removed": "Kevin James",
+    "averagePathLength": 6.7444298137939755,
+    "numNodes": 736,
+    "averageOutDegree": 2.9130434782608696
+  },
+  "50": {
+    "numEdges": 2116,
+    "selfLinks": 0,
+    "sizeLargest": 518,
+    "averageInDegree": 2.8789115646258505,
+    "removed": "Debra's nicknames",
+    "averagePathLength": 7.221063008297051,
+    "numNodes": 735,
+    "averageOutDegree": 2.8789115646258505
+  },
+  "51": {
+    "numEdges": 2088,
+    "selfLinks": 0,
+    "sizeLargest": 507,
+    "averageInDegree": 2.844686648501362,
+    "removed": "The Letter",
+    "averagePathLength": 7.2665957231174625,
+    "numNodes": 734,
+    "averageOutDegree": 2.844686648501362
+  },
+  "52": {
+    "numEdges": 2061,
+    "selfLinks": 0,
+    "sizeLargest": 502,
+    "averageInDegree": 2.811732605729877,
+    "removed": "T-Ball",
+    "averagePathLength": 7.403126018878577,
+    "numNodes": 733,
+    "averageOutDegree": 2.811732605729877
+  },
+  "53": {
+    "numEdges": 2034,
+    "selfLinks": 0,
+    "sizeLargest": 502,
+    "averageInDegree": 2.778688524590164,
+    "removed": "New York Mets",
+    "averagePathLength": 7.403126018878577,
+    "numNodes": 732,
+    "averageOutDegree": 2.778688524590164
+  },
+  "54": {
+    "numEdges": 2008,
+    "selfLinks": 0,
+    "sizeLargest": 502,
+    "averageInDegree": 2.746922024623803,
+    "removed": "Quotes/Season 1",
+    "averagePathLength": 7.403126018878577,
+    "numNodes": 731,
+    "averageOutDegree": 2.746922024623803
+  },
+  "55": {
+    "numEdges": 1982,
+    "selfLinks": 0,
+    "sizeLargest": 498,
+    "averageInDegree": 2.7150684931506848,
+    "removed": "Mia Famiglia",
+    "averagePathLength": 7.532920414050569,
+    "numNodes": 730,
+    "averageOutDegree": 2.7150684931506848
+  },
+  "56": {
+    "numEdges": 1956,
+    "selfLinks": 0,
+    "sizeLargest": 493,
+    "averageInDegree": 2.683127572016461,
+    "removed": "Debra Barone",
+    "averagePathLength": 7.701306090140009,
+    "numNodes": 729,
+    "averageOutDegree": 2.683127572016461
+  },
+  "57": {
+    "numEdges": 1930,
+    "selfLinks": 0,
+    "sizeLargest": 489,
+    "averageInDegree": 2.651098901098901,
+    "removed": "The Ride-Along",
+    "averagePathLength": 7.899925408159844,
+    "numNodes": 728,
+    "averageOutDegree": 2.651098901098901
+  },
+  "58": {
+    "numEdges": 1905,
+    "selfLinks": 0,
+    "sizeLargest": 486,
+    "averageInDegree": 2.6203576341127923,
+    "removed": "Turkey or Fish",
+    "averagePathLength": 8.140982563319334,
+    "numNodes": 727,
+    "averageOutDegree": 2.6203576341127923
+  },
+  "59": {
+    "numEdges": 1881,
+    "selfLinks": 0,
+    "sizeLargest": 484,
+    "averageInDegree": 2.590909090909091,
+    "removed": "Frank Barone",
+    "averagePathLength": 8.260266413428468,
+    "numNodes": 726,
+    "averageOutDegree": 2.590909090909091
+  },
+  "60": {
+    "numEdges": 1857,
+    "selfLinks": 0,
+    "sizeLargest": 480,
+    "averageInDegree": 2.5613793103448277,
+    "removed": "Working Late Again",
+    "averagePathLength": 8.42936238691719,
+    "numNodes": 725,
+    "averageOutDegree": 2.5613793103448277
+  },
+  "61": {
+    "numEdges": 1834,
+    "selfLinks": 0,
+    "sizeLargest": 476,
+    "averageInDegree": 2.5331491712707184,
+    "removed": "Nemo's Pizza",
+    "averagePathLength": 8.691052631578948,
+    "numNodes": 724,
+    "averageOutDegree": 2.5331491712707184
+  },
+  "62": {
+    "numEdges": 1811,
+    "selfLinks": 0,
+    "sizeLargest": 467,
+    "averageInDegree": 2.504840940525588,
+    "removed": "Diamonds",
+    "averagePathLength": 8.837920798448685,
+    "numNodes": 723,
+    "averageOutDegree": 2.504840940525588
+  },
+  "63": {
+    "numEdges": 1788,
+    "selfLinks": 0,
+    "sizeLargest": 455,
+    "averageInDegree": 2.4764542936288088,
+    "removed": "The Gift",
+    "averagePathLength": 8.663925061722418,
+    "numNodes": 722,
+    "averageOutDegree": 2.4764542936288088
+  },
+  "64": {
+    "numEdges": 1765,
+    "selfLinks": 0,
+    "sizeLargest": 453,
+    "averageInDegree": 2.4479889042995837,
+    "removed": "The Lone Barone",
+    "averagePathLength": 8.922380784934264,
+    "numNodes": 721,
+    "averageOutDegree": 2.4479889042995837
+  },
+  "65": {
+    "numEdges": 1743,
+    "selfLinks": 0,
+    "sizeLargest": 451,
+    "averageInDegree": 2.4208333333333334,
+    "removed": "The Apartment",
+    "averagePathLength": 9.211953683173196,
+    "numNodes": 720,
+    "averageOutDegree": 2.4208333333333334
+  },
+  "66": {
+    "numEdges": 1721,
+    "selfLinks": 0,
+    "sizeLargest": 442,
+    "averageInDegree": 2.3936022253129345,
+    "removed": "Fascinatin' Debra",
+    "averagePathLength": 9.35117636798309,
+    "numNodes": 719,
+    "averageOutDegree": 2.3936022253129345
+  },
+  "67": {
+    "numEdges": 1700,
+    "selfLinks": 0,
+    "sizeLargest": 438,
+    "averageInDegree": 2.367688022284123,
+    "removed": "In-Laws",
+    "averagePathLength": 9.505365558028483,
+    "numNodes": 718,
+    "averageOutDegree": 2.367688022284123
+  },
+  "68": {
+    "numEdges": 1679,
+    "selfLinks": 0,
+    "sizeLargest": 435,
+    "averageInDegree": 2.3417015341701535,
+    "removed": "The Dog",
+    "averagePathLength": 9.656856825043699,
+    "numNodes": 717,
+    "averageOutDegree": 2.3417015341701535
+  },
+  "69": {
+    "numEdges": 1658,
+    "selfLinks": 0,
+    "sizeLargest": 426,
+    "averageInDegree": 2.315642458100559,
+    "removed": "Ray Home Alone",
+    "averagePathLength": 9.606672190002762,
+    "numNodes": 716,
+    "averageOutDegree": 2.315642458100559
+  },
+  "70": {
+    "numEdges": 1638,
+    "selfLinks": 0,
+    "sizeLargest": 425,
+    "averageInDegree": 2.290909090909091,
+    "removed": "Season 2 DVD",
+    "averagePathLength": 9.810677025527193,
+    "numNodes": 715,
+    "averageOutDegree": 2.290909090909091
+  },
+  "71": {
+    "numEdges": 1619,
+    "selfLinks": 0,
+    "sizeLargest": 424,
+    "averageInDegree": 2.2675070028011204,
+    "removed": "Geoffrey Barone",
+    "averagePathLength": 9.838524242829743,
+    "numNodes": 714,
+    "averageOutDegree": 2.2675070028011204
+  },
+  "72": {
+    "numEdges": 1600,
+    "selfLinks": 0,
+    "sizeLargest": 424,
+    "averageInDegree": 2.244039270687237,
+    "removed": "Everybody Loves Raymond",
+    "averagePathLength": 9.838524242829743,
+    "numNodes": 713,
+    "averageOutDegree": 2.244039270687237
+  },
+  "73": {
+    "numEdges": 1582,
+    "selfLinks": 0,
+    "sizeLargest": 418,
+    "averageInDegree": 2.2219101123595504,
+    "removed": "Move Over",
+    "averagePathLength": 9.780621435865662,
+    "numNodes": 712,
+    "averageOutDegree": 2.2219101123595504
+  },
+  "74": {
+    "numEdges": 1564,
+    "selfLinks": 0,
+    "sizeLargest": 395,
+    "averageInDegree": 2.19971870604782,
+    "removed": "Look Don't Touch",
+    "averagePathLength": 9.61535051082696,
+    "numNodes": 711,
+    "averageOutDegree": 2.19971870604782
+  },
+  "75": {
+    "numEdges": 1546,
+    "selfLinks": 0,
+    "sizeLargest": 386,
+    "averageInDegree": 2.1774647887323946,
+    "removed": "Main Page",
+    "averagePathLength": 9.713841598815693,
+    "numNodes": 710,
+    "averageOutDegree": 2.1774647887323946
+  },
+  "76": {
+    "numEdges": 1528,
+    "selfLinks": 0,
+    "sizeLargest": 385,
+    "averageInDegree": 2.155148095909732,
+    "removed": "The Car",
+    "averagePathLength": 10.209902597402598,
+    "numNodes": 709,
+    "averageOutDegree": 2.155148095909732
+  },
+  "77": {
+    "numEdges": 1511,
+    "selfLinks": 0,
+    "sizeLargest": 383,
+    "averageInDegree": 2.134180790960452,
+    "removed": "Moving Out",
+    "averagePathLength": 10.472660041283337,
+    "numNodes": 708,
+    "averageOutDegree": 2.134180790960452
+  },
+  "78": {
+    "numEdges": 1494,
+    "selfLinks": 0,
+    "sizeLargest": 374,
+    "averageInDegree": 2.113154172560113,
+    "removed": "Robert's Date",
+    "averagePathLength": 10.422338030995972,
+    "numNodes": 707,
+    "averageOutDegree": 2.113154172560113
+  },
+  "79": {
+    "numEdges": 1477,
+    "selfLinks": 0,
+    "sizeLargest": 371,
+    "averageInDegree": 2.092067988668555,
+    "removed": "The Wedding: Part 1",
+    "averagePathLength": 10.448998324470022,
+    "numNodes": 706,
+    "averageOutDegree": 2.092067988668555
+  },
+  "80": {
+    "numEdges": 1460,
+    "selfLinks": 0,
+    "sizeLargest": 366,
+    "averageInDegree": 2.0709219858156027,
+    "removed": "The Checkbook",
+    "averagePathLength": 10.542046560371285,
+    "numNodes": 705,
+    "averageOutDegree": 2.0709219858156027
+  },
+  "81": {
+    "numEdges": 1444,
+    "selfLinks": 0,
+    "sizeLargest": 341,
+    "averageInDegree": 2.0511363636363638,
+    "removed": "The Sitter",
+    "averagePathLength": 10.05922028635501,
+    "numNodes": 704,
+    "averageOutDegree": 2.0511363636363638
+  },
+  "82": {
+    "numEdges": 1428,
+    "selfLinks": 0,
+    "sizeLargest": 337,
+    "averageInDegree": 2.0312944523470837,
+    "removed": "2004",
+    "averagePathLength": 10.828405397767416,
+    "numNodes": 703,
+    "averageOutDegree": 2.0312944523470837
+  }
+}

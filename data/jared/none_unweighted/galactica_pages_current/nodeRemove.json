@@ -1,0 +1,132 @@
+{
+  "0": {
+    "numEdges": 1055,
+    "selfLinks": 5,
+    "sizeLargest": 169,
+    "averageInDegree": 3.4818481848184817,
+    "removed": "33",
+    "averagePathLength": 4.500140884756269,
+    "numNodes": 303,
+    "averageOutDegree": 3.4818481848184817
+  },
+  "1": {
+    "numEdges": 1001,
+    "selfLinks": 5,
+    "sizeLargest": 163,
+    "averageInDegree": 3.314569536423841,
+    "removed": "Colonial Fleet",
+    "averagePathLength": 4.583996061501174,
+    "numNodes": 302,
+    "averageOutDegree": 3.314569536423841
+  },
+  "2": {
+    "numEdges": 950,
+    "selfLinks": 5,
+    "sizeLargest": 160,
+    "averageInDegree": 3.1561461794019934,
+    "removed": "William Adama",
+    "averagePathLength": 4.770990566037736,
+    "numNodes": 301,
+    "averageOutDegree": 3.1561461794019934
+  },
+  "3": {
+    "numEdges": 902,
+    "selfLinks": 5,
+    "sizeLargest": 141,
+    "averageInDegree": 3.006666666666667,
+    "removed": "Battlestar Galactica (1978 Series)",
+    "averagePathLength": 4.6707193515704155,
+    "numNodes": 300,
+    "averageOutDegree": 3.006666666666667
+  },
+  "4": {
+    "numEdges": 861,
+    "selfLinks": 5,
+    "sizeLargest": 132,
+    "averageInDegree": 2.879598662207358,
+    "removed": "Battlestar Galactica (2004 Series)",
+    "averagePathLength": 4.874855424473745,
+    "numNodes": 299,
+    "averageOutDegree": 2.879598662207358
+  },
+  "5": {
+    "numEdges": 823,
+    "selfLinks": 5,
+    "sizeLargest": 129,
+    "averageInDegree": 2.761744966442953,
+    "removed": "Twelve Colonies",
+    "averagePathLength": 5.029857073643411,
+    "numNodes": 298,
+    "averageOutDegree": 2.761744966442953
+  },
+  "6": {
+    "numEdges": 789,
+    "selfLinks": 5,
+    "sizeLargest": 126,
+    "averageInDegree": 2.6565656565656566,
+    "removed": "Battlestar Galactica (TV miniseries)",
+    "averagePathLength": 5.38215873015873,
+    "numNodes": 297,
+    "averageOutDegree": 2.6565656565656566
+  },
+  "7": {
+    "numEdges": 761,
+    "selfLinks": 5,
+    "sizeLargest": 124,
+    "averageInDegree": 2.570945945945946,
+    "removed": "Battlestar",
+    "averagePathLength": 5.54281405717283,
+    "numNodes": 296,
+    "averageOutDegree": 2.570945945945946
+  },
+  "8": {
+    "numEdges": 733,
+    "selfLinks": 5,
+    "sizeLargest": 123,
+    "averageInDegree": 2.4847457627118645,
+    "removed": "Cylon",
+    "averagePathLength": 5.520591763294682,
+    "numNodes": 295,
+    "averageOutDegree": 2.4847457627118645
+  },
+  "9": {
+    "numEdges": 706,
+    "selfLinks": 5,
+    "sizeLargest": 118,
+    "averageInDegree": 2.401360544217687,
+    "removed": "Galactica",
+    "averagePathLength": 5.705200637404027,
+    "numNodes": 294,
+    "averageOutDegree": 2.401360544217687
+  },
+  "10": {
+    "numEdges": 682,
+    "selfLinks": 5,
+    "sizeLargest": 104,
+    "averageInDegree": 2.3276450511945392,
+    "removed": "Caprica",
+    "averagePathLength": 5.6859596713965646,
+    "numNodes": 293,
+    "averageOutDegree": 2.3276450511945392
+  },
+  "11": {
+    "numEdges": 659,
+    "selfLinks": 5,
+    "sizeLargest": 92,
+    "averageInDegree": 2.256849315068493,
+    "removed": "Battlestar Triton-TNS",
+    "averagePathLength": 5.732202580028667,
+    "numNodes": 292,
+    "averageOutDegree": 2.256849315068493
+  },
+  "12": {
+    "numEdges": 636,
+    "selfLinks": 5,
+    "sizeLargest": 88,
+    "averageInDegree": 2.185567010309278,
+    "removed": "Helena Cain",
+    "averagePathLength": 5.873432601880878,
+    "numNodes": 291,
+    "averageOutDegree": 2.185567010309278
+  }
+}

@@ -1,0 +1,1252 @@
+{
+  "0": {
+    "numEdges": 11701,
+    "selfLinks": 1,
+    "sizeLargest": 709,
+    "averageInDegree": 4.8673044925124795,
+    "removed": "Seeley Booth",
+    "averagePathLength": 3.305921445817695,
+    "numNodes": 2404,
+    "averageOutDegree": 4.8673044925124795
+  },
+  "1": {
+    "numEdges": 11257,
+    "selfLinks": 1,
+    "sizeLargest": 684,
+    "averageInDegree": 4.684560965459842,
+    "removed": "Temperance Brennan",
+    "averagePathLength": 3.382306730711601,
+    "numNodes": 2403,
+    "averageOutDegree": 4.684560965459842
+  },
+  "2": {
+    "numEdges": 10892,
+    "selfLinks": 1,
+    "sizeLargest": 679,
+    "averageInDegree": 4.5345545378850955,
+    "removed": "Jack Hodgins",
+    "averagePathLength": 3.4542642529140113,
+    "numNodes": 2402,
+    "averageOutDegree": 4.5345545378850955
+  },
+  "3": {
+    "numEdges": 10558,
+    "selfLinks": 1,
+    "sizeLargest": 668,
+    "averageInDegree": 4.397334443981674,
+    "removed": "Angela Montenegro",
+    "averagePathLength": 3.5033912684376376,
+    "numNodes": 2401,
+    "averageOutDegree": 4.397334443981674
+  },
+  "4": {
+    "numEdges": 10240,
+    "selfLinks": 1,
+    "sizeLargest": 665,
+    "averageInDegree": 4.266666666666667,
+    "removed": "Camille Saroyan",
+    "averagePathLength": 3.5772873448681946,
+    "numNodes": 2400,
+    "averageOutDegree": 4.266666666666667
+  },
+  "5": {
+    "numEdges": 9927,
+    "selfLinks": 0,
+    "sizeLargest": 662,
+    "averageInDegree": 4.1379741558982905,
+    "removed": "Bones (TV series)",
+    "averagePathLength": 3.631161702263804,
+    "numNodes": 2399,
+    "averageOutDegree": 4.1379741558982905
+  },
+  "6": {
+    "numEdges": 9638,
+    "selfLinks": 0,
+    "sizeLargest": 661,
+    "averageInDegree": 4.0191826522101755,
+    "removed": "Emily Deschanel",
+    "averagePathLength": 3.6423371384037044,
+    "numNodes": 2398,
+    "averageOutDegree": 4.0191826522101755
+  },
+  "7": {
+    "numEdges": 9359,
+    "selfLinks": 0,
+    "sizeLargest": 660,
+    "averageInDegree": 3.9044639132248644,
+    "removed": "David Boreanaz",
+    "averagePathLength": 3.649629834000092,
+    "numNodes": 2397,
+    "averageOutDegree": 3.9044639132248644
+  },
+  "8": {
+    "numEdges": 9085,
+    "selfLinks": 0,
+    "sizeLargest": 659,
+    "averageInDegree": 3.791736227045075,
+    "removed": "Michaela Conlin",
+    "averagePathLength": 3.654662355692285,
+    "numNodes": 2396,
+    "averageOutDegree": 3.791736227045075
+  },
+  "9": {
+    "numEdges": 8836,
+    "selfLinks": 0,
+    "sizeLargest": 655,
+    "averageInDegree": 3.6893528183716073,
+    "removed": "Lance Sweets",
+    "averagePathLength": 3.7580806312300115,
+    "numNodes": 2395,
+    "averageOutDegree": 3.6893528183716073
+  },
+  "10": {
+    "numEdges": 8589,
+    "selfLinks": 0,
+    "sizeLargest": 654,
+    "averageInDegree": 3.587719298245614,
+    "removed": "Tamara Taylor",
+    "averagePathLength": 3.7764141974701566,
+    "numNodes": 2394,
+    "averageOutDegree": 3.587719298245614
+  },
+  "11": {
+    "numEdges": 8360,
+    "selfLinks": 0,
+    "sizeLargest": 653,
+    "averageInDegree": 3.493522774759716,
+    "removed": "T.J Thyne",
+    "averagePathLength": 3.7787206756921803,
+    "numNodes": 2393,
+    "averageOutDegree": 3.493522774759716
+  },
+  "12": {
+    "numEdges": 8201,
+    "selfLinks": 0,
+    "sizeLargest": 652,
+    "averageInDegree": 3.4285117056856187,
+    "removed": "John Francis Daley",
+    "averagePathLength": 3.785290209493653,
+    "numNodes": 2392,
+    "averageOutDegree": 3.4285117056856187
+  },
+  "13": {
+    "numEdges": 8048,
+    "selfLinks": 0,
+    "sizeLargest": 640,
+    "averageInDegree": 3.3659556670849016,
+    "removed": "Zack Addy",
+    "averagePathLength": 3.8663487871674493,
+    "numNodes": 2391,
+    "averageOutDegree": 3.3659556670849016
+  },
+  "14": {
+    "numEdges": 7926,
+    "selfLinks": 0,
+    "sizeLargest": 639,
+    "averageInDegree": 3.316317991631799,
+    "removed": "I don't know what that means",
+    "averagePathLength": 3.952472760632061,
+    "numNodes": 2390,
+    "averageOutDegree": 3.316317991631799
+  },
+  "15": {
+    "numEdges": 7808,
+    "selfLinks": 0,
+    "sizeLargest": 637,
+    "averageInDegree": 3.268313101716199,
+    "removed": "Wendell Bray",
+    "averagePathLength": 4.040658353326817,
+    "numNodes": 2389,
+    "averageOutDegree": 3.268313101716199
+  },
+  "16": {
+    "numEdges": 7703,
+    "selfLinks": 0,
+    "sizeLargest": 636,
+    "averageInDegree": 3.22571189279732,
+    "removed": "Season 4",
+    "averagePathLength": 4.061546080324865,
+    "numNodes": 2388,
+    "averageOutDegree": 3.22571189279732
+  },
+  "17": {
+    "numEdges": 7604,
+    "selfLinks": 0,
+    "sizeLargest": 632,
+    "averageInDegree": 3.185588604943444,
+    "removed": "Caroline Julian",
+    "averagePathLength": 4.110037312684306,
+    "numNodes": 2387,
+    "averageOutDegree": 3.185588604943444
+  },
+  "18": {
+    "numEdges": 7507,
+    "selfLinks": 0,
+    "sizeLargest": 631,
+    "averageInDegree": 3.1462699077954737,
+    "removed": "Season 2",
+    "averagePathLength": 4.142120091565417,
+    "numNodes": 2386,
+    "averageOutDegree": 3.1462699077954737
+  },
+  "19": {
+    "numEdges": 7412,
+    "selfLinks": 0,
+    "sizeLargest": 629,
+    "averageInDegree": 3.1077568134171907,
+    "removed": "James Aubrey",
+    "averagePathLength": 4.167291120269764,
+    "numNodes": 2385,
+    "averageOutDegree": 3.1077568134171907
+  },
+  "20": {
+    "numEdges": 7321,
+    "selfLinks": 0,
+    "sizeLargest": 628,
+    "averageInDegree": 3.0708892617449663,
+    "removed": "Season 11",
+    "averagePathLength": 4.197251597435976,
+    "numNodes": 2384,
+    "averageOutDegree": 3.0708892617449663
+  },
+  "21": {
+    "numEdges": 7230,
+    "selfLinks": 0,
+    "sizeLargest": 627,
+    "averageInDegree": 3.033990767939572,
+    "removed": "Season 5",
+    "averagePathLength": 4.228144060412431,
+    "numNodes": 2383,
+    "averageOutDegree": 3.033990767939572
+  },
+  "22": {
+    "numEdges": 7145,
+    "selfLinks": 0,
+    "sizeLargest": 625,
+    "averageInDegree": 2.999580184718724,
+    "removed": "Season 8",
+    "averagePathLength": 4.249074358974359,
+    "numNodes": 2382,
+    "averageOutDegree": 2.999580184718724
+  },
+  "23": {
+    "numEdges": 7063,
+    "selfLinks": 0,
+    "sizeLargest": 624,
+    "averageInDegree": 2.9664006719865603,
+    "removed": "Season 1",
+    "averagePathLength": 4.291484030950323,
+    "numNodes": 2381,
+    "averageOutDegree": 2.9664006719865603
+  },
+  "24": {
+    "numEdges": 6982,
+    "selfLinks": 0,
+    "sizeLargest": 618,
+    "averageInDegree": 2.933613445378151,
+    "removed": "Daisy Wick",
+    "averagePathLength": 4.379839289179819,
+    "numNodes": 2380,
+    "averageOutDegree": 2.933613445378151
+  },
+  "25": {
+    "numEdges": 6903,
+    "selfLinks": 0,
+    "sizeLargest": 615,
+    "averageInDegree": 2.901639344262295,
+    "removed": "Bones and Booth",
+    "averagePathLength": 4.3863854241148275,
+    "numNodes": 2379,
+    "averageOutDegree": 2.901639344262295
+  },
+  "26": {
+    "numEdges": 6825,
+    "selfLinks": 0,
+    "sizeLargest": 615,
+    "averageInDegree": 2.870058873002523,
+    "removed": "Title Sequence",
+    "averagePathLength": 4.3863854241148275,
+    "numNodes": 2378,
+    "averageOutDegree": 2.870058873002523
+  },
+  "27": {
+    "numEdges": 6749,
+    "selfLinks": 0,
+    "sizeLargest": 614,
+    "averageInDegree": 2.8392932267564155,
+    "removed": "Season 7",
+    "averagePathLength": 4.4165183244682265,
+    "numNodes": 2377,
+    "averageOutDegree": 2.8392932267564155
+  },
+  "28": {
+    "numEdges": 6673,
+    "selfLinks": 0,
+    "sizeLargest": 613,
+    "averageInDegree": 2.8085016835016834,
+    "removed": "Season 6",
+    "averagePathLength": 4.443508833658531,
+    "numNodes": 2376,
+    "averageOutDegree": 2.8085016835016834
+  },
+  "29": {
+    "numEdges": 6599,
+    "selfLinks": 0,
+    "sizeLargest": 607,
+    "averageInDegree": 2.7785263157894735,
+    "removed": "Arastoo Vaziri",
+    "averagePathLength": 4.545253124983009,
+    "numNodes": 2375,
+    "averageOutDegree": 2.7785263157894735
+  },
+  "30": {
+    "numEdges": 6525,
+    "selfLinks": 0,
+    "sizeLargest": 606,
+    "averageInDegree": 2.7485256950294863,
+    "removed": "Christine Booth",
+    "averagePathLength": 4.585955868314104,
+    "numNodes": 2374,
+    "averageOutDegree": 2.7485256950294863
+  },
+  "31": {
+    "numEdges": 6452,
+    "selfLinks": 0,
+    "sizeLargest": 605,
+    "averageInDegree": 2.718921196797303,
+    "removed": "Eric Millegan",
+    "averagePathLength": 4.586954737014942,
+    "numNodes": 2373,
+    "averageOutDegree": 2.718921196797303
+  },
+  "32": {
+    "numEdges": 6384,
+    "selfLinks": 0,
+    "sizeLargest": 601,
+    "averageInDegree": 2.6913996627318717,
+    "removed": "Season 9",
+    "averagePathLength": 4.603491403216861,
+    "numNodes": 2372,
+    "averageOutDegree": 2.6913996627318717
+  },
+  "33": {
+    "numEdges": 6320,
+    "selfLinks": 0,
+    "sizeLargest": 601,
+    "averageInDegree": 2.6655419654154366,
+    "removed": "Season 10",
+    "averagePathLength": 4.603491403216861,
+    "numNodes": 2371,
+    "averageOutDegree": 2.6655419654154366
+  },
+  "34": {
+    "numEdges": 6257,
+    "selfLinks": 0,
+    "sizeLargest": 597,
+    "averageInDegree": 2.640084388185654,
+    "removed": "Season 3",
+    "averagePathLength": 4.603692399356964,
+    "numNodes": 2370,
+    "averageOutDegree": 2.640084388185654
+  },
+  "35": {
+    "numEdges": 6195,
+    "selfLinks": 0,
+    "sizeLargest": 593,
+    "averageInDegree": 2.615027437737442,
+    "removed": "Max Keenan",
+    "averagePathLength": 4.658177042978898,
+    "numNodes": 2369,
+    "averageOutDegree": 2.615027437737442
+  },
+  "36": {
+    "numEdges": 6133,
+    "selfLinks": 0,
+    "sizeLargest": 591,
+    "averageInDegree": 2.589949324324324,
+    "removed": "Clark Edison",
+    "averagePathLength": 4.755071840316614,
+    "numNodes": 2368,
+    "averageOutDegree": 2.589949324324324
+  },
+  "37": {
+    "numEdges": 6075,
+    "selfLinks": 0,
+    "sizeLargest": 587,
+    "averageInDegree": 2.5665399239543727,
+    "removed": "Season 12",
+    "averagePathLength": 4.775383595653261,
+    "numNodes": 2367,
+    "averageOutDegree": 2.5665399239543727
+  },
+  "38": {
+    "numEdges": 6017,
+    "selfLinks": 0,
+    "sizeLargest": 584,
+    "averageInDegree": 2.543110735418428,
+    "removed": "Parker Booth",
+    "averagePathLength": 4.825809464508095,
+    "numNodes": 2366,
+    "averageOutDegree": 2.543110735418428
+  },
+  "39": {
+    "numEdges": 5960,
+    "selfLinks": 0,
+    "sizeLargest": 577,
+    "averageInDegree": 2.5200845665961946,
+    "removed": "Jeffersonian Institute",
+    "averagePathLength": 4.97085319179665,
+    "numNodes": 2365,
+    "averageOutDegree": 2.5200845665961946
+  },
+  "40": {
+    "numEdges": 5904,
+    "selfLinks": 0,
+    "sizeLargest": 577,
+    "averageInDegree": 2.49746192893401,
+    "removed": "John Boyd",
+    "averagePathLength": 4.97085319179665,
+    "numNodes": 2364,
+    "averageOutDegree": 2.49746192893401
+  },
+  "41": {
+    "numEdges": 5849,
+    "selfLinks": 0,
+    "sizeLargest": 577,
+    "averageInDegree": 2.4752433347439697,
+    "removed": "Caroline Julian/List of Appearances",
+    "averagePathLength": 4.97085319179665,
+    "numNodes": 2363,
+    "averageOutDegree": 2.4752433347439697
+  },
+  "42": {
+    "numEdges": 5798,
+    "selfLinks": 0,
+    "sizeLargest": 577,
+    "averageInDegree": 2.4546994072819643,
+    "removed": "Patricia Belcher",
+    "averagePathLength": 4.97085319179665,
+    "numNodes": 2362,
+    "averageOutDegree": 2.4546994072819643
+  },
+  "43": {
+    "numEdges": 5748,
+    "selfLinks": 0,
+    "sizeLargest": 573,
+    "averageInDegree": 2.434561626429479,
+    "removed": "Christopher Pelant",
+    "averagePathLength": 5.007496430271299,
+    "numNodes": 2361,
+    "averageOutDegree": 2.434561626429479
+  },
+  "44": {
+    "numEdges": 5708,
+    "selfLinks": 0,
+    "sizeLargest": 570,
+    "averageInDegree": 2.41864406779661,
+    "removed": "Colin Fisher",
+    "averagePathLength": 5.071495082169395,
+    "numNodes": 2360,
+    "averageOutDegree": 2.41864406779661
+  },
+  "45": {
+    "numEdges": 5669,
+    "selfLinks": 0,
+    "sizeLargest": 568,
+    "averageInDegree": 2.403136922424756,
+    "removed": "Vincent Nigel-Murray",
+    "averagePathLength": 5.188085301935067,
+    "numNodes": 2359,
+    "averageOutDegree": 2.403136922424756
+  },
+  "46": {
+    "numEdges": 5631,
+    "selfLinks": 0,
+    "sizeLargest": 568,
+    "averageInDegree": 2.3880407124681935,
+    "removed": "Michael Grant Terry",
+    "averagePathLength": 5.188085301935067,
+    "numNodes": 2358,
+    "averageOutDegree": 2.3880407124681935
+  },
+  "47": {
+    "numEdges": 5594,
+    "selfLinks": 0,
+    "sizeLargest": 568,
+    "averageInDegree": 2.373355960967331,
+    "removed": "Angela and Hodgins",
+    "averagePathLength": 5.188085301935067,
+    "numNodes": 2357,
+    "averageOutDegree": 2.373355960967331
+  },
+  "48": {
+    "numEdges": 5557,
+    "selfLinks": 0,
+    "sizeLargest": 567,
+    "averageInDegree": 2.358658743633277,
+    "removed": "The 200th in the 10th",
+    "averagePathLength": 5.210960918852556,
+    "numNodes": 2356,
+    "averageOutDegree": 2.358658743633277
+  },
+  "49": {
+    "numEdges": 5521,
+    "selfLinks": 0,
+    "sizeLargest": 566,
+    "averageInDegree": 2.3443736730360936,
+    "removed": "Russ Brennan",
+    "averagePathLength": 5.246818224459802,
+    "numNodes": 2355,
+    "averageOutDegree": 2.3443736730360936
+  },
+  "50": {
+    "numEdges": 5486,
+    "selfLinks": 0,
+    "sizeLargest": 557,
+    "averageInDegree": 2.330501274426508,
+    "removed": "A Boy in the Tree",
+    "averagePathLength": 5.2321564651331,
+    "numNodes": 2354,
+    "averageOutDegree": 2.330501274426508
+  },
+  "51": {
+    "numEdges": 5452,
+    "selfLinks": 0,
+    "sizeLargest": 547,
+    "averageInDegree": 2.3170420739481514,
+    "removed": "The Salt in the Wounds",
+    "averagePathLength": 5.22598455779443,
+    "numNodes": 2353,
+    "averageOutDegree": 2.3170420739481514
+  },
+  "52": {
+    "numEdges": 5419,
+    "selfLinks": 0,
+    "sizeLargest": 547,
+    "averageInDegree": 2.303996598639456,
+    "removed": "Hart Hanson",
+    "averagePathLength": 5.22598455779443,
+    "numNodes": 2352,
+    "averageOutDegree": 2.303996598639456
+  },
+  "53": {
+    "numEdges": 5386,
+    "selfLinks": 0,
+    "sizeLargest": 545,
+    "averageInDegree": 2.290940025521055,
+    "removed": "Hank Booth II",
+    "averagePathLength": 5.263596195358877,
+    "numNodes": 2351,
+    "averageOutDegree": 2.290940025521055
+  },
+  "54": {
+    "numEdges": 5353,
+    "selfLinks": 0,
+    "sizeLargest": 543,
+    "averageInDegree": 2.277872340425532,
+    "removed": "The Verdict in the Victims",
+    "averagePathLength": 5.275689248605193,
+    "numNodes": 2350,
+    "averageOutDegree": 2.277872340425532
+  },
+  "55": {
+    "numEdges": 5321,
+    "selfLinks": 0,
+    "sizeLargest": 542,
+    "averageInDegree": 2.2652192422307365,
+    "removed": "The Knight on the Grid",
+    "averagePathLength": 5.302695568545334,
+    "numNodes": 2349,
+    "averageOutDegree": 2.2652192422307365
+  },
+  "56": {
+    "numEdges": 5289,
+    "selfLinks": 0,
+    "sizeLargest": 541,
+    "averageInDegree": 2.2525553662691653,
+    "removed": "The Woman in White",
+    "averagePathLength": 5.336602313959061,
+    "numNodes": 2348,
+    "averageOutDegree": 2.2525553662691653
+  },
+  "57": {
+    "numEdges": 5258,
+    "selfLinks": 0,
+    "sizeLargest": 536,
+    "averageInDegree": 2.24030677460588,
+    "removed": "Jacob Broadsky",
+    "averagePathLength": 5.3698005300599805,
+    "numNodes": 2347,
+    "averageOutDegree": 2.24030677460588
+  },
+  "58": {
+    "numEdges": 5228,
+    "selfLinks": 0,
+    "sizeLargest": 536,
+    "averageInDegree": 2.22847399829497,
+    "removed": "Arastoo Vaziri/List of Appearances",
+    "averagePathLength": 5.3698005300599805,
+    "numNodes": 2346,
+    "averageOutDegree": 2.22847399829497
+  },
+  "59": {
+    "numEdges": 5198,
+    "selfLinks": 0,
+    "sizeLargest": 521,
+    "averageInDegree": 2.216631130063966,
+    "removed": "Howard Epps",
+    "averagePathLength": 5.369810276096264,
+    "numNodes": 2345,
+    "averageOutDegree": 2.216631130063966
+  },
+  "60": {
+    "numEdges": 5169,
+    "selfLinks": 0,
+    "sizeLargest": 518,
+    "averageInDegree": 2.205204778156997,
+    "removed": "The Lance to the Heart",
+    "averagePathLength": 5.377358983741963,
+    "numNodes": 2344,
+    "averageOutDegree": 2.205204778156997
+  },
+  "61": {
+    "numEdges": 5140,
+    "selfLinks": 0,
+    "sizeLargest": 517,
+    "averageInDegree": 2.193768672641912,
+    "removed": "Federal Bureau of Investigation",
+    "averagePathLength": 5.516369783935345,
+    "numNodes": 2343,
+    "averageOutDegree": 2.193768672641912
+  },
+  "62": {
+    "numEdges": 5111,
+    "selfLinks": 0,
+    "sizeLargest": 516,
+    "averageInDegree": 2.1823228010247653,
+    "removed": "Stephen Nathan",
+    "averagePathLength": 5.585685256265522,
+    "numNodes": 2342,
+    "averageOutDegree": 2.1823228010247653
+  },
+  "63": {
+    "numEdges": 5082,
+    "selfLinks": 0,
+    "sizeLargest": 515,
+    "averageInDegree": 2.1708671507902606,
+    "removed": "The Shot in the Dark",
+    "averagePathLength": 5.610630501303313,
+    "numNodes": 2341,
+    "averageOutDegree": 2.1708671507902606
+  },
+  "64": {
+    "numEdges": 5054,
+    "selfLinks": 0,
+    "sizeLargest": 515,
+    "averageInDegree": 2.1598290598290597,
+    "removed": "Christine Booth/List of Appearances",
+    "averagePathLength": 5.610630501303313,
+    "numNodes": 2340,
+    "averageOutDegree": 2.1598290598290597
+  },
+  "65": {
+    "numEdges": 5026,
+    "selfLinks": 0,
+    "sizeLargest": 513,
+    "averageInDegree": 2.148781530568619,
+    "removed": "Jared Booth",
+    "averagePathLength": 5.666205988060429,
+    "numNodes": 2339,
+    "averageOutDegree": 2.148781530568619
+  },
+  "66": {
+    "numEdges": 4998,
+    "selfLinks": 0,
+    "sizeLargest": 513,
+    "averageInDegree": 2.1377245508982035,
+    "removed": "Daisy Wick/List of Appearances",
+    "averagePathLength": 5.666205988060429,
+    "numNodes": 2338,
+    "averageOutDegree": 2.1377245508982035
+  },
+  "67": {
+    "numEdges": 4970,
+    "selfLinks": 0,
+    "sizeLargest": 510,
+    "averageInDegree": 2.12665810868635,
+    "removed": "Jessica Warren",
+    "averagePathLength": 5.765472475827266,
+    "numNodes": 2337,
+    "averageOutDegree": 2.12665810868635
+  },
+  "68": {
+    "numEdges": 4943,
+    "selfLinks": 0,
+    "sizeLargest": 509,
+    "averageInDegree": 2.1160102739726026,
+    "removed": "The Perfect Pieces in the Purple Pond",
+    "averagePathLength": 5.780455733799483,
+    "numNodes": 2336,
+    "averageOutDegree": 2.1160102739726026
+  },
+  "69": {
+    "numEdges": 4916,
+    "selfLinks": 0,
+    "sizeLargest": 502,
+    "averageInDegree": 2.1053533190578158,
+    "removed": "The Girl in the Mask",
+    "averagePathLength": 5.777802959817417,
+    "numNodes": 2335,
+    "averageOutDegree": 2.1053533190578158
+  },
+  "70": {
+    "numEdges": 4889,
+    "selfLinks": 0,
+    "sizeLargest": 495,
+    "averageInDegree": 2.094687232219366,
+    "removed": "The Rocker in the Rinse Cycle",
+    "averagePathLength": 5.780190569664254,
+    "numNodes": 2334,
+    "averageOutDegree": 2.094687232219366
+  },
+  "71": {
+    "numEdges": 4862,
+    "selfLinks": 0,
+    "sizeLargest": 494,
+    "averageInDegree": 2.0840120017145307,
+    "removed": "Fire in the Ice",
+    "averagePathLength": 5.796412939041315,
+    "numNodes": 2333,
+    "averageOutDegree": 2.0840120017145307
+  },
+  "72": {
+    "numEdges": 4836,
+    "selfLinks": 0,
+    "sizeLargest": 487,
+    "averageInDegree": 2.073756432246998,
+    "removed": "The Patriot in Purgatory",
+    "averagePathLength": 5.80249448627272,
+    "numNodes": 2332,
+    "averageOutDegree": 2.073756432246998
+  },
+  "73": {
+    "numEdges": 4810,
+    "selfLinks": 0,
+    "sizeLargest": 485,
+    "averageInDegree": 2.0634920634920637,
+    "removed": "Mummy in the Maze",
+    "averagePathLength": 5.806168526880804,
+    "numNodes": 2331,
+    "averageOutDegree": 2.0634920634920637
+  },
+  "74": {
+    "numEdges": 4784,
+    "selfLinks": 0,
+    "sizeLargest": 483,
+    "averageInDegree": 2.0532188841201715,
+    "removed": "The Soldier on the Grave",
+    "averagePathLength": 5.814261659922854,
+    "numNodes": 2330,
+    "averageOutDegree": 2.0532188841201715
+  },
+  "75": {
+    "numEdges": 4758,
+    "selfLinks": 0,
+    "sizeLargest": 482,
+    "averageInDegree": 2.04293688278231,
+    "removed": "Pilot",
+    "averagePathLength": 5.820606274963121,
+    "numNodes": 2329,
+    "averageOutDegree": 2.04293688278231
+  },
+  "76": {
+    "numEdges": 4732,
+    "selfLinks": 0,
+    "sizeLargest": 478,
+    "averageInDegree": 2.0326460481099655,
+    "removed": "The Girl in the Gator",
+    "averagePathLength": 5.862464145680377,
+    "numNodes": 2328,
+    "averageOutDegree": 2.0326460481099655
+  },
+  "77": {
+    "numEdges": 4706,
+    "selfLinks": 0,
+    "sizeLargest": 477,
+    "averageInDegree": 2.022346368715084,
+    "removed": "The Man in the Outhouse",
+    "averagePathLength": 5.876631784789388,
+    "numNodes": 2327,
+    "averageOutDegree": 2.022346368715084
+  },
+  "78": {
+    "numEdges": 4680,
+    "selfLinks": 0,
+    "sizeLargest": 476,
+    "averageInDegree": 2.0120378331900257,
+    "removed": "Yanks in the U.K.",
+    "averagePathLength": 5.885802742149491,
+    "numNodes": 2326,
+    "averageOutDegree": 2.0120378331900257
+  },
+  "79": {
+    "numEdges": 4655,
+    "selfLinks": 0,
+    "sizeLargest": 475,
+    "averageInDegree": 2.0021505376344084,
+    "removed": "Aliens in a Spaceship",
+    "averagePathLength": 5.927732622695981,
+    "numNodes": 2325,
+    "averageOutDegree": 2.0021505376344084
+  },
+  "80": {
+    "numEdges": 4630,
+    "selfLinks": 0,
+    "sizeLargest": 473,
+    "averageInDegree": 1.9922547332185887,
+    "removed": "The Goop on the Girl",
+    "averagePathLength": 5.979476475436271,
+    "numNodes": 2324,
+    "averageOutDegree": 1.9922547332185887
+  },
+  "81": {
+    "numEdges": 4605,
+    "selfLinks": 0,
+    "sizeLargest": 472,
+    "averageInDegree": 1.9823504089539388,
+    "removed": "The Baker in the Bits",
+    "averagePathLength": 5.998520097880457,
+    "numNodes": 2323,
+    "averageOutDegree": 1.9823504089539388
+  },
+  "82": {
+    "numEdges": 4580,
+    "selfLinks": 0,
+    "sizeLargest": 470,
+    "averageInDegree": 1.9724375538329026,
+    "removed": "The Man in the Morgue",
+    "averagePathLength": 6.018495667558862,
+    "numNodes": 2322,
+    "averageOutDegree": 1.9724375538329026
+  },
+  "83": {
+    "numEdges": 4556,
+    "selfLinks": 0,
+    "sizeLargest": 469,
+    "averageInDegree": 1.962947005601034,
+    "removed": "The Suit on the Set",
+    "averagePathLength": 6.039231498186722,
+    "numNodes": 2321,
+    "averageOutDegree": 1.962947005601034
+  },
+  "84": {
+    "numEdges": 4532,
+    "selfLinks": 0,
+    "sizeLargest": 468,
+    "averageInDegree": 1.953448275862069,
+    "removed": "The Woman in the Car",
+    "averagePathLength": 6.100367869104486,
+    "numNodes": 2320,
+    "averageOutDegree": 1.953448275862069
+  },
+  "85": {
+    "numEdges": 4508,
+    "selfLinks": 0,
+    "sizeLargest": 465,
+    "averageInDegree": 1.9439413540319104,
+    "removed": "The Critic in the Cabernet",
+    "averagePathLength": 6.104597701149426,
+    "numNodes": 2319,
+    "averageOutDegree": 1.9439413540319104
+  },
+  "86": {
+    "numEdges": 4484,
+    "selfLinks": 0,
+    "sizeLargest": 461,
+    "averageInDegree": 1.9344262295081966,
+    "removed": "The Princess and the Pear",
+    "averagePathLength": 6.118622088088277,
+    "numNodes": 2318,
+    "averageOutDegree": 1.9344262295081966
+  },
+  "87": {
+    "numEdges": 4460,
+    "selfLinks": 0,
+    "sizeLargest": 460,
+    "averageInDegree": 1.9249028916702633,
+    "removed": "The Passenger in the Oven",
+    "averagePathLength": 6.14750876195889,
+    "numNodes": 2317,
+    "averageOutDegree": 1.9249028916702633
+  },
+  "88": {
+    "numEdges": 4436,
+    "selfLinks": 0,
+    "sizeLargest": 459,
+    "averageInDegree": 1.915371329879102,
+    "removed": "The Day in the Life",
+    "averagePathLength": 6.212389759397209,
+    "numNodes": 2316,
+    "averageOutDegree": 1.915371329879102
+  },
+  "89": {
+    "numEdges": 4412,
+    "selfLinks": 0,
+    "sizeLargest": 451,
+    "averageInDegree": 1.9058315334773217,
+    "removed": "The Signs in the Silence",
+    "averagePathLength": 6.24570091155457,
+    "numNodes": 2315,
+    "averageOutDegree": 1.9058315334773217
+  },
+  "90": {
+    "numEdges": 4388,
+    "selfLinks": 0,
+    "sizeLargest": 449,
+    "averageInDegree": 1.8962834917891098,
+    "removed": "Gordon Wyatt",
+    "averagePathLength": 6.400925668151448,
+    "numNodes": 2314,
+    "averageOutDegree": 1.8962834917891098
+  },
+  "91": {
+    "numEdges": 4364,
+    "selfLinks": 0,
+    "sizeLargest": 445,
+    "averageInDegree": 1.8867271941201902,
+    "removed": "Judas on a Pole",
+    "averagePathLength": 6.4003289806660595,
+    "numNodes": 2313,
+    "averageOutDegree": 1.8867271941201902
+  },
+  "92": {
+    "numEdges": 4341,
+    "selfLinks": 0,
+    "sizeLargest": 444,
+    "averageInDegree": 1.8775951557093427,
+    "removed": "The Boneless Bride in the River",
+    "averagePathLength": 6.4263264393061235,
+    "numNodes": 2312,
+    "averageOutDegree": 1.8775951557093427
+  },
+  "93": {
+    "numEdges": 4318,
+    "selfLinks": 0,
+    "sizeLargest": 435,
+    "averageInDegree": 1.86845521419299,
+    "removed": "The Finder",
+    "averagePathLength": 6.383087027914614,
+    "numNodes": 2311,
+    "averageOutDegree": 1.86845521419299
+  },
+  "94": {
+    "numEdges": 4295,
+    "selfLinks": 0,
+    "sizeLargest": 433,
+    "averageInDegree": 1.8593073593073592,
+    "removed": "A Man on Death Row",
+    "averagePathLength": 6.39117162774784,
+    "numNodes": 2310,
+    "averageOutDegree": 1.8593073593073592
+  },
+  "95": {
+    "numEdges": 4272,
+    "selfLinks": 0,
+    "sizeLargest": 432,
+    "averageInDegree": 1.8501515807708966,
+    "removed": "The Woman in the Sand",
+    "averagePathLength": 6.405081850992524,
+    "numNodes": 2309,
+    "averageOutDegree": 1.8501515807708966
+  },
+  "96": {
+    "numEdges": 4249,
+    "selfLinks": 0,
+    "sizeLargest": 428,
+    "averageInDegree": 1.8409878682842287,
+    "removed": "The Next in the Last",
+    "averagePathLength": 6.40940926700081,
+    "numNodes": 2308,
+    "averageOutDegree": 1.8409878682842287
+  },
+  "97": {
+    "numEdges": 4226,
+    "selfLinks": 0,
+    "sizeLargest": 427,
+    "averageInDegree": 1.8318162115301257,
+    "removed": "The Cinderella in the Cardboard",
+    "averagePathLength": 6.430363602379303,
+    "numNodes": 2307,
+    "averageOutDegree": 1.8318162115301257
+  },
+  "98": {
+    "numEdges": 4203,
+    "selfLinks": 0,
+    "sizeLargest": 426,
+    "averageInDegree": 1.8226366001734606,
+    "removed": "The Secret in the Soil",
+    "averagePathLength": 6.457663628831814,
+    "numNodes": 2306,
+    "averageOutDegree": 1.8226366001734606
+  },
+  "99": {
+    "numEdges": 4180,
+    "selfLinks": 0,
+    "sizeLargest": 425,
+    "averageInDegree": 1.8134490238611713,
+    "removed": "Player Under Pressure",
+    "averagePathLength": 6.470754716981132,
+    "numNodes": 2305,
+    "averageOutDegree": 1.8134490238611713
+  },
+  "100": {
+    "numEdges": 4157,
+    "selfLinks": 0,
+    "sizeLargest": 423,
+    "averageInDegree": 1.8042534722222223,
+    "removed": "Ian Toynton",
+    "averagePathLength": 6.619161260685916,
+    "numNodes": 2304,
+    "averageOutDegree": 1.8042534722222223
+  },
+  "101": {
+    "numEdges": 4134,
+    "selfLinks": 0,
+    "sizeLargest": 422,
+    "averageInDegree": 1.7950499348675641,
+    "removed": "The Dentist in the Ditch",
+    "averagePathLength": 6.687170019475183,
+    "numNodes": 2303,
+    "averageOutDegree": 1.7950499348675641
+  },
+  "102": {
+    "numEdges": 4111,
+    "selfLinks": 0,
+    "sizeLargest": 410,
+    "averageInDegree": 1.7858384013900956,
+    "removed": "Heather Taffet",
+    "averagePathLength": 6.6714174965710535,
+    "numNodes": 2302,
+    "averageOutDegree": 1.7858384013900956
+  },
+  "103": {
+    "numEdges": 4089,
+    "selfLinks": 0,
+    "sizeLargest": 409,
+    "averageInDegree": 1.7770534550195567,
+    "removed": "A Boy in a Bush",
+    "averagePathLength": 6.68049762692363,
+    "numNodes": 2301,
+    "averageOutDegree": 1.7770534550195567
+  },
+  "104": {
+    "numEdges": 4067,
+    "selfLinks": 0,
+    "sizeLargest": 398,
+    "averageInDegree": 1.7682608695652173,
+    "removed": "The Gormogon",
+    "averagePathLength": 6.67872739009911,
+    "numNodes": 2300,
+    "averageOutDegree": 1.7682608695652173
+  },
+  "105": {
+    "numEdges": 4045,
+    "selfLinks": 0,
+    "sizeLargest": 398,
+    "averageInDegree": 1.7594606350587212,
+    "removed": "Carla Gallo",
+    "averagePathLength": 6.67872739009911,
+    "numNodes": 2299,
+    "averageOutDegree": 1.7594606350587212
+  },
+  "106": {
+    "numEdges": 4023,
+    "selfLinks": 0,
+    "sizeLargest": 394,
+    "averageInDegree": 1.7506527415143602,
+    "removed": "The Bump in the Road",
+    "averagePathLength": 6.702315909120265,
+    "numNodes": 2298,
+    "averageOutDegree": 1.7506527415143602
+  },
+  "107": {
+    "numEdges": 4001,
+    "selfLinks": 0,
+    "sizeLargest": 393,
+    "averageInDegree": 1.7418371789290379,
+    "removed": "The Santa in the Slush",
+    "averagePathLength": 6.765494365685205,
+    "numNodes": 2297,
+    "averageOutDegree": 1.7418371789290379
+  },
+  "108": {
+    "numEdges": 3979,
+    "selfLinks": 0,
+    "sizeLargest": 390,
+    "averageInDegree": 1.73301393728223,
+    "removed": "The Woman at the Airport",
+    "averagePathLength": 6.74872454024125,
+    "numNodes": 2296,
+    "averageOutDegree": 1.73301393728223
+  },
+  "109": {
+    "numEdges": 3957,
+    "selfLinks": 0,
+    "sizeLargest": 389,
+    "averageInDegree": 1.7241830065359478,
+    "removed": "The He in the She",
+    "averagePathLength": 6.7649537540084275,
+    "numNodes": 2295,
+    "averageOutDegree": 1.7241830065359478
+  },
+  "110": {
+    "numEdges": 3935,
+    "selfLinks": 0,
+    "sizeLargest": 386,
+    "averageInDegree": 1.7153443766346992,
+    "removed": "The Woman in Limbo",
+    "averagePathLength": 6.859881569207994,
+    "numNodes": 2294,
+    "averageOutDegree": 1.7153443766346992
+  },
+  "111": {
+    "numEdges": 3913,
+    "selfLinks": 0,
+    "sizeLargest": 386,
+    "averageInDegree": 1.7064980375054515,
+    "removed": "Bones: The Complete Sixth Season",
+    "averagePathLength": 6.859881569207994,
+    "numNodes": 2293,
+    "averageOutDegree": 1.7064980375054515
+  },
+  "112": {
+    "numEdges": 3891,
+    "selfLinks": 0,
+    "sizeLargest": 385,
+    "averageInDegree": 1.6976439790575917,
+    "removed": "Beautiful Day in the Neighborhood",
+    "averagePathLength": 6.887675865800865,
+    "numNodes": 2292,
+    "averageOutDegree": 1.6976439790575917
+  },
+  "113": {
+    "numEdges": 3869,
+    "selfLinks": 0,
+    "sizeLargest": 384,
+    "averageInDegree": 1.6887821911828895,
+    "removed": "Soccer Mom in the Mini-Van",
+    "averagePathLength": 6.9428035248041775,
+    "numNodes": 2291,
+    "averageOutDegree": 1.6887821911828895
+  },
+  "114": {
+    "numEdges": 3847,
+    "selfLinks": 0,
+    "sizeLargest": 381,
+    "averageInDegree": 1.6799126637554584,
+    "removed": "The Wannabe in the Weeds",
+    "averagePathLength": 6.965734217433347,
+    "numNodes": 2290,
+    "averageOutDegree": 1.6799126637554584
+  },
+  "115": {
+    "numEdges": 3826,
+    "selfLinks": 0,
+    "sizeLargest": 380,
+    "averageInDegree": 1.671472258628222,
+    "removed": "The Man with the Bone",
+    "averagePathLength": 6.986529648659908,
+    "numNodes": 2289,
+    "averageOutDegree": 1.671472258628222
+  },
+  "116": {
+    "numEdges": 3805,
+    "selfLinks": 0,
+    "sizeLargest": 379,
+    "averageInDegree": 1.6630244755244756,
+    "removed": "The Male in the Mail",
+    "averagePathLength": 7.021073278329215,
+    "numNodes": 2288,
+    "averageOutDegree": 1.6630244755244756
+  },
+  "117": {
+    "numEdges": 3784,
+    "selfLinks": 0,
+    "sizeLargest": 377,
+    "averageInDegree": 1.654569304766069,
+    "removed": "The Dwarf in the Dirt",
+    "averagePathLength": 7.0358513460127545,
+    "numNodes": 2287,
+    "averageOutDegree": 1.654569304766069
+  },
+  "118": {
+    "numEdges": 3763,
+    "selfLinks": 0,
+    "sizeLargest": 372,
+    "averageInDegree": 1.6461067366579178,
+    "removed": "The Graft in the Girl",
+    "averagePathLength": 7.0223821117004315,
+    "numNodes": 2286,
+    "averageOutDegree": 1.6461067366579178
+  },
+  "119": {
+    "numEdges": 3742,
+    "selfLinks": 0,
+    "sizeLargest": 371,
+    "averageInDegree": 1.637636761487965,
+    "removed": "The Woman in the Garden",
+    "averagePathLength": 7.0705106723974644,
+    "numNodes": 2285,
+    "averageOutDegree": 1.637636761487965
+  },
+  "120": {
+    "numEdges": 3721,
+    "selfLinks": 0,
+    "sizeLargest": 370,
+    "averageInDegree": 1.6291593695271454,
+    "removed": "Double Trouble in the Panhandle",
+    "averagePathLength": 7.205896140042482,
+    "numNodes": 2284,
+    "averageOutDegree": 1.6291593695271454
+  },
+  "121": {
+    "numEdges": 3700,
+    "selfLinks": 0,
+    "sizeLargest": 368,
+    "averageInDegree": 1.6206745510293474,
+    "removed": "Spaceman in a Crater",
+    "averagePathLength": 7.368232436915058,
+    "numNodes": 2283,
+    "averageOutDegree": 1.6206745510293474
+  },
+  "122": {
+    "numEdges": 3679,
+    "selfLinks": 0,
+    "sizeLargest": 367,
+    "averageInDegree": 1.6121822962313759,
+    "removed": "Karen Delfs",
+    "averagePathLength": 7.464786110987031,
+    "numNodes": 2282,
+    "averageOutDegree": 1.6121822962313759
+  },
+  "123": {
+    "numEdges": 3658,
+    "selfLinks": 0,
+    "sizeLargest": 365,
+    "averageInDegree": 1.6036825953529155,
+    "removed": "The Blonde in the Game",
+    "averagePathLength": 7.483313262080386,
+    "numNodes": 2281,
+    "averageOutDegree": 1.6036825953529155
+  },
+  "124": {
+    "numEdges": 3637,
+    "selfLinks": 0,
+    "sizeLargest": 361,
+    "averageInDegree": 1.5951754385964911,
+    "removed": "The Girl in Suite 2103",
+    "averagePathLength": 7.711203447214528,
+    "numNodes": 2280,
+    "averageOutDegree": 1.5951754385964911
+  }
+}

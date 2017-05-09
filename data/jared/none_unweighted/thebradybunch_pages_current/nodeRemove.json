@@ -1,0 +1,502 @@
+{
+  "0": {
+    "numEdges": 1754,
+    "selfLinks": 3,
+    "sizeLargest": 253,
+    "averageInDegree": 5.965986394557823,
+    "removed": "The Brady Bunch",
+    "averagePathLength": 4.025440742832047,
+    "numNodes": 294,
+    "averageOutDegree": 5.965986394557823
+  },
+  "1": {
+    "numEdges": 1673,
+    "selfLinks": 3,
+    "sizeLargest": 252,
+    "averageInDegree": 5.709897610921502,
+    "removed": "Carol Brady",
+    "averagePathLength": 4.046654651236325,
+    "numNodes": 293,
+    "averageOutDegree": 5.709897610921502
+  },
+  "2": {
+    "numEdges": 1595,
+    "selfLinks": 3,
+    "sizeLargest": 251,
+    "averageInDegree": 5.462328767123288,
+    "removed": "Mike Brady",
+    "averagePathLength": 4.075490039840638,
+    "numNodes": 292,
+    "averageOutDegree": 5.462328767123288
+  },
+  "3": {
+    "numEdges": 1531,
+    "selfLinks": 3,
+    "sizeLargest": 249,
+    "averageInDegree": 5.261168384879725,
+    "removed": "Bobby Brady",
+    "averagePathLength": 4.256493716802694,
+    "numNodes": 291,
+    "averageOutDegree": 5.261168384879725
+  },
+  "4": {
+    "numEdges": 1469,
+    "selfLinks": 3,
+    "sizeLargest": 246,
+    "averageInDegree": 5.06551724137931,
+    "removed": "A Very Brady Christmas",
+    "averagePathLength": 4.303351584536253,
+    "numNodes": 290,
+    "averageOutDegree": 5.06551724137931
+  },
+  "5": {
+    "numEdges": 1410,
+    "selfLinks": 3,
+    "sizeLargest": 245,
+    "averageInDegree": 4.8788927335640135,
+    "removed": "Peter Brady",
+    "averagePathLength": 4.460956841753094,
+    "numNodes": 289,
+    "averageOutDegree": 4.8788927335640135
+  },
+  "6": {
+    "numEdges": 1355,
+    "selfLinks": 3,
+    "sizeLargest": 243,
+    "averageInDegree": 4.704861111111111,
+    "removed": "Marcia Brady",
+    "averagePathLength": 4.534299221167908,
+    "numNodes": 288,
+    "averageOutDegree": 4.704861111111111
+  },
+  "7": {
+    "numEdges": 1304,
+    "selfLinks": 3,
+    "sizeLargest": 242,
+    "averageInDegree": 4.543554006968641,
+    "removed": "Season 2",
+    "averagePathLength": 4.642313363739241,
+    "numNodes": 287,
+    "averageOutDegree": 4.543554006968641
+  },
+  "8": {
+    "numEdges": 1253,
+    "selfLinks": 3,
+    "sizeLargest": 241,
+    "averageInDegree": 4.381118881118881,
+    "removed": "Greg Brady",
+    "averagePathLength": 4.847959889349931,
+    "numNodes": 286,
+    "averageOutDegree": 4.381118881118881
+  },
+  "9": {
+    "numEdges": 1206,
+    "selfLinks": 3,
+    "sizeLargest": 234,
+    "averageInDegree": 4.231578947368421,
+    "removed": "The Bradys",
+    "averagePathLength": 5.012160228898426,
+    "numNodes": 285,
+    "averageOutDegree": 4.231578947368421
+  },
+  "10": {
+    "numEdges": 1161,
+    "selfLinks": 3,
+    "sizeLargest": 233,
+    "averageInDegree": 4.088028169014085,
+    "removed": "Cindy Brady",
+    "averagePathLength": 5.094735089536777,
+    "numNodes": 284,
+    "averageOutDegree": 4.088028169014085
+  },
+  "11": {
+    "numEdges": 1119,
+    "selfLinks": 3,
+    "sizeLargest": 231,
+    "averageInDegree": 3.954063604240283,
+    "removed": "Alice Nelson",
+    "averagePathLength": 5.141558441558441,
+    "numNodes": 283,
+    "averageOutDegree": 3.954063604240283
+  },
+  "12": {
+    "numEdges": 1077,
+    "selfLinks": 3,
+    "sizeLargest": 230,
+    "averageInDegree": 3.8191489361702127,
+    "removed": "Jan Brady",
+    "averagePathLength": 5.399221568255173,
+    "numNodes": 282,
+    "averageOutDegree": 3.8191489361702127
+  },
+  "13": {
+    "numEdges": 1035,
+    "selfLinks": 3,
+    "sizeLargest": 229,
+    "averageInDegree": 3.683274021352313,
+    "removed": "Season 4",
+    "averagePathLength": 5.437504788171301,
+    "numNodes": 281,
+    "averageOutDegree": 3.683274021352313
+  },
+  "14": {
+    "numEdges": 994,
+    "selfLinks": 3,
+    "sizeLargest": 210,
+    "averageInDegree": 3.55,
+    "removed": "Season 1",
+    "averagePathLength": 5.454613807245386,
+    "numNodes": 280,
+    "averageOutDegree": 3.55
+  },
+  "15": {
+    "numEdges": 955,
+    "selfLinks": 3,
+    "sizeLargest": 209,
+    "averageInDegree": 3.4229390681003586,
+    "removed": "Season 5",
+    "averagePathLength": 5.502967427309533,
+    "numNodes": 279,
+    "averageOutDegree": 3.4229390681003586
+  },
+  "16": {
+    "numEdges": 916,
+    "selfLinks": 3,
+    "sizeLargest": 208,
+    "averageInDegree": 3.2949640287769784,
+    "removed": "Season 3",
+    "averagePathLength": 5.602378298030472,
+    "numNodes": 278,
+    "averageOutDegree": 3.2949640287769784
+  },
+  "17": {
+    "numEdges": 881,
+    "selfLinks": 2,
+    "sizeLargest": 207,
+    "averageInDegree": 3.1805054151624548,
+    "removed": "The Brady Bunch Movie",
+    "averagePathLength": 5.864241827306412,
+    "numNodes": 277,
+    "averageOutDegree": 3.1805054151624548
+  },
+  "18": {
+    "numEdges": 851,
+    "selfLinks": 2,
+    "sizeLargest": 205,
+    "averageInDegree": 3.0833333333333335,
+    "removed": "Oscar Rudolph",
+    "averagePathLength": 5.963271162123386,
+    "numNodes": 276,
+    "averageOutDegree": 3.0833333333333335
+  },
+  "19": {
+    "numEdges": 823,
+    "selfLinks": 2,
+    "sizeLargest": 204,
+    "averageInDegree": 2.9927272727272727,
+    "removed": "Robert Reed",
+    "averagePathLength": 6.038322225441901,
+    "numNodes": 275,
+    "averageOutDegree": 2.9927272727272727
+  },
+  "20": {
+    "numEdges": 798,
+    "selfLinks": 2,
+    "sizeLargest": 202,
+    "averageInDegree": 2.9124087591240877,
+    "removed": "Mike Lookinland",
+    "averagePathLength": 6.082951578739964,
+    "numNodes": 274,
+    "averageOutDegree": 2.9124087591240877
+  },
+  "21": {
+    "numEdges": 775,
+    "selfLinks": 2,
+    "sizeLargest": 201,
+    "averageInDegree": 2.838827838827839,
+    "removed": "Sherwood Schwartz",
+    "averagePathLength": 6.215671641791045,
+    "numNodes": 273,
+    "averageOutDegree": 2.838827838827839
+  },
+  "22": {
+    "numEdges": 753,
+    "selfLinks": 2,
+    "sizeLargest": 197,
+    "averageInDegree": 2.7683823529411766,
+    "removed": "Characters",
+    "averagePathLength": 6.428726820677509,
+    "numNodes": 272,
+    "averageOutDegree": 2.7683823529411766
+  },
+  "23": {
+    "numEdges": 731,
+    "selfLinks": 2,
+    "sizeLargest": 194,
+    "averageInDegree": 2.697416974169742,
+    "removed": "A Very Brady Sequel",
+    "averagePathLength": 6.826131082741306,
+    "numNodes": 271,
+    "averageOutDegree": 2.697416974169742
+  },
+  "24": {
+    "numEdges": 712,
+    "selfLinks": 1,
+    "sizeLargest": 190,
+    "averageInDegree": 2.637037037037037,
+    "removed": "The Brady Bunch Hour",
+    "averagePathLength": 7.020217209690894,
+    "numNodes": 270,
+    "averageOutDegree": 2.637037037037037
+  },
+  "25": {
+    "numEdges": 694,
+    "selfLinks": 1,
+    "sizeLargest": 189,
+    "averageInDegree": 2.579925650557621,
+    "removed": "Jack Arnold",
+    "averagePathLength": 7.32342677023528,
+    "numNodes": 269,
+    "averageOutDegree": 2.579925650557621
+  },
+  "26": {
+    "numEdges": 676,
+    "selfLinks": 1,
+    "sizeLargest": 186,
+    "averageInDegree": 2.5223880597014925,
+    "removed": "Susan Olsen",
+    "averagePathLength": 7.312176692821854,
+    "numNodes": 268,
+    "averageOutDegree": 2.5223880597014925
+  },
+  "27": {
+    "numEdges": 658,
+    "selfLinks": 1,
+    "sizeLargest": 183,
+    "averageInDegree": 2.4644194756554305,
+    "removed": "Tiger",
+    "averagePathLength": 7.569416921875939,
+    "numNodes": 267,
+    "averageOutDegree": 2.4644194756554305
+  },
+  "28": {
+    "numEdges": 642,
+    "selfLinks": 1,
+    "sizeLargest": 183,
+    "averageInDegree": 2.4135338345864663,
+    "removed": "Sam Franklin",
+    "averagePathLength": 7.569416921875939,
+    "numNodes": 266,
+    "averageOutDegree": 2.4135338345864663
+  },
+  "29": {
+    "numEdges": 626,
+    "selfLinks": 1,
+    "sizeLargest": 178,
+    "averageInDegree": 2.362264150943396,
+    "removed": "Christopher Knight",
+    "averagePathLength": 7.551450517361772,
+    "numNodes": 265,
+    "averageOutDegree": 2.362264150943396
+  },
+  "30": {
+    "numEdges": 610,
+    "selfLinks": 1,
+    "sizeLargest": 170,
+    "averageInDegree": 2.3106060606060606,
+    "removed": "The Brady Brides",
+    "averagePathLength": 7.4743821789070655,
+    "numNodes": 264,
+    "averageOutDegree": 2.3106060606060606
+  },
+  "31": {
+    "numEdges": 595,
+    "selfLinks": 1,
+    "sizeLargest": 168,
+    "averageInDegree": 2.2623574144486693,
+    "removed": "Tam Spiva",
+    "averagePathLength": 8.577523524379812,
+    "numNodes": 263,
+    "averageOutDegree": 2.2623574144486693
+  },
+  "32": {
+    "numEdges": 581,
+    "selfLinks": 1,
+    "sizeLargest": 168,
+    "averageInDegree": 2.217557251908397,
+    "removed": "A Moving Experience",
+    "averagePathLength": 8.577523524379812,
+    "numNodes": 262,
+    "averageOutDegree": 2.217557251908397
+  },
+  "33": {
+    "numEdges": 567,
+    "selfLinks": 1,
+    "sizeLargest": 166,
+    "averageInDegree": 2.1724137931034484,
+    "removed": "Al Schwartz",
+    "averagePathLength": 9.060021905805039,
+    "numNodes": 261,
+    "averageOutDegree": 2.1724137931034484
+  },
+  "34": {
+    "numEdges": 553,
+    "selfLinks": 1,
+    "sizeLargest": 164,
+    "averageInDegree": 2.126923076923077,
+    "removed": "The Undergraduate",
+    "averagePathLength": 9.566025736944486,
+    "numNodes": 260,
+    "averageOutDegree": 2.126923076923077
+  },
+  "35": {
+    "numEdges": 541,
+    "selfLinks": 1,
+    "sizeLargest": 160,
+    "averageInDegree": 2.088803088803089,
+    "removed": "The Brady Bunch in the White House",
+    "averagePathLength": 9.774253144654088,
+    "numNodes": 259,
+    "averageOutDegree": 2.088803088803089
+  },
+  "36": {
+    "numEdges": 529,
+    "selfLinks": 1,
+    "sizeLargest": 160,
+    "averageInDegree": 2.050387596899225,
+    "removed": "Maureen McCormick",
+    "averagePathLength": 9.774253144654088,
+    "numNodes": 258,
+    "averageOutDegree": 2.050387596899225
+  },
+  "37": {
+    "numEdges": 517,
+    "selfLinks": 1,
+    "sizeLargest": 157,
+    "averageInDegree": 2.0116731517509727,
+    "removed": "Episode:Will the Real Jan Brady Please Stand Up?",
+    "averagePathLength": 10.526130981544995,
+    "numNodes": 257,
+    "averageOutDegree": 2.0116731517509727
+  },
+  "38": {
+    "numEdges": 506,
+    "selfLinks": 1,
+    "sizeLargest": 156,
+    "averageInDegree": 1.9765625,
+    "removed": "Robbie Rist",
+    "averagePathLength": 10.559387923904053,
+    "numNodes": 256,
+    "averageOutDegree": 1.9765625
+  },
+  "39": {
+    "numEdges": 496,
+    "selfLinks": 1,
+    "sizeLargest": 154,
+    "averageInDegree": 1.9450980392156862,
+    "removed": "The Brady Bunch 35th Anniversary Reunion Special: Still Brady After All These Years",
+    "averagePathLength": 10.57329598506069,
+    "numNodes": 255,
+    "averageOutDegree": 1.9450980392156862
+  },
+  "40": {
+    "numEdges": 486,
+    "selfLinks": 1,
+    "sizeLargest": 153,
+    "averageInDegree": 1.9133858267716535,
+    "removed": "Larry Rhine",
+    "averagePathLength": 10.941993464052288,
+    "numNodes": 254,
+    "averageOutDegree": 1.9133858267716535
+  },
+  "41": {
+    "numEdges": 477,
+    "selfLinks": 1,
+    "sizeLargest": 150,
+    "averageInDegree": 1.8853754940711462,
+    "removed": "Episode:Jan's Aunt Jenny",
+    "averagePathLength": 11.261118568232662,
+    "numNodes": 253,
+    "averageOutDegree": 1.8853754940711462
+  },
+  "42": {
+    "numEdges": 468,
+    "selfLinks": 1,
+    "sizeLargest": 147,
+    "averageInDegree": 1.8571428571428572,
+    "removed": "Is There A Doctor In the House?",
+    "averagePathLength": 11.337340415618302,
+    "numNodes": 252,
+    "averageOutDegree": 1.8571428571428572
+  },
+  "43": {
+    "numEdges": 459,
+    "selfLinks": 1,
+    "sizeLargest": 147,
+    "averageInDegree": 1.8286852589641434,
+    "removed": "Florence Henderson",
+    "averagePathLength": 11.337340415618302,
+    "numNodes": 251,
+    "averageOutDegree": 1.8286852589641434
+  },
+  "44": {
+    "numEdges": 450,
+    "selfLinks": 1,
+    "sizeLargest": 143,
+    "averageInDegree": 1.8,
+    "removed": "Episode:The Snooperstar",
+    "averagePathLength": 11.499704520831282,
+    "numNodes": 250,
+    "averageOutDegree": 1.8
+  },
+  "45": {
+    "numEdges": 441,
+    "selfLinks": 1,
+    "sizeLargest": 143,
+    "averageInDegree": 1.7710843373493976,
+    "removed": "Allan Melvin",
+    "averagePathLength": 11.499704520831282,
+    "numNodes": 249,
+    "averageOutDegree": 1.7710843373493976
+  },
+  "46": {
+    "numEdges": 432,
+    "selfLinks": 1,
+    "sizeLargest": 141,
+    "averageInDegree": 1.7419354838709677,
+    "removed": "Episode:Mail Order Hero",
+    "averagePathLength": 11.822695035460994,
+    "numNodes": 248,
+    "averageOutDegree": 1.7419354838709677
+  },
+  "47": {
+    "numEdges": 424,
+    "selfLinks": 1,
+    "sizeLargest": 140,
+    "averageInDegree": 1.7165991902834008,
+    "removed": "Jerry London",
+    "averagePathLength": 12.83180883864337,
+    "numNodes": 247,
+    "averageOutDegree": 1.7165991902834008
+  },
+  "48": {
+    "numEdges": 416,
+    "selfLinks": 1,
+    "sizeLargest": 139,
+    "averageInDegree": 1.6910569105691058,
+    "removed": "Episode:Pass the Tabu",
+    "averagePathLength": 12.858825982692107,
+    "numNodes": 246,
+    "averageOutDegree": 1.6910569105691058
+  },
+  "49": {
+    "numEdges": 408,
+    "selfLinks": 1,
+    "sizeLargest": 100,
+    "averageInDegree": 1.6653061224489796,
+    "removed": "Episode:The Cincinnati Kids",
+    "averagePathLength": 11.167272727272728,
+    "numNodes": 245,
+    "averageOutDegree": 1.6653061224489796
+  }
+}
