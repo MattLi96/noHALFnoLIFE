@@ -15,6 +15,7 @@ decentralized_search_settings = {
 }
 
 output_path = "../output/"
+public_data = "../data/"
 public_out_path = "../public/data/"
 
 current_only = True  # Only use current files. Has no effect in time series mode
