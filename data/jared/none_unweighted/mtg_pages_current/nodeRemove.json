@@ -1,0 +1,202 @@
+{
+  "0": {
+    "numEdges": 10748,
+    "selfLinks": 32,
+    "sizeLargest": 1135,
+    "averageInDegree": 2.7161991407632042,
+    "removed": "Creature",
+    "averagePathLength": 5.6858300507346025,
+    "numNodes": 3957,
+    "averageOutDegree": 2.7161991407632042
+  },
+  "1": {
+    "numEdges": 10430,
+    "selfLinks": 32,
+    "sizeLargest": 1088,
+    "averageInDegree": 2.6365015166835186,
+    "removed": "Artifact",
+    "averagePathLength": 5.794388224471021,
+    "numNodes": 3956,
+    "averageOutDegree": 2.6365015166835186
+  },
+  "2": {
+    "numEdges": 10124,
+    "selfLinks": 32,
+    "sizeLargest": 1053,
+    "averageInDegree": 2.5597977243994943,
+    "removed": "Enchantment",
+    "averagePathLength": 5.787327714767512,
+    "numNodes": 3955,
+    "averageOutDegree": 2.5597977243994943
+  },
+  "3": {
+    "numEdges": 9825,
+    "selfLinks": 32,
+    "sizeLargest": 989,
+    "averageInDegree": 2.484825493171472,
+    "removed": "Instant",
+    "averagePathLength": 5.66552830119165,
+    "numNodes": 3954,
+    "averageOutDegree": 2.484825493171472
+  },
+  "4": {
+    "numEdges": 9528,
+    "selfLinks": 32,
+    "sizeLargest": 989,
+    "averageInDegree": 2.410321274981027,
+    "removed": "Red cards",
+    "averagePathLength": 5.66552830119165,
+    "numNodes": 3953,
+    "averageOutDegree": 2.410321274981027
+  },
+  "5": {
+    "numEdges": 9236,
+    "selfLinks": 32,
+    "sizeLargest": 904,
+    "averageInDegree": 2.3370445344129553,
+    "removed": "Sorcery",
+    "averagePathLength": 5.6046266623545895,
+    "numNodes": 3952,
+    "averageOutDegree": 2.3370445344129553
+  },
+  "6": {
+    "numEdges": 8985,
+    "selfLinks": 32,
+    "sizeLargest": 879,
+    "averageInDegree": 2.2741078208048595,
+    "removed": "English Set Gallery: 10th Edition",
+    "averagePathLength": 5.57041678652227,
+    "numNodes": 3951,
+    "averageOutDegree": 2.2741078208048595
+  },
+  "7": {
+    "numEdges": 8739,
+    "selfLinks": 32,
+    "sizeLargest": 879,
+    "averageInDegree": 2.2124050632911394,
+    "removed": "Human",
+    "averagePathLength": 5.57041678652227,
+    "numNodes": 3950,
+    "averageOutDegree": 2.2124050632911394
+  },
+  "8": {
+    "numEdges": 8502,
+    "selfLinks": 32,
+    "sizeLargest": 836,
+    "averageInDegree": 2.1529501139528993,
+    "removed": "English Set Gallery: Magic 2010",
+    "averagePathLength": 5.474871787525427,
+    "numNodes": 3949,
+    "averageOutDegree": 2.1529501139528993
+  },
+  "9": {
+    "numEdges": 8288,
+    "selfLinks": 32,
+    "sizeLargest": 836,
+    "averageInDegree": 2.099290780141844,
+    "removed": "Flying",
+    "averagePathLength": 5.474871787525427,
+    "numNodes": 3948,
+    "averageOutDegree": 2.099290780141844
+  },
+  "10": {
+    "numEdges": 8081,
+    "selfLinks": 32,
+    "sizeLargest": 825,
+    "averageInDegree": 2.0473777552571573,
+    "removed": "Legendary",
+    "averagePathLength": 5.498037658134746,
+    "numNodes": 3947,
+    "averageOutDegree": 2.0473777552571573
+  },
+  "11": {
+    "numEdges": 7877,
+    "selfLinks": 32,
+    "sizeLargest": 773,
+    "averageInDegree": 1.9961986822098328,
+    "removed": "Slang",
+    "averagePathLength": 5.4246475946618045,
+    "numNodes": 3946,
+    "averageOutDegree": 1.9961986822098328
+  },
+  "12": {
+    "numEdges": 7675,
+    "selfLinks": 32,
+    "sizeLargest": 741,
+    "averageInDegree": 1.9455006337135614,
+    "removed": "Land",
+    "averagePathLength": 5.426312142101616,
+    "numNodes": 3945,
+    "averageOutDegree": 1.9455006337135614
+  },
+  "13": {
+    "numEdges": 7509,
+    "selfLinks": 31,
+    "sizeLargest": 723,
+    "averageInDegree": 1.9039046653144016,
+    "removed": "Spirit",
+    "averagePathLength": 5.544509066945591,
+    "numNodes": 3944,
+    "averageOutDegree": 1.9039046653144016
+  },
+  "14": {
+    "numEdges": 7358,
+    "selfLinks": 31,
+    "sizeLargest": 723,
+    "averageInDegree": 1.8660918082678164,
+    "removed": "Sacrifice",
+    "averagePathLength": 5.544509066945591,
+    "numNodes": 3943,
+    "averageOutDegree": 1.8660918082678164
+  },
+  "15": {
+    "numEdges": 7212,
+    "selfLinks": 31,
+    "sizeLargest": 682,
+    "averageInDegree": 1.8295281582952816,
+    "removed": "Aura",
+    "averagePathLength": 5.479411853363821,
+    "numNodes": 3942,
+    "averageOutDegree": 1.8295281582952816
+  },
+  "16": {
+    "numEdges": 7068,
+    "selfLinks": 31,
+    "sizeLargest": 676,
+    "averageInDegree": 1.7934534382136513,
+    "removed": "Keyword Abilities",
+    "averagePathLength": 5.472579443348674,
+    "numNodes": 3941,
+    "averageOutDegree": 1.7934534382136513
+  },
+  "17": {
+    "numEdges": 6924,
+    "selfLinks": 31,
+    "sizeLargest": 627,
+    "averageInDegree": 1.7573604060913706,
+    "removed": "Counter (noun)",
+    "averagePathLength": 5.522078868387932,
+    "numNodes": 3940,
+    "averageOutDegree": 1.7573604060913706
+  },
+  "18": {
+    "numEdges": 6813,
+    "selfLinks": 31,
+    "sizeLargest": 618,
+    "averageInDegree": 1.7296268088347295,
+    "removed": "Wizard",
+    "averagePathLength": 5.519042448846858,
+    "numNodes": 3939,
+    "averageOutDegree": 1.7296268088347295
+  },
+  "19": {
+    "numEdges": 6711,
+    "selfLinks": 31,
+    "sizeLargest": 594,
+    "averageInDegree": 1.7041645505332657,
+    "removed": "Zombie",
+    "averagePathLength": 5.660500451394212,
+    "numNodes": 3938,
+    "averageOutDegree": 1.7041645505332657
+  }
+}

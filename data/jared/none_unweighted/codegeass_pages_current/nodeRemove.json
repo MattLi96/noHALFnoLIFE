@@ -1,0 +1,1432 @@
+{
+  "0": {
+    "numEdges": 12978,
+    "selfLinks": 9,
+    "sizeLargest": 886,
+    "averageInDegree": 9.80952380952381,
+    "removed": "Holy Britannian Empire",
+    "averagePathLength": 3.5307418601981864,
+    "numNodes": 1323,
+    "averageOutDegree": 9.80952380952381
+  },
+  "1": {
+    "numEdges": 12718,
+    "selfLinks": 9,
+    "sizeLargest": 882,
+    "averageInDegree": 9.620272314674736,
+    "removed": "Suzaku Kururugi",
+    "averagePathLength": 3.56460268556912,
+    "numNodes": 1322,
+    "averageOutDegree": 9.620272314674736
+  },
+  "2": {
+    "numEdges": 12485,
+    "selfLinks": 9,
+    "sizeLargest": 876,
+    "averageInDegree": 9.45117335352006,
+    "removed": "Lelouch vi Britannia",
+    "averagePathLength": 3.5926001304631443,
+    "numNodes": 1321,
+    "averageOutDegree": 9.45117335352006
+  },
+  "3": {
+    "numEdges": 12270,
+    "selfLinks": 9,
+    "sizeLargest": 864,
+    "averageInDegree": 9.295454545454545,
+    "removed": "C.C.",
+    "averagePathLength": 3.6305590425303635,
+    "numNodes": 1320,
+    "averageOutDegree": 9.295454545454545
+  },
+  "4": {
+    "numEdges": 12057,
+    "selfLinks": 9,
+    "sizeLargest": 857,
+    "averageInDegree": 9.141015921152388,
+    "removed": "Knightmare Frame",
+    "averagePathLength": 3.7127040643845626,
+    "numNodes": 1319,
+    "averageOutDegree": 9.141015921152388
+  },
+  "5": {
+    "numEdges": 11854,
+    "selfLinks": 9,
+    "sizeLargest": 855,
+    "averageInDegree": 8.993930197268588,
+    "removed": "Zero",
+    "averagePathLength": 3.7384595368201925,
+    "numNodes": 1318,
+    "averageOutDegree": 8.993930197268588
+  },
+  "6": {
+    "numEdges": 11674,
+    "selfLinks": 9,
+    "sizeLargest": 848,
+    "averageInDegree": 8.86408504176158,
+    "removed": "Kallen K\u014dzuki",
+    "averagePathLength": 3.7734777015437393,
+    "numNodes": 1317,
+    "averageOutDegree": 8.86408504176158
+  },
+  "7": {
+    "numEdges": 11506,
+    "selfLinks": 9,
+    "sizeLargest": 842,
+    "averageInDegree": 8.743161094224924,
+    "removed": "Sutherland",
+    "averagePathLength": 3.8086021900181044,
+    "numNodes": 1316,
+    "averageOutDegree": 8.743161094224924
+  },
+  "8": {
+    "numEdges": 11343,
+    "selfLinks": 9,
+    "sizeLargest": 833,
+    "averageInDegree": 8.625855513307984,
+    "removed": "Nunnally vi Britannia",
+    "averagePathLength": 3.83678519484717,
+    "numNodes": 1315,
+    "averageOutDegree": 8.625855513307984
+  },
+  "9": {
+    "numEdges": 11183,
+    "selfLinks": 9,
+    "sizeLargest": 832,
+    "averageInDegree": 8.510654490106544,
+    "removed": "Geass",
+    "averagePathLength": 3.8751518675367955,
+    "numNodes": 1314,
+    "averageOutDegree": 8.510654490106544
+  },
+  "10": {
+    "numEdges": 11032,
+    "selfLinks": 9,
+    "sizeLargest": 832,
+    "averageInDegree": 8.402132520944402,
+    "removed": "Lelouch",
+    "averagePathLength": 3.8751518675367955,
+    "numNodes": 1313,
+    "averageOutDegree": 8.402132520944402
+  },
+  "11": {
+    "numEdges": 10891,
+    "selfLinks": 9,
+    "sizeLargest": 831,
+    "averageInDegree": 8.301067073170731,
+    "removed": "Black Knights",
+    "averagePathLength": 3.8790265756165456,
+    "numNodes": 1312,
+    "averageOutDegree": 8.301067073170731
+  },
+  "12": {
+    "numEdges": 10751,
+    "selfLinks": 9,
+    "sizeLargest": 826,
+    "averageInDegree": 8.200610221205187,
+    "removed": "Cornelia li Britannia",
+    "averagePathLength": 3.8930970724191063,
+    "numNodes": 1311,
+    "averageOutDegree": 8.200610221205187
+  },
+  "13": {
+    "numEdges": 10617,
+    "selfLinks": 9,
+    "sizeLargest": 818,
+    "averageInDegree": 8.104580152671756,
+    "removed": "Lancelot",
+    "averagePathLength": 3.9102866052377205,
+    "numNodes": 1310,
+    "averageOutDegree": 8.104580152671756
+  },
+  "14": {
+    "numEdges": 10494,
+    "selfLinks": 8,
+    "sizeLargest": 814,
+    "averageInDegree": 8.016806722689076,
+    "removed": "Jeremiah Gottwald",
+    "averagePathLength": 3.9236017298747927,
+    "numNodes": 1309,
+    "averageOutDegree": 8.016806722689076
+  },
+  "15": {
+    "numEdges": 10370,
+    "selfLinks": 8,
+    "sizeLargest": 810,
+    "averageInDegree": 7.928134556574924,
+    "removed": "Schneizel el Britannia",
+    "averagePathLength": 3.936190083779701,
+    "numNodes": 1308,
+    "averageOutDegree": 7.928134556574924
+  },
+  "16": {
+    "numEdges": 10254,
+    "selfLinks": 7,
+    "sizeLargest": 803,
+    "averageInDegree": 7.845447589900536,
+    "removed": "Britannian Military",
+    "averagePathLength": 3.9974922593888875,
+    "numNodes": 1307,
+    "averageOutDegree": 7.845447589900536
+  },
+  "17": {
+    "numEdges": 10138,
+    "selfLinks": 7,
+    "sizeLargest": 803,
+    "averageInDegree": 7.762633996937213,
+    "removed": "Britannian",
+    "averagePathLength": 3.9974922593888875,
+    "numNodes": 1306,
+    "averageOutDegree": 7.762633996937213
+  },
+  "18": {
+    "numEdges": 10028,
+    "selfLinks": 7,
+    "sizeLargest": 803,
+    "averageInDegree": 7.684291187739464,
+    "removed": "Suzaku",
+    "averagePathLength": 3.9974922593888875,
+    "numNodes": 1305,
+    "averageOutDegree": 7.684291187739464
+  },
+  "19": {
+    "numEdges": 9918,
+    "selfLinks": 7,
+    "sizeLargest": 796,
+    "averageInDegree": 7.605828220858895,
+    "removed": "Charles zi Britannia",
+    "averagePathLength": 4.01215985588319,
+    "numNodes": 1304,
+    "averageOutDegree": 7.605828220858895
+  },
+  "20": {
+    "numEdges": 9811,
+    "selfLinks": 7,
+    "sizeLargest": 795,
+    "averageInDegree": 7.529547198772065,
+    "removed": "Gloucester",
+    "averagePathLength": 4.0543652868209685,
+    "numNodes": 1303,
+    "averageOutDegree": 7.529547198772065
+  },
+  "21": {
+    "numEdges": 9707,
+    "selfLinks": 7,
+    "sizeLargest": 790,
+    "averageInDegree": 7.455453149001536,
+    "removed": "Euphemia li Britannia",
+    "averagePathLength": 4.095263993839342,
+    "numNodes": 1302,
+    "averageOutDegree": 7.455453149001536
+  },
+  "22": {
+    "numEdges": 9603,
+    "selfLinks": 7,
+    "sizeLargest": 781,
+    "averageInDegree": 7.381245196003075,
+    "removed": "Ashford Academy",
+    "averagePathLength": 4.114379986210972,
+    "numNodes": 1301,
+    "averageOutDegree": 7.381245196003075
+  },
+  "23": {
+    "numEdges": 9502,
+    "selfLinks": 7,
+    "sizeLargest": 779,
+    "averageInDegree": 7.309230769230769,
+    "removed": "Rakshata Chawla",
+    "averagePathLength": 4.137835732977814,
+    "numNodes": 1300,
+    "averageOutDegree": 7.309230769230769
+  },
+  "24": {
+    "numEdges": 9403,
+    "selfLinks": 7,
+    "sizeLargest": 777,
+    "averageInDegree": 7.238645111624327,
+    "removed": "Kyoshiro Tohdoh",
+    "averagePathLength": 4.1550753625495895,
+    "numNodes": 1299,
+    "averageOutDegree": 7.238645111624327
+  },
+  "25": {
+    "numEdges": 9309,
+    "selfLinks": 6,
+    "sizeLargest": 773,
+    "averageInDegree": 7.171802773497689,
+    "removed": "Shirley Fenette",
+    "averagePathLength": 4.168718873375383,
+    "numNodes": 1298,
+    "averageOutDegree": 7.171802773497689
+  },
+  "26": {
+    "numEdges": 9215,
+    "selfLinks": 6,
+    "sizeLargest": 772,
+    "averageInDegree": 7.104857363145721,
+    "removed": "Chinese Federation",
+    "averagePathLength": 4.175295524955814,
+    "numNodes": 1297,
+    "averageOutDegree": 7.104857363145721
+  },
+  "27": {
+    "numEdges": 9121,
+    "selfLinks": 6,
+    "sizeLargest": 771,
+    "averageInDegree": 7.0378086419753085,
+    "removed": "The Black Knights",
+    "averagePathLength": 4.18188050600502,
+    "numNodes": 1296,
+    "averageOutDegree": 7.0378086419753085
+  },
+  "28": {
+    "numEdges": 9027,
+    "selfLinks": 6,
+    "sizeLargest": 769,
+    "averageInDegree": 6.9706563706563704,
+    "removed": "V.V.",
+    "averagePathLength": 4.198648136107499,
+    "numNodes": 1295,
+    "averageOutDegree": 6.9706563706563704
+  },
+  "29": {
+    "numEdges": 8934,
+    "selfLinks": 6,
+    "sizeLargest": 768,
+    "averageInDegree": 6.904173106646058,
+    "removed": "Black Rebellion",
+    "averagePathLength": 4.2553237722729245,
+    "numNodes": 1294,
+    "averageOutDegree": 6.904173106646058
+  },
+  "30": {
+    "numEdges": 8846,
+    "selfLinks": 5,
+    "sizeLargest": 766,
+    "averageInDegree": 6.841453982985305,
+    "removed": "Milly Ashford",
+    "averagePathLength": 4.263867984095292,
+    "numNodes": 1293,
+    "averageOutDegree": 6.841453982985305
+  },
+  "31": {
+    "numEdges": 8759,
+    "selfLinks": 5,
+    "sizeLargest": 766,
+    "averageInDegree": 6.779411764705882,
+    "removed": "Energy Filler",
+    "averagePathLength": 4.263867984095292,
+    "numNodes": 1292,
+    "averageOutDegree": 6.779411764705882
+  },
+  "32": {
+    "numEdges": 8672,
+    "selfLinks": 5,
+    "sizeLargest": 758,
+    "averageInDegree": 6.71727343144849,
+    "removed": "United States of Japan",
+    "averagePathLength": 4.309787628571329,
+    "numNodes": 1291,
+    "averageOutDegree": 6.71727343144849
+  },
+  "33": {
+    "numEdges": 8585,
+    "selfLinks": 5,
+    "sizeLargest": 751,
+    "averageInDegree": 6.655038759689923,
+    "removed": "Europia United",
+    "averagePathLength": 4.359344873501997,
+    "numNodes": 1290,
+    "averageOutDegree": 6.655038759689923
+  },
+  "34": {
+    "numEdges": 8498,
+    "selfLinks": 5,
+    "sizeLargest": 749,
+    "averageInDegree": 6.592707525213344,
+    "removed": "Slash Harken",
+    "averagePathLength": 4.375156179719126,
+    "numNodes": 1289,
+    "averageOutDegree": 6.592707525213344
+  },
+  "35": {
+    "numEdges": 8412,
+    "selfLinks": 5,
+    "sizeLargest": 749,
+    "averageInDegree": 6.531055900621118,
+    "removed": "Area 11",
+    "averagePathLength": 4.375156179719126,
+    "numNodes": 1288,
+    "averageOutDegree": 6.531055900621118
+  },
+  "36": {
+    "numEdges": 8326,
+    "selfLinks": 5,
+    "sizeLargest": 745,
+    "averageInDegree": 6.469308469308469,
+    "removed": "Villetta Nu",
+    "averagePathLength": 4.38743775709028,
+    "numNodes": 1287,
+    "averageOutDegree": 6.469308469308469
+  },
+  "37": {
+    "numEdges": 8241,
+    "selfLinks": 5,
+    "sizeLargest": 745,
+    "averageInDegree": 6.408242612752722,
+    "removed": "Yggdrasil Drive",
+    "averagePathLength": 4.38743775709028,
+    "numNodes": 1286,
+    "averageOutDegree": 6.408242612752722
+  },
+  "38": {
+    "numEdges": 8157,
+    "selfLinks": 5,
+    "sizeLargest": 743,
+    "averageInDegree": 6.347859922178988,
+    "removed": "United Federation of Nations Resolution Number One (episode)",
+    "averagePathLength": 4.390032033027031,
+    "numNodes": 1285,
+    "averageOutDegree": 6.347859922178988
+  },
+  "39": {
+    "numEdges": 8075,
+    "selfLinks": 4,
+    "sizeLargest": 742,
+    "averageInDegree": 6.288940809968848,
+    "removed": "Cockpit Ejection System",
+    "averagePathLength": 4.399100072387063,
+    "numNodes": 1284,
+    "averageOutDegree": 6.288940809968848
+  },
+  "40": {
+    "numEdges": 7993,
+    "selfLinks": 4,
+    "sizeLargest": 740,
+    "averageInDegree": 6.229929851909587,
+    "removed": "The Taste of Humiliation (episode)",
+    "averagePathLength": 4.402918480049738,
+    "numNodes": 1283,
+    "averageOutDegree": 6.229929851909587
+  },
+  "41": {
+    "numEdges": 7912,
+    "selfLinks": 4,
+    "sizeLargest": 739,
+    "averageInDegree": 6.171606864274571,
+    "removed": "Code Geass: Akito the Exiled",
+    "averagePathLength": 4.443415807635749,
+    "numNodes": 1282,
+    "averageOutDegree": 6.171606864274571
+  },
+  "42": {
+    "numEdges": 7831,
+    "selfLinks": 4,
+    "sizeLargest": 737,
+    "averageInDegree": 6.113192818110851,
+    "removed": "Burai",
+    "averagePathLength": 4.519154474662262,
+    "numNodes": 1281,
+    "averageOutDegree": 6.113192818110851
+  },
+  "43": {
+    "numEdges": 7752,
+    "selfLinks": 4,
+    "sizeLargest": 736,
+    "averageInDegree": 6.05625,
+    "removed": "Second Assault on Tokyo Settlement",
+    "averagePathLength": 4.533532978408755,
+    "numNodes": 1280,
+    "averageOutDegree": 6.05625
+  },
+  "44": {
+    "numEdges": 7673,
+    "selfLinks": 4,
+    "sizeLargest": 733,
+    "averageInDegree": 5.999218139171227,
+    "removed": "A Bride in the Vermilion Forbidden City (episode)",
+    "averagePathLength": 4.5321960801854795,
+    "numNodes": 1279,
+    "averageOutDegree": 5.999218139171227
+  },
+  "45": {
+    "numEdges": 7596,
+    "selfLinks": 4,
+    "sizeLargest": 730,
+    "averageInDegree": 5.943661971830986,
+    "removed": "Lloyd Asplund",
+    "averagePathLength": 4.55168649115884,
+    "numNodes": 1278,
+    "averageOutDegree": 5.943661971830986
+  },
+  "46": {
+    "numEdges": 7521,
+    "selfLinks": 4,
+    "sizeLargest": 730,
+    "averageInDegree": 5.889584964761159,
+    "removed": "Kallen",
+    "averagePathLength": 4.55168649115884,
+    "numNodes": 1277,
+    "averageOutDegree": 5.889584964761159
+  },
+  "47": {
+    "numEdges": 7447,
+    "selfLinks": 4,
+    "sizeLargest": 728,
+    "averageInDegree": 5.836206896551724,
+    "removed": "Li Xingke",
+    "averagePathLength": 4.5648967607358255,
+    "numNodes": 1276,
+    "averageOutDegree": 5.836206896551724
+  },
+  "48": {
+    "numEdges": 7374,
+    "selfLinks": 4,
+    "sizeLargest": 720,
+    "averageInDegree": 5.783529411764706,
+    "removed": "Kaname Ohgi",
+    "averagePathLength": 4.586715731726163,
+    "numNodes": 1275,
+    "averageOutDegree": 5.783529411764706
+  },
+  "49": {
+    "numEdges": 7302,
+    "selfLinks": 4,
+    "sizeLargest": 716,
+    "averageInDegree": 5.731554160125588,
+    "removed": "Final Battle Tokyo II (episode)",
+    "averagePathLength": 4.587820838379497,
+    "numNodes": 1274,
+    "averageOutDegree": 5.731554160125588
+  },
+  "50": {
+    "numEdges": 7232,
+    "selfLinks": 4,
+    "sizeLargest": 713,
+    "averageInDegree": 5.681068342498036,
+    "removed": "Nagisa Chiba",
+    "averagePathLength": 4.61253486612982,
+    "numNodes": 1273,
+    "averageOutDegree": 5.681068342498036
+  },
+  "51": {
+    "numEdges": 7165,
+    "selfLinks": 4,
+    "sizeLargest": 713,
+    "averageInDegree": 5.6328616352201255,
+    "removed": "Nunnally",
+    "averagePathLength": 4.61253486612982,
+    "numNodes": 1272,
+    "averageOutDegree": 5.6328616352201255
+  },
+  "52": {
+    "numEdges": 7098,
+    "selfLinks": 4,
+    "sizeLargest": 706,
+    "averageInDegree": 5.584579071597168,
+    "removed": "Knights of the Round",
+    "averagePathLength": 4.665467221184176,
+    "numNodes": 1271,
+    "averageOutDegree": 5.584579071597168
+  },
+  "53": {
+    "numEdges": 7032,
+    "selfLinks": 4,
+    "sizeLargest": 704,
+    "averageInDegree": 5.537007874015748,
+    "removed": "Landspinner Propulsion System",
+    "averagePathLength": 4.671543627958101,
+    "numNodes": 1270,
+    "averageOutDegree": 5.537007874015748
+  },
+  "54": {
+    "numEdges": 6967,
+    "selfLinks": 4,
+    "sizeLargest": 702,
+    "averageInDegree": 5.490149724192277,
+    "removed": "Power of Passion (episode)",
+    "averagePathLength": 4.674860089981346,
+    "numNodes": 1269,
+    "averageOutDegree": 5.490149724192277
+  },
+  "55": {
+    "numEdges": 6902,
+    "selfLinks": 4,
+    "sizeLargest": 690,
+    "averageInDegree": 5.443217665615142,
+    "removed": "Code Geass: Lelouch of the Rebellion",
+    "averagePathLength": 4.68003828274542,
+    "numNodes": 1268,
+    "averageOutDegree": 5.443217665615142
+  },
+  "56": {
+    "numEdges": 6839,
+    "selfLinks": 4,
+    "sizeLargest": 688,
+    "averageInDegree": 5.397790055248619,
+    "removed": "When Shen Hu Wins Glory (episode)",
+    "averagePathLength": 4.685335635218848,
+    "numNodes": 1267,
+    "averageOutDegree": 5.397790055248619
+  },
+  "57": {
+    "numEdges": 6776,
+    "selfLinks": 4,
+    "sizeLargest": 685,
+    "averageInDegree": 5.352290679304898,
+    "removed": "The Order of the Black Knights",
+    "averagePathLength": 4.724924232722927,
+    "numNodes": 1266,
+    "averageOutDegree": 5.352290679304898
+  },
+  "58": {
+    "numEdges": 6715,
+    "selfLinks": 3,
+    "sizeLargest": 682,
+    "averageInDegree": 5.308300395256917,
+    "removed": "Nina Einstein",
+    "averagePathLength": 4.741171125781045,
+    "numNodes": 1265,
+    "averageOutDegree": 5.308300395256917
+  },
+  "59": {
+    "numEdges": 6653,
+    "selfLinks": 3,
+    "sizeLargest": 677,
+    "averageInDegree": 5.263449367088608,
+    "removed": "The Collapsing Stage (episode)",
+    "averagePathLength": 4.734501324150227,
+    "numNodes": 1264,
+    "averageOutDegree": 5.263449367088608
+  },
+  "60": {
+    "numEdges": 6592,
+    "selfLinks": 3,
+    "sizeLargest": 675,
+    "averageInDegree": 5.219319081551861,
+    "removed": "Declaration at the School Festival (episode)",
+    "averagePathLength": 4.738333882844269,
+    "numNodes": 1263,
+    "averageOutDegree": 5.219319081551861
+  },
+  "61": {
+    "numEdges": 6532,
+    "selfLinks": 3,
+    "sizeLargest": 669,
+    "averageInDegree": 5.175911251980983,
+    "removed": "List of Characters",
+    "averagePathLength": 4.7122660508579255,
+    "numNodes": 1262,
+    "averageOutDegree": 5.175911251980983
+  },
+  "62": {
+    "numEdges": 6473,
+    "selfLinks": 3,
+    "sizeLargest": 667,
+    "averageInDegree": 5.133227597145123,
+    "removed": "One Million Miracles (episode)",
+    "averagePathLength": 4.715423819621721,
+    "numNodes": 1261,
+    "averageOutDegree": 5.133227597145123
+  },
+  "63": {
+    "numEdges": 6414,
+    "selfLinks": 3,
+    "sizeLargest": 665,
+    "averageInDegree": 5.09047619047619,
+    "removed": "At Least with Sorrow (episode)",
+    "averagePathLength": 4.718144759489084,
+    "numNodes": 1260,
+    "averageOutDegree": 5.09047619047619
+  },
+  "64": {
+    "numEdges": 6355,
+    "selfLinks": 3,
+    "sizeLargest": 663,
+    "averageInDegree": 5.047656870532168,
+    "removed": "Zero (episode)",
+    "averagePathLength": 4.739577494953362,
+    "numNodes": 1259,
+    "averageOutDegree": 5.047656870532168
+  },
+  "65": {
+    "numEdges": 6296,
+    "selfLinks": 3,
+    "sizeLargest": 661,
+    "averageInDegree": 5.004769475357711,
+    "removed": "Geass Hunt (episode)",
+    "averagePathLength": 4.751407417595012,
+    "numNodes": 1258,
+    "averageOutDegree": 5.004769475357711
+  },
+  "66": {
+    "numEdges": 6238,
+    "selfLinks": 3,
+    "sizeLargest": 657,
+    "averageInDegree": 4.96260938743039,
+    "removed": "Japan Liberation Front",
+    "averagePathLength": 4.772480695697368,
+    "numNodes": 1257,
+    "averageOutDegree": 4.96260938743039
+  },
+  "67": {
+    "numEdges": 6180,
+    "selfLinks": 3,
+    "sizeLargest": 655,
+    "averageInDegree": 4.920382165605096,
+    "removed": "Betrayal (episode)",
+    "averagePathLength": 4.779102178023671,
+    "numNodes": 1256,
+    "averageOutDegree": 4.920382165605096
+  },
+  "68": {
+    "numEdges": 6122,
+    "selfLinks": 3,
+    "sizeLargest": 651,
+    "averageInDegree": 4.87808764940239,
+    "removed": "Clovis la Britannia",
+    "averagePathLength": 4.808443814250266,
+    "numNodes": 1255,
+    "averageOutDegree": 4.87808764940239
+  },
+  "69": {
+    "numEdges": 6065,
+    "selfLinks": 3,
+    "sizeLargest": 646,
+    "averageInDegree": 4.83652312599681,
+    "removed": "Love Attack! (episode)",
+    "averagePathLength": 4.819310245518036,
+    "numNodes": 1254,
+    "averageOutDegree": 4.83652312599681
+  },
+  "70": {
+    "numEdges": 6008,
+    "selfLinks": 3,
+    "sizeLargest": 646,
+    "averageInDegree": 4.794892258579409,
+    "removed": "Bloodstained Euphie (episode)",
+    "averagePathLength": 4.819310245518036,
+    "numNodes": 1253,
+    "averageOutDegree": 4.794892258579409
+  },
+  "71": {
+    "numEdges": 5952,
+    "selfLinks": 3,
+    "sizeLargest": 645,
+    "averageInDegree": 4.753993610223642,
+    "removed": "Code Geass: Oz the Reflection",
+    "averagePathLength": 4.843675670470413,
+    "numNodes": 1252,
+    "averageOutDegree": 4.753993610223642
+  },
+  "72": {
+    "numEdges": 5897,
+    "selfLinks": 3,
+    "sizeLargest": 642,
+    "averageInDegree": 4.713828936850519,
+    "removed": "Operation Pacific Ocean Ambush (episode)",
+    "averagePathLength": 4.8582044216348095,
+    "numNodes": 1251,
+    "averageOutDegree": 4.713828936850519
+  },
+  "73": {
+    "numEdges": 5842,
+    "selfLinks": 3,
+    "sizeLargest": 640,
+    "averageInDegree": 4.6736,
+    "removed": "Vincent",
+    "averagePathLength": 4.887211463223787,
+    "numNodes": 1250,
+    "averageOutDegree": 4.6736
+  },
+  "74": {
+    "numEdges": 5788,
+    "selfLinks": 3,
+    "sizeLargest": 638,
+    "averageInDegree": 4.634107285828663,
+    "removed": "Gino Weinberg",
+    "averagePathLength": 4.920207870946787,
+    "numNodes": 1249,
+    "averageOutDegree": 4.634107285828663
+  },
+  "75": {
+    "numEdges": 5735,
+    "selfLinks": 3,
+    "sizeLargest": 635,
+    "averageInDegree": 4.595352564102564,
+    "removed": "Battle of Mt. Fuji",
+    "averagePathLength": 4.937623885342408,
+    "numNodes": 1248,
+    "averageOutDegree": 4.595352564102564
+  },
+  "76": {
+    "numEdges": 5682,
+    "selfLinks": 3,
+    "sizeLargest": 633,
+    "averageInDegree": 4.5565356856455494,
+    "removed": "W-0",
+    "averagePathLength": 4.942593036974824,
+    "numNodes": 1247,
+    "averageOutDegree": 4.5565356856455494
+  },
+  "77": {
+    "numEdges": 5629,
+    "selfLinks": 3,
+    "sizeLargest": 628,
+    "averageInDegree": 4.517656500802568,
+    "removed": "I Order you, Suzaku Kururugi (episode)",
+    "averagePathLength": 4.947490323956968,
+    "numNodes": 1246,
+    "averageOutDegree": 4.517656500802568
+  },
+  "78": {
+    "numEdges": 5578,
+    "selfLinks": 3,
+    "sizeLargest": 628,
+    "averageInDegree": 4.480321285140562,
+    "removed": "CLAMP",
+    "averagePathLength": 4.947490323956968,
+    "numNodes": 1245,
+    "averageOutDegree": 4.480321285140562
+  },
+  "79": {
+    "numEdges": 5527,
+    "selfLinks": 3,
+    "sizeLargest": 624,
+    "averageInDegree": 4.442926045016077,
+    "removed": "Battle for Kyushu (episode)",
+    "averagePathLength": 4.962865785899494,
+    "numNodes": 1244,
+    "averageOutDegree": 4.442926045016077
+  },
+  "80": {
+    "numEdges": 5477,
+    "selfLinks": 3,
+    "sizeLargest": 623,
+    "averageInDegree": 4.4062751407884155,
+    "removed": "Battle of Narita",
+    "averagePathLength": 5.001961259954685,
+    "numNodes": 1243,
+    "averageOutDegree": 4.4062751407884155
+  },
+  "81": {
+    "numEdges": 5427,
+    "selfLinks": 3,
+    "sizeLargest": 620,
+    "averageInDegree": 4.369565217391305,
+    "removed": "The Wyvern Arrives (episode)",
+    "averagePathLength": 5.010000521131898,
+    "numNodes": 1242,
+    "averageOutDegree": 4.369565217391305
+  },
+  "82": {
+    "numEdges": 5377,
+    "selfLinks": 3,
+    "sizeLargest": 617,
+    "averageInDegree": 4.332796132151491,
+    "removed": "Anya Alstreim",
+    "averagePathLength": 5.0386426782293885,
+    "numNodes": 1241,
+    "averageOutDegree": 4.332796132151491
+  },
+  "83": {
+    "numEdges": 5327,
+    "selfLinks": 3,
+    "sizeLargest": 611,
+    "averageInDegree": 4.295967741935484,
+    "removed": "To Beloved Ones (episode)",
+    "averagePathLength": 5.052316814681656,
+    "numNodes": 1240,
+    "averageOutDegree": 4.295967741935484
+  },
+  "84": {
+    "numEdges": 5278,
+    "selfLinks": 3,
+    "sizeLargest": 607,
+    "averageInDegree": 4.259887005649717,
+    "removed": "Marrybell mel Britannia",
+    "averagePathLength": 5.120750213406843,
+    "numNodes": 1239,
+    "averageOutDegree": 4.259887005649717
+  },
+  "85": {
+    "numEdges": 5229,
+    "selfLinks": 3,
+    "sizeLargest": 607,
+    "averageInDegree": 4.223747980613894,
+    "removed": "Britannia",
+    "averagePathLength": 5.120750213406843,
+    "numNodes": 1238,
+    "averageOutDegree": 4.223747980613894
+  },
+  "86": {
+    "numEdges": 5181,
+    "selfLinks": 3,
+    "sizeLargest": 605,
+    "averageInDegree": 4.188358932902183,
+    "removed": "The Wyvern Divided (episode)",
+    "averagePathLength": 5.131216134858519,
+    "numNodes": 1237,
+    "averageOutDegree": 4.188358932902183
+  },
+  "87": {
+    "numEdges": 5133,
+    "selfLinks": 3,
+    "sizeLargest": 605,
+    "averageInDegree": 4.152912621359223,
+    "removed": "Japanese",
+    "averagePathLength": 5.131216134858519,
+    "numNodes": 1236,
+    "averageOutDegree": 4.152912621359223
+  },
+  "88": {
+    "numEdges": 5085,
+    "selfLinks": 3,
+    "sizeLargest": 605,
+    "averageInDegree": 4.117408906882591,
+    "removed": "Assassin from the Past (episode)",
+    "averagePathLength": 5.131216134858519,
+    "numNodes": 1235,
+    "averageOutDegree": 4.117408906882591
+  },
+  "89": {
+    "numEdges": 5038,
+    "selfLinks": 3,
+    "sizeLargest": 603,
+    "averageInDegree": 4.082658022690437,
+    "removed": "The Grip of Damocles (episode)",
+    "averagePathLength": 5.138598260083856,
+    "numNodes": 1234,
+    "averageOutDegree": 4.082658022690437
+  },
+  "90": {
+    "numEdges": 4991,
+    "selfLinks": 3,
+    "sizeLargest": 602,
+    "averageInDegree": 4.047850770478508,
+    "removed": "Andreas Darlton",
+    "averagePathLength": 5.1549466282662895,
+    "numNodes": 1233,
+    "averageOutDegree": 4.047850770478508
+  },
+  "91": {
+    "numEdges": 4945,
+    "selfLinks": 3,
+    "sizeLargest": 602,
+    "averageInDegree": 4.013798701298701,
+    "removed": "Plan For Independent Japan (episode)",
+    "averagePathLength": 5.1549466282662895,
+    "numNodes": 1232,
+    "averageOutDegree": 4.013798701298701
+  },
+  "92": {
+    "numEdges": 4899,
+    "selfLinks": 3,
+    "sizeLargest": 598,
+    "averageInDegree": 3.9796913078797727,
+    "removed": "The Abandoned Mask (episode)",
+    "averagePathLength": 5.147938690106049,
+    "numNodes": 1231,
+    "averageOutDegree": 3.9796913078797727
+  },
+  "93": {
+    "numEdges": 4853,
+    "selfLinks": 3,
+    "sizeLargest": 598,
+    "averageInDegree": 3.9455284552845526,
+    "removed": "Knights of the Round (episode)",
+    "averagePathLength": 5.147938690106049,
+    "numNodes": 1230,
+    "averageOutDegree": 3.9455284552845526
+  },
+  "94": {
+    "numEdges": 4808,
+    "selfLinks": 3,
+    "sizeLargest": 595,
+    "averageInDegree": 3.9121236777868185,
+    "removed": "Gekka",
+    "averagePathLength": 5.1782842429901255,
+    "numNodes": 1229,
+    "averageOutDegree": 3.9121236777868185
+  },
+  "95": {
+    "numEdges": 4764,
+    "selfLinks": 3,
+    "sizeLargest": 592,
+    "averageInDegree": 3.8794788273615635,
+    "removed": "United Federation of Nations",
+    "averagePathLength": 5.183155554031188,
+    "numNodes": 1228,
+    "averageOutDegree": 3.8794788273615635
+  },
+  "96": {
+    "numEdges": 4720,
+    "selfLinks": 3,
+    "sizeLargest": 585,
+    "averageInDegree": 3.8467807660961695,
+    "removed": "Knights of St. Michael",
+    "averagePathLength": 5.191930101861609,
+    "numNodes": 1227,
+    "averageOutDegree": 3.8467807660961695
+  },
+  "97": {
+    "numEdges": 4676,
+    "selfLinks": 3,
+    "sizeLargest": 583,
+    "averageInDegree": 3.8140293637846656,
+    "removed": "Counterattack at the Gallows (episode)",
+    "averagePathLength": 5.209047290646201,
+    "numNodes": 1226,
+    "averageOutDegree": 3.8140293637846656
+  },
+  "98": {
+    "numEdges": 4633,
+    "selfLinks": 3,
+    "sizeLargest": 580,
+    "averageInDegree": 3.7820408163265307,
+    "removed": "Orpheus Zevon",
+    "averagePathLength": 5.2653623965219465,
+    "numNodes": 1225,
+    "averageOutDegree": 3.7820408163265307
+  },
+  "99": {
+    "numEdges": 4591,
+    "selfLinks": 3,
+    "sizeLargest": 577,
+    "averageInDegree": 3.7508169934640523,
+    "removed": "Marianne vi Britannia",
+    "averagePathLength": 5.306214495474677,
+    "numNodes": 1224,
+    "averageOutDegree": 3.7508169934640523
+  },
+  "100": {
+    "numEdges": 4549,
+    "selfLinks": 3,
+    "sizeLargest": 577,
+    "averageInDegree": 3.7195421095666394,
+    "removed": "Knight (episode)",
+    "averagePathLength": 5.306214495474677,
+    "numNodes": 1223,
+    "averageOutDegree": 3.7195421095666394
+  },
+  "101": {
+    "numEdges": 4507,
+    "selfLinks": 3,
+    "sizeLargest": 574,
+    "averageInDegree": 3.688216039279869,
+    "removed": "Re; (episode)",
+    "averagePathLength": 5.3152702020662685,
+    "numNodes": 1222,
+    "averageOutDegree": 3.688216039279869
+  },
+  "102": {
+    "numEdges": 4466,
+    "selfLinks": 3,
+    "sizeLargest": 556,
+    "averageInDegree": 3.6576576576576576,
+    "removed": "Code Geass: Lelouch of the Rebellion (Game)",
+    "averagePathLength": 5.2665305593363145,
+    "numNodes": 1221,
+    "averageOutDegree": 3.6576576576576576
+  },
+  "103": {
+    "numEdges": 4425,
+    "selfLinks": 3,
+    "sizeLargest": 556,
+    "averageInDegree": 3.627049180327869,
+    "removed": "World History",
+    "averagePathLength": 5.2665305593363145,
+    "numNodes": 1220,
+    "averageOutDegree": 3.627049180327869
+  },
+  "104": {
+    "numEdges": 4384,
+    "selfLinks": 3,
+    "sizeLargest": 552,
+    "averageInDegree": 3.5963904840032814,
+    "removed": "Rolo Lamperouge",
+    "averagePathLength": 5.317571477419185,
+    "numNodes": 1219,
+    "averageOutDegree": 3.5963904840032814
+  },
+  "105": {
+    "numEdges": 4344,
+    "selfLinks": 3,
+    "sizeLargest": 548,
+    "averageInDegree": 3.5665024630541873,
+    "removed": "Gilbert G.P. Guilford",
+    "averagePathLength": 5.357017040526295,
+    "numNodes": 1218,
+    "averageOutDegree": 3.5665024630541873
+  },
+  "106": {
+    "numEdges": 4304,
+    "selfLinks": 3,
+    "sizeLargest": 543,
+    "averageInDegree": 3.5365653245686115,
+    "removed": "Shen Hu",
+    "averagePathLength": 5.381344586926533,
+    "numNodes": 1217,
+    "averageOutDegree": 3.5365653245686115
+  },
+  "107": {
+    "numEdges": 4265,
+    "selfLinks": 3,
+    "sizeLargest": 540,
+    "averageInDegree": 3.507401315789474,
+    "removed": "Euro Britannia",
+    "averagePathLength": 5.435494399780114,
+    "numNodes": 1216,
+    "averageOutDegree": 3.507401315789474
+  },
+  "108": {
+    "numEdges": 4226,
+    "selfLinks": 3,
+    "sizeLargest": 536,
+    "averageInDegree": 3.4781893004115227,
+    "removed": "Glinda Knights",
+    "averagePathLength": 5.517408285674431,
+    "numNodes": 1215,
+    "averageOutDegree": 3.4781893004115227
+  },
+  "109": {
+    "numEdges": 4187,
+    "selfLinks": 3,
+    "sizeLargest": 532,
+    "averageInDegree": 3.4489291598023066,
+    "removed": "Shinichir\u014d Tamaki",
+    "averagePathLength": 5.592055704232332,
+    "numNodes": 1214,
+    "averageOutDegree": 3.4489291598023066
+  },
+  "110": {
+    "numEdges": 4149,
+    "selfLinks": 3,
+    "sizeLargest": 530,
+    "averageInDegree": 3.420445177246496,
+    "removed": "Factsphere Sensor",
+    "averagePathLength": 5.596426151157399,
+    "numNodes": 1213,
+    "averageOutDegree": 3.420445177246496
+  },
+  "111": {
+    "numEdges": 4111,
+    "selfLinks": 3,
+    "sizeLargest": 530,
+    "averageInDegree": 3.3919141914191417,
+    "removed": "The Messenger from Kyoto (episode)",
+    "averagePathLength": 5.596426151157399,
+    "numNodes": 1212,
+    "averageOutDegree": 3.3919141914191417
+  },
+  "112": {
+    "numEdges": 4074,
+    "selfLinks": 3,
+    "sizeLargest": 530,
+    "averageInDegree": 3.3641618497109826,
+    "removed": "The Cs' World (episode)",
+    "averagePathLength": 5.596426151157399,
+    "numNodes": 1211,
+    "averageOutDegree": 3.3641618497109826
+  },
+  "113": {
+    "numEdges": 4037,
+    "selfLinks": 3,
+    "sizeLargest": 525,
+    "averageInDegree": 3.3363636363636364,
+    "removed": "Diethard Ried",
+    "averagePathLength": 5.6185896037804435,
+    "numNodes": 1210,
+    "averageOutDegree": 3.3363636363636364
+  },
+  "114": {
+    "numEdges": 4001,
+    "selfLinks": 3,
+    "sizeLargest": 524,
+    "averageInDegree": 3.3093465674110836,
+    "removed": "Float System",
+    "averagePathLength": 5.643863208442194,
+    "numNodes": 1209,
+    "averageOutDegree": 3.3093465674110836
+  },
+  "115": {
+    "numEdges": 3965,
+    "selfLinks": 3,
+    "sizeLargest": 522,
+    "averageInDegree": 3.2822847682119205,
+    "removed": "Guren Dances (episode)",
+    "averagePathLength": 5.66369198638045,
+    "numNodes": 1208,
+    "averageOutDegree": 3.2822847682119205
+  },
+  "116": {
+    "numEdges": 3929,
+    "selfLinks": 3,
+    "sizeLargest": 522,
+    "averageInDegree": 3.2551781275890637,
+    "removed": "Shirley at Gunpoint (episode)",
+    "averagePathLength": 5.66369198638045,
+    "numNodes": 1207,
+    "averageOutDegree": 3.2551781275890637
+  },
+  "117": {
+    "numEdges": 3894,
+    "selfLinks": 3,
+    "sizeLargest": 520,
+    "averageInDegree": 3.228855721393035,
+    "removed": "Battle at the 'Mausoleum of Eighty-Eight Emperors'",
+    "averagePathLength": 5.675203794278938,
+    "numNodes": 1206,
+    "averageOutDegree": 3.228855721393035
+  },
+  "118": {
+    "numEdges": 3859,
+    "selfLinks": 3,
+    "sizeLargest": 517,
+    "averageInDegree": 3.2024896265560168,
+    "removed": "Britannian Imperial Family",
+    "averagePathLength": 5.767415620829772,
+    "numNodes": 1205,
+    "averageOutDegree": 3.2024896265560168
+  },
+  "119": {
+    "numEdges": 3824,
+    "selfLinks": 3,
+    "sizeLargest": 517,
+    "averageInDegree": 3.176079734219269,
+    "removed": "Japan",
+    "averagePathLength": 5.767415620829772,
+    "numNodes": 1204,
+    "averageOutDegree": 3.176079734219269
+  },
+  "120": {
+    "numEdges": 3789,
+    "selfLinks": 3,
+    "sizeLargest": 514,
+    "averageInDegree": 3.1496259351620948,
+    "removed": "Leila Malcal",
+    "averagePathLength": 5.794191488232037,
+    "numNodes": 1203,
+    "averageOutDegree": 3.1496259351620948
+  },
+  "121": {
+    "numEdges": 3755,
+    "selfLinks": 3,
+    "sizeLargest": 514,
+    "averageInDegree": 3.1239600665557403,
+    "removed": "Schneizel's Guise (episode)",
+    "averagePathLength": 5.794191488232037,
+    "numNodes": 1202,
+    "averageOutDegree": 3.1239600665557403
+  },
+  "122": {
+    "numEdges": 3721,
+    "selfLinks": 3,
+    "sizeLargest": 513,
+    "averageInDegree": 3.0982514571190674,
+    "removed": "Blaze Luminous",
+    "averagePathLength": 5.862934789230019,
+    "numNodes": 1201,
+    "averageOutDegree": 3.0982514571190674
+  },
+  "123": {
+    "numEdges": 3687,
+    "selfLinks": 3,
+    "sizeLargest": 509,
+    "averageInDegree": 3.0725,
+    "removed": "Imprisoned in Campus (episode)",
+    "averagePathLength": 5.868079297062327,
+    "numNodes": 1200,
+    "averageOutDegree": 3.0725
+  },
+  "124": {
+    "numEdges": 3653,
+    "selfLinks": 3,
+    "sizeLargest": 509,
+    "averageInDegree": 3.0467055879899916,
+    "removed": "The Black Knights (episode)",
+    "averagePathLength": 5.868079297062327,
+    "numNodes": 1199,
+    "averageOutDegree": 3.0467055879899916
+  },
+  "125": {
+    "numEdges": 3619,
+    "selfLinks": 3,
+    "sizeLargest": 506,
+    "averageInDegree": 3.0208681135225377,
+    "removed": "Alexander",
+    "averagePathLength": 5.916401205337925,
+    "numNodes": 1198,
+    "averageOutDegree": 3.0208681135225377
+  },
+  "126": {
+    "numEdges": 3586,
+    "selfLinks": 3,
+    "sizeLargest": 505,
+    "averageInDegree": 2.9958228905597326,
+    "removed": "Geass vs. Geass (episode)",
+    "averagePathLength": 5.933187961653308,
+    "numNodes": 1197,
+    "averageOutDegree": 2.9958228905597326
+  },
+  "127": {
+    "numEdges": 3554,
+    "selfLinks": 3,
+    "sizeLargest": 503,
+    "averageInDegree": 2.971571906354515,
+    "removed": "Kaguya Sumeragi",
+    "averagePathLength": 6.07024387539306,
+    "numNodes": 1196,
+    "averageOutDegree": 2.971571906354515
+  },
+  "128": {
+    "numEdges": 3522,
+    "selfLinks": 3,
+    "sizeLargest": 497,
+    "averageInDegree": 2.9472803347280334,
+    "removed": "Gawain",
+    "averagePathLength": 6.156012689037451,
+    "numNodes": 1195,
+    "averageOutDegree": 2.9472803347280334
+  },
+  "129": {
+    "numEdges": 3490,
+    "selfLinks": 3,
+    "sizeLargest": 486,
+    "averageInDegree": 2.9229480737018427,
+    "removed": "Nunnally Held Hostage (episode)",
+    "averagePathLength": 6.082109371685545,
+    "numNodes": 1194,
+    "averageOutDegree": 2.9229480737018427
+  },
+  "130": {
+    "numEdges": 3459,
+    "selfLinks": 3,
+    "sizeLargest": 474,
+    "averageInDegree": 2.8994132439228837,
+    "removed": "High Eunuchs",
+    "averagePathLength": 6.0961945031712474,
+    "numNodes": 1193,
+    "averageOutDegree": 2.8994132439228837
+  },
+  "131": {
+    "numEdges": 3428,
+    "selfLinks": 3,
+    "sizeLargest": 471,
+    "averageInDegree": 2.8758389261744965,
+    "removed": "Glasgow",
+    "averagePathLength": 6.240253873605276,
+    "numNodes": 1192,
+    "averageOutDegree": 2.8758389261744965
+  },
+  "132": {
+    "numEdges": 3398,
+    "selfLinks": 3,
+    "sizeLargest": 467,
+    "averageInDegree": 2.8530646515533165,
+    "removed": "Shinkiro",
+    "averagePathLength": 6.279953313543667,
+    "numNodes": 1191,
+    "averageOutDegree": 2.8530646515533165
+  },
+  "133": {
+    "numEdges": 3368,
+    "selfLinks": 3,
+    "sizeLargest": 465,
+    "averageInDegree": 2.8302521008403363,
+    "removed": "The Day a Demon Awakens (episode)",
+    "averagePathLength": 6.255269744160178,
+    "numNodes": 1190,
+    "averageOutDegree": 2.8302521008403363
+  },
+  "134": {
+    "numEdges": 3338,
+    "selfLinks": 3,
+    "sizeLargest": 465,
+    "averageInDegree": 2.8074011774600502,
+    "removed": "Island of the Gods (episode)",
+    "averagePathLength": 6.255269744160178,
+    "numNodes": 1189,
+    "averageOutDegree": 2.8074011774600502
+  },
+  "135": {
+    "numEdges": 3308,
+    "selfLinks": 3,
+    "sizeLargest": 464,
+    "averageInDegree": 2.7845117845117846,
+    "removed": "Code Geass R2 DS",
+    "averagePathLength": 6.283938147017204,
+    "numNodes": 1188,
+    "averageOutDegree": 2.7845117845117846
+  },
+  "136": {
+    "numEdges": 3278,
+    "selfLinks": 3,
+    "sizeLargest": 461,
+    "averageInDegree": 2.7615838247683233,
+    "removed": "Emperor Lelouch (episode)",
+    "averagePathLength": 6.320819579364331,
+    "numNodes": 1187,
+    "averageOutDegree": 2.7615838247683233
+  },
+  "137": {
+    "numEdges": 3249,
+    "selfLinks": 3,
+    "sizeLargest": 458,
+    "averageInDegree": 2.7394603709949408,
+    "removed": "Guren Type-08 Elements ''SEITEN''",
+    "averagePathLength": 6.444870190056664,
+    "numNodes": 1186,
+    "averageOutDegree": 2.7394603709949408
+  },
+  "138": {
+    "numEdges": 3220,
+    "selfLinks": 3,
+    "sizeLargest": 452,
+    "averageInDegree": 2.717299578059072,
+    "removed": "Shin Hyuga Shaing",
+    "averagePathLength": 6.624855287169122,
+    "numNodes": 1185,
+    "averageOutDegree": 2.717299578059072
+  },
+  "139": {
+    "numEdges": 3191,
+    "selfLinks": 3,
+    "sizeLargest": 450,
+    "averageInDegree": 2.6951013513513513,
+    "removed": "Ikaruga",
+    "averagePathLength": 6.684226676565206,
+    "numNodes": 1184,
+    "averageOutDegree": 2.6951013513513513
+  },
+  "140": {
+    "numEdges": 3163,
+    "selfLinks": 3,
+    "sizeLargest": 447,
+    "averageInDegree": 2.673710904480135,
+    "removed": "Marika Soresi",
+    "averagePathLength": 6.716269900984139,
+    "numNodes": 1183,
+    "averageOutDegree": 2.673710904480135
+  },
+  "141": {
+    "numEdges": 3135,
+    "selfLinks": 3,
+    "sizeLargest": 447,
+    "averageInDegree": 2.6522842639593907,
+    "removed": "Code Geass",
+    "averagePathLength": 6.716269900984139,
+    "numNodes": 1182,
+    "averageOutDegree": 2.6522842639593907
+  },
+  "142": {
+    "numEdges": 3108,
+    "selfLinks": 3,
+    "sizeLargest": 444,
+    "averageInDegree": 2.6316680779000845,
+    "removed": "The Stolen Mask (episode)",
+    "averagePathLength": 6.765653915766783,
+    "numNodes": 1181,
+    "averageOutDegree": 2.6316680779000845
+  }
+}
