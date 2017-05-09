@@ -3,8 +3,7 @@ from collections import Counter
 
 import networkx as nx
 
-
-class HierarchicalDecentralizedSearch:
+class RandomSearch:
     def __init__(self, G, network_analysis):
         """
         Initializations for hierarchy-based decentralized search, which requires a graph of nodes and a hierarchy
@@ -13,103 +12,34 @@ class HierarchicalDecentralizedSearch:
         self.G = G.copy()
         self.network_analysis = network_analysis
 
-    def get_hierarchy_distance(self, node1, node2):
-        """
-        Gets the distance between two nodes in the hierarchy
-        """
-        return len(nx.shortest_path(self.hierarchy, source=node1, target=node2))
-
-    def score_function(self, node1, node2, weight_value):
-        """
-        Gets the score between two neighbors with some weight applied
-        """
-        hierarchy_value = self.get_hierarchy_distance(node1, node2)
-        if not self.apply_weighted_score:
-            return hierarchy_value
-        return hierarchy_value * weight_value
-
-    def get_weighting_value(self, current_node, neighbor_node):
-        """
-        Returns a weighting value for the hierarchical score of a neighbor_node of a current_node based on the
-        neighbor's link location on the page corresponding to current_node
-        """
-        x = current_node.neighbor_to_location[neighbor_node.name]  # current link position
-        n = len(current_node.neighbor_to_location)  # number of links
-
-        # Linear: a = -2/(n(n-1)), b = 2/n. Designed so sum is 1
-        return 1 if n == 1 else -2 / (n * (n - 1)) * x + 2 / n
-
-    def get_decentralized_search_path(self, node1, node2, widen_target):
+    def get_search_path(self, node1, node2):
         """
         Uses decentralized search to get the path between two given nodes
         """
-        if self.detailed_print:
-            print("\n" + node1.name + " to " + node2.name)
-
         last_node = None
         current_node = node1
-        decentralized_search_path = [current_node]
+        search_path = [current_node]
         visited_edges, unique_pages = set(), set()
 
         target_zone = set()
         target_zone.add(node2)
 
-        if widen_target:
-            # If you know the neighbors
-            # target_zone.update(self.G.predecessors(node2))
-            all_nodes = list(map(lambda x: (x, self.get_hierarchy_distance(x, node2)), self.G.nodes()))
-            sorted_by_hierarchy = sorted(all_nodes, key=lambda tup: tup[1])
-            for i in range(0, 3):
-                if self.detailed_print:
-                    print(sorted_by_hierarchy[i])
-                target_zone.add(sorted_by_hierarchy[i][0])
-
-        if self.detailed_print:
-            print("TARGET ZONE: " + str(target_zone))
-
         unique_pages.add(current_node)
         while current_node != node2:
-            if len(decentralized_search_path) >= len(self.G.nodes()):
+            if len(search_path) >= len(self.G.nodes()):
                 return None
-            if self.detailed_print:
-                try:
-                    print("CURRENT NODE: " + str(current_node) + " , DISTANCE: " +
-                          str(self.get_hierarchy_distance(current_node, node2)))
-                except Exception as e:
-                    print("CURRENT NODE: " + str(current_node))
 
+            next_node = None
             current_neighbors = self.G.neighbors(current_node)
-            min_distance = float("inf")
-            min_distance_node = None
-            equal_distance_nodes = []
-            if self.detailed_print:
-                print("CURRENT NEIGHBORS: " + str(
-                    list(map(lambda x: (x, self.get_hierarchy_distance(x, node2)), current_neighbors))))
+            if node2 in current_neighbors:
+                next_node = node2
+            else:
+                options = list(set(current_neighbors)) - list(unique_pages)
+                next_node = random.choice(options)
 
-            for neighbor in current_neighbors:
-                # Check if a neighbor is the destination node before utilizing the hierarchical scores
-                if neighbor == node2:
-                    min_distance_node = neighbor
-                    break
-                elif len(neighbor.categories) > 0 and ((current_node, neighbor) not in visited_edges):
-                    # Try to use more than just hierarchy
-                    try:
-                        weight = self.get_weighting_value(current_node, neighbor) if self.apply_weighted_score else 1
-                        current_distance = self.score_function(neighbor, node2, weight)
-                        current_distance_target = map(lambda x: self.score_function(neighbor, x, weight), target_zone)
-                        target_min = min(current_distance_target)
-                        current_distance = min(current_distance, target_min)
-                    except Exception as e:
-                        continue
-                    if current_distance == min_distance:
-                        equal_distance_nodes.append(neighbor.name)
-                    if current_distance < min_distance:
-                        equal_distance_nodes = []
-                        min_distance = current_distance
-                        min_distance_node = neighbor
-            if self.detailed_print:
-                print("OTHER POSSIBILITIES: " + str(equal_distance_nodes) + "\n")
-            if min_distance_node is None:
+            # if self.detailed_print:
+            #     print("OTHER POSSIBILITIES: " + str(equal_distance_nodes) + "\n")
+            if next_node is None:
                 if len(current_neighbors) == 0:
                     # Pop this page and return to the last page
                     min_distance_node = last_node
@@ -118,21 +48,21 @@ class HierarchicalDecentralizedSearch:
                 else:
                     while (min_distance_node is None) or (len(min_distance_node.categories) == 0):
                         min_distance_node = current_neighbors[random.randint(0, len(current_neighbors) - 1)]
-            decentralized_search_path.append(min_distance_node)
-            visited_edges.add((current_node, min_distance_node))
+            search_path.append(next_node)
+            visited_edges.add((current_node, next_node))
             last_node = current_node
-            current_node = min_distance_node
+            current_node = next_node
             unique_pages.add(current_node)
-        return (decentralized_search_path, unique_pages)
+        return (search_path, unique_pages)
 
-    def run_decentralized_search(self, num_times, widen_target, plots):
+    def run_search(self, num_times, widen_target, plots):
         """
         Runs decentralized search the specified number of times (num_times) by randomly selecting a pair of nodes
         for each run
         """
         nodes = self.G.nodes()
-        decentralized_search_paths = []
-        decentralized_search_paths_unique_nodes = []
+        search_paths = []
+        search_paths_unique_nodes = []
         for i in range(num_times):
             node1 = None
             node2 = None
@@ -147,7 +77,7 @@ class HierarchicalDecentralizedSearch:
                     if rand2_index != rand1_index and len(nodes[rand2_index].categories) > 0:
                         node2 = nodes[rand2_index]
                         break
-            results = self.get_decentralized_search_path(node1, node2, widen_target)
+            results = self.get_search_path(node1, node2, widen_target)
             if results is None:
                 search_path = None
                 search_path_unique_nodes = None
@@ -157,20 +87,20 @@ class HierarchicalDecentralizedSearch:
                 search_path, search_path_unique_nodes = results
                 if self.detailed_print:
                     print(str(search_path))
-                    print("Decentralized Search " + str(i + 1) + ": Length " + str(len(search_path)))
+                    print("Random Search " + str(i + 1) + ": Length " + str(len(search_path)))
                     print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
                 else:
-                    print("Decentralized Search " + str(i + 1) + ": Length " + str(len(search_path)))
+                    print("Random Search " + str(i + 1) + ": Length " + str(len(search_path)))
 
-            decentralized_search_paths.append(search_path)
-            decentralized_search_paths_unique_nodes.append(search_path_unique_nodes)
+            search_paths.append(search_path)
+            search_paths_unique_nodes.append(search_path_unique_nodes)
 
         # Calculate mean path length
         mean_path_length = 0.0
         num_paths_found = 0
         path_distribution = []
 
-        for search_path in decentralized_search_paths:
+        for search_path in search_paths:
             if search_path is not None:
                 path_distribution.append(len(search_path))
                 mean_path_length += len(search_path)
@@ -188,20 +118,20 @@ class HierarchicalDecentralizedSearch:
             cdf[i] = sum(ydata[:i + 1])
 
         if plots:
-            self.network_analysis.makePlot("Decentralized Path Distribution", "Path Length", "Occurances", xdata, ydata,
+            self.network_analysis.makePlot("Random Path Distribution", "Path Length", "Occurances", xdata, ydata,
                 "path_pdf.png")
-            self.network_analysis.makePlot("CDF of Decentralized Path Distribution", "Path Length", "Occurances", xdata,
+            self.network_analysis.makePlot("CDF of Random Path Distribution", "Path Length", "Occurances", xdata,
                 cdf, "path_cdf.png")
             self.network_analysis.write_data_json("cdfdump.json", dict(zip(xdata, cdf)))
 
         # Calculate mean unique nodes for each path
         mean_unique_nodes = 0.0
-        for path_unique_nodes in decentralized_search_paths_unique_nodes:
+        for path_unique_nodes in search_paths_unique_nodes:
             if path_unique_nodes is not None:
                 mean_unique_nodes += len(path_unique_nodes)
         mean_unique_nodes = float(mean_unique_nodes) / num_paths_found
         print("Num Paths Found:", num_paths_found)
-        print("Num Paths Not Found:", len(decentralized_search_paths) - num_paths_found)
+        print("Num Paths Not Found:", len(search_paths) - num_paths_found)
         print("Mean Path Length of Decentralized Search:", mean_path_length)
         print("Mean Unique Nodes of Path of Decentralized Search:", mean_unique_nodes)
-        return num_paths_found, len(decentralized_search_paths) - num_paths_found, mean_path_length, mean_unique_nodes
+        return num_paths_found, len(search_paths) - num_paths_found, mean_path_length, mean_unique_nodes
