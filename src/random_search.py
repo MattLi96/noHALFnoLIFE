@@ -27,7 +27,7 @@ class RandomSearch:
 
         unique_pages.add(current_node)
         while current_node != node2:
-            if len(search_path) >= len(self.G.nodes()):
+            if len(search_path) >= 200:  # Hardcap path length
                 return None
 
             next_node = None
