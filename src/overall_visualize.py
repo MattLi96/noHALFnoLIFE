@@ -24,7 +24,7 @@ def retrieve_basic_dicts(dir, current_only=True):
 
 
 def visualize(data):
-    xfields = ["selfLinks", "numNodes", "averageInDegree", "averagePathLength", "numEdges", "averageOutDegree"]
+    xfields = ["selfLinks", "numNodes", "averagePathLength", "numEdges", "averageOutDegree"]
     xdata = {}
     for x in xfields:
         xdata[x] = list(map(lambda z: z[x], data))
