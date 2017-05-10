@@ -129,8 +129,8 @@ class Runner:
                 output("Analyzing File " + data_file + ' at time ' + str(curr_time))
                 na = NetworkAnalysis(net.G, os.path.basename(data_file), output_path, curr_time)
 
-                basic = na.returnBasicStats()
-                basic['averagePathLength'] = na.getAveragePathLength()
+                basic = na.d3dump(public_out_path, str(curr_time))
+
                 # Run Decentralized Search
                 try:
                     if decentralized_search_settings["run_decentralized_search"]:
