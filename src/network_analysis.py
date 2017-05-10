@@ -138,8 +138,11 @@ class NetworkAnalysis:
             # subs = nx.strongly_connected_components(self.G)
             # subLengths = list(map(lambda x: len(x), subs))
             # print(subLengths)
-            subs = max(nx.strongly_connected_component_subgraphs(self.G), key=len)
-            return nx.average_shortest_path_length(subs)
+            try:
+                subs = max(nx.strongly_connected_component_subgraphs(self.G), key=len)
+                return nx.average_shortest_path_length(subs)
+            except:
+                return 0
 
     def makePlot(self, title, xaxis, yaxis, xdata, ydata, path):
         fig = plt.figure()

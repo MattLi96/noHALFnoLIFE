@@ -129,9 +129,10 @@ class Runner:
                 output("Analyzing File " + data_file + ' at time ' + str(curr_time))
                 na = NetworkAnalysis(net.G, os.path.basename(data_file), output_path)
 
+                basic = na.returnBasicStats()
+                basic['averagePathLength'] = na.getAveragePathLength()
                 # Run Decentralized Search
                 try:
-                    basic = na.d3dump("../public/data/", str(curr_time))
                     if decentralized_search_settings["run_decentralized_search"]:
                         hiearchyG = net.G.copy()
                         category_hierarchy = CategoryBasedHierarchicalModel(hiearchyG,
@@ -172,11 +173,11 @@ class Runner:
                             "random_average_decentralized_path_length": av_path_len,
                             "random_average_num_unique_nodes": av_unique_nodes
                         })
-
-                    if generate_data:  # write out decentralized results
-                        na.write_permanent_data_json(public_data, basic, str(curr_time))
                 except:
                     pass
+
+                if generate_data:  # write out decentralized results
+                    na.write_permanent_data_json(public_data, basic, str(curr_time))
 
         output("Completed Analyzing: " + data_file)
 
