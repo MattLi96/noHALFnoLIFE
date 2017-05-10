@@ -3,9 +3,36 @@ import os
 import shutil
 
 import matplotlib.pyplot as plt
+import numpy as np
 
 DATA_PATH = "../data/current/"
 OUTPUT_PATH = "../output/visual/"
+
+FIELDS = {0: 'numNodes',
+          1: 'numEdges',
+          2: 'averageInDegree',
+          3: 'averageOutDegree',
+          4: 'selfLinks',
+          5: 'averagePathLength',
+          6: 'decentralized_num_paths_found',
+          7: 'decentralized_num_paths_missing',
+          8: 'decentralized_average_decentralized_path_length',
+          9: 'decentralized_average_num_unique_nodes',
+          10: 'hierarchy_num_nodes',
+          11: 'hierarchy_num_levels',
+          12: 'path_length_10_percentile',
+          13: 'path_length_20_percentile',
+          14: 'path_length_30_percentile',
+          15: 'path_length_40_percentile',
+          16: 'path_length_50_percentile',
+          17: 'path_length_60_percentile',
+          18: 'path_length_70_percentile',
+          19: 'path_length_80_percentile',
+          20: 'path_length_90_percentile',
+          21: 'random_num_paths_found',
+          22: 'random_num_paths_missing',
+          23: 'random_average_decentralized_path_length',
+          24: 'random_average_num_unique_nodes'}
 
 
 def retrieve_basic_dicts(dir, current_only=True):
@@ -23,13 +50,51 @@ def retrieve_basic_dicts(dir, current_only=True):
     return ret
 
 
+def compare_hiearchy_random():
+    out_path = OUTPUT_PATH + "compare.png"
+
+    fig, ax = plt.subplots()
+    plt.title("Random To Hierarchy Mean Path Length")
+
+    plt.xlabel("Random")
+    plt.ylabel("Hierarchy")
+
+    plot_compare_hiearchy_random("../data/capped/none_unweighted/overview/", 'r', "Baseline")
+    plot_compare_hiearchy_random("../data/capped/none_weighted/overview/", 'b', "Weighted")
+    plot_compare_hiearchy_random("../data/capped/2look_unweighted/overview/", 'g', "Lookahead")
+
+    # Line
+    lims = [
+        np.min([ax.get_xlim(), ax.get_ylim()]),  # min of both axes
+        np.max([ax.get_xlim(), ax.get_ylim()]),  # max of both axes
+    ]
+    ax.plot(lims, lims, 'k-')
+
+    plt.legend(loc=4)
+
+    directory = os.path.dirname(out_path)
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+
+    plt.savefig(out_path)
+    plt.close()
+
+
+def plot_compare_hiearchy_random(data_path, color, label):
+    data = retrieve_basic_dicts(data_path)
+    xdata = list(map(lambda z: z['random_average_decentralized_path_length'], data))
+    ydata = list(map(lambda z: z['decentralized_average_decentralized_path_length'], data))
+    plt.scatter(x=xdata, y=ydata, c=color, label=label)
+
+
 def visualize(data):
     xfields = ["selfLinks", "numNodes", "averagePathLength", "numEdges", "averageOutDegree"]
     xdata = {}
     for x in xfields:
         xdata[x] = list(map(lambda z: z[x], data))
 
-    decentralized_fields = ["decentralized_average_num_unique_nodes", "decentralized_average_decentralized_path_length", "decentralized_num_paths_found"]
+    decentralized_fields = ["decentralized_average_num_unique_nodes", "decentralized_average_decentralized_path_length",
+                            "decentralized_num_paths_found"]
     ydata = {}
     for y in decentralized_fields:
         ydata[y] = list(map(lambda z: z[y], data))
@@ -44,13 +109,9 @@ def makePlot(title, xaxis, yaxis, xdata, ydata, out):
     fig = plt.figure()
     fig.suptitle(title, fontsize=14, fontweight='bold')
 
-    ax = fig.add_subplot(111)
-    fig.subplots_adjust(top=0.85)
+    plt.xlabel(xaxis)
+    plt.ylabel(yaxis)
 
-    ax.set_xlabel(xaxis)
-    ax.set_ylabel(yaxis)
-
-    ax.scatter(x=xdata, y=ydata)
     plt.scatter(x=xdata, y=ydata)
 
     directory = os.path.dirname(out_path)
@@ -62,9 +123,9 @@ def makePlot(title, xaxis, yaxis, xdata, ydata, out):
 
 
 if __name__ == '__main__':
-    listed_data = retrieve_basic_dicts(DATA_PATH)
-
     if os.path.exists(OUTPUT_PATH):
         shutil.rmtree(OUTPUT_PATH)
     os.makedirs(OUTPUT_PATH)
-    visualize(listed_data)
+
+    compare_hiearchy_random()
+    # visualize(retrieve_basic_dicts(DATA_PATH))
