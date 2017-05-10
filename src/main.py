@@ -177,7 +177,7 @@ class Runner:
                     pass
 
                 if generate_data:  # write out decentralized results
-                    na.write_permanent_data_json(public_data, basic, str(curr_time.data()))
+                    na.write_permanent_data_json(public_data, basic, str(curr_time.date()))
 
         output("Completed Analyzing: " + data_file)
 
