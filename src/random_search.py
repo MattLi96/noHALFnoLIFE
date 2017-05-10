@@ -114,7 +114,7 @@ class RandomSearch:
                 "random_path_pdf.png")
             self.network_analysis.makePlot("CDF of Random Path Distribution", "Path Length", "Occurances", xdata,
                 cdf, "random_path_cdf.png")
-            self.network_analysis.write_data_json("cdfdump.json", dict(zip(xdata, cdf)))
+            self.network_analysis.write_data_json("random_cdfdump.json", dict(zip(xdata, cdf)))
 
         # Calculate mean unique nodes for each path
         mean_unique_nodes = 0.0
