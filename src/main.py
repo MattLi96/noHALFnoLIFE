@@ -127,7 +127,7 @@ class Runner:
             if d:
                 net = NetworkParser(d)
                 output("Analyzing File " + data_file + ' at time ' + str(curr_time))
-                na = NetworkAnalysis(net.G, os.path.basename(data_file), output_path)
+                na = NetworkAnalysis(net.G, os.path.basename(data_file), output_path, curr_time)
 
                 basic = na.returnBasicStats()
                 basic['averagePathLength'] = na.getAveragePathLength()
@@ -177,7 +177,7 @@ class Runner:
                     pass
 
                 if generate_data:  # write out decentralized results
-                    na.write_permanent_data_json(public_data, basic, str(curr_time))
+                    na.write_permanent_data_json(public_data, basic, str(curr_time.data()))
 
         output("Completed Analyzing: " + data_file)
 
