@@ -5,7 +5,7 @@ import shutil
 import matplotlib.pyplot as plt
 import numpy as np
 
-DATA_PATH = "../data/current/"
+DATA_PATH = "../data/capped/none_unweighted/overview/"
 OUTPUT_PATH = "../output/visual/"
 
 FIELDS = {0: 'numNodes',
@@ -54,7 +54,7 @@ def compare_hiearchy_random():
     out_path = OUTPUT_PATH + "compare.png"
 
     fig, ax = plt.subplots()
-    plt.title("Random To Hierarchy Mean Path Length")
+    plt.title("Random To Hierarchy Unique Nodes")
 
     plt.xlabel("Random")
     plt.ylabel("Hierarchy")
@@ -82,19 +82,18 @@ def compare_hiearchy_random():
 
 def plot_compare_hiearchy_random(data_path, color, label):
     data = retrieve_basic_dicts(data_path)
-    xdata = list(map(lambda z: z['random_average_decentralized_path_length'], data))
-    ydata = list(map(lambda z: z['decentralized_average_decentralized_path_length'], data))
+    xdata = list(map(lambda z: z[FIELDS[24]], data))  # Random
+    ydata = list(map(lambda z: z[FIELDS[9]], data))  # Hierarchy
     plt.scatter(x=xdata, y=ydata, c=color, label=label)
 
 
 def visualize(data):
-    xfields = ["selfLinks", "numNodes", "averagePathLength", "numEdges", "averageOutDegree"]
+    xfields = [i for _, i in FIELDS.items()]
     xdata = {}
     for x in xfields:
         xdata[x] = list(map(lambda z: z[x], data))
 
-    decentralized_fields = ["decentralized_average_num_unique_nodes", "decentralized_average_decentralized_path_length",
-                            "decentralized_num_paths_found"]
+    decentralized_fields = [FIELDS[16], FIELDS[6], FIELDS[8], FIELDS[9]]
     ydata = {}
     for y in decentralized_fields:
         ydata[y] = list(map(lambda z: z[y], data))
@@ -128,4 +127,4 @@ if __name__ == '__main__':
     os.makedirs(OUTPUT_PATH)
 
     compare_hiearchy_random()
-    # visualize(retrieve_basic_dicts(DATA_PATH))
+    visualize(retrieve_basic_dicts(DATA_PATH))
