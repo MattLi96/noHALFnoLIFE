@@ -98,7 +98,7 @@ class Runner:
 
             random_search_model = RandomSearch(net.G, na)
             n_found, n_missing, av_path_len, av_unique_nodes = random_search_model.run_search(1000,
-                decentralized_search_settings["plots"])
+                decentralized_search_settings["widen_search"], decentralized_search_settings["plots"])
             basic.update({
                 "random_num_paths_found": n_found,
                 "random_num_paths_missing": n_missing,
@@ -166,7 +166,7 @@ class Runner:
 
                         random_search_model = RandomSearch(net.G, na)
                         n_found, n_missing, av_path_len, av_unique_nodes = random_search_model.run_search(1000,
-                            decentralized_search_settings["plots"])
+                            decentralized_search_settings["widen_search"], decentralized_search_settings["plots"])
                         basic.update({
                             "random_num_paths_found": n_found,
                             "random_num_paths_missing": n_missing,

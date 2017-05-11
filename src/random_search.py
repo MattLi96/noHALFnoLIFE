@@ -15,7 +15,7 @@ class RandomSearch:
         self.G = G.copy()
         self.network_analysis = network_analysis
 
-    def get_search_path(self, node1, node2):
+    def get_search_path(self, node1, node2, widen_target):
         """
         Uses decentralized search to get the path between two given nodes
         """
@@ -27,6 +27,9 @@ class RandomSearch:
         target_zone = set()
         target_zone.add(node2)
 
+        if widen_target == '2look':
+            target_zone.update(self.G.predecessors(node2))
+
         unique_pages.add(current_node)
         while current_node != node2:
             if len(search_path) >= path_length_cap:  # Hardcap path length
@@ -37,8 +40,13 @@ class RandomSearch:
             if node2 in current_neighbors:
                 next_node = node2
             else:
+                for n in current_neighbors:
+                    if n in target_zone:
+                        next_node = n
+                        break
+
                 options = list(set(current_neighbors) - set(unique_pages))
-                if len(options) > 0:
+                if len(options) > 0 and next_node is None:
                     next_node = random.choice(options)
 
             if next_node is None:
@@ -52,9 +60,9 @@ class RandomSearch:
             last_node = current_node
             current_node = next_node
             unique_pages.add(current_node)
-        return (search_path, unique_pages)
+        return search_path, unique_pages
 
-    def run_search(self, num_times, plots):
+    def run_search(self, num_times, widen_target, plots):
         """
         Runs randomized search the specified number of times (num_times) by randomly selecting a pair of nodes
         for each run
@@ -76,7 +84,7 @@ class RandomSearch:
                     if rand2_index != rand1_index and len(nodes[rand2_index].categories) > 0:
                         node2 = nodes[rand2_index]
                         break
-            results = self.get_search_path(node1, node2)
+            results = self.get_search_path(node1, node2, widen_target)
             if results is None:
                 search_path = None
                 search_path_unique_nodes = None
