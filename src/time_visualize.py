@@ -4,10 +4,13 @@ import os
 import shutil
 
 import matplotlib.pyplot as plt
+import matplotlib.colors as col
+from matplotlib.dates import date2num
+import datetime as dt
 import numpy as np
 
 DATA_PATH = "../data/jared/none_weighted_time/overview/"
-OUTPUT_PATH = "../output/visual/jared_time_weightedquicktest/"
+OUTPUT_PATH = "../output/visual/jared_time_weighted/"
 
 FIELDS = {0: 'numNodes',
           1: 'numEdges',
@@ -61,20 +64,31 @@ TITLEDICT = { 'numNodes': 'Number of Nodes',
         'random_average_decentralized_path_length': 'Average Random Search Path Length',
         'random_average_num_unique_nodes': 'Average Number of Unique Nodes in Random Search Paths'}
 
-def get_title(key):
-    return TITLEDICT[key]
+
 
 
 def retrieve_basic_dicts(dir):
     files = os.listdir(dir)
     ret = []
+    dates = []
+    filearr = []
     for f in files:
-        full_path = os.path.join(dir, f)
+        last_tag = f.split('.')[-2].split('_')[-1]
+        if last_tag == 'current':
+            continue
+        this_date = dt.datetime.strptime(last_tag, '%Y-%m-%d')
+        filearr.append((this_date, f))
+    filearr = sorted(filearr, key = lambda x: x[0])
+    for f in filearr:
+        full_path = os.path.join(dir, f[1])
         with open(full_path) as json_data:
             d = json.load(json_data)
             ret.append(d)
-    return ret
+            dates.append(f[0])
+    return (ret, dates)
 
+def get_title(key):
+    return TITLEDICT[key]
 
 def compare_hiearchy_random():
     out_path = OUTPUT_PATH + "compare.png"
@@ -91,9 +105,9 @@ def compare_hiearchy_random():
 
     # Line
     lims = [
-        np.min([ax.get_xlim(), ax.get_ylim()]),  # min of both axes
-        np.max([ax.get_xlim(), ax.get_ylim()]),  # max of both axes
-    ]
+            np.min([ax.get_xlim(), ax.get_ylim()]),  # min of both axes
+            np.max([ax.get_xlim(), ax.get_ylim()]),  # max of both axes
+            ]
     ax.plot(lims, lims, 'k-')
 
     plt.legend(loc=4)
@@ -107,13 +121,13 @@ def compare_hiearchy_random():
 
 
 def plot_compare_hiearchy_random(data_path, color, label):
-    data = retrieve_basic_dicts(data_path)
+    (data, dates) = retrieve_basic_dicts(data_path)
     xdata = list(map(lambda z: z[FIELDS[24]], data))  # Random
     ydata = list(map(lambda z: z[FIELDS[9]], data))  # Hierarchy
     plt.scatter(x=xdata, y=ydata, c=color, label=label)
 
 
-def visualize(data):
+def visualize(data, dates=None):
     xfields = [i for _, i in FIELDS.items()]
     xdata = {}
     for x in xfields:
@@ -121,25 +135,39 @@ def visualize(data):
     for x in xfields:
         xdata[x] = list(map(lambda z: z[x], data))
 
-    decentralized_fields = [FIELDS[16], FIELDS[6], FIELDS[8], FIELDS[9]]
+    #decentralized_fields = [FIELDS[16], FIELDS[6], FIELDS[8], FIELDS[9]]
+    decentralized_fields = FIELDS.values()
+    agesteps = dates if dates else range(0, len(xdata[FIELDS[0]]))
+    agesteps.pop(0)
+
     ydata = {}
     for y in decentralized_fields:
         ydata[y] = list(map(lambda z: z[y], data))
 
-    for x, xd in xdata.items():
-        for y, yd in ydata.items():
-            makePlot('{} to {}'.format(get_title(x), get_title(y)), get_title(x), get_title(y), xd, yd, '{}_{}.png'.format(get_title(y), get_title(x)))
+    for y, yd in ydata.items():
+        makePlot('{} to {}'.format('Time', get_title(y)), 'Time', get_title(y), agesteps, yd, '{}_{}.png'.format('Time', get_title(y)))
+        #for x, xd in xdata.items():
+        #    makePlot('{} to {}'.format(get_title(x), get_title(y)), get_title(x), get_title(y), xd, yd, '{}_{}.png'.format(get_title(y), get_title(x)))
 
+def getColArray(arrlength, col1 = [0.3, 0.6, 0.3, 0.2], col2 = [0.3, 0.6, 0.3, 1]):
+    a = []
+    for i in range (0, arrlength):
+        newarr = []
+        for j in range(0, len(col1)):
+            newarr.append((col1[j] * (arrlength - i)/arrlength) + (col2[j] * i/arrlength))
+        a.append(newarr)
+    return a
 
 def makePlot(title, xaxis, yaxis, xdata, ydata, out):
     out_path = OUTPUT_PATH + out
     fig = plt.figure()
     fig.suptitle(title, fontsize=14, fontweight='bold')
+    plt.xticks(rotation=17, horizontalalignment='right')
 
     plt.xlabel(xaxis)
     plt.ylabel(yaxis)
 
-    plt.scatter(x=xdata, y=ydata)
+    plt.scatter(x=xdata, y=ydata, c=getColArray(len(xdata)))
 
     directory = os.path.dirname(out_path)
     if not os.path.exists(directory):
@@ -155,4 +183,4 @@ if __name__ == '__main__':
     os.makedirs(OUTPUT_PATH)
 
     compare_hiearchy_random()
-    visualize(retrieve_basic_dicts(DATA_PATH))
+    visualize(*retrieve_basic_dicts(DATA_PATH))
