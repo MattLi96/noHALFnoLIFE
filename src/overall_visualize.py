@@ -46,6 +46,7 @@ def retrieve_basic_dicts(dir, current_only=True):
         full_path = os.path.join(dir, f)
         with open(full_path) as json_data:
             d = json.load(json_data)
+            d["file"] = os.path.splitext(f)[0].split("_")[0]
             ret.append(d)
     return ret
 
@@ -59,9 +60,11 @@ def compare_hiearchy_random():
     plt.xlabel("Random")
     plt.ylabel("Hierarchy")
 
-    plot_compare_hiearchy_random("../data/capped/none_unweighted/overview/", 'r', "Baseline")
-    plot_compare_hiearchy_random("../data/capped/none_weighted/overview/", 'b', "Weighted")
-    plot_compare_hiearchy_random("../data/capped/2look_unweighted/overview/", 'g', "Lookahead")
+    plot_compare_hiearchy_random("../data/capped/none_unweighted/overview/", 'r', "Baseline", True)
+    # plot_compare_hiearchy_random("../data/capped/none_weighted/overview/", 'b', "Weighted")
+    # plot_compare_hiearchy_random("../data/capped/2look_unweighted/overview/", 'g', "Lookahead")
+    # plot_compare_hiearchy_random("../data/capped/hierarchy_unweighted/overview/", 'm', "Hierarchy")
+    # plot_compare_hiearchy_random("../data/capped/2look_weighted/overview/", 'c', "Weighted Lookahead")
 
     # Line
     lims = [
@@ -80,11 +83,15 @@ def compare_hiearchy_random():
     plt.close()
 
 
-def plot_compare_hiearchy_random(data_path, color, label):
+def plot_compare_hiearchy_random(data_path, color, label, point_labels=False):
     data = retrieve_basic_dicts(data_path)
     xdata = list(map(lambda z: z[FIELDS[24]], data))  # Random
     ydata = list(map(lambda z: z[FIELDS[9]], data))  # Hierarchy
     plt.scatter(x=xdata, y=ydata, c=color, label=label)
+    if point_labels:
+        pls = list(map(lambda z: z["file"], data))
+        for l, x, y in zip(pls, xdata, ydata):
+            plt.annotate(l, xy=(x, y))
 
 
 def visualize(data):
