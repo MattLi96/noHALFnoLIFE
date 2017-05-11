@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import json
 import os
 import shutil
@@ -5,8 +6,8 @@ import shutil
 import matplotlib.pyplot as plt
 import numpy as np
 
-DATA_PATH = "../data/capped/none_unweighted/overview/"
-OUTPUT_PATH = "../output/visual/"
+DATA_PATH = "../data/jared/none_weighted_time/overview/"
+OUTPUT_PATH = "../output/visual/jared_time_weightedquicktest/"
 
 FIELDS = {0: 'numNodes',
           1: 'numEdges',
@@ -34,15 +35,40 @@ FIELDS = {0: 'numNodes',
           23: 'random_average_decentralized_path_length',
           24: 'random_average_num_unique_nodes'}
 
+TITLEDICT = { 'numNodes': 'Number of Nodes',
+        'numEdges': 'Number of Edges',
+        'averageInDegree': 'Average Indegree',
+        'averageOutDegree': 'Average Outdegree',
+        'selfLinks': 'Number of Self-links',
+        'averagePathLength': 'Average Path Length',
+        'decentralized_num_paths_found': 'Number of Paths Found with Decentralized Search',
+        'decentralized_num_paths_missing': 'Number of Paths Missing from Decentralized Search',
+        'decentralized_average_decentralized_path_length': 'Average Decentralized Search Path Length',
+        'decentralized_average_num_unique_nodes': 'Average Number of Unique Nodes in Decentralized Search Paths',
+        'hierarchy_num_nodes': 'Number of Nodes in Hierarchy',
+        'hierarchy_num_levels': 'Number of Levels in Hierarchy', 
+        'path_length_10_percentile': 'Path Length (10th percentile)',
+        'path_length_20_percentile': 'Path Length (20th percentile)',
+        'path_length_30_percentile': 'Path Length (30th percentile)',
+        'path_length_40_percentile': 'Path Length (40th percentile)',
+        'path_length_50_percentile': 'Path Length (50th percentile)',
+        'path_length_60_percentile': 'Path Length (60th percentile)',
+        'path_length_70_percentile': 'Path Length (70th percentile)',
+        'path_length_80_percentile': 'Path Length (80th percentile)',
+        'path_length_90_percentile': 'Path Length (90th percentile)',
+        'random_num_paths_found': 'Number of Paths Found with Random Search',
+        'random_num_paths_missing': 'Number of Paths Missing from Random Search',
+        'random_average_decentralized_path_length': 'Average Random Search Path Length',
+        'random_average_num_unique_nodes': 'Average Number of Unique Nodes in Random Search Paths'}
 
-def retrieve_basic_dicts(dir, current_only=True):
+def get_title(key):
+    return TITLEDICT[key]
+
+
+def retrieve_basic_dicts(dir):
     files = os.listdir(dir)
-    only_current = list(filter(lambda x: "current" in x, files))
-
-    list_to_analyze = only_current if current_only else files
-
     ret = []
-    for f in list_to_analyze:
+    for f in files:
         full_path = os.path.join(dir, f)
         with open(full_path) as json_data:
             d = json.load(json_data)
@@ -98,6 +124,8 @@ def visualize(data):
     xfields = [i for _, i in FIELDS.items()]
     xdata = {}
     for x in xfields:
+        data = list(filter(lambda z: x in z, data))
+    for x in xfields:
         xdata[x] = list(map(lambda z: z[x], data))
 
     decentralized_fields = [FIELDS[16], FIELDS[6], FIELDS[8], FIELDS[9]]
@@ -107,7 +135,7 @@ def visualize(data):
 
     for x, xd in xdata.items():
         for y, yd in ydata.items():
-            makePlot('{} to {}'.format(x, y), x, y, xd, yd, '{}_{}.png'.format(y, x))
+            makePlot('{} to {}'.format(get_title(x), get_title(y)), get_title(x), get_title(y), xd, yd, '{}_{}.png'.format(get_title(y), get_title(x)))
 
 
 def makePlot(title, xaxis, yaxis, xdata, ydata, out):
