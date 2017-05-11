@@ -87,9 +87,10 @@ def compare_hiearchy_random():
     plt.xlabel("Random")
     plt.ylabel("Hierarchy")
 
-    plot_compare_hiearchy_random("../data/capped/none_unweighted/overview/", 'r', "Baseline", True)
+    # plot_compare_hiearchy_random("../data/capped/none_unweighted/overview/", 'r', "Baseline")
+    plot_compare_hiearchy_random("../data/capped/both_2look/overview/", 'y', "Both Lookahead")
     # plot_compare_hiearchy_random("../data/capped/none_weighted/overview/", 'b', "Weighted")
-    # plot_compare_hiearchy_random("../data/capped/2look_unweighted/overview/", 'g', "Lookahead")
+    plot_compare_hiearchy_random("../data/capped/2look_unweighted/overview/", 'g', "Lookahead")
     # plot_compare_hiearchy_random("../data/capped/hierarchy_unweighted/overview/", 'm', "Hierarchy")
     # plot_compare_hiearchy_random("../data/capped/2look_weighted/overview/", 'c', "Weighted Lookahead")
 
@@ -164,4 +165,4 @@ if __name__ == '__main__':
     os.makedirs(OUTPUT_PATH)
 
     compare_hiearchy_random()
-    visualize(retrieve_basic_dicts(DATA_PATH))
+    # visualize(retrieve_basic_dicts(DATA_PATH))
