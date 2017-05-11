@@ -118,10 +118,13 @@ window.info = new Vue({
 
             sorted = sorted.map(function(x){ return x.id });
 
-            let timeout = 500;
+            let timeout = 15;
+            let stopAfter = 15;
+
+            let checkpt = sorted.length - stopAfter;
 
             function findStage(list){
-                if(list.length === 0){
+                if(list.length === checkpt){
                     console.log("done")
                     return;
                 }
