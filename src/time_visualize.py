@@ -44,10 +44,10 @@ TITLEDICT = { 'numNodes': 'Number of Nodes',
         'averageOutDegree': 'Average Outdegree',
         'selfLinks': 'Number of Self-links',
         'averagePathLength': 'Average Path Length',
-        'decentralized_num_paths_found': 'Number of Paths Found with Decentralized Search',
-        'decentralized_num_paths_missing': 'Number of Paths Missing from Decentralized Search',
-        'decentralized_average_decentralized_path_length': 'Average Decentralized Search Path Length',
-        'decentralized_average_num_unique_nodes': 'Average Number of Unique Nodes in Decentralized Search Paths',
+        'decentralized_num_paths_found': 'Number of Paths Found with Hierarchical Search',
+        'decentralized_num_paths_missing': 'Number of Paths Missing from Hierarchical Search',
+        'decentralized_average_decentralized_path_length': 'Average Hierarchical Search Path Length',
+        'decentralized_average_num_unique_nodes': 'Average Number of Unique Nodes in \n Hierarchical Search Paths',
         'hierarchy_num_nodes': 'Number of Nodes in Hierarchy',
         'hierarchy_num_levels': 'Number of Levels in Hierarchy', 
         'path_length_10_percentile': 'Path Length (10th percentile)',
@@ -62,7 +62,7 @@ TITLEDICT = { 'numNodes': 'Number of Nodes',
         'random_num_paths_found': 'Number of Paths Found with Random Search',
         'random_num_paths_missing': 'Number of Paths Missing from Random Search',
         'random_average_decentralized_path_length': 'Average Random Search Path Length',
-        'random_average_num_unique_nodes': 'Average Number of Unique Nodes in Random Search Paths'}
+        'random_average_num_unique_nodes': 'Average Number of Unique Nodes \n in Random Search Paths'}
 
 
 
