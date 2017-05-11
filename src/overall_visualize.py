@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 DATA_PATH = "../data/jared/none_weighted_time/overview/"
-OUTPUT_PATH = "../output/visual/jared_time_weightedquicktest/"
+OUTPUT_PATH = "../output/visual/"
 
 FIELDS = {0: 'numNodes',
           1: 'numEdges',
@@ -35,31 +35,32 @@ FIELDS = {0: 'numNodes',
           23: 'random_average_decentralized_path_length',
           24: 'random_average_num_unique_nodes'}
 
-TITLEDICT = { 'numNodes': 'Number of Nodes',
-        'numEdges': 'Number of Edges',
-        'averageInDegree': 'Average Indegree',
-        'averageOutDegree': 'Average Outdegree',
-        'selfLinks': 'Number of Self-links',
-        'averagePathLength': 'Average Path Length',
-        'decentralized_num_paths_found': 'Number of Paths Found with Decentralized Search',
-        'decentralized_num_paths_missing': 'Number of Paths Missing from Decentralized Search',
-        'decentralized_average_decentralized_path_length': 'Average Decentralized Search Path Length',
-        'decentralized_average_num_unique_nodes': 'Average Number of Unique Nodes in Decentralized Search Paths',
-        'hierarchy_num_nodes': 'Number of Nodes in Hierarchy',
-        'hierarchy_num_levels': 'Number of Levels in Hierarchy', 
-        'path_length_10_percentile': 'Path Length (10th percentile)',
-        'path_length_20_percentile': 'Path Length (20th percentile)',
-        'path_length_30_percentile': 'Path Length (30th percentile)',
-        'path_length_40_percentile': 'Path Length (40th percentile)',
-        'path_length_50_percentile': 'Path Length (50th percentile)',
-        'path_length_60_percentile': 'Path Length (60th percentile)',
-        'path_length_70_percentile': 'Path Length (70th percentile)',
-        'path_length_80_percentile': 'Path Length (80th percentile)',
-        'path_length_90_percentile': 'Path Length (90th percentile)',
-        'random_num_paths_found': 'Number of Paths Found with Random Search',
-        'random_num_paths_missing': 'Number of Paths Missing from Random Search',
-        'random_average_decentralized_path_length': 'Average Random Search Path Length',
-        'random_average_num_unique_nodes': 'Average Number of Unique Nodes in Random Search Paths'}
+TITLEDICT = {'numNodes': 'Number of Nodes',
+             'numEdges': 'Number of Edges',
+             'averageInDegree': 'Average Indegree',
+             'averageOutDegree': 'Average Outdegree',
+             'selfLinks': 'Number of Self-links',
+             'averagePathLength': 'Average Path Length',
+             'decentralized_num_paths_found': 'Number of Paths Found with Decentralized Search',
+             'decentralized_num_paths_missing': 'Number of Paths Missing from Decentralized Search',
+             'decentralized_average_decentralized_path_length': 'Average Decentralized Search Path Length',
+             'decentralized_average_num_unique_nodes': 'Average Number of Unique Nodes in Decentralized Search Paths',
+             'hierarchy_num_nodes': 'Number of Nodes in Hierarchy',
+             'hierarchy_num_levels': 'Number of Levels in Hierarchy',
+             'path_length_10_percentile': 'Path Length (10th percentile)',
+             'path_length_20_percentile': 'Path Length (20th percentile)',
+             'path_length_30_percentile': 'Path Length (30th percentile)',
+             'path_length_40_percentile': 'Path Length (40th percentile)',
+             'path_length_50_percentile': 'Path Length (50th percentile)',
+             'path_length_60_percentile': 'Path Length (60th percentile)',
+             'path_length_70_percentile': 'Path Length (70th percentile)',
+             'path_length_80_percentile': 'Path Length (80th percentile)',
+             'path_length_90_percentile': 'Path Length (90th percentile)',
+             'random_num_paths_found': 'Number of Paths Found with Random Search',
+             'random_num_paths_missing': 'Number of Paths Missing from Random Search',
+             'random_average_decentralized_path_length': 'Average Random Search Path Length',
+             'random_average_num_unique_nodes': 'Average Number of Unique Nodes in Random Search Paths'}
+
 
 def get_title(key):
     return TITLEDICT[key]
@@ -135,7 +136,8 @@ def visualize(data):
 
     for x, xd in xdata.items():
         for y, yd in ydata.items():
-            makePlot('{} to {}'.format(get_title(x), get_title(y)), get_title(x), get_title(y), xd, yd, '{}_{}.png'.format(get_title(y), get_title(x)))
+            makePlot('{} to {}'.format(get_title(x), get_title(y)), get_title(x), get_title(y), xd, yd,
+                '{}_{}.png'.format(get_title(y), get_title(x)))
 
 
 def makePlot(title, xaxis, yaxis, xdata, ydata, out):
