@@ -130,7 +130,7 @@ def visualize(data):
     for x in xfields:
         xdata[x] = list(map(lambda z: z[x], data))
 
-    decentralized_fields = [FIELDS[16], FIELDS[8], FIELDS[9]]
+    decentralized_fields = [FIELDS[16], FIELDS[8], FIELDS[9], FIELDS[6]]
     ydata = {}
     for y in decentralized_fields:
         ydata[y] = list(map(lambda z: z[y], data))
