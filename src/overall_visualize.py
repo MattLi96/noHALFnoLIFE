@@ -6,7 +6,7 @@ import shutil
 import matplotlib.pyplot as plt
 import numpy as np
 
-DATA_PATH = "../data/capped/none_unweighted/overview/"
+DATA_PATH = "../data/matt/none_unweighted_enhanced/overview/"
 OUTPUT_PATH = "../output/visual/"
 
 FIELDS = {0: 'numNodes',
@@ -33,7 +33,9 @@ FIELDS = {0: 'numNodes',
           21: 'random_num_paths_found',
           22: 'random_num_paths_missing',
           23: 'random_average_decentralized_path_length',
-          24: 'random_average_num_unique_nodes'}
+          24: 'random_average_num_unique_nodes',
+          25: 'hierarchy_num_cat_nodes',
+          26: 'hierarchy_ratio_cat_nodes'}
 
 TITLEDICT = {'numNodes': 'Number of Nodes',
              'numEdges': 'Number of Edges',
@@ -45,13 +47,13 @@ TITLEDICT = {'numNodes': 'Number of Nodes',
              'decentralized_num_paths_missing': 'Number of Paths Missing from Decentralized Search',
              'decentralized_average_decentralized_path_length': 'Average Decentralized Search Path Length',
              'decentralized_average_num_unique_nodes': 'Average Number of Unique Nodes in Decentralized Search Paths',
-             'hierarchy_num_nodes': 'Number of Nodes in Hierarchy',
+             'hierarchy_num_nodes': 'Number of Categorized Nodes',
              'hierarchy_num_levels': 'Number of Levels in Hierarchy',
              'path_length_10_percentile': 'Path Length (10th percentile)',
              'path_length_20_percentile': 'Path Length (20th percentile)',
              'path_length_30_percentile': 'Path Length (30th percentile)',
              'path_length_40_percentile': 'Path Length (40th percentile)',
-             'path_length_50_percentile': 'Path Length (50th percentile)',
+             'path_length_50_percentile': 'Median Path Length',
              'path_length_60_percentile': 'Path Length (60th percentile)',
              'path_length_70_percentile': 'Path Length (70th percentile)',
              'path_length_80_percentile': 'Path Length (80th percentile)',
@@ -59,7 +61,9 @@ TITLEDICT = {'numNodes': 'Number of Nodes',
              'random_num_paths_found': 'Number of Paths Found with Random Search',
              'random_num_paths_missing': 'Number of Paths Missing from Random Search',
              'random_average_decentralized_path_length': 'Average Random Search Path Length',
-             'random_average_num_unique_nodes': 'Average Number of Unique Nodes in Random Search Paths'}
+             'random_average_num_unique_nodes': 'Average Number of Unique Nodes in Random Search Paths',
+             'hierarchy_num_cat_nodes': 'Number of Categories',
+             'hierarchy_ratio_cat_nodes': 'Category to Nodes Ratio'}
 
 
 def get_title(key):
@@ -82,13 +86,13 @@ def compare_hiearchy_random():
     out_path = OUTPUT_PATH + "compare.png"
 
     fig, ax = plt.subplots()
-    plt.title("Average Path Length")
+    plt.title("Number of Paths Found")
 
     plt.xlabel("Random")
     plt.ylabel("Hierarchy")
 
     plot_compare_hiearchy_random("../data/capped/none_unweighted/overview/", 'r', "Baseline")
-    plot_compare_hiearchy_random("../data/capped/none_weighted/overview/", 'y', "Weighted")
+    # plot_compare_hiearchy_random("../data/capped/none_weighted/overview/", 'y', "Weighted")
     # plot_compare_hiearchy_random("../data/capped/2look_unweighted/overview/", 'g', "Lookahead")
     # plot_compare_hiearchy_random("../data/capped/hierarchy_unweighted/overview/", 'm', "Hierarchy")
     # plot_compare_hiearchy_random("../data/capped/2look_weighted/overview/", 'c', "Weighted Lookahead")
@@ -113,8 +117,8 @@ def compare_hiearchy_random():
 
 def plot_compare_hiearchy_random(data_path, color, label, point_labels=False):
     data = retrieve_basic_dicts(data_path)
-    xdata = list(map(lambda z: z[FIELDS[23]], data))  # Random
-    ydata = list(map(lambda z: z[FIELDS[8]], data))  # Hierarchy
+    xdata = list(map(lambda z: z[FIELDS[21]], data))  # Random
+    ydata = list(map(lambda z: z[FIELDS[6]], data))  # Hierarchy
     plt.scatter(x=xdata, y=ydata, c=color, label=label)
     if point_labels:
         pls = list(map(lambda z: z["file"], data))
@@ -125,8 +129,6 @@ def plot_compare_hiearchy_random(data_path, color, label, point_labels=False):
 def visualize(data):
     xfields = [i for _, i in FIELDS.items()]
     xdata = {}
-    for x in xfields:
-        data = list(filter(lambda z: x in z, data))
     for x in xfields:
         xdata[x] = list(map(lambda z: z[x], data))
 
