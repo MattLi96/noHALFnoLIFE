@@ -6,7 +6,7 @@ import shutil
 import matplotlib.pyplot as plt
 import numpy as np
 
-DATA_PATH = "../data/jared/none_weighted_time/overview/"
+DATA_PATH = "../data/capped/none_unweighted/overview/"
 OUTPUT_PATH = "../output/visual/"
 
 FIELDS = {0: 'numNodes',
@@ -82,17 +82,17 @@ def compare_hiearchy_random():
     out_path = OUTPUT_PATH + "compare.png"
 
     fig, ax = plt.subplots()
-    plt.title("Random To Hierarchy Unique Nodes")
+    plt.title("Average Path Length")
 
     plt.xlabel("Random")
     plt.ylabel("Hierarchy")
 
-    # plot_compare_hiearchy_random("../data/capped/none_unweighted/overview/", 'r', "Baseline")
-    plot_compare_hiearchy_random("../data/capped/both_2look/overview/", 'y', "Both Lookahead")
-    # plot_compare_hiearchy_random("../data/capped/none_weighted/overview/", 'b', "Weighted")
-    plot_compare_hiearchy_random("../data/capped/2look_unweighted/overview/", 'g', "Lookahead")
+    plot_compare_hiearchy_random("../data/capped/none_unweighted/overview/", 'r', "Baseline")
+    plot_compare_hiearchy_random("../data/capped/none_weighted/overview/", 'y', "Weighted")
+    # plot_compare_hiearchy_random("../data/capped/2look_unweighted/overview/", 'g', "Lookahead")
     # plot_compare_hiearchy_random("../data/capped/hierarchy_unweighted/overview/", 'm', "Hierarchy")
     # plot_compare_hiearchy_random("../data/capped/2look_weighted/overview/", 'c', "Weighted Lookahead")
+    # plot_compare_hiearchy_random("../data/capped/both_2look/overview/", 'm', "Lookahead")
 
     # Line
     lims = [
@@ -113,8 +113,8 @@ def compare_hiearchy_random():
 
 def plot_compare_hiearchy_random(data_path, color, label, point_labels=False):
     data = retrieve_basic_dicts(data_path)
-    xdata = list(map(lambda z: z[FIELDS[24]], data))  # Random
-    ydata = list(map(lambda z: z[FIELDS[9]], data))  # Hierarchy
+    xdata = list(map(lambda z: z[FIELDS[23]], data))  # Random
+    ydata = list(map(lambda z: z[FIELDS[8]], data))  # Hierarchy
     plt.scatter(x=xdata, y=ydata, c=color, label=label)
     if point_labels:
         pls = list(map(lambda z: z["file"], data))
@@ -130,7 +130,7 @@ def visualize(data):
     for x in xfields:
         xdata[x] = list(map(lambda z: z[x], data))
 
-    decentralized_fields = [FIELDS[16], FIELDS[6], FIELDS[8], FIELDS[9]]
+    decentralized_fields = [FIELDS[16], FIELDS[8], FIELDS[9]]
     ydata = {}
     for y in decentralized_fields:
         ydata[y] = list(map(lambda z: z[y], data))
@@ -138,7 +138,7 @@ def visualize(data):
     for x, xd in xdata.items():
         for y, yd in ydata.items():
             makePlot('{} to {}'.format(get_title(x), get_title(y)), get_title(x), get_title(y), xd, yd,
-                '{}_{}.png'.format(get_title(y), get_title(x)))
+                '{}_{}.png'.format(y, x))
 
 
 def makePlot(title, xaxis, yaxis, xdata, ydata, out):
@@ -164,5 +164,5 @@ if __name__ == '__main__':
         shutil.rmtree(OUTPUT_PATH)
     os.makedirs(OUTPUT_PATH)
 
-    compare_hiearchy_random()
-    # visualize(retrieve_basic_dicts(DATA_PATH))
+    # compare_hiearchy_random()
+    visualize(retrieve_basic_dicts(DATA_PATH))
