@@ -88,8 +88,10 @@ class Runner:
                 "decentralized_average_num_unique_nodes": av_unique_nodes,
                 "hierarchy_num_nodes": (len(category_hierarchy.hierarchy.nodes()) -
                                         len(category_hierarchy.ranked_categories)),
+                "hierarchy_num_cat_nodes": len(category_hierarchy.ranked_categories),
                 "hierarchy_num_levels": category_hierarchy.num_hierarchy_levels
             })
+            basic["hierarchy_ratio_cat_nodes"] = basic["hierarchy_num_cat_nodes"] / basic["hierarchy_num_nodes"]
 
             path_lengths_deciles_dict = {}
             for i in range(len(path_lengths_deciles)):
