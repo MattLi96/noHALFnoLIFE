@@ -1,0 +1,606 @@
+{
+    "edges": [
+        {
+            "source": "Lelouche",
+            "target": "Lelouch vi Britannia"
+        },
+        {
+            "source": "Stefano Onofri",
+            "target": "Clovis la Britannia"
+        },
+        {
+            "source": "Kallen Kouzuki",
+            "target": "Kallen K\u014dzuki"
+        },
+        {
+            "source": "Marianne Vi Britannia",
+            "target": "Marianne vi Britannia"
+        },
+        {
+            "source": "Knightmare Frames",
+            "target": "Knightmare Frame"
+        },
+        {
+            "source": "Knightmare",
+            "target": "Knightmare Frame"
+        },
+        {
+            "source": "Main Page",
+            "target": "Code Geass Wiki"
+        },
+        {
+            "source": "Code Geass Wiki",
+            "target": "Code Geass"
+        },
+        {
+            "source": "Emperor of Britannia",
+            "target": "Charles zi Britannia"
+        },
+        {
+            "source": "Knightmares",
+            "target": "Knightmare Frame"
+        },
+        {
+            "source": "Lulu",
+            "target": "Lelouch vi Britannia"
+        },
+        {
+            "source": "Rolo",
+            "target": "Rolo Lamperouge"
+        },
+        {
+            "source": "Veronica Puccio",
+            "target": "Nunnally vi Britannia"
+        },
+        {
+            "source": "Suzaku",
+            "target": "Suzaku Kururugi"
+        },
+        {
+            "source": "Charles Di Britannia",
+            "target": "Charles zi Britannia"
+        },
+        {
+            "source": "Euphy",
+            "target": "Euphemia li Britannia"
+        },
+        {
+            "source": "Charles",
+            "target": "Charles zi Britannia"
+        },
+        {
+            "source": "Anya",
+            "target": "Anya Alstreim"
+        },
+        {
+            "source": "Spinzaku",
+            "target": "Suzaku Kururugi"
+        },
+        {
+            "source": "Yukimaro Sawazaki",
+            "target": "Chinese Federation"
+        },
+        {
+            "source": "Anya Earlstreim",
+            "target": "Anya Alstreim"
+        },
+        {
+            "source": "Code Geass:No page",
+            "target": "Code Geass Wiki"
+        },
+        {
+            "source": "C2",
+            "target": "C.C."
+        },
+        {
+            "source": "Cornelia Li Britannia",
+            "target": "Cornelia li Britannia"
+        },
+        {
+            "source": "Britannian Shuttle",
+            "target": "Lelouch vi Britannia"
+        },
+        {
+            "source": "C.C",
+            "target": "C.C."
+        },
+        {
+            "source": "Euphemia Li Britannia",
+            "target": "Euphemia li Britannia"
+        },
+        {
+            "source": "Yamato Alliance",
+            "target": "Cornelia li Britannia"
+        },
+        {
+            "source": "Letizia Scifoni",
+            "target": "Euphemia li Britannia"
+        },
+        {
+            "source": "Burai Special Weapons B-Type",
+            "target": "Kyoto House"
+        },
+        {
+            "source": "Burai Special Weapons B-Type",
+            "target": "The Black Knights"
+        },
+        {
+            "source": "Burai Special Weapons B-Type",
+            "target": "Energy Filler"
+        },
+        {
+            "source": "Burai Special Weapons B-Type",
+            "target": "Yggdrasil Drive"
+        },
+        {
+            "source": "Burai Special Weapons B-Type",
+            "target": "The Messenger from Kyoto"
+        },
+        {
+            "source": "CC",
+            "target": "C.C."
+        },
+        {
+            "source": "Clovis La Britannia",
+            "target": "Clovis la Britannia"
+        },
+        {
+            "source": "Nunnally Vi Britannia",
+            "target": "Nunnally vi Britannia"
+        },
+        {
+            "source": "CG:NOPAGE",
+            "target": "Code Geass:No page"
+        },
+        {
+            "source": "Knightmare frame",
+            "target": "Knightmare Frame"
+        }
+    ],
+    "directed": true,
+    "multigraph": false,
+    "nodes": [
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lelouche"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Stefano Onofri"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Clovis la Britannia"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Kallen Kouzuki"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Marianne Vi Britannia"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Knightmare Frames"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Knightmare"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Main Page"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "C.C."
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Code Geass Wiki"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Emperor of Britannia"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Knightmares"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lulu"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Rolo"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Veronica Puccio"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Kallen K\u014dzuki"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Knightmare Frame"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Suzaku"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Cornelia li Britannia"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Charles Di Britannia"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Rolo Lamperouge"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Lelouch vi Britannia"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Euphy"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Charles"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Marianne vi Britannia"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Anya"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Spinzaku"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Charles zi Britannia"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Nunnally vi Britannia"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Yukimaro Sawazaki"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Anya Earlstreim"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Code Geass:No page"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Kyoto House"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "C2"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Code Geass"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Yggdrasil Drive"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Cornelia Li Britannia"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Suzaku Kururugi"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Energy Filler"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Euphemia li Britannia"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "The Black Knights"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Britannian Shuttle"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "C.C"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Euphemia Li Britannia"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Yamato Alliance"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "The Messenger from Kyoto"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Letizia Scifoni"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Burai Special Weapons B-Type"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "CC"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Clovis La Britannia"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Chinese Federation"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Nunnally Vi Britannia"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Anya Alstreim"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "CG:NOPAGE"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Knightmare frame"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 21
+        },
+        {
+            "source": 1,
+            "target": 2
+        },
+        {
+            "source": 3,
+            "target": 15
+        },
+        {
+            "source": 4,
+            "target": 24
+        },
+        {
+            "source": 5,
+            "target": 16
+        },
+        {
+            "source": 6,
+            "target": 16
+        },
+        {
+            "source": 7,
+            "target": 9
+        },
+        {
+            "source": 9,
+            "target": 34
+        },
+        {
+            "source": 10,
+            "target": 27
+        },
+        {
+            "source": 11,
+            "target": 16
+        },
+        {
+            "source": 12,
+            "target": 21
+        },
+        {
+            "source": 13,
+            "target": 20
+        },
+        {
+            "source": 14,
+            "target": 28
+        },
+        {
+            "source": 17,
+            "target": 37
+        },
+        {
+            "source": 19,
+            "target": 27
+        },
+        {
+            "source": 22,
+            "target": 39
+        },
+        {
+            "source": 23,
+            "target": 27
+        },
+        {
+            "source": 25,
+            "target": 52
+        },
+        {
+            "source": 26,
+            "target": 37
+        },
+        {
+            "source": 29,
+            "target": 50
+        },
+        {
+            "source": 30,
+            "target": 52
+        },
+        {
+            "source": 31,
+            "target": 9
+        },
+        {
+            "source": 33,
+            "target": 8
+        },
+        {
+            "source": 36,
+            "target": 18
+        },
+        {
+            "source": 41,
+            "target": 21
+        },
+        {
+            "source": 42,
+            "target": 8
+        },
+        {
+            "source": 43,
+            "target": 39
+        },
+        {
+            "source": 44,
+            "target": 18
+        },
+        {
+            "source": 46,
+            "target": 39
+        },
+        {
+            "source": 47,
+            "target": 32
+        },
+        {
+            "source": 47,
+            "target": 40
+        },
+        {
+            "source": 47,
+            "target": 38
+        },
+        {
+            "source": 47,
+            "target": 35
+        },
+        {
+            "source": 47,
+            "target": 45
+        },
+        {
+            "source": 48,
+            "target": 8
+        },
+        {
+            "source": 49,
+            "target": 2
+        },
+        {
+            "source": 51,
+            "target": 28
+        },
+        {
+            "source": 53,
+            "target": 31
+        },
+        {
+            "source": 54,
+            "target": 16
+        }
+    ],
+    "graph": {},
+    "basic": {
+        "numEdges": 39,
+        "averagePathLength": 0,
+        "averageOutDegree": 0.7090909090909091,
+        "numNodes": 55,
+        "selfLinks": 0,
+        "averageInDegree": 0.7090909090909091
+    }
+}

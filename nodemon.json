@@ -1,4 +1,4 @@
 {
   "verbose": true,
-  "ignore": ["public/data", "output/"]
+  "ignore": ["public/data", "output/", "venv/", "data/"]
 }

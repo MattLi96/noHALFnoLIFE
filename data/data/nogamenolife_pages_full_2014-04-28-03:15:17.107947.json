@@ -1,0 +1,854 @@
+{
+    "edges": [
+        {
+            "source": "Angel",
+            "target": "Ten Oaths"
+        },
+        {
+            "source": "Angel",
+            "target": "Exceed"
+        },
+        {
+            "source": "Angel",
+            "target": "Disboard"
+        },
+        {
+            "source": "Shiro",
+            "target": "Sora"
+        },
+        {
+            "source": "Main Page",
+            "target": "No Game No Life Wiki"
+        },
+        {
+            "source": "Sora",
+            "target": "Disboard"
+        },
+        {
+            "source": "Sora",
+            "target": "Shiro"
+        },
+        {
+            "source": "Fiel Nirvalen",
+            "target": "Clammy Zell"
+        },
+        {
+            "source": "Disboard",
+            "target": "No Game, No Life"
+        },
+        {
+            "source": "Disboard",
+            "target": "Exceed"
+        },
+        {
+            "source": "Disboard",
+            "target": "Ten Pledges"
+        },
+        {
+            "source": "Disboard",
+            "target": "Tet"
+        },
+        {
+            "source": "Fiel Nilvalen",
+            "target": "Fiel Nirvalen"
+        },
+        {
+            "source": "Elves",
+            "target": "Elf"
+        },
+        {
+            "source": "Ten Pledges",
+            "target": "Disboard"
+        },
+        {
+            "source": "Ten Pledges",
+            "target": "Tet"
+        },
+        {
+            "source": "Old Deus",
+            "target": "Exceed"
+        },
+        {
+            "source": "Old Deus",
+            "target": "Tet"
+        },
+        {
+            "source": "Ten Oaths",
+            "target": "Ten Pledges"
+        },
+        {
+            "source": "Stephanie Dora",
+            "target": "Stephanie Dola"
+        },
+        {
+            "source": "Blank",
+            "target": "\u300e \u300f"
+        },
+        {
+            "source": "Episode 2",
+            "target": "Episode 02"
+        },
+        {
+            "source": "Episode 01",
+            "target": "No Game, No Life"
+        },
+        {
+            "source": "Episode 01",
+            "target": "Shiro"
+        },
+        {
+            "source": "Episode 01",
+            "target": "Clammy Zell"
+        },
+        {
+            "source": "Episode 01",
+            "target": "Stephanie Dora"
+        },
+        {
+            "source": "Episode 01",
+            "target": "Ten Pledges"
+        },
+        {
+            "source": "Episode 01",
+            "target": "Imanity"
+        },
+        {
+            "source": "Episode 01",
+            "target": "Queen"
+        },
+        {
+            "source": "Episode 01",
+            "target": "Disboard"
+        },
+        {
+            "source": "Episode 01",
+            "target": "Sora"
+        },
+        {
+            "source": "Episode 01",
+            "target": "Tet"
+        },
+        {
+            "source": "Pledges",
+            "target": "Ten Pledges"
+        },
+        {
+            "source": "Episode 03",
+            "target": "No Game, No Life"
+        },
+        {
+            "source": "Episode 03",
+            "target": "Clammy Zell"
+        },
+        {
+            "source": "Episode 03",
+            "target": "Stephanie Dora"
+        },
+        {
+            "source": "Episode 03",
+            "target": "Sora"
+        },
+        {
+            "source": "Episode 03",
+            "target": "Shiro"
+        },
+        {
+            "source": "\u300e \u300f",
+            "target": "Disboard"
+        },
+        {
+            "source": "\u300e \u300f",
+            "target": "Shiro"
+        },
+        {
+            "source": "\u300e \u300f",
+            "target": "Sora"
+        },
+        {
+            "source": "\u300e \u300f",
+            "target": "Tet"
+        },
+        {
+            "source": "Chlammy",
+            "target": "Chlammy Zell"
+        },
+        {
+            "source": "Exceed",
+            "target": "Old Deus"
+        },
+        {
+            "source": "Exceed",
+            "target": "Angel"
+        },
+        {
+            "source": "Exceed",
+            "target": "Disboard"
+        },
+        {
+            "source": "Exceed",
+            "target": "Elf"
+        },
+        {
+            "source": "Exceed",
+            "target": "Imanity"
+        },
+        {
+            "source": "Race",
+            "target": "Exceed"
+        },
+        {
+            "source": "Stephanie",
+            "target": "Stephanie Dola"
+        },
+        {
+            "source": "Feel Nilvalen/Image Gallery",
+            "target": "Fiel Nilvalen/Image Gallery"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "Clammy Zell"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "Shiro"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "Jibril"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "Sora"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "Stephanie Dora"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "Tet"
+        },
+        {
+            "source": "Elf",
+            "target": "Exceed"
+        },
+        {
+            "source": "Elf",
+            "target": "Jibril"
+        },
+        {
+            "source": "Math",
+            "target": "Mathematical formulas"
+        },
+        {
+            "source": "Episode 02",
+            "target": "No Game, No Life"
+        },
+        {
+            "source": "Episode 02",
+            "target": "Clammy Zell"
+        },
+        {
+            "source": "Episode 02",
+            "target": "Stephanie Dora"
+        },
+        {
+            "source": "Episode 02",
+            "target": "Sora"
+        },
+        {
+            "source": "Episode 02",
+            "target": "Shiro"
+        },
+        {
+            "source": "Episode 3",
+            "target": "Episode 03"
+        },
+        {
+            "source": "Imanity",
+            "target": "Exceed"
+        },
+        {
+            "source": "Imanity",
+            "target": "Disboard"
+        },
+        {
+            "source": "Imanity",
+            "target": "Ten Pledges"
+        },
+        {
+            "source": "Chlammy Zell",
+            "target": "Clammy Zell"
+        },
+        {
+            "source": "Tet",
+            "target": "Exceed"
+        },
+        {
+            "source": "Tet",
+            "target": "Disboard"
+        },
+        {
+            "source": "Tet",
+            "target": "Shiro"
+        },
+        {
+            "source": "Tet",
+            "target": "Sora"
+        },
+        {
+            "source": "Episode 1",
+            "target": "Episode 01"
+        },
+        {
+            "source": "No Game No Life Wiki",
+            "target": "No Game, No Life"
+        },
+        {
+            "source": "No Game No Life Wiki",
+            "target": "Jibril"
+        },
+        {
+            "source": "No Game No Life Wiki",
+            "target": "Stephanie Dora"
+        },
+        {
+            "source": "No Game No Life Wiki",
+            "target": "Sora"
+        },
+        {
+            "source": "No Game No Life Wiki",
+            "target": "Shiro"
+        }
+    ],
+    "directed": true,
+    "multigraph": false,
+    "nodes": [
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Angel"
+        },
+        {
+            "parity": 0,
+            "degree": 9,
+            "id": "Shiro"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Main Page"
+        },
+        {
+            "parity": 1,
+            "degree": 10,
+            "id": "Sora"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Fiel Nirvalen"
+        },
+        {
+            "parity": 1,
+            "degree": 12,
+            "id": "Disboard"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Fiel Nilvalen"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Elves"
+        },
+        {
+            "parity": 0,
+            "degree": 7,
+            "id": "Ten Pledges"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Fiel Nilvalen/Image Gallery"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Old Deus"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Ten Oaths"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Stephanie Dora"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Blank"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Queen"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Episode 2"
+        },
+        {
+            "parity": 0,
+            "degree": 11,
+            "id": "Episode 01"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Pledges"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Episode 03"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "\u300e \u300f"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Chlammy"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Clammy Zell"
+        },
+        {
+            "parity": 1,
+            "degree": 12,
+            "id": "Exceed"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Race"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Stephanie"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Feel Nilvalen/Image Gallery"
+        },
+        {
+            "parity": 0,
+            "degree": 11,
+            "id": "No Game, No Life"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Stephanie Dola"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Elf"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Math"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Jibril"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Episode 02"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Episode 3"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Imanity"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Chlammy Zell"
+        },
+        {
+            "parity": 1,
+            "degree": 10,
+            "id": "Tet"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Episode 1"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "No Game No Life Wiki"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Mathematical formulas"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 11
+        },
+        {
+            "source": 0,
+            "target": 22
+        },
+        {
+            "source": 0,
+            "target": 5
+        },
+        {
+            "source": 1,
+            "target": 3
+        },
+        {
+            "source": 2,
+            "target": 37
+        },
+        {
+            "source": 3,
+            "target": 5
+        },
+        {
+            "source": 3,
+            "target": 1
+        },
+        {
+            "source": 4,
+            "target": 21
+        },
+        {
+            "source": 5,
+            "target": 26
+        },
+        {
+            "source": 5,
+            "target": 22
+        },
+        {
+            "source": 5,
+            "target": 8
+        },
+        {
+            "source": 5,
+            "target": 35
+        },
+        {
+            "source": 6,
+            "target": 4
+        },
+        {
+            "source": 7,
+            "target": 28
+        },
+        {
+            "source": 8,
+            "target": 5
+        },
+        {
+            "source": 8,
+            "target": 35
+        },
+        {
+            "source": 10,
+            "target": 22
+        },
+        {
+            "source": 10,
+            "target": 35
+        },
+        {
+            "source": 11,
+            "target": 8
+        },
+        {
+            "source": 12,
+            "target": 27
+        },
+        {
+            "source": 13,
+            "target": 19
+        },
+        {
+            "source": 15,
+            "target": 31
+        },
+        {
+            "source": 16,
+            "target": 26
+        },
+        {
+            "source": 16,
+            "target": 1
+        },
+        {
+            "source": 16,
+            "target": 21
+        },
+        {
+            "source": 16,
+            "target": 12
+        },
+        {
+            "source": 16,
+            "target": 8
+        },
+        {
+            "source": 16,
+            "target": 33
+        },
+        {
+            "source": 16,
+            "target": 14
+        },
+        {
+            "source": 16,
+            "target": 5
+        },
+        {
+            "source": 16,
+            "target": 3
+        },
+        {
+            "source": 16,
+            "target": 35
+        },
+        {
+            "source": 17,
+            "target": 8
+        },
+        {
+            "source": 18,
+            "target": 26
+        },
+        {
+            "source": 18,
+            "target": 21
+        },
+        {
+            "source": 18,
+            "target": 12
+        },
+        {
+            "source": 18,
+            "target": 3
+        },
+        {
+            "source": 18,
+            "target": 1
+        },
+        {
+            "source": 19,
+            "target": 5
+        },
+        {
+            "source": 19,
+            "target": 1
+        },
+        {
+            "source": 19,
+            "target": 3
+        },
+        {
+            "source": 19,
+            "target": 35
+        },
+        {
+            "source": 20,
+            "target": 34
+        },
+        {
+            "source": 22,
+            "target": 10
+        },
+        {
+            "source": 22,
+            "target": 0
+        },
+        {
+            "source": 22,
+            "target": 5
+        },
+        {
+            "source": 22,
+            "target": 28
+        },
+        {
+            "source": 22,
+            "target": 33
+        },
+        {
+            "source": 23,
+            "target": 22
+        },
+        {
+            "source": 24,
+            "target": 27
+        },
+        {
+            "source": 25,
+            "target": 9
+        },
+        {
+            "source": 26,
+            "target": 21
+        },
+        {
+            "source": 26,
+            "target": 1
+        },
+        {
+            "source": 26,
+            "target": 30
+        },
+        {
+            "source": 26,
+            "target": 3
+        },
+        {
+            "source": 26,
+            "target": 12
+        },
+        {
+            "source": 26,
+            "target": 35
+        },
+        {
+            "source": 28,
+            "target": 22
+        },
+        {
+            "source": 28,
+            "target": 30
+        },
+        {
+            "source": 29,
+            "target": 38
+        },
+        {
+            "source": 31,
+            "target": 26
+        },
+        {
+            "source": 31,
+            "target": 21
+        },
+        {
+            "source": 31,
+            "target": 12
+        },
+        {
+            "source": 31,
+            "target": 3
+        },
+        {
+            "source": 31,
+            "target": 1
+        },
+        {
+            "source": 32,
+            "target": 18
+        },
+        {
+            "source": 33,
+            "target": 22
+        },
+        {
+            "source": 33,
+            "target": 5
+        },
+        {
+            "source": 33,
+            "target": 8
+        },
+        {
+            "source": 34,
+            "target": 21
+        },
+        {
+            "source": 35,
+            "target": 22
+        },
+        {
+            "source": 35,
+            "target": 5
+        },
+        {
+            "source": 35,
+            "target": 1
+        },
+        {
+            "source": 35,
+            "target": 3
+        },
+        {
+            "source": 36,
+            "target": 16
+        },
+        {
+            "source": 37,
+            "target": 26
+        },
+        {
+            "source": 37,
+            "target": 30
+        },
+        {
+            "source": 37,
+            "target": 12
+        },
+        {
+            "source": 37,
+            "target": 3
+        },
+        {
+            "source": 37,
+            "target": 1
+        }
+    ],
+    "graph": {},
+    "basic": {
+        "numEdges": 80,
+        "averagePathLength": 2.265151515151515,
+        "averageOutDegree": 2.051282051282051,
+        "numNodes": 39,
+        "selfLinks": 0,
+        "averageInDegree": 2.051282051282051
+    }
+}

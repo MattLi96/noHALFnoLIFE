@@ -1,0 +1,2490 @@
+{
+    "edges": [
+        {
+            "source": "Mahou Tsukai no Yoru",
+            "target": "Tsukihime"
+        },
+        {
+            "source": "Mahou Tsukai no Yoru",
+            "target": "Kinoko Nasu"
+        },
+        {
+            "source": "Nasu Kinoko",
+            "target": "Kinoko Nasu"
+        },
+        {
+            "source": "Dead Apostle Ancestor",
+            "target": "The Twenty Seven Dead Apostle Ancestors"
+        },
+        {
+            "source": "True Magic",
+            "target": "Magic"
+        },
+        {
+            "source": "Tohsaka Rin",
+            "target": "Rin Tohsaka"
+        },
+        {
+            "source": "Archer (Fate/Zero)",
+            "target": "Gilgamesh"
+        },
+        {
+            "source": "Fate/Hollow Ataraxia",
+            "target": "Fate/hollow ataraxia"
+        },
+        {
+            "source": "The Twenty Seven Dead Apostle Ancestors",
+            "target": "The Twenty-seven Dead Apostle Ancestors"
+        },
+        {
+            "source": "Last Episode",
+            "target": "Fate/stay night"
+        },
+        {
+            "source": "Arihiko",
+            "target": "Inui Arihiko"
+        },
+        {
+            "source": "Archetype Earth",
+            "target": "Arcueid Brunestud"
+        },
+        {
+            "source": "Aozaki Aoko",
+            "target": "Aoko Aozaki"
+        },
+        {
+            "source": "Demon Hunter Organization",
+            "target": "Kagetsu Tohya"
+        },
+        {
+            "source": "Demon Hunter Organization",
+            "target": "Hisui"
+        },
+        {
+            "source": "Demon Hunter Organization",
+            "target": "Tohno Makihisa"
+        },
+        {
+            "source": "Demon Hunter Organization",
+            "target": "Tohno Shiki"
+        },
+        {
+            "source": "Demon Hunter Organization",
+            "target": "Ryougi Shiki"
+        },
+        {
+            "source": "Demon Hunter Organization",
+            "target": "Nanaya"
+        },
+        {
+            "source": "Demon Hunter Organization",
+            "target": "Kohaku"
+        },
+        {
+            "source": "Demon Hunter Organization",
+            "target": "Tsukihime"
+        },
+        {
+            "source": "Demon Hunter Organization",
+            "target": "Kara no Kyoukai"
+        },
+        {
+            "source": "TATARI",
+            "target": "Night of Wallachia"
+        },
+        {
+            "source": "Akiha Tohno",
+            "target": "Tohno Makihisa"
+        },
+        {
+            "source": "Akiha Tohno",
+            "target": "Tohno Shiki"
+        },
+        {
+            "source": "Akiha Tohno",
+            "target": "TYPE-MOON"
+        },
+        {
+            "source": "Akiha Tohno",
+            "target": "Tsukihime"
+        },
+        {
+            "source": "Akiha Tohno",
+            "target": "Kohaku"
+        },
+        {
+            "source": "Akiha Tohno",
+            "target": "Melty Blood"
+        },
+        {
+            "source": "Takashi Takeuchi",
+            "target": "Tsukihime"
+        },
+        {
+            "source": "Takashi Takeuchi",
+            "target": "Fate/stay night"
+        },
+        {
+            "source": "Takashi Takeuchi",
+            "target": "Nasu Kinoko"
+        },
+        {
+            "source": "Takashi Takeuchi",
+            "target": "TYPE-MOON"
+        },
+        {
+            "source": "Lancer (Fate/Stay Night)",
+            "target": "Lancer (Fate/stay night)"
+        },
+        {
+            "source": "Brunestud of the Crimson Moon",
+            "target": "Crimson Moon"
+        },
+        {
+            "source": "Gates of Babylon",
+            "target": "Gate of Babylon"
+        },
+        {
+            "source": "Tohno Shiki",
+            "target": "Shiki Tohno"
+        },
+        {
+            "source": "Tatari",
+            "target": "Night of Wallachia"
+        },
+        {
+            "source": "Kiri Nanaya",
+            "target": "Nanaya"
+        },
+        {
+            "source": "Kiri Nanaya",
+            "target": "Tohno Makihisa"
+        },
+        {
+            "source": "Kiri Nanaya",
+            "target": "Tohno Shiki"
+        },
+        {
+            "source": "Neco-Arc",
+            "target": "Melty Blood"
+        },
+        {
+            "source": "Neco-Arc",
+            "target": "Arcueid Brunestud"
+        },
+        {
+            "source": "Tsukihime PLUS-DISC",
+            "target": "Kagetsu Tohya"
+        },
+        {
+            "source": "Tsukihime PLUS-DISC",
+            "target": "Fate/stay night"
+        },
+        {
+            "source": "Tsukihime PLUS-DISC",
+            "target": "Tohno Shiki"
+        },
+        {
+            "source": "Tsukihime PLUS-DISC",
+            "target": "TYPE-MOON"
+        },
+        {
+            "source": "Tsukihime PLUS-DISC",
+            "target": "Tsukihime"
+        },
+        {
+            "source": "Tsukihime PLUS-DISC",
+            "target": "Kara no Kyoukai"
+        },
+        {
+            "source": "Tsukihime PLUS-DISC",
+            "target": "Ciel"
+        },
+        {
+            "source": "Tsukihime PLUS-DISC",
+            "target": "Melty Blood"
+        },
+        {
+            "source": "Tsukihime PLUS-DISC",
+            "target": "Arcueid Brunestud"
+        },
+        {
+            "source": "Reality Marbles",
+            "target": "Reality Marble"
+        },
+        {
+            "source": "Twenty-seven Dead Apostle Ancestors",
+            "target": "The Twenty-seven Dead Apostle Ancestors"
+        },
+        {
+            "source": "Noble Phantasm",
+            "target": "Fate/Zero"
+        },
+        {
+            "source": "Noble Phantasm",
+            "target": "Gate of Babylon"
+        },
+        {
+            "source": "Gilgamesh (Fate/stay night)",
+            "target": "Gilgamesh"
+        },
+        {
+            "source": "Fate Zero",
+            "target": "Fate/Zero"
+        },
+        {
+            "source": "Ciel",
+            "target": "Arihiko"
+        },
+        {
+            "source": "Ciel",
+            "target": "Kagetsu Tohya"
+        },
+        {
+            "source": "Ciel",
+            "target": "Burial Agency"
+        },
+        {
+            "source": "Ciel",
+            "target": "Inui Arihiko"
+        },
+        {
+            "source": "Ciel",
+            "target": "Mystic Eyes of Death Perception"
+        },
+        {
+            "source": "Ciel",
+            "target": "Dead Apostle"
+        },
+        {
+            "source": "Ciel",
+            "target": "Roa"
+        },
+        {
+            "source": "Ciel",
+            "target": "Tohno Shiki"
+        },
+        {
+            "source": "Ciel",
+            "target": "Tsukihime"
+        },
+        {
+            "source": "Ciel",
+            "target": "Michael Roa Valdamjong"
+        },
+        {
+            "source": "Ciel",
+            "target": "Arcueid"
+        },
+        {
+            "source": "Ciel",
+            "target": "Melty Blood"
+        },
+        {
+            "source": "Ciel",
+            "target": "Arcueid Brunestud"
+        },
+        {
+            "source": "Mystic Eyes of Death Perception",
+            "target": "Ryougi Shiki"
+        },
+        {
+            "source": "Mystic Eyes of Death Perception",
+            "target": "Tohno Shiki"
+        },
+        {
+            "source": "Mystic Eyes of Death Perception",
+            "target": "Nasuverse"
+        },
+        {
+            "source": "Wallachia",
+            "target": "Night of Wallachia"
+        },
+        {
+            "source": "Fate/side side materiale",
+            "target": "Fate/stay night"
+        },
+        {
+            "source": "Fate/side side materiale",
+            "target": "Caster (Fate/stay night)"
+        },
+        {
+            "source": "Fate/side side materiale",
+            "target": "Fate/hollow ataraxia"
+        },
+        {
+            "source": "Fate/zero",
+            "target": "Fate/Zero"
+        },
+        {
+            "source": "Fukan Fuukei",
+            "target": "Kara no Kyoukai"
+        },
+        {
+            "source": "Matou Shinji",
+            "target": "Shinji Matou"
+        },
+        {
+            "source": "Mystic Eyes Of Death Perception",
+            "target": "Mystic Eyes of Death Perception"
+        },
+        {
+            "source": "Character Material",
+            "target": "Character material"
+        },
+        {
+            "source": "Fate/Stay Night",
+            "target": "Fate/stay night"
+        },
+        {
+            "source": "Nasu",
+            "target": "Kinoko Nasu"
+        },
+        {
+            "source": "Lunar Legend Tsukihime",
+            "target": "Tsukihime"
+        },
+        {
+            "source": "Kagetsu Tohya",
+            "target": "Nrvnqsr Chaos"
+        },
+        {
+            "source": "Kagetsu Tohya",
+            "target": "Hisui"
+        },
+        {
+            "source": "Kagetsu Tohya",
+            "target": "Tsukihime PLUS-DISC"
+        },
+        {
+            "source": "Kagetsu Tohya",
+            "target": "Tohno SHIKI"
+        },
+        {
+            "source": "Kagetsu Tohya",
+            "target": "Ciel"
+        },
+        {
+            "source": "Kagetsu Tohya",
+            "target": "Tohno Shiki"
+        },
+        {
+            "source": "Kagetsu Tohya",
+            "target": "Len"
+        },
+        {
+            "source": "Kagetsu Tohya",
+            "target": "TYPE-MOON"
+        },
+        {
+            "source": "Kagetsu Tohya",
+            "target": "Tsukihime"
+        },
+        {
+            "source": "Kagetsu Tohya",
+            "target": "Kinoko Nasu"
+        },
+        {
+            "source": "Kagetsu Tohya",
+            "target": "Kohaku"
+        },
+        {
+            "source": "Kagetsu Tohya",
+            "target": "Arcueid Brunestud"
+        },
+        {
+            "source": "Roa",
+            "target": "Michael Roa Valdamjong"
+        },
+        {
+            "source": "Saber (Class)",
+            "target": "Saber"
+        },
+        {
+            "source": "Tohno Makihisa",
+            "target": "Nanaya Shiki"
+        },
+        {
+            "source": "Kishua Zelretch Schweinorg",
+            "target": "Kischur Zelretch Schweinorg"
+        },
+        {
+            "source": "Shinso",
+            "target": "True Ancestor"
+        },
+        {
+            "source": "Arcueid Brunestud",
+            "target": "Mystic Eyes Of Death Perception"
+        },
+        {
+            "source": "Arcueid Brunestud",
+            "target": "Hisui"
+        },
+        {
+            "source": "Arcueid Brunestud",
+            "target": "Tohno SHIKI"
+        },
+        {
+            "source": "Arcueid Brunestud",
+            "target": "Kagetsu Tohya"
+        },
+        {
+            "source": "Arcueid Brunestud",
+            "target": "Crimson Moon"
+        },
+        {
+            "source": "Arcueid Brunestud",
+            "target": "Burial Agency"
+        },
+        {
+            "source": "Arcueid Brunestud",
+            "target": "Altrouge Brunestud"
+        },
+        {
+            "source": "Arcueid Brunestud",
+            "target": "Shinso"
+        },
+        {
+            "source": "Arcueid Brunestud",
+            "target": "Vampire"
+        },
+        {
+            "source": "Arcueid Brunestud",
+            "target": "Dead Apostle"
+        },
+        {
+            "source": "Arcueid Brunestud",
+            "target": "Tohno Shiki"
+        },
+        {
+            "source": "Arcueid Brunestud",
+            "target": "Nanaya"
+        },
+        {
+            "source": "Arcueid Brunestud",
+            "target": "Tsukihime"
+        },
+        {
+            "source": "Arcueid Brunestud",
+            "target": "Michael Roa Valdamjong"
+        },
+        {
+            "source": "Arcueid Brunestud",
+            "target": "Ciel"
+        },
+        {
+            "source": "Arcueid Brunestud",
+            "target": "Kohaku"
+        },
+        {
+            "source": "Arcueid Brunestud",
+            "target": "Melty Blood"
+        },
+        {
+            "source": "Mihail Roa Valdamjong",
+            "target": "Michael Roa Valdamjong"
+        },
+        {
+            "source": "Zelretch",
+            "target": "Kishua Zelretch Schweinorg"
+        },
+        {
+            "source": "Witch on the Holy Night",
+            "target": "Mahou Tsukai no Yoru"
+        },
+        {
+            "source": "Shiki Tohno",
+            "target": "Inversion Impulse"
+        },
+        {
+            "source": "Shiki Tohno",
+            "target": "Akiha"
+        },
+        {
+            "source": "Shiki Tohno",
+            "target": "Tohno SHIKI"
+        },
+        {
+            "source": "Shiki Tohno",
+            "target": "Mystic Eyes of Death Perception"
+        },
+        {
+            "source": "Shiki Tohno",
+            "target": "Tatari"
+        },
+        {
+            "source": "Shiki Tohno",
+            "target": "Nanaya"
+        },
+        {
+            "source": "Shiki Tohno",
+            "target": "Tohno Makihisa"
+        },
+        {
+            "source": "Shiki Tohno",
+            "target": "Hisui"
+        },
+        {
+            "source": "Shiki Tohno",
+            "target": "Aozaki Aoko"
+        },
+        {
+            "source": "Shiki Tohno",
+            "target": "Kagetsu Tohya"
+        },
+        {
+            "source": "Shiki Tohno",
+            "target": "Inui Arihiko"
+        },
+        {
+            "source": "Shiki Tohno",
+            "target": "Ciel"
+        },
+        {
+            "source": "Shiki Tohno",
+            "target": "Tsukihime"
+        },
+        {
+            "source": "Shiki Tohno",
+            "target": "Arcueid"
+        },
+        {
+            "source": "Shiki Tohno",
+            "target": "Kohaku"
+        },
+        {
+            "source": "Shiki Tohno",
+            "target": "Melty Blood"
+        },
+        {
+            "source": "Hercules",
+            "target": "Berserker (Fate/stay night)"
+        },
+        {
+            "source": "Inui Arihiko",
+            "target": "Arihiko Inui"
+        },
+        {
+            "source": "TYPE-MOON",
+            "target": "Kara no Kyoukai"
+        },
+        {
+            "source": "TYPE-MOON",
+            "target": "Tsukihime PLUS-DISC"
+        },
+        {
+            "source": "TYPE-MOON",
+            "target": "Kagetsu Tohya"
+        },
+        {
+            "source": "TYPE-MOON",
+            "target": "Fate/stay night"
+        },
+        {
+            "source": "TYPE-MOON",
+            "target": "Fate/hollow ataraxia"
+        },
+        {
+            "source": "TYPE-MOON",
+            "target": "Tsukihime"
+        },
+        {
+            "source": "TYPE-MOON",
+            "target": "Melty Blood: Act Cadenza"
+        },
+        {
+            "source": "TYPE-MOON",
+            "target": "Kinoko Nasu"
+        },
+        {
+            "source": "TYPE-MOON",
+            "target": "Angel Notes"
+        },
+        {
+            "source": "TYPE-MOON",
+            "target": "Takashi Takeuchi"
+        },
+        {
+            "source": "TYPE-MOON",
+            "target": "Melty Blood"
+        },
+        {
+            "source": "TYPE-MOON",
+            "target": "Melty Blood ReACT"
+        },
+        {
+            "source": "Magangoroshi",
+            "target": "Mystic Eyes of Death Perception"
+        },
+        {
+            "source": "Neko-Arc",
+            "target": "Neco-Arc"
+        },
+        {
+            "source": "Nanaya Shiki",
+            "target": "Tohno Shiki"
+        },
+        {
+            "source": "Archetype\uff1aEarth",
+            "target": "Arcueid Brunestud"
+        },
+        {
+            "source": "Gate of Babylon",
+            "target": "Fate/Zero"
+        },
+        {
+            "source": "Gate of Babylon",
+            "target": "Noble Phantasm"
+        },
+        {
+            "source": "Gate of Babylon",
+            "target": "Gilgamesh"
+        },
+        {
+            "source": "Nasuverse",
+            "target": "DDD"
+        },
+        {
+            "source": "Nasuverse",
+            "target": "Magic"
+        },
+        {
+            "source": "Nasuverse",
+            "target": "Creatures"
+        },
+        {
+            "source": "Takeuchi Takashi",
+            "target": "Takashi Takeuchi"
+        },
+        {
+            "source": "Crimson Moon",
+            "target": "Zelretch"
+        },
+        {
+            "source": "Type-Moon",
+            "target": "TYPE-MOON"
+        },
+        {
+            "source": "Vampire",
+            "target": "Dead Apostle"
+        },
+        {
+            "source": "Vampire",
+            "target": "True Ancestor"
+        },
+        {
+            "source": "Ryougi Shiki",
+            "target": "Shiki Ryougi"
+        },
+        {
+            "source": "Archetype-Earth",
+            "target": "Arcueid Brunestud"
+        },
+        {
+            "source": "Arcueid",
+            "target": "Arcueid Brunestud"
+        },
+        {
+            "source": "Type moon",
+            "target": "Type-Moon"
+        },
+        {
+            "source": "Nrvnqsr Chaos",
+            "target": "Dead Apostle Ancestor"
+        },
+        {
+            "source": "Nrvnqsr Chaos",
+            "target": "Reality Marble"
+        },
+        {
+            "source": "Character material",
+            "target": "Saber"
+        },
+        {
+            "source": "Character material",
+            "target": "Sajyou Ayaka"
+        },
+        {
+            "source": "Character material",
+            "target": "Tohsaka Rin"
+        },
+        {
+            "source": "Character material",
+            "target": "Aozaki Aoko"
+        },
+        {
+            "source": "Character material",
+            "target": "DDD"
+        },
+        {
+            "source": "Akiha Vermillion",
+            "target": "Akiha Tohno"
+        },
+        {
+            "source": "Zepia Eltnam Oberon",
+            "target": "Night of Wallachia"
+        },
+        {
+            "source": "Takeuchi",
+            "target": "Takashi Takeuchi"
+        },
+        {
+            "source": "Demon Hunters Association",
+            "target": "Demon Hunter Organization"
+        },
+        {
+            "source": "Reality Marble",
+            "target": "Mihail Roa Valdamjong"
+        },
+        {
+            "source": "Reality Marble",
+            "target": "Crimson Moon"
+        },
+        {
+            "source": "Reality Marble",
+            "target": "Walachia"
+        },
+        {
+            "source": "Reality Marble",
+            "target": "Arcueid Brunestud"
+        },
+        {
+            "source": "Reality Marble",
+            "target": "Nrvnqsr Chaos"
+        },
+        {
+            "source": "Tsukihime",
+            "target": "Nrvnqsr Chaos"
+        },
+        {
+            "source": "Tsukihime",
+            "target": "Hisui"
+        },
+        {
+            "source": "Tsukihime",
+            "target": "Tsukihime PLUS-DISC"
+        },
+        {
+            "source": "Tsukihime",
+            "target": "Kagetsu Tohya"
+        },
+        {
+            "source": "Tsukihime",
+            "target": "Tohno Makihisa"
+        },
+        {
+            "source": "Tsukihime",
+            "target": "Ciel"
+        },
+        {
+            "source": "Tsukihime",
+            "target": "Dead Apostle"
+        },
+        {
+            "source": "Tsukihime",
+            "target": "Inui Arihiko"
+        },
+        {
+            "source": "Tsukihime",
+            "target": "Tohno Shiki"
+        },
+        {
+            "source": "Tsukihime",
+            "target": "TYPE-MOON"
+        },
+        {
+            "source": "Tsukihime",
+            "target": "Michael Roa Valdamjong"
+        },
+        {
+            "source": "Tsukihime",
+            "target": "Kinoko Nasu"
+        },
+        {
+            "source": "Tsukihime",
+            "target": "Kohaku"
+        },
+        {
+            "source": "Tsukihime",
+            "target": "Aozaki Aoko"
+        },
+        {
+            "source": "Tsukihime",
+            "target": "Arcueid Brunestud"
+        },
+        {
+            "source": "Warakia",
+            "target": "Night of Wallachia"
+        },
+        {
+            "source": "Kinoko Nasu",
+            "target": "Mahou Tsukai no Yoru"
+        },
+        {
+            "source": "Kinoko Nasu",
+            "target": "DDD"
+        },
+        {
+            "source": "Kinoko Nasu",
+            "target": "Kagetsu Tohya"
+        },
+        {
+            "source": "Kinoko Nasu",
+            "target": "Fate/stay night"
+        },
+        {
+            "source": "Kinoko Nasu",
+            "target": "Fate/hollow ataraxia"
+        },
+        {
+            "source": "Kinoko Nasu",
+            "target": "Koori no Hana"
+        },
+        {
+            "source": "Kinoko Nasu",
+            "target": "Takeuchi Takashi"
+        },
+        {
+            "source": "Kinoko Nasu",
+            "target": "TYPE-MOON"
+        },
+        {
+            "source": "Kinoko Nasu",
+            "target": "Tsukihime"
+        },
+        {
+            "source": "Kinoko Nasu",
+            "target": "Angel Notes"
+        },
+        {
+            "source": "Kinoko Nasu",
+            "target": "Takashi Takeuchi"
+        },
+        {
+            "source": "Kinoko Nasu",
+            "target": "Kara no Kyoukai"
+        },
+        {
+            "source": "R\u00e9alta Nua",
+            "target": "Fate/stay night"
+        },
+        {
+            "source": "Main Page",
+            "target": "TYPE-MOON Wiki"
+        },
+        {
+            "source": "Matou Sakura",
+            "target": "Sakura Matou"
+        },
+        {
+            "source": "Fate hollow ataraxia",
+            "target": "Fate/hollow ataraxia"
+        },
+        {
+            "source": "Walachia",
+            "target": "Night of Wallachia"
+        },
+        {
+            "source": "The Garden of Sinners",
+            "target": "Kara no Kyoukai"
+        },
+        {
+            "source": "Ilyasviel von Einzbern",
+            "target": "Illyasviel von Einzbern"
+        },
+        {
+            "source": "Dead Apostle Ancestors",
+            "target": "The Twenty Seven Dead Apostle Ancestors"
+        },
+        {
+            "source": "Night of Walachia",
+            "target": "Night of Wallachia"
+        },
+        {
+            "source": "Death Perception",
+            "target": "Mystic Eyes of Death Perception"
+        },
+        {
+            "source": "Twenty Seven Dead Apostle Ancestors",
+            "target": "The Twenty Seven Dead Apostle Ancestors"
+        }
+    ],
+    "directed": true,
+    "multigraph": false,
+    "nodes": [
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Mahou Tsukai no Yoru"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Nasu Kinoko"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Dead Apostle Ancestor"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "True Magic"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Tohsaka Rin"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Hisui"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Archer (Fate/Zero)"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Dead Apostle"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Fate/Hollow Ataraxia"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "The Twenty Seven Dead Apostle Ancestors"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Shinji Matou"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Last Episode"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Arihiko"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Archetype Earth"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Aozaki Aoko"
+        },
+        {
+            "parity": 1,
+            "degree": 10,
+            "id": "Demon Hunter Organization"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "TATARI"
+        },
+        {
+            "parity": 0,
+            "degree": 7,
+            "id": "Akiha Tohno"
+        },
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "Takashi Takeuchi"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Burial Agency"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lancer (Fate/Stay Night)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Aoko Aozaki"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Brunestud of the Crimson Moon"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Gates of Babylon"
+        },
+        {
+            "parity": 0,
+            "degree": 11,
+            "id": "Tohno Shiki"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Tatari"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Kiri Nanaya"
+        },
+        {
+            "parity": 0,
+            "degree": 7,
+            "id": "Night of Wallachia"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Fate/hollow ataraxia"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Neco-Arc"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Sakura Matou"
+        },
+        {
+            "parity": 1,
+            "degree": 12,
+            "id": "Tsukihime PLUS-DISC"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Reality Marbles"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Twenty-seven Dead Apostle Ancestors"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Noble Phantasm"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Gilgamesh (Fate/stay night)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Fate Zero"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Rin Tohsaka"
+        },
+        {
+            "parity": 1,
+            "degree": 18,
+            "id": "Ciel"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Kischur Zelretch Schweinorg"
+        },
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "Mystic Eyes of Death Perception"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Wallachia"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Fate/side side materiale"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Fate/zero"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Fukan Fuukei"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Arihiko Inui"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "The Twenty-seven Dead Apostle Ancestors"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Matou Shinji"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Mystic Eyes Of Death Perception"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Character Material"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Fate/Stay Night"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Tohno SHIKI"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Magic"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Nasu"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lunar Legend Tsukihime"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Sajyou Ayaka"
+        },
+        {
+            "parity": 1,
+            "degree": 20,
+            "id": "Kagetsu Tohya"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Saber"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Roa"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Saber (Class)"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Tohno Makihisa"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Kishua Zelretch Schweinorg"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Kohaku"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Shinso"
+        },
+        {
+            "parity": 0,
+            "degree": 27,
+            "id": "Arcueid Brunestud"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Mihail Roa Valdamjong"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Zelretch"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Witch on the Holy Night"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Melty Blood: Act Cadenza"
+        },
+        {
+            "parity": 0,
+            "degree": 17,
+            "id": "Shiki Tohno"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Hercules"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Inui Arihiko"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Nanaya"
+        },
+        {
+            "parity": 0,
+            "degree": 19,
+            "id": "TYPE-MOON"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Magangoroshi"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Neko-Arc"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Nanaya Shiki"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Archetype\uff1aEarth"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Gate of Babylon"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Michael Roa Valdamjong"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Melty Blood ReACT"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Angel Notes"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Nasuverse"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Inversion Impulse"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Creatures"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Shiki Ryougi"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Takeuchi Takashi"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Crimson Moon"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Type-Moon"
+        },
+        {
+            "parity": 0,
+            "degree": 7,
+            "id": "Melty Blood"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Vampire"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Ryougi Shiki"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "True Ancestor"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Archetype-Earth"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Len"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Arcueid"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "TYPE-MOON Wiki"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Type moon"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Nrvnqsr Chaos"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Illyasviel von Einzbern"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "DDD"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Character material"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Akiha Vermillion"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Zepia Eltnam Oberon"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Takeuchi"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Demon Hunters Association"
+        },
+        {
+            "parity": 0,
+            "degree": 7,
+            "id": "Reality Marble"
+        },
+        {
+            "parity": 0,
+            "degree": 27,
+            "id": "Tsukihime"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Altrouge Brunestud"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Koori no Hana"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Caster (Fate/stay night)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Warakia"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lancer (Fate/stay night)"
+        },
+        {
+            "parity": 1,
+            "degree": 18,
+            "id": "Kinoko Nasu"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "R\u00e9alta Nua"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Main Page"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Matou Sakura"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Kara no Kyoukai"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Fate hollow ataraxia"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Walachia"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "The Garden of Sinners"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Fate/Zero"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Ilyasviel von Einzbern"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Dead Apostle Ancestors"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Berserker (Fate/stay night)"
+        },
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "Fate/stay night"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Night of Walachia"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Death Perception"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Twenty Seven Dead Apostle Ancestors"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Gilgamesh"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Akiha"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 107
+        },
+        {
+            "source": 0,
+            "target": 113
+        },
+        {
+            "source": 1,
+            "target": 113
+        },
+        {
+            "source": 2,
+            "target": 9
+        },
+        {
+            "source": 3,
+            "target": 52
+        },
+        {
+            "source": 4,
+            "target": 37
+        },
+        {
+            "source": 6,
+            "target": 129
+        },
+        {
+            "source": 8,
+            "target": 28
+        },
+        {
+            "source": 9,
+            "target": 46
+        },
+        {
+            "source": 11,
+            "target": 125
+        },
+        {
+            "source": 12,
+            "target": 71
+        },
+        {
+            "source": 13,
+            "target": 64
+        },
+        {
+            "source": 14,
+            "target": 21
+        },
+        {
+            "source": 15,
+            "target": 56
+        },
+        {
+            "source": 15,
+            "target": 5
+        },
+        {
+            "source": 15,
+            "target": 60
+        },
+        {
+            "source": 15,
+            "target": 24
+        },
+        {
+            "source": 15,
+            "target": 91
+        },
+        {
+            "source": 15,
+            "target": 72
+        },
+        {
+            "source": 15,
+            "target": 62
+        },
+        {
+            "source": 15,
+            "target": 107
+        },
+        {
+            "source": 15,
+            "target": 117
+        },
+        {
+            "source": 16,
+            "target": 27
+        },
+        {
+            "source": 17,
+            "target": 60
+        },
+        {
+            "source": 17,
+            "target": 24
+        },
+        {
+            "source": 17,
+            "target": 73
+        },
+        {
+            "source": 17,
+            "target": 107
+        },
+        {
+            "source": 17,
+            "target": 62
+        },
+        {
+            "source": 17,
+            "target": 89
+        },
+        {
+            "source": 18,
+            "target": 107
+        },
+        {
+            "source": 18,
+            "target": 125
+        },
+        {
+            "source": 18,
+            "target": 1
+        },
+        {
+            "source": 18,
+            "target": 73
+        },
+        {
+            "source": 20,
+            "target": 112
+        },
+        {
+            "source": 22,
+            "target": 87
+        },
+        {
+            "source": 23,
+            "target": 78
+        },
+        {
+            "source": 24,
+            "target": 69
+        },
+        {
+            "source": 25,
+            "target": 27
+        },
+        {
+            "source": 26,
+            "target": 72
+        },
+        {
+            "source": 26,
+            "target": 60
+        },
+        {
+            "source": 26,
+            "target": 24
+        },
+        {
+            "source": 29,
+            "target": 89
+        },
+        {
+            "source": 29,
+            "target": 64
+        },
+        {
+            "source": 31,
+            "target": 56
+        },
+        {
+            "source": 31,
+            "target": 125
+        },
+        {
+            "source": 31,
+            "target": 24
+        },
+        {
+            "source": 31,
+            "target": 73
+        },
+        {
+            "source": 31,
+            "target": 107
+        },
+        {
+            "source": 31,
+            "target": 117
+        },
+        {
+            "source": 31,
+            "target": 38
+        },
+        {
+            "source": 31,
+            "target": 89
+        },
+        {
+            "source": 31,
+            "target": 64
+        },
+        {
+            "source": 32,
+            "target": 106
+        },
+        {
+            "source": 33,
+            "target": 46
+        },
+        {
+            "source": 34,
+            "target": 121
+        },
+        {
+            "source": 34,
+            "target": 78
+        },
+        {
+            "source": 35,
+            "target": 129
+        },
+        {
+            "source": 36,
+            "target": 121
+        },
+        {
+            "source": 38,
+            "target": 12
+        },
+        {
+            "source": 38,
+            "target": 56
+        },
+        {
+            "source": 38,
+            "target": 19
+        },
+        {
+            "source": 38,
+            "target": 71
+        },
+        {
+            "source": 38,
+            "target": 40
+        },
+        {
+            "source": 38,
+            "target": 7
+        },
+        {
+            "source": 38,
+            "target": 58
+        },
+        {
+            "source": 38,
+            "target": 24
+        },
+        {
+            "source": 38,
+            "target": 107
+        },
+        {
+            "source": 38,
+            "target": 79
+        },
+        {
+            "source": 38,
+            "target": 95
+        },
+        {
+            "source": 38,
+            "target": 89
+        },
+        {
+            "source": 38,
+            "target": 64
+        },
+        {
+            "source": 40,
+            "target": 91
+        },
+        {
+            "source": 40,
+            "target": 24
+        },
+        {
+            "source": 40,
+            "target": 82
+        },
+        {
+            "source": 41,
+            "target": 27
+        },
+        {
+            "source": 42,
+            "target": 125
+        },
+        {
+            "source": 42,
+            "target": 110
+        },
+        {
+            "source": 42,
+            "target": 28
+        },
+        {
+            "source": 43,
+            "target": 121
+        },
+        {
+            "source": 44,
+            "target": 117
+        },
+        {
+            "source": 47,
+            "target": 10
+        },
+        {
+            "source": 48,
+            "target": 40
+        },
+        {
+            "source": 49,
+            "target": 101
+        },
+        {
+            "source": 50,
+            "target": 125
+        },
+        {
+            "source": 53,
+            "target": 113
+        },
+        {
+            "source": 54,
+            "target": 107
+        },
+        {
+            "source": 56,
+            "target": 98
+        },
+        {
+            "source": 56,
+            "target": 5
+        },
+        {
+            "source": 56,
+            "target": 31
+        },
+        {
+            "source": 56,
+            "target": 51
+        },
+        {
+            "source": 56,
+            "target": 38
+        },
+        {
+            "source": 56,
+            "target": 24
+        },
+        {
+            "source": 56,
+            "target": 94
+        },
+        {
+            "source": 56,
+            "target": 73
+        },
+        {
+            "source": 56,
+            "target": 107
+        },
+        {
+            "source": 56,
+            "target": 113
+        },
+        {
+            "source": 56,
+            "target": 62
+        },
+        {
+            "source": 56,
+            "target": 64
+        },
+        {
+            "source": 58,
+            "target": 79
+        },
+        {
+            "source": 59,
+            "target": 57
+        },
+        {
+            "source": 60,
+            "target": 76
+        },
+        {
+            "source": 61,
+            "target": 39
+        },
+        {
+            "source": 63,
+            "target": 92
+        },
+        {
+            "source": 64,
+            "target": 48
+        },
+        {
+            "source": 64,
+            "target": 5
+        },
+        {
+            "source": 64,
+            "target": 51
+        },
+        {
+            "source": 64,
+            "target": 56
+        },
+        {
+            "source": 64,
+            "target": 87
+        },
+        {
+            "source": 64,
+            "target": 19
+        },
+        {
+            "source": 64,
+            "target": 108
+        },
+        {
+            "source": 64,
+            "target": 63
+        },
+        {
+            "source": 64,
+            "target": 90
+        },
+        {
+            "source": 64,
+            "target": 7
+        },
+        {
+            "source": 64,
+            "target": 24
+        },
+        {
+            "source": 64,
+            "target": 72
+        },
+        {
+            "source": 64,
+            "target": 107
+        },
+        {
+            "source": 64,
+            "target": 79
+        },
+        {
+            "source": 64,
+            "target": 38
+        },
+        {
+            "source": 64,
+            "target": 62
+        },
+        {
+            "source": 64,
+            "target": 89
+        },
+        {
+            "source": 65,
+            "target": 79
+        },
+        {
+            "source": 66,
+            "target": 61
+        },
+        {
+            "source": 67,
+            "target": 0
+        },
+        {
+            "source": 69,
+            "target": 83
+        },
+        {
+            "source": 69,
+            "target": 130
+        },
+        {
+            "source": 69,
+            "target": 51
+        },
+        {
+            "source": 69,
+            "target": 40
+        },
+        {
+            "source": 69,
+            "target": 25
+        },
+        {
+            "source": 69,
+            "target": 72
+        },
+        {
+            "source": 69,
+            "target": 60
+        },
+        {
+            "source": 69,
+            "target": 5
+        },
+        {
+            "source": 69,
+            "target": 14
+        },
+        {
+            "source": 69,
+            "target": 56
+        },
+        {
+            "source": 69,
+            "target": 71
+        },
+        {
+            "source": 69,
+            "target": 38
+        },
+        {
+            "source": 69,
+            "target": 107
+        },
+        {
+            "source": 69,
+            "target": 95
+        },
+        {
+            "source": 69,
+            "target": 62
+        },
+        {
+            "source": 69,
+            "target": 89
+        },
+        {
+            "source": 70,
+            "target": 124
+        },
+        {
+            "source": 71,
+            "target": 45
+        },
+        {
+            "source": 73,
+            "target": 117
+        },
+        {
+            "source": 73,
+            "target": 31
+        },
+        {
+            "source": 73,
+            "target": 56
+        },
+        {
+            "source": 73,
+            "target": 125
+        },
+        {
+            "source": 73,
+            "target": 28
+        },
+        {
+            "source": 73,
+            "target": 107
+        },
+        {
+            "source": 73,
+            "target": 68
+        },
+        {
+            "source": 73,
+            "target": 113
+        },
+        {
+            "source": 73,
+            "target": 81
+        },
+        {
+            "source": 73,
+            "target": 18
+        },
+        {
+            "source": 73,
+            "target": 89
+        },
+        {
+            "source": 73,
+            "target": 80
+        },
+        {
+            "source": 74,
+            "target": 40
+        },
+        {
+            "source": 75,
+            "target": 29
+        },
+        {
+            "source": 76,
+            "target": 24
+        },
+        {
+            "source": 77,
+            "target": 64
+        },
+        {
+            "source": 78,
+            "target": 121
+        },
+        {
+            "source": 78,
+            "target": 34
+        },
+        {
+            "source": 78,
+            "target": 129
+        },
+        {
+            "source": 82,
+            "target": 100
+        },
+        {
+            "source": 82,
+            "target": 52
+        },
+        {
+            "source": 82,
+            "target": 84
+        },
+        {
+            "source": 86,
+            "target": 18
+        },
+        {
+            "source": 87,
+            "target": 66
+        },
+        {
+            "source": 88,
+            "target": 73
+        },
+        {
+            "source": 90,
+            "target": 7
+        },
+        {
+            "source": 90,
+            "target": 92
+        },
+        {
+            "source": 91,
+            "target": 85
+        },
+        {
+            "source": 93,
+            "target": 64
+        },
+        {
+            "source": 95,
+            "target": 64
+        },
+        {
+            "source": 97,
+            "target": 88
+        },
+        {
+            "source": 98,
+            "target": 2
+        },
+        {
+            "source": 98,
+            "target": 106
+        },
+        {
+            "source": 101,
+            "target": 57
+        },
+        {
+            "source": 101,
+            "target": 55
+        },
+        {
+            "source": 101,
+            "target": 4
+        },
+        {
+            "source": 101,
+            "target": 14
+        },
+        {
+            "source": 101,
+            "target": 100
+        },
+        {
+            "source": 102,
+            "target": 17
+        },
+        {
+            "source": 103,
+            "target": 27
+        },
+        {
+            "source": 104,
+            "target": 18
+        },
+        {
+            "source": 105,
+            "target": 15
+        },
+        {
+            "source": 106,
+            "target": 65
+        },
+        {
+            "source": 106,
+            "target": 87
+        },
+        {
+            "source": 106,
+            "target": 119
+        },
+        {
+            "source": 106,
+            "target": 64
+        },
+        {
+            "source": 106,
+            "target": 98
+        },
+        {
+            "source": 107,
+            "target": 98
+        },
+        {
+            "source": 107,
+            "target": 5
+        },
+        {
+            "source": 107,
+            "target": 31
+        },
+        {
+            "source": 107,
+            "target": 56
+        },
+        {
+            "source": 107,
+            "target": 60
+        },
+        {
+            "source": 107,
+            "target": 38
+        },
+        {
+            "source": 107,
+            "target": 7
+        },
+        {
+            "source": 107,
+            "target": 71
+        },
+        {
+            "source": 107,
+            "target": 24
+        },
+        {
+            "source": 107,
+            "target": 73
+        },
+        {
+            "source": 107,
+            "target": 79
+        },
+        {
+            "source": 107,
+            "target": 113
+        },
+        {
+            "source": 107,
+            "target": 62
+        },
+        {
+            "source": 107,
+            "target": 14
+        },
+        {
+            "source": 107,
+            "target": 64
+        },
+        {
+            "source": 111,
+            "target": 27
+        },
+        {
+            "source": 113,
+            "target": 0
+        },
+        {
+            "source": 113,
+            "target": 100
+        },
+        {
+            "source": 113,
+            "target": 56
+        },
+        {
+            "source": 113,
+            "target": 125
+        },
+        {
+            "source": 113,
+            "target": 28
+        },
+        {
+            "source": 113,
+            "target": 109
+        },
+        {
+            "source": 113,
+            "target": 86
+        },
+        {
+            "source": 113,
+            "target": 73
+        },
+        {
+            "source": 113,
+            "target": 107
+        },
+        {
+            "source": 113,
+            "target": 81
+        },
+        {
+            "source": 113,
+            "target": 18
+        },
+        {
+            "source": 113,
+            "target": 117
+        },
+        {
+            "source": 114,
+            "target": 125
+        },
+        {
+            "source": 115,
+            "target": 96
+        },
+        {
+            "source": 116,
+            "target": 30
+        },
+        {
+            "source": 118,
+            "target": 28
+        },
+        {
+            "source": 119,
+            "target": 27
+        },
+        {
+            "source": 120,
+            "target": 117
+        },
+        {
+            "source": 122,
+            "target": 99
+        },
+        {
+            "source": 123,
+            "target": 9
+        },
+        {
+            "source": 126,
+            "target": 27
+        },
+        {
+            "source": 127,
+            "target": 40
+        },
+        {
+            "source": 128,
+            "target": 9
+        }
+    ],
+    "graph": {},
+    "basic": {
+        "numEdges": 227,
+        "averagePathLength": 2.7710526315789474,
+        "averageOutDegree": 1.7328244274809161,
+        "numNodes": 131,
+        "selfLinks": 0,
+        "averageInDegree": 1.7328244274809161
+    }
+}

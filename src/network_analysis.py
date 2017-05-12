@@ -83,15 +83,26 @@ class NetworkAnalysis:
         self.outputPlt(self.outputPath + outfile)
 
     def returnBasicStats(self):
-        res = {}
-        res['numNodes'] = nx.number_of_nodes(self.G)
-        res['numEdges'] = nx.number_of_edges(self.G)
-        indegree = list(nx.DiGraph.in_degree(self.G).values())
-        res['averageInDegree'] = mean(indegree)
-        outdegree = list(nx.DiGraph.out_degree(self.G).values())
-        res['averageOutDegree'] = mean(outdegree)
-        res['selfLinks'] = self.G.number_of_selfloops()
-        return res
+        try:
+            res = {}
+            res['numNodes'] = nx.number_of_nodes(self.G)
+            res['numEdges'] = nx.number_of_edges(self.G)
+            indegree = list(nx.DiGraph.in_degree(self.G).values())
+            res['averageInDegree'] = mean(indegree)
+            outdegree = list(nx.DiGraph.out_degree(self.G).values())
+            res['averageOutDegree'] = mean(outdegree)
+            res['selfLinks'] = self.G.number_of_selfloops()
+            return res
+        except:
+            res = {}
+            res['numNodes'] = nx.number_of_nodes(self.G)
+            res['numEdges'] = nx.number_of_edges(self.G)
+            indegree = list(nx.DiGraph.in_degree(self.G).values())
+            res['averageInDegree'] = 0
+            outdegree = list(nx.DiGraph.out_degree(self.G).values())
+            res['averageOutDegree'] = 0
+            res['selfLinks'] = self.G.number_of_selfloops()
+            return res
 
     def outputBasicStats(self):
         print(self.returnBasicStats())

@@ -1,0 +1,6388 @@
+{
+    "edges": [
+        {
+            "source": "Charles",
+            "target": "Charles zi Britannia"
+        },
+        {
+            "source": "C2",
+            "target": "C.C."
+        },
+        {
+            "source": "Geass order",
+            "target": "Geass Directorate"
+        },
+        {
+            "source": "Britannia",
+            "target": "Holy Empire of Britannia"
+        },
+        {
+            "source": "Sakuradite",
+            "target": "Japan"
+        },
+        {
+            "source": "Sakuradite",
+            "target": "Gefjun Disturber"
+        },
+        {
+            "source": "Sakuradite",
+            "target": "Britannian Empire"
+        },
+        {
+            "source": "Schneizel",
+            "target": "Schneizel El Britannia"
+        },
+        {
+            "source": "Eden Vital",
+            "target": "Gods"
+        },
+        {
+            "source": "Gefjun Disturbers",
+            "target": "Gefjun Disturber"
+        },
+        {
+            "source": "Lelouche",
+            "target": "Lelouch vi Britannia"
+        },
+        {
+            "source": "Marianne Vi Britannia",
+            "target": "Marianne vi Britannia"
+        },
+        {
+            "source": "Orange Incident",
+            "target": "Zero"
+        },
+        {
+            "source": "Geass canceller",
+            "target": "Geass canceler"
+        },
+        {
+            "source": "Anya",
+            "target": "Anya Alstreim"
+        },
+        {
+            "source": "Knightmare frame",
+            "target": "Knightmare Frame"
+        },
+        {
+            "source": "Rolo Lamperouge",
+            "target": "C.C. (Code Geass)"
+        },
+        {
+            "source": "Rolo Lamperouge",
+            "target": "Nunnally Lamperouge"
+        },
+        {
+            "source": "Rolo Lamperouge",
+            "target": "Geass"
+        },
+        {
+            "source": "Rolo Lamperouge",
+            "target": "Viletta"
+        },
+        {
+            "source": "Rolo Lamperouge",
+            "target": "Britannia"
+        },
+        {
+            "source": "Rolo Lamperouge",
+            "target": "Lelouch"
+        },
+        {
+            "source": "Euphy",
+            "target": "Euphemia li Britannia"
+        },
+        {
+            "source": "Stefano Onofri",
+            "target": "Clovis la Britannia"
+        },
+        {
+            "source": "Area",
+            "target": "Britannia"
+        },
+        {
+            "source": "Area",
+            "target": "Japan"
+        },
+        {
+            "source": "Area",
+            "target": "Middle East"
+        },
+        {
+            "source": "Area",
+            "target": "Area 18"
+        },
+        {
+            "source": "Area",
+            "target": "Britannian"
+        },
+        {
+            "source": "Chinese Federation",
+            "target": "United States of China"
+        },
+        {
+            "source": "Nunnally Vi Britannia",
+            "target": "Nunnally vi Britannia"
+        },
+        {
+            "source": "Britannian Armed Forces",
+            "target": "Britannian Military"
+        },
+        {
+            "source": "Imperial Family",
+            "target": "Britannian Imperial Family"
+        },
+        {
+            "source": "Britannian Army",
+            "target": "Britannian Military"
+        },
+        {
+            "source": "Japanese Liberation Front",
+            "target": "Japan Liberation Front"
+        },
+        {
+            "source": "Nunnally vi Britannia",
+            "target": "Rolo Lamperouge"
+        },
+        {
+            "source": "Nunnally vi Britannia",
+            "target": "Charles Di Britannia"
+        },
+        {
+            "source": "Nunnally vi Britannia",
+            "target": "Euphemia li Britannia"
+        },
+        {
+            "source": "Nunnally vi Britannia",
+            "target": "Marianne Vi Britannia"
+        },
+        {
+            "source": "Shenhu",
+            "target": "Shen Hu"
+        },
+        {
+            "source": "Thought elevator",
+            "target": "Thought Elevator"
+        },
+        {
+            "source": "Veronica Puccio",
+            "target": "Nunnally vi Britannia"
+        },
+        {
+            "source": "Shen-Hu",
+            "target": "Shen Hu"
+        },
+        {
+            "source": "Vv",
+            "target": "V.V."
+        },
+        {
+            "source": "Area 18",
+            "target": "Middle Eastern Federation"
+        },
+        {
+            "source": "Charles di Britannia",
+            "target": "Charles Di Britannia"
+        },
+        {
+            "source": "Gawain - Siegfried Duel",
+            "target": "Holy Empire of Britannia"
+        },
+        {
+            "source": "Gawain - Siegfried Duel",
+            "target": "Knights of Rounds"
+        },
+        {
+            "source": "Orange Skirmish",
+            "target": "Euphemia Li Britannia"
+        },
+        {
+            "source": "Orange Skirmish",
+            "target": "Lancelot"
+        },
+        {
+            "source": "Orange Skirmish",
+            "target": "Suzaku Kururugi"
+        },
+        {
+            "source": "Charles Di Britannia",
+            "target": "Charles zi Britannia"
+        },
+        {
+            "source": "CG:NOPAGE",
+            "target": "Code Geass:No page"
+        },
+        {
+            "source": "United States of China",
+            "target": "Knightmare Frames"
+        },
+        {
+            "source": "United States of China",
+            "target": "Battle of Fukuoka Base"
+        },
+        {
+            "source": "United States of China",
+            "target": "Kyoto House"
+        },
+        {
+            "source": "United States of China",
+            "target": "High Eunuchs"
+        },
+        {
+            "source": "United States of China",
+            "target": "Zero"
+        },
+        {
+            "source": "United States of China",
+            "target": "Imperial Family"
+        },
+        {
+            "source": "United States of China",
+            "target": "Tianzi"
+        },
+        {
+            "source": "United States of China",
+            "target": "Britannia"
+        },
+        {
+            "source": "United States of China",
+            "target": "Japan"
+        },
+        {
+            "source": "United States of China",
+            "target": "Britannian Empire"
+        },
+        {
+            "source": "United States of China",
+            "target": "E.U."
+        },
+        {
+            "source": "Knights",
+            "target": "Knight"
+        },
+        {
+            "source": "Eunuch",
+            "target": "High Eunuchs"
+        },
+        {
+            "source": "Geass Order",
+            "target": "Emperor"
+        },
+        {
+            "source": "Geass Order",
+            "target": "Geass canceller"
+        },
+        {
+            "source": "Geass Order",
+            "target": "Rolo Lamperouge"
+        },
+        {
+            "source": "Geass Order",
+            "target": "Sword of Akasha"
+        },
+        {
+            "source": "Geass Order",
+            "target": "Chinese Federation"
+        },
+        {
+            "source": "Geass Order",
+            "target": "Britannia"
+        },
+        {
+            "source": "Geass Order",
+            "target": "V.V."
+        },
+        {
+            "source": "Geass Order",
+            "target": "Thought Elevator"
+        },
+        {
+            "source": "Geass Order",
+            "target": "C.C."
+        },
+        {
+            "source": "Geass Order",
+            "target": "Siegfried"
+        },
+        {
+            "source": "Japanese Liberation Front Hotel Incident",
+            "target": "Cornelia Li Britannia"
+        },
+        {
+            "source": "Japanese Liberation Front Hotel Incident",
+            "target": "Euphemia Li Britannia"
+        },
+        {
+            "source": "Japanese Liberation Front Hotel Incident",
+            "target": "Lancelot"
+        },
+        {
+            "source": "Japanese Liberation Front Hotel Incident",
+            "target": "Zero"
+        },
+        {
+            "source": "Japanese Liberation Front Hotel Incident",
+            "target": "Japan Liberation Front"
+        },
+        {
+            "source": "Japanese Liberation Front Hotel Incident",
+            "target": "Glasgow"
+        },
+        {
+            "source": "Japanese Liberation Front Hotel Incident",
+            "target": "Holy Empire of Britannia"
+        },
+        {
+            "source": "Zeros",
+            "target": "Zero"
+        },
+        {
+            "source": "SAZ massacre",
+            "target": "Special Administrative Zone Massacre"
+        },
+        {
+            "source": "Knightmare Frame",
+            "target": "Japan Liberation Front"
+        },
+        {
+            "source": "Knightmare Frame",
+            "target": "C.C. (Code Geass)"
+        },
+        {
+            "source": "Knightmare Frame",
+            "target": "Chinese Federation"
+        },
+        {
+            "source": "Knightmare Frame",
+            "target": "Sakuradite"
+        },
+        {
+            "source": "Knightmare Frame",
+            "target": "Middle Eastern Federation"
+        },
+        {
+            "source": "Knightmare Frame",
+            "target": "Assault on Tokyo Settlement"
+        },
+        {
+            "source": "Knightmare Frame",
+            "target": "Knightmare Frame"
+        },
+        {
+            "source": "Knightmare Frame",
+            "target": "Rakshata"
+        },
+        {
+            "source": "Knightmare Frame",
+            "target": "Rolo Lamperouge"
+        },
+        {
+            "source": "Knightmare Frame",
+            "target": "Suzaku Kururugi"
+        },
+        {
+            "source": "Knightmare Frame",
+            "target": "Holy Empire of Britannia"
+        },
+        {
+            "source": "Knightmare Frame",
+            "target": "Gefjun Disturber"
+        },
+        {
+            "source": "Knightmare Frame",
+            "target": "Kyoto House"
+        },
+        {
+            "source": "Geass Cult",
+            "target": "Geass Order"
+        },
+        {
+            "source": "Lelouch vi Britannia",
+            "target": "Rolo Lamperouge"
+        },
+        {
+            "source": "Huang Qian",
+            "target": "High Eunuchs"
+        },
+        {
+            "source": "European Union",
+            "target": "Europia United"
+        },
+        {
+            "source": "Main Page",
+            "target": "Code Geass Wiki"
+        },
+        {
+            "source": "Clovis",
+            "target": "Clovis La Britannia"
+        },
+        {
+            "source": "World of Code Geass",
+            "target": "Geass Directorate"
+        },
+        {
+            "source": "World of Code Geass",
+            "target": "C.C"
+        },
+        {
+            "source": "World of Code Geass",
+            "target": "Sword of Akasha"
+        },
+        {
+            "source": "World of Code Geass",
+            "target": "Chinese Federation"
+        },
+        {
+            "source": "World of Code Geass",
+            "target": "Numbers"
+        },
+        {
+            "source": "World of Code Geass",
+            "target": "Sakuradite"
+        },
+        {
+            "source": "World of Code Geass",
+            "target": "Thought Elevator"
+        },
+        {
+            "source": "World of Code Geass",
+            "target": "Schneizel"
+        },
+        {
+            "source": "World of Code Geass",
+            "target": "Knightmare Frame"
+        },
+        {
+            "source": "World of Code Geass",
+            "target": "Britannian military"
+        },
+        {
+            "source": "World of Code Geass",
+            "target": "High Eunuchs"
+        },
+        {
+            "source": "World of Code Geass",
+            "target": "Suzaku Kururugi"
+        },
+        {
+            "source": "World of Code Geass",
+            "target": "Geass"
+        },
+        {
+            "source": "World of Code Geass",
+            "target": "Gefjun Disturber"
+        },
+        {
+            "source": "World of Code Geass",
+            "target": "C.C."
+        },
+        {
+            "source": "World of Code Geass",
+            "target": "Eleven"
+        },
+        {
+            "source": "World of Code Geass",
+            "target": "Emperor"
+        },
+        {
+            "source": "World of Code Geass",
+            "target": "Area 18"
+        },
+        {
+            "source": "World of Code Geass",
+            "target": "Japan"
+        },
+        {
+            "source": "World of Code Geass",
+            "target": "Area"
+        },
+        {
+            "source": "World of Code Geass",
+            "target": "Clovis"
+        },
+        {
+            "source": "World of Code Geass",
+            "target": "Schneizel el Britannia"
+        },
+        {
+            "source": "World of Code Geass",
+            "target": "Invasion of Japan"
+        },
+        {
+            "source": "World of Code Geass",
+            "target": "Holy Empire of Britannia"
+        },
+        {
+            "source": "World of Code Geass",
+            "target": "Imperial Calendar"
+        },
+        {
+            "source": "World of Code Geass",
+            "target": "Lelouch"
+        },
+        {
+            "source": "World of Code Geass",
+            "target": "V.V."
+        },
+        {
+            "source": "World of Code Geass",
+            "target": "Honorary Britannian"
+        },
+        {
+            "source": "World of Code Geass",
+            "target": "Clovis la Britannia"
+        },
+        {
+            "source": "World of Code Geass",
+            "target": "Charles di Britannia"
+        },
+        {
+            "source": "Schneizel el Britannia",
+            "target": "Imperial Family"
+        },
+        {
+            "source": "Schneizel el Britannia",
+            "target": "Lancelot"
+        },
+        {
+            "source": "Schneizel el Britannia",
+            "target": "Chinese Federation"
+        },
+        {
+            "source": "Schneizel el Britannia",
+            "target": "Holy Britannian Empire"
+        },
+        {
+            "source": "Schneizel el Britannia",
+            "target": "Japan"
+        },
+        {
+            "source": "Schneizel el Britannia",
+            "target": "Clovis"
+        },
+        {
+            "source": "Schneizel el Britannia",
+            "target": "Emperor"
+        },
+        {
+            "source": "Schneizel el Britannia",
+            "target": "Marianne vi Britannia"
+        },
+        {
+            "source": "Schneizel el Britannia",
+            "target": "Gawain"
+        },
+        {
+            "source": "Schneizel el Britannia",
+            "target": "Thought Elevator"
+        },
+        {
+            "source": "Schneizel el Britannia",
+            "target": "Lelouch"
+        },
+        {
+            "source": "Schneizel el Britannia",
+            "target": "Eunuch"
+        },
+        {
+            "source": "Nunnally Lamperouge",
+            "target": "Nunnally Vi Britannia"
+        },
+        {
+            "source": "Middle Eastern Federation",
+            "target": "Cornelia"
+        },
+        {
+            "source": "Middle Eastern Federation",
+            "target": "Emperor"
+        },
+        {
+            "source": "Middle Eastern Federation",
+            "target": "Middle Eastern Federation Skirmish"
+        },
+        {
+            "source": "Middle Eastern Federation",
+            "target": "E.U."
+        },
+        {
+            "source": "Middle Eastern Federation",
+            "target": "Britannia"
+        },
+        {
+            "source": "V.V.",
+            "target": "Euphemia Li Britannia"
+        },
+        {
+            "source": "V.V.",
+            "target": "Gods"
+        },
+        {
+            "source": "V.V.",
+            "target": "C.C"
+        },
+        {
+            "source": "V.V.",
+            "target": "Sword of Akasha"
+        },
+        {
+            "source": "V.V.",
+            "target": "Zero"
+        },
+        {
+            "source": "V.V.",
+            "target": "Marianne Vi Britannia"
+        },
+        {
+            "source": "V.V.",
+            "target": "Holy Britannian Empire"
+        },
+        {
+            "source": "V.V.",
+            "target": "Nunnally Vi Britannia"
+        },
+        {
+            "source": "V.V.",
+            "target": "Britannian"
+        },
+        {
+            "source": "V.V.",
+            "target": "Royal Family"
+        },
+        {
+            "source": "V.V.",
+            "target": "Though Elevators"
+        },
+        {
+            "source": "V.V.",
+            "target": "Assault on Tokyo Settlement"
+        },
+        {
+            "source": "V.V.",
+            "target": "Emperor"
+        },
+        {
+            "source": "V.V.",
+            "target": "Suzaku Kururugi"
+        },
+        {
+            "source": "V.V.",
+            "target": "Geass Canceler"
+        },
+        {
+            "source": "V.V.",
+            "target": "Rolo"
+        },
+        {
+            "source": "Clovis la Britannia",
+            "target": "Nunnally"
+        },
+        {
+            "source": "Clovis la Britannia",
+            "target": "Kallen"
+        },
+        {
+            "source": "Clovis la Britannia",
+            "target": "Imperial Family"
+        },
+        {
+            "source": "Clovis la Britannia",
+            "target": "Geass"
+        },
+        {
+            "source": "Clovis la Britannia",
+            "target": "Euphemia"
+        },
+        {
+            "source": "Clovis la Britannia",
+            "target": "Marianne"
+        },
+        {
+            "source": "Clovis la Britannia",
+            "target": "C.C."
+        },
+        {
+            "source": "Clovis la Britannia",
+            "target": "Schneizel"
+        },
+        {
+            "source": "Second Pacific War",
+            "target": "Invasion of Japan"
+        },
+        {
+            "source": "Kallen Kouzuki",
+            "target": "Kallen K\u014dzuki"
+        },
+        {
+            "source": "Black Knight Hotel Incident",
+            "target": "Battle of Babel Tower"
+        },
+        {
+            "source": "Royal Family",
+            "target": "Imperial Family"
+        },
+        {
+            "source": "Chinese",
+            "target": "United States of China"
+        },
+        {
+            "source": "Battle of Fukuoka Base",
+            "target": "Elevens"
+        },
+        {
+            "source": "Battle of Fukuoka Base",
+            "target": "Lancelot"
+        },
+        {
+            "source": "Battle of Fukuoka Base",
+            "target": "Zero"
+        },
+        {
+            "source": "Battle of Fukuoka Base",
+            "target": "Chinese Federation"
+        },
+        {
+            "source": "Battle of Fukuoka Base",
+            "target": "Holy Empire of Britannia"
+        },
+        {
+            "source": "Battle of Fukuoka Base",
+            "target": "Euphemia"
+        },
+        {
+            "source": "Battle of Fukuoka Base",
+            "target": "Britannian"
+        },
+        {
+            "source": "Battle of Fukuoka Base",
+            "target": "Schneizel"
+        },
+        {
+            "source": "Battle of Fukuoka Base",
+            "target": "Gun-Ru"
+        },
+        {
+            "source": "Battle of Fukuoka Base",
+            "target": "Cornelia Li Britannia"
+        },
+        {
+            "source": "Battle of Fukuoka Base",
+            "target": "JLF"
+        },
+        {
+            "source": "Battle of Fukuoka Base",
+            "target": "Gefjun Disturber"
+        },
+        {
+            "source": "Battle of Fukuoka Base",
+            "target": "Gawain"
+        },
+        {
+            "source": "Battle of Fukuoka Base",
+            "target": "C.C."
+        },
+        {
+            "source": "Battle of Fukuoka Base",
+            "target": "Suzaku"
+        },
+        {
+            "source": "Britannian military",
+            "target": "Britannian Military"
+        },
+        {
+            "source": "CC",
+            "target": "C.C."
+        },
+        {
+            "source": "Li Xingke",
+            "target": "China"
+        },
+        {
+            "source": "Li Xingke",
+            "target": "Suzaku Kururugi"
+        },
+        {
+            "source": "Li Xingke",
+            "target": "C.C."
+        },
+        {
+            "source": "Gefjun Disturber",
+            "target": "Knightmare Frame"
+        },
+        {
+            "source": "Gefjun Disturber",
+            "target": "Lelouch"
+        },
+        {
+            "source": "Gefjun Disturber",
+            "target": "Lancelot Conquista"
+        },
+        {
+            "source": "Gefjun Disturber",
+            "target": "Sakuradite"
+        },
+        {
+            "source": "Gefjun Disturber",
+            "target": "Knightmare"
+        },
+        {
+            "source": "Battle of Narita",
+            "target": "Holy Empire of Britannia"
+        },
+        {
+            "source": "Battle of Narita",
+            "target": "Euphemia Li Britannia"
+        },
+        {
+            "source": "Battle of Narita",
+            "target": "Invasion of Japan"
+        },
+        {
+            "source": "Battle of Narita",
+            "target": "Zero"
+        },
+        {
+            "source": "Battle of Narita",
+            "target": "Japan Liberation Front"
+        },
+        {
+            "source": "Battle of Narita",
+            "target": "Cornelia Li Britannia"
+        },
+        {
+            "source": "Battle of Narita",
+            "target": "C.C."
+        },
+        {
+            "source": "Lulu",
+            "target": "Lelouch vi Britannia"
+        },
+        {
+            "source": "Cai Lishi",
+            "target": "High Eunuchs"
+        },
+        {
+            "source": "Kyoto House",
+            "target": "Ky\u014dto House"
+        },
+        {
+            "source": "Letizia Scifoni",
+            "target": "Euphemia li Britannia"
+        },
+        {
+            "source": "Knights of the Round",
+            "target": "Emperor"
+        },
+        {
+            "source": "Knights of the Round",
+            "target": "Holy Empire of Britannia"
+        },
+        {
+            "source": "Knights of the Round",
+            "target": "Suzaku Kururugi"
+        },
+        {
+            "source": "Knights of the Round",
+            "target": "Anya Alstreim"
+        },
+        {
+            "source": "Though elevator",
+            "target": "Thought Elevator"
+        },
+        {
+            "source": "Battle of Kaminejima Island",
+            "target": "Euphemia Li Britannia"
+        },
+        {
+            "source": "Battle of Kaminejima Island",
+            "target": "Gawain"
+        },
+        {
+            "source": "Battle of Kaminejima Island",
+            "target": "Kallen"
+        },
+        {
+            "source": "Battle of Kaminejima Island",
+            "target": "Zero"
+        },
+        {
+            "source": "Battle of Kaminejima Island",
+            "target": "Schneizel El Britannia"
+        },
+        {
+            "source": "Battle of Kaminejima Island",
+            "target": "Holy Empire of Britannia"
+        },
+        {
+            "source": "Battle of Kaminejima Island",
+            "target": "Knightmare Frame"
+        },
+        {
+            "source": "Battle of Kaminejima Island",
+            "target": "Rakshata"
+        },
+        {
+            "source": "Battle of Kaminejima Island",
+            "target": "Suzaku Kururugi"
+        },
+        {
+            "source": "Battle of Kaminejima Island",
+            "target": "Thought Elevator"
+        },
+        {
+            "source": "Battle of Kaminejima Island",
+            "target": "Geass"
+        },
+        {
+            "source": "Battle of Kaminejima Island",
+            "target": "Honorary Britannian"
+        },
+        {
+            "source": "Battle of Kaminejima Island",
+            "target": "Knight"
+        },
+        {
+            "source": "Cornelia Li Britannia",
+            "target": "Cornelia li Britannia"
+        },
+        {
+            "source": "Gun-Ru",
+            "target": "Gang Lou"
+        },
+        {
+            "source": "Invasion of Japan",
+            "target": "Holy Empire of Britannia"
+        },
+        {
+            "source": "Invasion of Japan",
+            "target": "Britannian Military"
+        },
+        {
+            "source": "Invasion of Japan",
+            "target": "Suzaku Kururugi"
+        },
+        {
+            "source": "Invasion of Japan",
+            "target": "Schneizel El Britannia"
+        },
+        {
+            "source": "Invasion of Japan",
+            "target": "Knightmare frame"
+        },
+        {
+            "source": "Invasion of Japan",
+            "target": "Glasgow"
+        },
+        {
+            "source": "Invasion of Japan",
+            "target": "Charles Di Britannia"
+        },
+        {
+            "source": "Invasion of Japan",
+            "target": "Sakuradite"
+        },
+        {
+            "source": "Invasion of Japan",
+            "target": "Elevens"
+        },
+        {
+            "source": "List of characters",
+            "target": "List of Characters"
+        },
+        {
+            "source": "Special Administrative Zone Massacre",
+            "target": "Euphemia Li Britannia"
+        },
+        {
+            "source": "Special Administrative Zone Massacre",
+            "target": "Zero"
+        },
+        {
+            "source": "Special Administrative Zone Massacre",
+            "target": "Assault on Tokyo Settlement"
+        },
+        {
+            "source": "Code Geass Wiki",
+            "target": "Code Geass"
+        },
+        {
+            "source": "Special Administrative Zone of Japan Incident",
+            "target": "Special Administrative Zone Massacre"
+        },
+        {
+            "source": "Clovis La Britannia",
+            "target": "Clovis la Britannia"
+        },
+        {
+            "source": "C.C",
+            "target": "C.C."
+        },
+        {
+            "source": "The Order of the Black Knights",
+            "target": "Holy Empire of Britannia"
+        },
+        {
+            "source": "The Order of the Black Knights",
+            "target": "Geass"
+        },
+        {
+            "source": "The Order of the Black Knights",
+            "target": "Zero"
+        },
+        {
+            "source": "The Order of the Black Knights",
+            "target": "Japan Liberation Front"
+        },
+        {
+            "source": "The Order of the Black Knights",
+            "target": "C.C. (Code Geass)"
+        },
+        {
+            "source": "The Order of the Black Knights",
+            "target": "Chinese Federation"
+        },
+        {
+            "source": "The Order of the Black Knights",
+            "target": "Kyoto House"
+        },
+        {
+            "source": "Japan Liberation Front",
+            "target": "Knightmare frame"
+        },
+        {
+            "source": "Japan Liberation Front",
+            "target": "Cornelia Li Britannia"
+        },
+        {
+            "source": "Japan Liberation Front",
+            "target": "Kyoto House"
+        },
+        {
+            "source": "Japan Liberation Front",
+            "target": "Battle for Narita"
+        },
+        {
+            "source": "VV",
+            "target": "V.V."
+        },
+        {
+            "source": "Second Pacific war",
+            "target": "Invasion of Japan"
+        },
+        {
+            "source": "Geass Directorate",
+            "target": "Geass Order"
+        },
+        {
+            "source": "Assault on Tokyo Settlement",
+            "target": "First Assault on Tokyo Settlement"
+        },
+        {
+            "source": "Skirmish in Shinjuku Ghetto",
+            "target": "Lancelot"
+        },
+        {
+            "source": "Skirmish in Shinjuku Ghetto",
+            "target": "Suzaku"
+        },
+        {
+            "source": "Skirmish in Shinjuku Ghetto",
+            "target": "Kallen"
+        },
+        {
+            "source": "Skirmish in Shinjuku Ghetto",
+            "target": "Sutherland"
+        },
+        {
+            "source": "Skirmish in Shinjuku Ghetto",
+            "target": "Geass"
+        },
+        {
+            "source": "Skirmish in Shinjuku Ghetto",
+            "target": "Glasgow"
+        },
+        {
+            "source": "Skirmish in Shinjuku Ghetto",
+            "target": "Invasion of Japan"
+        },
+        {
+            "source": "Skirmish in Shinjuku Ghetto",
+            "target": "Clovis La Britannia"
+        },
+        {
+            "source": "Skirmish in Shinjuku Ghetto",
+            "target": "Orange Incident"
+        },
+        {
+            "source": "Skirmish in Shinjuku Ghetto",
+            "target": "C.C."
+        },
+        {
+            "source": "Skirmish in Shinjuku Ghetto",
+            "target": "Suzaku Kururugi"
+        },
+        {
+            "source": "Rolo",
+            "target": "Rolo Lamperouge"
+        },
+        {
+            "source": "Cornelia li Britannia",
+            "target": "Knightmare Frame"
+        },
+        {
+            "source": "Cornelia li Britannia",
+            "target": "Nunnally Lamperouge"
+        },
+        {
+            "source": "Cornelia li Britannia",
+            "target": "Suzaku Kururugi"
+        },
+        {
+            "source": "Cornelia li Britannia",
+            "target": "Zero"
+        },
+        {
+            "source": "Cornelia li Britannia",
+            "target": "Schneizel El Britannia"
+        },
+        {
+            "source": "Cornelia li Britannia",
+            "target": "Euphemia"
+        },
+        {
+            "source": "Cornelia li Britannia",
+            "target": "Gawain"
+        },
+        {
+            "source": "Cornelia li Britannia",
+            "target": "Clovis"
+        },
+        {
+            "source": "Cornelia",
+            "target": "Cornelia Li Britannia"
+        },
+        {
+            "source": "Britannian Imperial Family",
+            "target": "Euphemia Li Britannia"
+        },
+        {
+            "source": "Britannian Imperial Family",
+            "target": "Sword of Akasha"
+        },
+        {
+            "source": "Britannian Imperial Family",
+            "target": "Marianne Vi Britannia"
+        },
+        {
+            "source": "Britannian Imperial Family",
+            "target": "Cornelia Li Britannia"
+        },
+        {
+            "source": "Britannian Imperial Family",
+            "target": "Nunnally Vi Britannia"
+        },
+        {
+            "source": "Britannian Imperial Family",
+            "target": "Gloucester"
+        },
+        {
+            "source": "Britannian Imperial Family",
+            "target": "Emperor"
+        },
+        {
+            "source": "Britannian Imperial Family",
+            "target": "Chinese Federation"
+        },
+        {
+            "source": "Britannian Imperial Family",
+            "target": "Marianne vi Britannia"
+        },
+        {
+            "source": "Britannian Imperial Family",
+            "target": "Suzaku Kururugi"
+        },
+        {
+            "source": "Britannian Imperial Family",
+            "target": "Lelouch"
+        },
+        {
+            "source": "Britannian Imperial Family",
+            "target": "Gawain"
+        },
+        {
+            "source": "Britannian Imperial Family",
+            "target": "E.U."
+        },
+        {
+            "source": "Britannian Imperial Family",
+            "target": "C.C."
+        },
+        {
+            "source": "Britannian Imperial Family",
+            "target": "Cornelia"
+        },
+        {
+            "source": "Britannian Imperial Family",
+            "target": "Guilford"
+        },
+        {
+            "source": "Britannian Imperial Family",
+            "target": "Nunnally"
+        },
+        {
+            "source": "Britannian Imperial Family",
+            "target": "Zero"
+        },
+        {
+            "source": "Britannian Imperial Family",
+            "target": "Area 18"
+        },
+        {
+            "source": "Britannian Imperial Family",
+            "target": "Japan Liberation Front"
+        },
+        {
+            "source": "Britannian Imperial Family",
+            "target": "Geass"
+        },
+        {
+            "source": "Britannian Imperial Family",
+            "target": "Clovis La Britannia"
+        },
+        {
+            "source": "Britannian Imperial Family",
+            "target": "Clovis"
+        },
+        {
+            "source": "Britannian Imperial Family",
+            "target": "Invasion of Japan"
+        },
+        {
+            "source": "Britannian Imperial Family",
+            "target": "Knight"
+        },
+        {
+            "source": "Britannian Imperial Family",
+            "target": "Jeremiah"
+        },
+        {
+            "source": "Britannian Imperial Family",
+            "target": "Schneizel El Britannia"
+        },
+        {
+            "source": "Britannian Imperial Family",
+            "target": "Ashford"
+        },
+        {
+            "source": "Britannian Imperial Family",
+            "target": "Empress"
+        },
+        {
+            "source": "Britannian Imperial Family",
+            "target": "Holy Empire of Britannia"
+        },
+        {
+            "source": "Britannian Imperial Family",
+            "target": "Ganymede"
+        },
+        {
+            "source": "Britannian Imperial Family",
+            "target": "Thought Elevators"
+        },
+        {
+            "source": "Britannian Imperial Family",
+            "target": "V.V."
+        },
+        {
+            "source": "Britannian Imperial Family",
+            "target": "Honorary Britannian"
+        },
+        {
+            "source": "Britannian Imperial Family",
+            "target": "Euphemia"
+        },
+        {
+            "source": "Britannian Imperial Family",
+            "target": "Charles Di Britannia"
+        },
+        {
+            "source": "Burai Special Weapons B-Type",
+            "target": "Yggdrasil Drive"
+        },
+        {
+            "source": "Burai Special Weapons B-Type",
+            "target": "The Black Knights"
+        },
+        {
+            "source": "Burai Special Weapons B-Type",
+            "target": "The Messenger from Kyoto"
+        },
+        {
+            "source": "Burai Special Weapons B-Type",
+            "target": "Kyoto House"
+        },
+        {
+            "source": "Burai Special Weapons B-Type",
+            "target": "Burai"
+        },
+        {
+            "source": "Burai Special Weapons B-Type",
+            "target": "Energy Filler"
+        },
+        {
+            "source": "Lin Xingke",
+            "target": "Li Xingke"
+        },
+        {
+            "source": "Anya Alstreim",
+            "target": "Emperor"
+        },
+        {
+            "source": "Anya Alstreim",
+            "target": "Gekka"
+        },
+        {
+            "source": "Anya Alstreim",
+            "target": "Guren Aerial-Type"
+        },
+        {
+            "source": "Anya Alstreim",
+            "target": "Knights of Rounds"
+        },
+        {
+            "source": "Anya Alstreim",
+            "target": "Suzaku Kururugi"
+        },
+        {
+            "source": "Anya Alstreim",
+            "target": "Zero"
+        },
+        {
+            "source": "Anya Alstreim",
+            "target": "Mordred"
+        },
+        {
+            "source": "Anya Alstreim",
+            "target": "Nunnally Vi Britannia"
+        },
+        {
+            "source": "Anya Alstreim",
+            "target": "Suzaku"
+        },
+        {
+            "source": "Anya Alstreim",
+            "target": "Gino"
+        },
+        {
+            "source": "\"Orange\" Incident",
+            "target": "Orange Incident"
+        },
+        {
+            "source": "World History",
+            "target": "Second Pacific War"
+        },
+        {
+            "source": "World History",
+            "target": "Imperial Family"
+        },
+        {
+            "source": "World History",
+            "target": "Cornelia li Britannia"
+        },
+        {
+            "source": "World History",
+            "target": "Zero"
+        },
+        {
+            "source": "World History",
+            "target": "Chinese Federation"
+        },
+        {
+            "source": "World History",
+            "target": "Schneizel el Britannia"
+        },
+        {
+            "source": "World History",
+            "target": "Holy Empire of Britannia"
+        },
+        {
+            "source": "World History",
+            "target": "Area"
+        },
+        {
+            "source": "World History",
+            "target": "Clovis la Britannia"
+        },
+        {
+            "source": "World History",
+            "target": "Sakuradite"
+        },
+        {
+            "source": "World History",
+            "target": "EU"
+        },
+        {
+            "source": "World History",
+            "target": "Euphemia li Britannia"
+        },
+        {
+            "source": "World History",
+            "target": "Tianzi"
+        },
+        {
+            "source": "World History",
+            "target": "Nunnally Lamperouge"
+        },
+        {
+            "source": "World History",
+            "target": "High Eunuchs"
+        },
+        {
+            "source": "World History",
+            "target": "Japan"
+        },
+        {
+            "source": "World History",
+            "target": "Li Xingke"
+        },
+        {
+            "source": "World History",
+            "target": "Britannian"
+        },
+        {
+            "source": "World History",
+            "target": "E.U."
+        },
+        {
+            "source": "World History",
+            "target": "C.C."
+        },
+        {
+            "source": "Marianne",
+            "target": "Marianne Vi Britannia"
+        },
+        {
+            "source": "Thought Elevators",
+            "target": "Thought Elevator"
+        },
+        {
+            "source": "Europia United",
+            "target": "Schneizel el Britannia"
+        },
+        {
+            "source": "Europia United",
+            "target": "Britannian Empire"
+        },
+        {
+            "source": "Europia United",
+            "target": "Chinese Federation"
+        },
+        {
+            "source": "Geass Canceller",
+            "target": "Geass Canceler"
+        },
+        {
+            "source": "Battle of Babel Tower",
+            "target": "Knightmare Frame"
+        },
+        {
+            "source": "Battle of Babel Tower",
+            "target": "Geass Directorate"
+        },
+        {
+            "source": "Battle of Babel Tower",
+            "target": "Geass"
+        },
+        {
+            "source": "Battle of Babel Tower",
+            "target": "Skirmish in Shinjuku Ghetto"
+        },
+        {
+            "source": "Battle of Babel Tower",
+            "target": "Chinese Federation"
+        },
+        {
+            "source": "Battle of Babel Tower",
+            "target": "Cornelia Li Britannia"
+        },
+        {
+            "source": "Battle of Babel Tower",
+            "target": "Rolo Lamperouge"
+        },
+        {
+            "source": "Battle of Babel Tower",
+            "target": "C.C."
+        },
+        {
+            "source": "Schneizel El Britannia",
+            "target": "Schneizel el Britannia"
+        },
+        {
+            "source": "Euphemia",
+            "target": "Euphemia Li Britannia"
+        },
+        {
+            "source": "Nunnally",
+            "target": "Nunnally Vi Britannia"
+        },
+        {
+            "source": "Battle for Narita",
+            "target": "Battle of Narita"
+        },
+        {
+            "source": "Xingke",
+            "target": "Li Xingke"
+        },
+        {
+            "source": "Yukimaro Sawazaki",
+            "target": "Japan"
+        },
+        {
+            "source": "Yukimaro Sawazaki",
+            "target": "Chinese Federation"
+        },
+        {
+            "source": "Yamato Alliance",
+            "target": "Cornelia li Britannia"
+        },
+        {
+            "source": "Yamato Alliance",
+            "target": "Zero"
+        },
+        {
+            "source": "Holy Britannian Empire",
+            "target": "Elevens"
+        },
+        {
+            "source": "Holy Britannian Empire",
+            "target": "Clovis"
+        },
+        {
+            "source": "Holy Britannian Empire",
+            "target": "Sakuradite"
+        },
+        {
+            "source": "Holy Britannian Empire",
+            "target": "Area 18"
+        },
+        {
+            "source": "Holy Britannian Empire",
+            "target": "Chinese Federation"
+        },
+        {
+            "source": "Holy Britannian Empire",
+            "target": "Numbers"
+        },
+        {
+            "source": "Holy Britannian Empire",
+            "target": "Japan"
+        },
+        {
+            "source": "Holy Britannian Empire",
+            "target": "Nunnally"
+        },
+        {
+            "source": "Holy Britannian Empire",
+            "target": "Royal Family"
+        },
+        {
+            "source": "Holy Britannian Empire",
+            "target": "EU"
+        },
+        {
+            "source": "Holy Britannian Empire",
+            "target": "Marianne vi Britannia"
+        },
+        {
+            "source": "Holy Britannian Empire",
+            "target": "Schneizel"
+        },
+        {
+            "source": "Holy Britannian Empire",
+            "target": "Honorary Britannians"
+        },
+        {
+            "source": "Holy Britannian Empire",
+            "target": "World History"
+        },
+        {
+            "source": "Holy Britannian Empire",
+            "target": "Middle Eastern Federation"
+        },
+        {
+            "source": "Holy Britannian Empire",
+            "target": "Honorary Britannian"
+        },
+        {
+            "source": "Holy Britannian Empire",
+            "target": "Knight"
+        },
+        {
+            "source": "Holy Britannian Empire",
+            "target": "Charles Di Britannia"
+        },
+        {
+            "source": "Suzaku Kururugi",
+            "target": "Nunnally"
+        },
+        {
+            "source": "Suzaku Kururugi",
+            "target": "Lancelot"
+        },
+        {
+            "source": "Suzaku Kururugi",
+            "target": "Zero"
+        },
+        {
+            "source": "Suzaku Kururugi",
+            "target": "Chinese Federation"
+        },
+        {
+            "source": "Suzaku Kururugi",
+            "target": "Britannia"
+        },
+        {
+            "source": "Suzaku Kururugi",
+            "target": "Japan"
+        },
+        {
+            "source": "Suzaku Kururugi",
+            "target": "Euphemia"
+        },
+        {
+            "source": "Suzaku Kururugi",
+            "target": "Knightmare Frame"
+        },
+        {
+            "source": "Suzaku Kururugi",
+            "target": "Knights of Rounds"
+        },
+        {
+            "source": "Suzaku Kururugi",
+            "target": "Lelouch"
+        },
+        {
+            "source": "Suzaku Kururugi",
+            "target": "Geass"
+        },
+        {
+            "source": "Suzaku Kururugi",
+            "target": "V.V."
+        },
+        {
+            "source": "Suzaku Kururugi",
+            "target": "C.C."
+        },
+        {
+            "source": "Setting",
+            "target": "World of Code Geass"
+        },
+        {
+            "source": "Tong Lun",
+            "target": "High Eunuchs"
+        },
+        {
+            "source": "Suzaku",
+            "target": "Suzaku Kururugi"
+        },
+        {
+            "source": "Emperor",
+            "target": "Charles Di Britannia"
+        },
+        {
+            "source": "The Black Knights",
+            "target": "The Order of the Black Knights"
+        },
+        {
+            "source": "Geass",
+            "target": "C.C. (Code Geass)"
+        },
+        {
+            "source": "C.C.",
+            "target": "Emperor"
+        },
+        {
+            "source": "C.C.",
+            "target": "Geass Directorate"
+        },
+        {
+            "source": "C.C.",
+            "target": "Nunnally"
+        },
+        {
+            "source": "C.C.",
+            "target": "Chinese Federation"
+        },
+        {
+            "source": "C.C.",
+            "target": "Britannia"
+        },
+        {
+            "source": "C.C.",
+            "target": "Japan"
+        },
+        {
+            "source": "C.C.",
+            "target": "Marianne"
+        },
+        {
+            "source": "C.C.",
+            "target": "Siegfried"
+        },
+        {
+            "source": "C.C.",
+            "target": "Knightmare Frame"
+        },
+        {
+            "source": "C.C.",
+            "target": "Geass"
+        },
+        {
+            "source": "C.C.",
+            "target": "Lelouch"
+        },
+        {
+            "source": "C.C.",
+            "target": "V.V."
+        },
+        {
+            "source": "C.C.",
+            "target": "Gawain"
+        },
+        {
+            "source": "C.C.",
+            "target": "Suzaku"
+        },
+        {
+            "source": "Spinzaku",
+            "target": "Suzaku Kururugi"
+        },
+        {
+            "source": "JLF",
+            "target": "Japan Liberation Front"
+        },
+        {
+            "source": "Knight Giga Fortress",
+            "target": "Knightmare Frame"
+        },
+        {
+            "source": "Knight Giga Fortress",
+            "target": "Siegfried"
+        },
+        {
+            "source": "China",
+            "target": "Chinese Federation"
+        },
+        {
+            "source": "Emperor of Britannia",
+            "target": "Charles zi Britannia"
+        },
+        {
+            "source": "Honorary Britannian",
+            "target": "Holy Empire of Britannia"
+        },
+        {
+            "source": "Honorary Britannian",
+            "target": "Britannian"
+        },
+        {
+            "source": "MEF",
+            "target": "Middle Eastern Federation"
+        },
+        {
+            "source": "Assault on the Geass Directorate",
+            "target": "Assault on the Geass Order"
+        },
+        {
+            "source": "Though Elevators",
+            "target": "Thought Elevator"
+        },
+        {
+            "source": "Holy Empire of Britannia",
+            "target": "Holy Britannian Empire"
+        },
+        {
+            "source": "Ky\u014dto House",
+            "target": "Knightmare Frame"
+        },
+        {
+            "source": "Ky\u014dto House",
+            "target": "Gekka"
+        },
+        {
+            "source": "Ky\u014dto House",
+            "target": "Invasion of Japan"
+        },
+        {
+            "source": "Ky\u014dto House",
+            "target": "Nunnally"
+        },
+        {
+            "source": "Ky\u014dto House",
+            "target": "Kallen"
+        },
+        {
+            "source": "Ky\u014dto House",
+            "target": "Zero"
+        },
+        {
+            "source": "Ky\u014dto House",
+            "target": "Chinese Federation"
+        },
+        {
+            "source": "Ky\u014dto House",
+            "target": "Lelouch"
+        },
+        {
+            "source": "Ky\u014dto House",
+            "target": "Burai"
+        },
+        {
+            "source": "Ky\u014dto House",
+            "target": "C.C."
+        },
+        {
+            "source": "Ky\u014dto House",
+            "target": "Suzaku"
+        },
+        {
+            "source": "Euphemia li Britannia",
+            "target": "Knightmare Frame"
+        },
+        {
+            "source": "Euphemia li Britannia",
+            "target": "Cornelia"
+        },
+        {
+            "source": "Euphemia li Britannia",
+            "target": "Nunnally"
+        },
+        {
+            "source": "Euphemia li Britannia",
+            "target": "Suzaku Kururugi"
+        },
+        {
+            "source": "Euphemia li Britannia",
+            "target": "Zero"
+        },
+        {
+            "source": "Euphemia li Britannia",
+            "target": "Japan Liberation Front"
+        },
+        {
+            "source": "Euphemia li Britannia",
+            "target": "Lelouch"
+        },
+        {
+            "source": "Knightmare Frames",
+            "target": "Knightmare Frame"
+        },
+        {
+            "source": "First Assault on Tokyo Settlement",
+            "target": "Holy Empire of Britannia"
+        },
+        {
+            "source": "First Assault on Tokyo Settlement",
+            "target": "Zero"
+        },
+        {
+            "source": "First Assault on Tokyo Settlement",
+            "target": "Gawain - Siegfried Duel"
+        },
+        {
+            "source": "First Assault on Tokyo Settlement",
+            "target": "Cornelia Li Britannia"
+        },
+        {
+            "source": "First Assault on Tokyo Settlement",
+            "target": "Gefjun Disturber"
+        },
+        {
+            "source": "First Assault on Tokyo Settlement",
+            "target": "V.V."
+        },
+        {
+            "source": "First Assault on Tokyo Settlement",
+            "target": "C.C."
+        },
+        {
+            "source": "High Eunuchs",
+            "target": "Li Xingke"
+        },
+        {
+            "source": "High Eunuchs",
+            "target": "Empress"
+        },
+        {
+            "source": "High Eunuchs",
+            "target": "Zero"
+        },
+        {
+            "source": "High Eunuchs",
+            "target": "Chinese Federation"
+        },
+        {
+            "source": "High Eunuchs",
+            "target": "Britannia"
+        },
+        {
+            "source": "High Eunuchs",
+            "target": "Tianzi"
+        },
+        {
+            "source": "High Eunuchs",
+            "target": "Geass"
+        },
+        {
+            "source": "Gods",
+            "target": "Cornelia"
+        },
+        {
+            "source": "Gods",
+            "target": "Sword of Akasha"
+        },
+        {
+            "source": "Gods",
+            "target": "Geass"
+        },
+        {
+            "source": "Gods",
+            "target": "V.V."
+        },
+        {
+            "source": "Gods",
+            "target": "C.C."
+        },
+        {
+            "source": "Gods",
+            "target": "Charles Di Britannia"
+        },
+        {
+            "source": "Knights of Rounds",
+            "target": "Knights of the Round"
+        },
+        {
+            "source": "Vincent Initial Mass Production Prototype",
+            "target": "Vincent"
+        },
+        {
+            "source": "Britannian Empire",
+            "target": "Holy Empire of Britannia"
+        },
+        {
+            "source": "C.C. (Code Geass)",
+            "target": "C.C."
+        },
+        {
+            "source": "List of Characters",
+            "target": "Japan"
+        },
+        {
+            "source": "List of Characters",
+            "target": "Geass Canceler"
+        },
+        {
+            "source": "List of Characters",
+            "target": "Chinese Federation"
+        },
+        {
+            "source": "List of Characters",
+            "target": "Guren Mk-II"
+        },
+        {
+            "source": "List of Characters",
+            "target": "Tianzi"
+        },
+        {
+            "source": "List of Characters",
+            "target": "Euphemia"
+        },
+        {
+            "source": "List of Characters",
+            "target": "Siegfried"
+        },
+        {
+            "source": "List of Characters",
+            "target": "Emperor"
+        },
+        {
+            "source": "List of Characters",
+            "target": "High Eunuchs"
+        },
+        {
+            "source": "List of Characters",
+            "target": "Marianne vi Britannia"
+        },
+        {
+            "source": "List of Characters",
+            "target": "Knights of Rounds"
+        },
+        {
+            "source": "List of Characters",
+            "target": "Suzaku Kururugi"
+        },
+        {
+            "source": "List of Characters",
+            "target": "Vincent Prototype"
+        },
+        {
+            "source": "List of Characters",
+            "target": "Li Xingke"
+        },
+        {
+            "source": "List of Characters",
+            "target": "Gefjun Disturber"
+        },
+        {
+            "source": "List of Characters",
+            "target": "Gloucester"
+        },
+        {
+            "source": "List of Characters",
+            "target": "Shenhu"
+        },
+        {
+            "source": "List of Characters",
+            "target": "Battle of Narita"
+        },
+        {
+            "source": "List of Characters",
+            "target": "Suzaku"
+        },
+        {
+            "source": "List of Characters",
+            "target": "Cornelia"
+        },
+        {
+            "source": "List of Characters",
+            "target": "Britannian Empire"
+        },
+        {
+            "source": "List of Characters",
+            "target": "Lancelot"
+        },
+        {
+            "source": "List of Characters",
+            "target": "Knight of Rounds"
+        },
+        {
+            "source": "List of Characters",
+            "target": "Zero"
+        },
+        {
+            "source": "List of Characters",
+            "target": "Japan Liberation Front"
+        },
+        {
+            "source": "List of Characters",
+            "target": "C.C. (Code Geass)"
+        },
+        {
+            "source": "List of Characters",
+            "target": "Charles di Britannia"
+        },
+        {
+            "source": "List of Characters",
+            "target": "Gun-Ru"
+        },
+        {
+            "source": "List of Characters",
+            "target": "Middle East"
+        },
+        {
+            "source": "List of Characters",
+            "target": "Nunnally Lamperouge"
+        },
+        {
+            "source": "List of Characters",
+            "target": "Villetta"
+        },
+        {
+            "source": "List of Characters",
+            "target": "Burai"
+        },
+        {
+            "source": "List of Characters",
+            "target": "Ganymede"
+        },
+        {
+            "source": "List of Characters",
+            "target": "Geass"
+        },
+        {
+            "source": "List of Characters",
+            "target": "V.V."
+        },
+        {
+            "source": "List of Characters",
+            "target": "Honorary Britannian"
+        },
+        {
+            "source": "List of Characters",
+            "target": "Knight"
+        },
+        {
+            "source": "List of Characters",
+            "target": "Elevens"
+        },
+        {
+            "source": "Gun Ru",
+            "target": "Gang Lou"
+        },
+        {
+            "source": "Middle East",
+            "target": "Middle Eastern Federation"
+        },
+        {
+            "source": "Eden vital",
+            "target": "Gods"
+        },
+        {
+            "source": "Sword of Akasha",
+            "target": "Geass"
+        },
+        {
+            "source": "Sword of Akasha",
+            "target": "Holy Empire of Britannia"
+        },
+        {
+            "source": "Sword of Akasha",
+            "target": "V.V."
+        },
+        {
+            "source": "Sword of Akasha",
+            "target": "Thought Elevator"
+        },
+        {
+            "source": "Sword of Akasha",
+            "target": "C.C."
+        },
+        {
+            "source": "Sword of Akasha",
+            "target": "Charles Di Britannia"
+        },
+        {
+            "source": "Middle Eastern Federation Skirmish",
+            "target": "Knightmare Frame"
+        },
+        {
+            "source": "Middle Eastern Federation Skirmish",
+            "target": "Cornelia"
+        },
+        {
+            "source": "Middle Eastern Federation Skirmish",
+            "target": "Bamides"
+        },
+        {
+            "source": "Middle Eastern Federation Skirmish",
+            "target": "Area 18"
+        },
+        {
+            "source": "Middle Eastern Federation Skirmish",
+            "target": "Middle Eastern Federation"
+        },
+        {
+            "source": "Middle Eastern Federation Skirmish",
+            "target": "Cornelia Li Britannia"
+        },
+        {
+            "source": "Middle Eastern Federation Skirmish",
+            "target": "Holy Empire of Britannia"
+        },
+        {
+            "source": "Middle Eastern Federation Skirmish",
+            "target": "Sutherland"
+        },
+        {
+            "source": "Middle Eastern Federation Skirmish",
+            "target": "Gloucester"
+        },
+        {
+            "source": "Assault on the Geass Order",
+            "target": "Cornelia Li Britannia"
+        },
+        {
+            "source": "Assault on the Geass Order",
+            "target": "V.V."
+        },
+        {
+            "source": "Assault on the Geass Order",
+            "target": "C.C."
+        },
+        {
+            "source": "Thought Elevator",
+            "target": "Emperor"
+        },
+        {
+            "source": "Thought Elevator",
+            "target": "Geass Directorate"
+        },
+        {
+            "source": "Thought Elevator",
+            "target": "Sword of Akasha"
+        },
+        {
+            "source": "NAC",
+            "target": "Kyoto House"
+        },
+        {
+            "source": "Knightmare",
+            "target": "Knightmare Frame"
+        },
+        {
+            "source": "Euphemia Li Britannia",
+            "target": "Euphemia li Britannia"
+        },
+        {
+            "source": "Guren Mk-II",
+            "target": "Guren Type-02"
+        },
+        {
+            "source": "Anya Earlstreim",
+            "target": "Anya Alstreim"
+        },
+        {
+            "source": "United States of Japan",
+            "target": "Japanese Liberation Front Hotel Incident"
+        },
+        {
+            "source": "United States of Japan",
+            "target": "Zero"
+        },
+        {
+            "source": "United States of Japan",
+            "target": "Chinese Federation"
+        },
+        {
+            "source": "United States of Japan",
+            "target": "Britannia"
+        },
+        {
+            "source": "United States of Japan",
+            "target": "Britannian"
+        },
+        {
+            "source": "United States of Japan",
+            "target": "Area"
+        },
+        {
+            "source": "United States of Japan",
+            "target": "Japan Liberation Front"
+        },
+        {
+            "source": "United States of Japan",
+            "target": "Sakuradite"
+        },
+        {
+            "source": "United States of Japan",
+            "target": "Euphemia li Britannia"
+        },
+        {
+            "source": "United States of Japan",
+            "target": "Battle for Narita"
+        },
+        {
+            "source": "United States of Japan",
+            "target": "Nunnally vi Britannia"
+        },
+        {
+            "source": "United States of Japan",
+            "target": "Honorary Britannians"
+        },
+        {
+            "source": "United States of Japan",
+            "target": "C.C."
+        },
+        {
+            "source": "United States of Japan",
+            "target": "Skirmish in Shinjuku Ghetto"
+        },
+        {
+            "source": "United States of Japan",
+            "target": "Thought Elevator"
+        },
+        {
+            "source": "United States of Japan",
+            "target": "Geass"
+        },
+        {
+            "source": "United States of Japan",
+            "target": "V.V."
+        },
+        {
+            "source": "United States of Japan",
+            "target": "Japanese Liberation Front"
+        },
+        {
+            "source": "Charles zi Britannia",
+            "target": "Nunnally Lamperouge"
+        },
+        {
+            "source": "Charles zi Britannia",
+            "target": "Knights of Rounds"
+        },
+        {
+            "source": "Charles zi Britannia",
+            "target": "Sword of Akasha"
+        },
+        {
+            "source": "Charles zi Britannia",
+            "target": "Suzaku Kururugi"
+        },
+        {
+            "source": "Charles zi Britannia",
+            "target": "Marianne Vi Britannia"
+        },
+        {
+            "source": "Charles zi Britannia",
+            "target": "Holy Britannian Empire"
+        },
+        {
+            "source": "Charles zi Britannia",
+            "target": "Japan"
+        },
+        {
+            "source": "Charles zi Britannia",
+            "target": "V.V."
+        },
+        {
+            "source": "Charles zi Britannia",
+            "target": "Clovis La Britannia"
+        },
+        {
+            "source": "Charles zi Britannia",
+            "target": "C.C."
+        },
+        {
+            "source": "Charles zi Britannia",
+            "target": "Geass"
+        },
+        {
+            "source": "Marianne vi Britannia",
+            "target": "Cornelia"
+        },
+        {
+            "source": "Marianne vi Britannia",
+            "target": "Britannia"
+        },
+        {
+            "source": "Marianne vi Britannia",
+            "target": "Nunnally"
+        },
+        {
+            "source": "Marianne vi Britannia",
+            "target": "C.C"
+        },
+        {
+            "source": "Marianne vi Britannia",
+            "target": "Ganymede"
+        },
+        {
+            "source": "Marianne vi Britannia",
+            "target": "Lelouch"
+        },
+        {
+            "source": "Marianne vi Britannia",
+            "target": "Euphemia"
+        },
+        {
+            "source": "Marianne vi Britannia",
+            "target": "Clovis"
+        },
+        {
+            "source": "Shinkir\u014d",
+            "target": "Shinkiro"
+        },
+        {
+            "source": "Imperial family",
+            "target": "Imperial Family"
+        },
+        {
+            "source": "Knight of Rounds",
+            "target": "Knights of Rounds"
+        },
+        {
+            "source": "Code Geass:No page",
+            "target": "Code Geass Wiki"
+        },
+        {
+            "source": "Britannian Military",
+            "target": "Imperial family"
+        },
+        {
+            "source": "Britannian Military",
+            "target": "Knightmare Frames"
+        },
+        {
+            "source": "Britannian Military",
+            "target": "Geass Directorate"
+        },
+        {
+            "source": "Britannian Military",
+            "target": "Portman"
+        },
+        {
+            "source": "Britannian Military",
+            "target": "Knights"
+        },
+        {
+            "source": "Britannian Military",
+            "target": "Guren Mk-II"
+        },
+        {
+            "source": "Britannian Military",
+            "target": "Holy Empire of Britannia"
+        },
+        {
+            "source": "Britannian Military",
+            "target": "Geass Canceler"
+        },
+        {
+            "source": "Britannian Military",
+            "target": "Marianne"
+        },
+        {
+            "source": "Britannian Military",
+            "target": "Honorary Britannians"
+        },
+        {
+            "source": "Britannian Military",
+            "target": "Siegfried"
+        },
+        {
+            "source": "Britannian Military",
+            "target": "Emperor"
+        },
+        {
+            "source": "Britannian Military",
+            "target": "China"
+        },
+        {
+            "source": "Britannian Military",
+            "target": "Nunnally"
+        },
+        {
+            "source": "Britannian Military",
+            "target": "MEF"
+        },
+        {
+            "source": "Britannian Military",
+            "target": "Suzaku Kururugi"
+        },
+        {
+            "source": "Britannian Military",
+            "target": "Geass"
+        },
+        {
+            "source": "Britannian Military",
+            "target": "Lancelot"
+        },
+        {
+            "source": "Britannian Military",
+            "target": "Gefjun Disturber"
+        },
+        {
+            "source": "Britannian Military",
+            "target": "Schneizel"
+        },
+        {
+            "source": "Britannian Military",
+            "target": "Battle of Narita"
+        },
+        {
+            "source": "Britannian Military",
+            "target": "C.C."
+        },
+        {
+            "source": "Britannian Military",
+            "target": "Cornelia"
+        },
+        {
+            "source": "Britannian Military",
+            "target": "Gawain"
+        },
+        {
+            "source": "Britannian Military",
+            "target": "Kallen"
+        },
+        {
+            "source": "Britannian Military",
+            "target": "Zero"
+        },
+        {
+            "source": "Britannian Military",
+            "target": "Rakshata"
+        },
+        {
+            "source": "Britannian Military",
+            "target": "Vincent"
+        },
+        {
+            "source": "Britannian Military",
+            "target": "Clovis"
+        },
+        {
+            "source": "Britannian Military",
+            "target": "EU"
+        },
+        {
+            "source": "Britannian Military",
+            "target": "\"Orange\" Incident"
+        },
+        {
+            "source": "Britannian Military",
+            "target": "Sutherland"
+        },
+        {
+            "source": "Britannian Military",
+            "target": "Jeremiah"
+        },
+        {
+            "source": "Britannian Military",
+            "target": "Ganymede"
+        },
+        {
+            "source": "Britannian Military",
+            "target": "Lelouch"
+        },
+        {
+            "source": "Britannian Military",
+            "target": "V.V."
+        },
+        {
+            "source": "Britannian Military",
+            "target": "Knightmare"
+        },
+        {
+            "source": "Britannian Military",
+            "target": "Gloucester"
+        },
+        {
+            "source": "Honorary Britannians",
+            "target": "Honorary Britannian"
+        },
+        {
+            "source": "RPI-13 Sutherland",
+            "target": "Sutherland"
+        },
+        {
+            "source": "Kallen K\u014dzuki",
+            "target": "Nunnally Lamperouge"
+        },
+        {
+            "source": "Kallen K\u014dzuki",
+            "target": "Li Xingke"
+        },
+        {
+            "source": "Kallen K\u014dzuki",
+            "target": "C.C."
+        },
+        {
+            "source": "Kallen K\u014dzuki",
+            "target": "Britannia"
+        },
+        {
+            "source": "Kallen K\u014dzuki",
+            "target": "Lancelot"
+        },
+        {
+            "source": "Kallen K\u014dzuki",
+            "target": "Sutherland"
+        },
+        {
+            "source": "Kallen K\u014dzuki",
+            "target": "Suzaku Kururugi"
+        },
+        {
+            "source": "Britannian Shuttle",
+            "target": "Holy Britannian Empire"
+        },
+        {
+            "source": "Britannian Shuttle",
+            "target": "Schneizel el Britannia"
+        },
+        {
+            "source": "Britannian Shuttle",
+            "target": "Lelouch vi Britannia"
+        },
+        {
+            "source": "Knightmares",
+            "target": "Knightmare Frame"
+        },
+        {
+            "source": "Knight",
+            "target": "Emperor"
+        },
+        {
+            "source": "Knight",
+            "target": "Guilford"
+        },
+        {
+            "source": "Knight",
+            "target": "Imperial Family"
+        },
+        {
+            "source": "Knight",
+            "target": "Knights of Rounds"
+        },
+        {
+            "source": "Knight",
+            "target": "Zero"
+        },
+        {
+            "source": "Knight",
+            "target": "Euphemia Li Britannia"
+        },
+        {
+            "source": "Knight",
+            "target": "Britannia"
+        },
+        {
+            "source": "Knight",
+            "target": "Cornelia Li Britannia"
+        },
+        {
+            "source": "Knight",
+            "target": "Knightmare Frame"
+        },
+        {
+            "source": "Knight",
+            "target": "Suzaku"
+        },
+        {
+            "source": "Knight",
+            "target": "Cornelia"
+        }
+    ],
+    "directed": true,
+    "multigraph": false,
+    "nodes": [
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Charles"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "C2"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Geass order"
+        },
+        {
+            "parity": 0,
+            "degree": 13,
+            "id": "Britannia"
+        },
+        {
+            "parity": 1,
+            "degree": 10,
+            "id": "Sakuradite"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Portman"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Schneizel"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Eden Vital"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Vincent Prototype"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Gefjun Disturbers"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lelouche"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Marianne Vi Britannia"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Viletta"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Orange Incident"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Geass canceller"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Gekka"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Kallen"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Britannian"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Anya"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Knightmare frame"
+        },
+        {
+            "parity": 1,
+            "degree": 12,
+            "id": "Rolo Lamperouge"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Euphy"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Eleven"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Stefano Onofri"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lancelot Conquista"
+        },
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "Area"
+        },
+        {
+            "parity": 1,
+            "degree": 20,
+            "id": "Chinese Federation"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Nunnally Vi Britannia"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "The Messenger from Kyoto"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Britannian Armed Forces"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Rakshata"
+        },
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "Imperial Family"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Britannian Army"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Japanese Liberation Front"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Mordred"
+        },
+        {
+            "parity": 0,
+            "degree": 7,
+            "id": "Nunnally vi Britannia"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Shenhu"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Thought elevator"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Veronica Puccio"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Shen-Hu"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Vv"
+        },
+        {
+            "parity": 1,
+            "degree": 24,
+            "id": "Zero"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Area 18"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Charles di Britannia"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Gawain - Siegfried Duel"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "EU"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Orange Skirmish"
+        },
+        {
+            "parity": 0,
+            "degree": 9,
+            "id": "Charles Di Britannia"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "CG:NOPAGE"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Villetta"
+        },
+        {
+            "parity": 0,
+            "degree": 13,
+            "id": "United States of China"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Ganymede"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Knights"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Eunuch"
+        },
+        {
+            "parity": 1,
+            "degree": 12,
+            "id": "Geass Order"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Geass canceler"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Elevens"
+        },
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "Japanese Liberation Front Hotel Incident"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Zeros"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Guilford"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Gino"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "SAZ massacre"
+        },
+        {
+            "parity": 1,
+            "degree": 30,
+            "id": "Knightmare Frame"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Geass Cult"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Shinkiro"
+        },
+        {
+            "parity": 0,
+            "degree": 7,
+            "id": "Gawain"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Lelouch vi Britannia"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Huang Qian"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "European Union"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Guren Aerial-Type"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Code Geass"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Glasgow"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Main Page"
+        },
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "Clovis"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "E.U."
+        },
+        {
+            "parity": 0,
+            "degree": 31,
+            "id": "World of Code Geass"
+        },
+        {
+            "parity": 0,
+            "degree": 17,
+            "id": "Schneizel el Britannia"
+        },
+        {
+            "parity": 0,
+            "degree": 7,
+            "id": "Nunnally Lamperouge"
+        },
+        {
+            "parity": 0,
+            "degree": 11,
+            "id": "Middle Eastern Federation"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Ashford"
+        },
+        {
+            "parity": 0,
+            "degree": 31,
+            "id": "V.V."
+        },
+        {
+            "parity": 1,
+            "degree": 12,
+            "id": "Clovis la Britannia"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Sutherland"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Second Pacific War"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Kallen Kouzuki"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Black Knight Hotel Incident"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Royal Family"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Chinese"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Burai"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Siegfried"
+        },
+        {
+            "parity": 1,
+            "degree": 16,
+            "id": "Battle of Fukuoka Base"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Britannian military"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Jeremiah"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "CC"
+        },
+        {
+            "parity": 0,
+            "degree": 9,
+            "id": "Li Xingke"
+        },
+        {
+            "parity": 0,
+            "degree": 13,
+            "id": "Gefjun Disturber"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Gloucester"
+        },
+        {
+            "parity": 1,
+            "degree": 10,
+            "id": "Battle of Narita"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lulu"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Cai Lishi"
+        },
+        {
+            "parity": 0,
+            "degree": 7,
+            "id": "Kyoto House"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Letizia Scifoni"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Knights of the Round"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Though elevator"
+        },
+        {
+            "parity": 0,
+            "degree": 13,
+            "id": "Battle of Kaminejima Island"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Shen Hu"
+        },
+        {
+            "parity": 1,
+            "degree": 12,
+            "id": "Cornelia Li Britannia"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Gun-Ru"
+        },
+        {
+            "parity": 1,
+            "degree": 16,
+            "id": "Invasion of Japan"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "List of characters"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Imperial Calendar"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Special Administrative Zone Massacre"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Code Geass Wiki"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Special Administrative Zone of Japan Incident"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Clovis La Britannia"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "C.C"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Gang Lou"
+        },
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "The Order of the Black Knights"
+        },
+        {
+            "parity": 1,
+            "degree": 14,
+            "id": "Japan Liberation Front"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "VV"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Second Pacific war"
+        },
+        {
+            "parity": 0,
+            "degree": 7,
+            "id": "Geass Directorate"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Numbers"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Assault on Tokyo Settlement"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Guren Type-02"
+        },
+        {
+            "parity": 0,
+            "degree": 13,
+            "id": "Skirmish in Shinjuku Ghetto"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Rolo"
+        },
+        {
+            "parity": 0,
+            "degree": 11,
+            "id": "Cornelia li Britannia"
+        },
+        {
+            "parity": 1,
+            "degree": 10,
+            "id": "Cornelia"
+        },
+        {
+            "parity": 0,
+            "degree": 37,
+            "id": "Britannian Imperial Family"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Burai Special Weapons B-Type"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lin Xingke"
+        },
+        {
+            "parity": 0,
+            "degree": 13,
+            "id": "Anya Alstreim"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "\"Orange\" Incident"
+        },
+        {
+            "parity": 0,
+            "degree": 21,
+            "id": "World History"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Tianzi"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Marianne"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Thought Elevators"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Europia United"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Geass Canceller"
+        },
+        {
+            "parity": 0,
+            "degree": 9,
+            "id": "Battle of Babel Tower"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Schneizel El Britannia"
+        },
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "Euphemia"
+        },
+        {
+            "parity": 1,
+            "degree": 10,
+            "id": "Nunnally"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Battle for Narita"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Xingke"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Yukimaro Sawazaki"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Yamato Alliance"
+        },
+        {
+            "parity": 0,
+            "degree": 23,
+            "id": "Holy Britannian Empire"
+        },
+        {
+            "parity": 1,
+            "degree": 32,
+            "id": "Suzaku Kururugi"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Setting"
+        },
+        {
+            "parity": 0,
+            "degree": 9,
+            "id": "Lancelot"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Tong Lun"
+        },
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "Suzaku"
+        },
+        {
+            "parity": 1,
+            "degree": 14,
+            "id": "Emperor"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "The Black Knights"
+        },
+        {
+            "parity": 1,
+            "degree": 18,
+            "id": "Geass"
+        },
+        {
+            "parity": 1,
+            "degree": 38,
+            "id": "C.C."
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Spinzaku"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "JLF"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Knight Giga Fortress"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "China"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Emperor of Britannia"
+        },
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "Honorary Britannian"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "MEF"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Bamides"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Assault on the Geass Directorate"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Yggdrasil Drive"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Though Elevators"
+        },
+        {
+            "parity": 1,
+            "degree": 20,
+            "id": "Holy Empire of Britannia"
+        },
+        {
+            "parity": 1,
+            "degree": 12,
+            "id": "Ky\u014dto House"
+        },
+        {
+            "parity": 0,
+            "degree": 13,
+            "id": "Euphemia li Britannia"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Knightmare Frames"
+        },
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "First Assault on Tokyo Settlement"
+        },
+        {
+            "parity": 0,
+            "degree": 15,
+            "id": "High Eunuchs"
+        },
+        {
+            "parity": 0,
+            "degree": 9,
+            "id": "Gods"
+        },
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "Knights of Rounds"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Vincent Initial Mass Production Prototype"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Britannian Empire"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "C.C. (Code Geass)"
+        },
+        {
+            "parity": 0,
+            "degree": 39,
+            "id": "List of Characters"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Gun Ru"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Middle East"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Geass Canceler"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Eden vital"
+        },
+        {
+            "parity": 0,
+            "degree": 13,
+            "id": "Sword of Akasha"
+        },
+        {
+            "parity": 1,
+            "degree": 10,
+            "id": "Middle Eastern Federation Skirmish"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Assault on the Geass Order"
+        },
+        {
+            "parity": 0,
+            "degree": 13,
+            "id": "Thought Elevator"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "NAC"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Knightmare"
+        },
+        {
+            "parity": 1,
+            "degree": 10,
+            "id": "Euphemia Li Britannia"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Empress"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Guren Mk-II"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Anya Earlstreim"
+        },
+        {
+            "parity": 1,
+            "degree": 18,
+            "id": "United States of Japan"
+        },
+        {
+            "parity": 1,
+            "degree": 14,
+            "id": "Charles zi Britannia"
+        },
+        {
+            "parity": 0,
+            "degree": 13,
+            "id": "Marianne vi Britannia"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Energy Filler"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Shinkir\u014d"
+        },
+        {
+            "parity": 0,
+            "degree": 11,
+            "id": "Lelouch"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Imperial family"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Knight of Rounds"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Code Geass:No page"
+        },
+        {
+            "parity": 1,
+            "degree": 42,
+            "id": "Britannian Military"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Honorary Britannians"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "RPI-13 Sutherland"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Vincent"
+        },
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "Kallen K\u014dzuki"
+        },
+        {
+            "parity": 1,
+            "degree": 12,
+            "id": "Japan"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Britannian Shuttle"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Knightmares"
+        },
+        {
+            "parity": 1,
+            "degree": 16,
+            "id": "Knight"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 196
+        },
+        {
+            "source": 1,
+            "target": 157
+        },
+        {
+            "source": 2,
+            "target": 121
+        },
+        {
+            "source": 3,
+            "target": 169
+        },
+        {
+            "source": 4,
+            "target": 209
+        },
+        {
+            "source": 4,
+            "target": 95
+        },
+        {
+            "source": 4,
+            "target": 178
+        },
+        {
+            "source": 6,
+            "target": 141
+        },
+        {
+            "source": 7,
+            "target": 175
+        },
+        {
+            "source": 9,
+            "target": 95
+        },
+        {
+            "source": 10,
+            "target": 66
+        },
+        {
+            "source": 11,
+            "target": 197
+        },
+        {
+            "source": 13,
+            "target": 41
+        },
+        {
+            "source": 14,
+            "target": 55
+        },
+        {
+            "source": 18,
+            "target": 132
+        },
+        {
+            "source": 19,
+            "target": 62
+        },
+        {
+            "source": 20,
+            "target": 179
+        },
+        {
+            "source": 20,
+            "target": 77
+        },
+        {
+            "source": 20,
+            "target": 156
+        },
+        {
+            "source": 20,
+            "target": 12
+        },
+        {
+            "source": 20,
+            "target": 3
+        },
+        {
+            "source": 20,
+            "target": 200
+        },
+        {
+            "source": 21,
+            "target": 171
+        },
+        {
+            "source": 23,
+            "target": 81
+        },
+        {
+            "source": 25,
+            "target": 3
+        },
+        {
+            "source": 25,
+            "target": 209
+        },
+        {
+            "source": 25,
+            "target": 182
+        },
+        {
+            "source": 25,
+            "target": 42
+        },
+        {
+            "source": 25,
+            "target": 17
+        },
+        {
+            "source": 26,
+            "target": 50
+        },
+        {
+            "source": 27,
+            "target": 35
+        },
+        {
+            "source": 29,
+            "target": 204
+        },
+        {
+            "source": 31,
+            "target": 129
+        },
+        {
+            "source": 32,
+            "target": 204
+        },
+        {
+            "source": 33,
+            "target": 118
+        },
+        {
+            "source": 35,
+            "target": 20
+        },
+        {
+            "source": 35,
+            "target": 47
+        },
+        {
+            "source": 35,
+            "target": 171
+        },
+        {
+            "source": 35,
+            "target": 11
+        },
+        {
+            "source": 36,
+            "target": 105
+        },
+        {
+            "source": 37,
+            "target": 188
+        },
+        {
+            "source": 38,
+            "target": 35
+        },
+        {
+            "source": 39,
+            "target": 105
+        },
+        {
+            "source": 40,
+            "target": 80
+        },
+        {
+            "source": 42,
+            "target": 78
+        },
+        {
+            "source": 43,
+            "target": 47
+        },
+        {
+            "source": 44,
+            "target": 169
+        },
+        {
+            "source": 44,
+            "target": 176
+        },
+        {
+            "source": 46,
+            "target": 191
+        },
+        {
+            "source": 46,
+            "target": 151
+        },
+        {
+            "source": 46,
+            "target": 149
+        },
+        {
+            "source": 47,
+            "target": 196
+        },
+        {
+            "source": 48,
+            "target": 203
+        },
+        {
+            "source": 50,
+            "target": 172
+        },
+        {
+            "source": 50,
+            "target": 90
+        },
+        {
+            "source": 50,
+            "target": 100
+        },
+        {
+            "source": 50,
+            "target": 174
+        },
+        {
+            "source": 50,
+            "target": 41
+        },
+        {
+            "source": 50,
+            "target": 31
+        },
+        {
+            "source": 50,
+            "target": 135
+        },
+        {
+            "source": 50,
+            "target": 3
+        },
+        {
+            "source": 50,
+            "target": 209
+        },
+        {
+            "source": 50,
+            "target": 178
+        },
+        {
+            "source": 50,
+            "target": 74
+        },
+        {
+            "source": 52,
+            "target": 212
+        },
+        {
+            "source": 53,
+            "target": 174
+        },
+        {
+            "source": 54,
+            "target": 154
+        },
+        {
+            "source": 54,
+            "target": 14
+        },
+        {
+            "source": 54,
+            "target": 20
+        },
+        {
+            "source": 54,
+            "target": 185
+        },
+        {
+            "source": 54,
+            "target": 26
+        },
+        {
+            "source": 54,
+            "target": 3
+        },
+        {
+            "source": 54,
+            "target": 80
+        },
+        {
+            "source": 54,
+            "target": 188
+        },
+        {
+            "source": 54,
+            "target": 157
+        },
+        {
+            "source": 54,
+            "target": 89
+        },
+        {
+            "source": 57,
+            "target": 106
+        },
+        {
+            "source": 57,
+            "target": 191
+        },
+        {
+            "source": 57,
+            "target": 151
+        },
+        {
+            "source": 57,
+            "target": 41
+        },
+        {
+            "source": 57,
+            "target": 118
+        },
+        {
+            "source": 57,
+            "target": 71
+        },
+        {
+            "source": 57,
+            "target": 169
+        },
+        {
+            "source": 58,
+            "target": 41
+        },
+        {
+            "source": 61,
+            "target": 111
+        },
+        {
+            "source": 62,
+            "target": 118
+        },
+        {
+            "source": 62,
+            "target": 179
+        },
+        {
+            "source": 62,
+            "target": 26
+        },
+        {
+            "source": 62,
+            "target": 4
+        },
+        {
+            "source": 62,
+            "target": 78
+        },
+        {
+            "source": 62,
+            "target": 123
+        },
+        {
+            "source": 62,
+            "target": 62
+        },
+        {
+            "source": 62,
+            "target": 30
+        },
+        {
+            "source": 62,
+            "target": 20
+        },
+        {
+            "source": 62,
+            "target": 149
+        },
+        {
+            "source": 62,
+            "target": 169
+        },
+        {
+            "source": 62,
+            "target": 95
+        },
+        {
+            "source": 62,
+            "target": 100
+        },
+        {
+            "source": 63,
+            "target": 54
+        },
+        {
+            "source": 66,
+            "target": 20
+        },
+        {
+            "source": 67,
+            "target": 174
+        },
+        {
+            "source": 68,
+            "target": 138
+        },
+        {
+            "source": 72,
+            "target": 112
+        },
+        {
+            "source": 73,
+            "target": 114
+        },
+        {
+            "source": 75,
+            "target": 121
+        },
+        {
+            "source": 75,
+            "target": 115
+        },
+        {
+            "source": 75,
+            "target": 185
+        },
+        {
+            "source": 75,
+            "target": 26
+        },
+        {
+            "source": 75,
+            "target": 122
+        },
+        {
+            "source": 75,
+            "target": 4
+        },
+        {
+            "source": 75,
+            "target": 188
+        },
+        {
+            "source": 75,
+            "target": 6
+        },
+        {
+            "source": 75,
+            "target": 62
+        },
+        {
+            "source": 75,
+            "target": 91
+        },
+        {
+            "source": 75,
+            "target": 174
+        },
+        {
+            "source": 75,
+            "target": 149
+        },
+        {
+            "source": 75,
+            "target": 156
+        },
+        {
+            "source": 75,
+            "target": 95
+        },
+        {
+            "source": 75,
+            "target": 157
+        },
+        {
+            "source": 75,
+            "target": 22
+        },
+        {
+            "source": 75,
+            "target": 154
+        },
+        {
+            "source": 75,
+            "target": 42
+        },
+        {
+            "source": 75,
+            "target": 209
+        },
+        {
+            "source": 75,
+            "target": 25
+        },
+        {
+            "source": 75,
+            "target": 73
+        },
+        {
+            "source": 75,
+            "target": 76
+        },
+        {
+            "source": 75,
+            "target": 108
+        },
+        {
+            "source": 75,
+            "target": 169
+        },
+        {
+            "source": 75,
+            "target": 110
+        },
+        {
+            "source": 75,
+            "target": 200
+        },
+        {
+            "source": 75,
+            "target": 80
+        },
+        {
+            "source": 75,
+            "target": 163
+        },
+        {
+            "source": 75,
+            "target": 81
+        },
+        {
+            "source": 75,
+            "target": 43
+        },
+        {
+            "source": 76,
+            "target": 31
+        },
+        {
+            "source": 76,
+            "target": 151
+        },
+        {
+            "source": 76,
+            "target": 26
+        },
+        {
+            "source": 76,
+            "target": 148
+        },
+        {
+            "source": 76,
+            "target": 209
+        },
+        {
+            "source": 76,
+            "target": 73
+        },
+        {
+            "source": 76,
+            "target": 154
+        },
+        {
+            "source": 76,
+            "target": 197
+        },
+        {
+            "source": 76,
+            "target": 65
+        },
+        {
+            "source": 76,
+            "target": 188
+        },
+        {
+            "source": 76,
+            "target": 200
+        },
+        {
+            "source": 76,
+            "target": 53
+        },
+        {
+            "source": 77,
+            "target": 27
+        },
+        {
+            "source": 78,
+            "target": 128
+        },
+        {
+            "source": 78,
+            "target": 154
+        },
+        {
+            "source": 78,
+            "target": 186
+        },
+        {
+            "source": 78,
+            "target": 74
+        },
+        {
+            "source": 78,
+            "target": 3
+        },
+        {
+            "source": 80,
+            "target": 191
+        },
+        {
+            "source": 80,
+            "target": 175
+        },
+        {
+            "source": 80,
+            "target": 115
+        },
+        {
+            "source": 80,
+            "target": 185
+        },
+        {
+            "source": 80,
+            "target": 41
+        },
+        {
+            "source": 80,
+            "target": 11
+        },
+        {
+            "source": 80,
+            "target": 148
+        },
+        {
+            "source": 80,
+            "target": 27
+        },
+        {
+            "source": 80,
+            "target": 17
+        },
+        {
+            "source": 80,
+            "target": 86
+        },
+        {
+            "source": 80,
+            "target": 168
+        },
+        {
+            "source": 80,
+            "target": 123
+        },
+        {
+            "source": 80,
+            "target": 154
+        },
+        {
+            "source": 80,
+            "target": 149
+        },
+        {
+            "source": 80,
+            "target": 183
+        },
+        {
+            "source": 80,
+            "target": 126
+        },
+        {
+            "source": 81,
+            "target": 143
+        },
+        {
+            "source": 81,
+            "target": 16
+        },
+        {
+            "source": 81,
+            "target": 31
+        },
+        {
+            "source": 81,
+            "target": 156
+        },
+        {
+            "source": 81,
+            "target": 142
+        },
+        {
+            "source": 81,
+            "target": 136
+        },
+        {
+            "source": 81,
+            "target": 157
+        },
+        {
+            "source": 81,
+            "target": 6
+        },
+        {
+            "source": 83,
+            "target": 108
+        },
+        {
+            "source": 84,
+            "target": 208
+        },
+        {
+            "source": 85,
+            "target": 140
+        },
+        {
+            "source": 86,
+            "target": 31
+        },
+        {
+            "source": 87,
+            "target": 50
+        },
+        {
+            "source": 90,
+            "target": 56
+        },
+        {
+            "source": 90,
+            "target": 151
+        },
+        {
+            "source": 90,
+            "target": 41
+        },
+        {
+            "source": 90,
+            "target": 26
+        },
+        {
+            "source": 90,
+            "target": 169
+        },
+        {
+            "source": 90,
+            "target": 142
+        },
+        {
+            "source": 90,
+            "target": 17
+        },
+        {
+            "source": 90,
+            "target": 6
+        },
+        {
+            "source": 90,
+            "target": 107
+        },
+        {
+            "source": 90,
+            "target": 106
+        },
+        {
+            "source": 90,
+            "target": 159
+        },
+        {
+            "source": 90,
+            "target": 95
+        },
+        {
+            "source": 90,
+            "target": 65
+        },
+        {
+            "source": 90,
+            "target": 157
+        },
+        {
+            "source": 90,
+            "target": 153
+        },
+        {
+            "source": 91,
+            "target": 204
+        },
+        {
+            "source": 93,
+            "target": 157
+        },
+        {
+            "source": 94,
+            "target": 161
+        },
+        {
+            "source": 94,
+            "target": 149
+        },
+        {
+            "source": 94,
+            "target": 157
+        },
+        {
+            "source": 95,
+            "target": 62
+        },
+        {
+            "source": 95,
+            "target": 200
+        },
+        {
+            "source": 95,
+            "target": 24
+        },
+        {
+            "source": 95,
+            "target": 4
+        },
+        {
+            "source": 95,
+            "target": 190
+        },
+        {
+            "source": 97,
+            "target": 169
+        },
+        {
+            "source": 97,
+            "target": 191
+        },
+        {
+            "source": 97,
+            "target": 108
+        },
+        {
+            "source": 97,
+            "target": 41
+        },
+        {
+            "source": 97,
+            "target": 118
+        },
+        {
+            "source": 97,
+            "target": 106
+        },
+        {
+            "source": 97,
+            "target": 157
+        },
+        {
+            "source": 98,
+            "target": 66
+        },
+        {
+            "source": 99,
+            "target": 174
+        },
+        {
+            "source": 100,
+            "target": 170
+        },
+        {
+            "source": 101,
+            "target": 171
+        },
+        {
+            "source": 102,
+            "target": 154
+        },
+        {
+            "source": 102,
+            "target": 169
+        },
+        {
+            "source": 102,
+            "target": 149
+        },
+        {
+            "source": 102,
+            "target": 132
+        },
+        {
+            "source": 103,
+            "target": 188
+        },
+        {
+            "source": 104,
+            "target": 191
+        },
+        {
+            "source": 104,
+            "target": 65
+        },
+        {
+            "source": 104,
+            "target": 16
+        },
+        {
+            "source": 104,
+            "target": 41
+        },
+        {
+            "source": 104,
+            "target": 141
+        },
+        {
+            "source": 104,
+            "target": 169
+        },
+        {
+            "source": 104,
+            "target": 62
+        },
+        {
+            "source": 104,
+            "target": 30
+        },
+        {
+            "source": 104,
+            "target": 149
+        },
+        {
+            "source": 104,
+            "target": 188
+        },
+        {
+            "source": 104,
+            "target": 156
+        },
+        {
+            "source": 104,
+            "target": 163
+        },
+        {
+            "source": 104,
+            "target": 212
+        },
+        {
+            "source": 106,
+            "target": 127
+        },
+        {
+            "source": 107,
+            "target": 116
+        },
+        {
+            "source": 108,
+            "target": 169
+        },
+        {
+            "source": 108,
+            "target": 204
+        },
+        {
+            "source": 108,
+            "target": 149
+        },
+        {
+            "source": 108,
+            "target": 141
+        },
+        {
+            "source": 108,
+            "target": 19
+        },
+        {
+            "source": 108,
+            "target": 71
+        },
+        {
+            "source": 108,
+            "target": 47
+        },
+        {
+            "source": 108,
+            "target": 4
+        },
+        {
+            "source": 108,
+            "target": 56
+        },
+        {
+            "source": 109,
+            "target": 180
+        },
+        {
+            "source": 111,
+            "target": 191
+        },
+        {
+            "source": 111,
+            "target": 41
+        },
+        {
+            "source": 111,
+            "target": 123
+        },
+        {
+            "source": 112,
+            "target": 70
+        },
+        {
+            "source": 113,
+            "target": 111
+        },
+        {
+            "source": 114,
+            "target": 81
+        },
+        {
+            "source": 115,
+            "target": 157
+        },
+        {
+            "source": 117,
+            "target": 169
+        },
+        {
+            "source": 117,
+            "target": 156
+        },
+        {
+            "source": 117,
+            "target": 41
+        },
+        {
+            "source": 117,
+            "target": 118
+        },
+        {
+            "source": 117,
+            "target": 179
+        },
+        {
+            "source": 117,
+            "target": 26
+        },
+        {
+            "source": 117,
+            "target": 100
+        },
+        {
+            "source": 118,
+            "target": 19
+        },
+        {
+            "source": 118,
+            "target": 106
+        },
+        {
+            "source": 118,
+            "target": 100
+        },
+        {
+            "source": 118,
+            "target": 144
+        },
+        {
+            "source": 119,
+            "target": 80
+        },
+        {
+            "source": 120,
+            "target": 108
+        },
+        {
+            "source": 121,
+            "target": 54
+        },
+        {
+            "source": 123,
+            "target": 173
+        },
+        {
+            "source": 125,
+            "target": 151
+        },
+        {
+            "source": 125,
+            "target": 153
+        },
+        {
+            "source": 125,
+            "target": 16
+        },
+        {
+            "source": 125,
+            "target": 82
+        },
+        {
+            "source": 125,
+            "target": 156
+        },
+        {
+            "source": 125,
+            "target": 71
+        },
+        {
+            "source": 125,
+            "target": 108
+        },
+        {
+            "source": 125,
+            "target": 114
+        },
+        {
+            "source": 125,
+            "target": 13
+        },
+        {
+            "source": 125,
+            "target": 157
+        },
+        {
+            "source": 125,
+            "target": 149
+        },
+        {
+            "source": 126,
+            "target": 20
+        },
+        {
+            "source": 127,
+            "target": 62
+        },
+        {
+            "source": 127,
+            "target": 77
+        },
+        {
+            "source": 127,
+            "target": 149
+        },
+        {
+            "source": 127,
+            "target": 41
+        },
+        {
+            "source": 127,
+            "target": 141
+        },
+        {
+            "source": 127,
+            "target": 142
+        },
+        {
+            "source": 127,
+            "target": 65
+        },
+        {
+            "source": 127,
+            "target": 73
+        },
+        {
+            "source": 128,
+            "target": 106
+        },
+        {
+            "source": 129,
+            "target": 191
+        },
+        {
+            "source": 129,
+            "target": 185
+        },
+        {
+            "source": 129,
+            "target": 11
+        },
+        {
+            "source": 129,
+            "target": 106
+        },
+        {
+            "source": 129,
+            "target": 27
+        },
+        {
+            "source": 129,
+            "target": 96
+        },
+        {
+            "source": 129,
+            "target": 154
+        },
+        {
+            "source": 129,
+            "target": 26
+        },
+        {
+            "source": 129,
+            "target": 197
+        },
+        {
+            "source": 129,
+            "target": 149
+        },
+        {
+            "source": 129,
+            "target": 200
+        },
+        {
+            "source": 129,
+            "target": 65
+        },
+        {
+            "source": 129,
+            "target": 74
+        },
+        {
+            "source": 129,
+            "target": 157
+        },
+        {
+            "source": 129,
+            "target": 128
+        },
+        {
+            "source": 129,
+            "target": 59
+        },
+        {
+            "source": 129,
+            "target": 143
+        },
+        {
+            "source": 129,
+            "target": 41
+        },
+        {
+            "source": 129,
+            "target": 42
+        },
+        {
+            "source": 129,
+            "target": 118
+        },
+        {
+            "source": 129,
+            "target": 156
+        },
+        {
+            "source": 129,
+            "target": 114
+        },
+        {
+            "source": 129,
+            "target": 73
+        },
+        {
+            "source": 129,
+            "target": 108
+        },
+        {
+            "source": 129,
+            "target": 212
+        },
+        {
+            "source": 129,
+            "target": 92
+        },
+        {
+            "source": 129,
+            "target": 141
+        },
+        {
+            "source": 129,
+            "target": 79
+        },
+        {
+            "source": 129,
+            "target": 192
+        },
+        {
+            "source": 129,
+            "target": 169
+        },
+        {
+            "source": 129,
+            "target": 51
+        },
+        {
+            "source": 129,
+            "target": 137
+        },
+        {
+            "source": 129,
+            "target": 80
+        },
+        {
+            "source": 129,
+            "target": 163
+        },
+        {
+            "source": 129,
+            "target": 142
+        },
+        {
+            "source": 129,
+            "target": 47
+        },
+        {
+            "source": 130,
+            "target": 167
+        },
+        {
+            "source": 130,
+            "target": 155
+        },
+        {
+            "source": 130,
+            "target": 28
+        },
+        {
+            "source": 130,
+            "target": 100
+        },
+        {
+            "source": 130,
+            "target": 88
+        },
+        {
+            "source": 130,
+            "target": 198
+        },
+        {
+            "source": 131,
+            "target": 94
+        },
+        {
+            "source": 132,
+            "target": 154
+        },
+        {
+            "source": 132,
+            "target": 15
+        },
+        {
+            "source": 132,
+            "target": 69
+        },
+        {
+            "source": 132,
+            "target": 176
+        },
+        {
+            "source": 132,
+            "target": 149
+        },
+        {
+            "source": 132,
+            "target": 41
+        },
+        {
+            "source": 132,
+            "target": 34
+        },
+        {
+            "source": 132,
+            "target": 27
+        },
+        {
+            "source": 132,
+            "target": 153
+        },
+        {
+            "source": 132,
+            "target": 60
+        },
+        {
+            "source": 133,
+            "target": 13
+        },
+        {
+            "source": 134,
+            "target": 83
+        },
+        {
+            "source": 134,
+            "target": 31
+        },
+        {
+            "source": 134,
+            "target": 127
+        },
+        {
+            "source": 134,
+            "target": 41
+        },
+        {
+            "source": 134,
+            "target": 26
+        },
+        {
+            "source": 134,
+            "target": 76
+        },
+        {
+            "source": 134,
+            "target": 169
+        },
+        {
+            "source": 134,
+            "target": 25
+        },
+        {
+            "source": 134,
+            "target": 81
+        },
+        {
+            "source": 134,
+            "target": 4
+        },
+        {
+            "source": 134,
+            "target": 45
+        },
+        {
+            "source": 134,
+            "target": 171
+        },
+        {
+            "source": 134,
+            "target": 135
+        },
+        {
+            "source": 134,
+            "target": 77
+        },
+        {
+            "source": 134,
+            "target": 174
+        },
+        {
+            "source": 134,
+            "target": 209
+        },
+        {
+            "source": 134,
+            "target": 94
+        },
+        {
+            "source": 134,
+            "target": 17
+        },
+        {
+            "source": 134,
+            "target": 74
+        },
+        {
+            "source": 134,
+            "target": 157
+        },
+        {
+            "source": 136,
+            "target": 11
+        },
+        {
+            "source": 137,
+            "target": 188
+        },
+        {
+            "source": 138,
+            "target": 76
+        },
+        {
+            "source": 138,
+            "target": 178
+        },
+        {
+            "source": 138,
+            "target": 26
+        },
+        {
+            "source": 139,
+            "target": 183
+        },
+        {
+            "source": 140,
+            "target": 62
+        },
+        {
+            "source": 140,
+            "target": 121
+        },
+        {
+            "source": 140,
+            "target": 156
+        },
+        {
+            "source": 140,
+            "target": 125
+        },
+        {
+            "source": 140,
+            "target": 26
+        },
+        {
+            "source": 140,
+            "target": 106
+        },
+        {
+            "source": 140,
+            "target": 20
+        },
+        {
+            "source": 140,
+            "target": 157
+        },
+        {
+            "source": 141,
+            "target": 76
+        },
+        {
+            "source": 142,
+            "target": 191
+        },
+        {
+            "source": 143,
+            "target": 27
+        },
+        {
+            "source": 144,
+            "target": 97
+        },
+        {
+            "source": 145,
+            "target": 94
+        },
+        {
+            "source": 146,
+            "target": 209
+        },
+        {
+            "source": 146,
+            "target": 26
+        },
+        {
+            "source": 147,
+            "target": 127
+        },
+        {
+            "source": 147,
+            "target": 41
+        },
+        {
+            "source": 148,
+            "target": 56
+        },
+        {
+            "source": 148,
+            "target": 73
+        },
+        {
+            "source": 148,
+            "target": 4
+        },
+        {
+            "source": 148,
+            "target": 42
+        },
+        {
+            "source": 148,
+            "target": 26
+        },
+        {
+            "source": 148,
+            "target": 122
+        },
+        {
+            "source": 148,
+            "target": 209
+        },
+        {
+            "source": 148,
+            "target": 143
+        },
+        {
+            "source": 148,
+            "target": 86
+        },
+        {
+            "source": 148,
+            "target": 45
+        },
+        {
+            "source": 148,
+            "target": 197
+        },
+        {
+            "source": 148,
+            "target": 6
+        },
+        {
+            "source": 148,
+            "target": 205
+        },
+        {
+            "source": 148,
+            "target": 134
+        },
+        {
+            "source": 148,
+            "target": 78
+        },
+        {
+            "source": 148,
+            "target": 163
+        },
+        {
+            "source": 148,
+            "target": 212
+        },
+        {
+            "source": 148,
+            "target": 47
+        },
+        {
+            "source": 149,
+            "target": 143
+        },
+        {
+            "source": 149,
+            "target": 151
+        },
+        {
+            "source": 149,
+            "target": 41
+        },
+        {
+            "source": 149,
+            "target": 26
+        },
+        {
+            "source": 149,
+            "target": 3
+        },
+        {
+            "source": 149,
+            "target": 209
+        },
+        {
+            "source": 149,
+            "target": 142
+        },
+        {
+            "source": 149,
+            "target": 62
+        },
+        {
+            "source": 149,
+            "target": 176
+        },
+        {
+            "source": 149,
+            "target": 200
+        },
+        {
+            "source": 149,
+            "target": 156
+        },
+        {
+            "source": 149,
+            "target": 80
+        },
+        {
+            "source": 149,
+            "target": 157
+        },
+        {
+            "source": 150,
+            "target": 75
+        },
+        {
+            "source": 152,
+            "target": 174
+        },
+        {
+            "source": 153,
+            "target": 149
+        },
+        {
+            "source": 154,
+            "target": 47
+        },
+        {
+            "source": 155,
+            "target": 117
+        },
+        {
+            "source": 156,
+            "target": 179
+        },
+        {
+            "source": 157,
+            "target": 154
+        },
+        {
+            "source": 157,
+            "target": 121
+        },
+        {
+            "source": 157,
+            "target": 143
+        },
+        {
+            "source": 157,
+            "target": 26
+        },
+        {
+            "source": 157,
+            "target": 3
+        },
+        {
+            "source": 157,
+            "target": 209
+        },
+        {
+            "source": 157,
+            "target": 136
+        },
+        {
+            "source": 157,
+            "target": 89
+        },
+        {
+            "source": 157,
+            "target": 62
+        },
+        {
+            "source": 157,
+            "target": 156
+        },
+        {
+            "source": 157,
+            "target": 200
+        },
+        {
+            "source": 157,
+            "target": 80
+        },
+        {
+            "source": 157,
+            "target": 65
+        },
+        {
+            "source": 157,
+            "target": 153
+        },
+        {
+            "source": 158,
+            "target": 149
+        },
+        {
+            "source": 159,
+            "target": 118
+        },
+        {
+            "source": 160,
+            "target": 62
+        },
+        {
+            "source": 160,
+            "target": 89
+        },
+        {
+            "source": 161,
+            "target": 26
+        },
+        {
+            "source": 162,
+            "target": 196
+        },
+        {
+            "source": 163,
+            "target": 169
+        },
+        {
+            "source": 163,
+            "target": 17
+        },
+        {
+            "source": 164,
+            "target": 78
+        },
+        {
+            "source": 166,
+            "target": 187
+        },
+        {
+            "source": 168,
+            "target": 188
+        },
+        {
+            "source": 169,
+            "target": 148
+        },
+        {
+            "source": 170,
+            "target": 62
+        },
+        {
+            "source": 170,
+            "target": 15
+        },
+        {
+            "source": 170,
+            "target": 108
+        },
+        {
+            "source": 170,
+            "target": 143
+        },
+        {
+            "source": 170,
+            "target": 16
+        },
+        {
+            "source": 170,
+            "target": 41
+        },
+        {
+            "source": 170,
+            "target": 26
+        },
+        {
+            "source": 170,
+            "target": 200
+        },
+        {
+            "source": 170,
+            "target": 88
+        },
+        {
+            "source": 170,
+            "target": 157
+        },
+        {
+            "source": 170,
+            "target": 153
+        },
+        {
+            "source": 171,
+            "target": 62
+        },
+        {
+            "source": 171,
+            "target": 128
+        },
+        {
+            "source": 171,
+            "target": 143
+        },
+        {
+            "source": 171,
+            "target": 149
+        },
+        {
+            "source": 171,
+            "target": 41
+        },
+        {
+            "source": 171,
+            "target": 118
+        },
+        {
+            "source": 171,
+            "target": 200
+        },
+        {
+            "source": 172,
+            "target": 62
+        },
+        {
+            "source": 173,
+            "target": 169
+        },
+        {
+            "source": 173,
+            "target": 41
+        },
+        {
+            "source": 173,
+            "target": 44
+        },
+        {
+            "source": 173,
+            "target": 106
+        },
+        {
+            "source": 173,
+            "target": 95
+        },
+        {
+            "source": 173,
+            "target": 80
+        },
+        {
+            "source": 173,
+            "target": 157
+        },
+        {
+            "source": 174,
+            "target": 94
+        },
+        {
+            "source": 174,
+            "target": 192
+        },
+        {
+            "source": 174,
+            "target": 41
+        },
+        {
+            "source": 174,
+            "target": 26
+        },
+        {
+            "source": 174,
+            "target": 3
+        },
+        {
+            "source": 174,
+            "target": 135
+        },
+        {
+            "source": 174,
+            "target": 156
+        },
+        {
+            "source": 175,
+            "target": 128
+        },
+        {
+            "source": 175,
+            "target": 185
+        },
+        {
+            "source": 175,
+            "target": 156
+        },
+        {
+            "source": 175,
+            "target": 80
+        },
+        {
+            "source": 175,
+            "target": 157
+        },
+        {
+            "source": 175,
+            "target": 47
+        },
+        {
+            "source": 176,
+            "target": 102
+        },
+        {
+            "source": 177,
+            "target": 207
+        },
+        {
+            "source": 178,
+            "target": 169
+        },
+        {
+            "source": 179,
+            "target": 157
+        },
+        {
+            "source": 180,
+            "target": 209
+        },
+        {
+            "source": 180,
+            "target": 183
+        },
+        {
+            "source": 180,
+            "target": 26
+        },
+        {
+            "source": 180,
+            "target": 193
+        },
+        {
+            "source": 180,
+            "target": 135
+        },
+        {
+            "source": 180,
+            "target": 142
+        },
+        {
+            "source": 180,
+            "target": 89
+        },
+        {
+            "source": 180,
+            "target": 154
+        },
+        {
+            "source": 180,
+            "target": 174
+        },
+        {
+            "source": 180,
+            "target": 197
+        },
+        {
+            "source": 180,
+            "target": 176
+        },
+        {
+            "source": 180,
+            "target": 149
+        },
+        {
+            "source": 180,
+            "target": 8
+        },
+        {
+            "source": 180,
+            "target": 94
+        },
+        {
+            "source": 180,
+            "target": 95
+        },
+        {
+            "source": 180,
+            "target": 96
+        },
+        {
+            "source": 180,
+            "target": 36
+        },
+        {
+            "source": 180,
+            "target": 97
+        },
+        {
+            "source": 180,
+            "target": 153
+        },
+        {
+            "source": 180,
+            "target": 128
+        },
+        {
+            "source": 180,
+            "target": 178
+        },
+        {
+            "source": 180,
+            "target": 151
+        },
+        {
+            "source": 180,
+            "target": 202
+        },
+        {
+            "source": 180,
+            "target": 41
+        },
+        {
+            "source": 180,
+            "target": 118
+        },
+        {
+            "source": 180,
+            "target": 179
+        },
+        {
+            "source": 180,
+            "target": 43
+        },
+        {
+            "source": 180,
+            "target": 107
+        },
+        {
+            "source": 180,
+            "target": 182
+        },
+        {
+            "source": 180,
+            "target": 77
+        },
+        {
+            "source": 180,
+            "target": 49
+        },
+        {
+            "source": 180,
+            "target": 88
+        },
+        {
+            "source": 180,
+            "target": 51
+        },
+        {
+            "source": 180,
+            "target": 156
+        },
+        {
+            "source": 180,
+            "target": 80
+        },
+        {
+            "source": 180,
+            "target": 163
+        },
+        {
+            "source": 180,
+            "target": 212
+        },
+        {
+            "source": 180,
+            "target": 56
+        },
+        {
+            "source": 181,
+            "target": 116
+        },
+        {
+            "source": 182,
+            "target": 78
+        },
+        {
+            "source": 184,
+            "target": 175
+        },
+        {
+            "source": 185,
+            "target": 156
+        },
+        {
+            "source": 185,
+            "target": 169
+        },
+        {
+            "source": 185,
+            "target": 80
+        },
+        {
+            "source": 185,
+            "target": 188
+        },
+        {
+            "source": 185,
+            "target": 157
+        },
+        {
+            "source": 185,
+            "target": 47
+        },
+        {
+            "source": 186,
+            "target": 62
+        },
+        {
+            "source": 186,
+            "target": 128
+        },
+        {
+            "source": 186,
+            "target": 165
+        },
+        {
+            "source": 186,
+            "target": 42
+        },
+        {
+            "source": 186,
+            "target": 78
+        },
+        {
+            "source": 186,
+            "target": 106
+        },
+        {
+            "source": 186,
+            "target": 169
+        },
+        {
+            "source": 186,
+            "target": 82
+        },
+        {
+            "source": 186,
+            "target": 96
+        },
+        {
+            "source": 187,
+            "target": 106
+        },
+        {
+            "source": 187,
+            "target": 80
+        },
+        {
+            "source": 187,
+            "target": 157
+        },
+        {
+            "source": 188,
+            "target": 154
+        },
+        {
+            "source": 188,
+            "target": 121
+        },
+        {
+            "source": 188,
+            "target": 185
+        },
+        {
+            "source": 189,
+            "target": 100
+        },
+        {
+            "source": 190,
+            "target": 62
+        },
+        {
+            "source": 191,
+            "target": 171
+        },
+        {
+            "source": 193,
+            "target": 124
+        },
+        {
+            "source": 194,
+            "target": 132
+        },
+        {
+            "source": 195,
+            "target": 57
+        },
+        {
+            "source": 195,
+            "target": 41
+        },
+        {
+            "source": 195,
+            "target": 26
+        },
+        {
+            "source": 195,
+            "target": 3
+        },
+        {
+            "source": 195,
+            "target": 17
+        },
+        {
+            "source": 195,
+            "target": 25
+        },
+        {
+            "source": 195,
+            "target": 118
+        },
+        {
+            "source": 195,
+            "target": 4
+        },
+        {
+            "source": 195,
+            "target": 171
+        },
+        {
+            "source": 195,
+            "target": 144
+        },
+        {
+            "source": 195,
+            "target": 35
+        },
+        {
+            "source": 195,
+            "target": 205
+        },
+        {
+            "source": 195,
+            "target": 157
+        },
+        {
+            "source": 195,
+            "target": 125
+        },
+        {
+            "source": 195,
+            "target": 188
+        },
+        {
+            "source": 195,
+            "target": 156
+        },
+        {
+            "source": 195,
+            "target": 80
+        },
+        {
+            "source": 195,
+            "target": 33
+        },
+        {
+            "source": 196,
+            "target": 77
+        },
+        {
+            "source": 196,
+            "target": 176
+        },
+        {
+            "source": 196,
+            "target": 185
+        },
+        {
+            "source": 196,
+            "target": 149
+        },
+        {
+            "source": 196,
+            "target": 11
+        },
+        {
+            "source": 196,
+            "target": 148
+        },
+        {
+            "source": 196,
+            "target": 209
+        },
+        {
+            "source": 196,
+            "target": 80
+        },
+        {
+            "source": 196,
+            "target": 114
+        },
+        {
+            "source": 196,
+            "target": 157
+        },
+        {
+            "source": 196,
+            "target": 156
+        },
+        {
+            "source": 197,
+            "target": 128
+        },
+        {
+            "source": 197,
+            "target": 3
+        },
+        {
+            "source": 197,
+            "target": 143
+        },
+        {
+            "source": 197,
+            "target": 115
+        },
+        {
+            "source": 197,
+            "target": 51
+        },
+        {
+            "source": 197,
+            "target": 200
+        },
+        {
+            "source": 197,
+            "target": 142
+        },
+        {
+            "source": 197,
+            "target": 73
+        },
+        {
+            "source": 199,
+            "target": 64
+        },
+        {
+            "source": 201,
+            "target": 31
+        },
+        {
+            "source": 202,
+            "target": 176
+        },
+        {
+            "source": 203,
+            "target": 112
+        },
+        {
+            "source": 204,
+            "target": 201
+        },
+        {
+            "source": 204,
+            "target": 172
+        },
+        {
+            "source": 204,
+            "target": 121
+        },
+        {
+            "source": 204,
+            "target": 5
+        },
+        {
+            "source": 204,
+            "target": 52
+        },
+        {
+            "source": 204,
+            "target": 193
+        },
+        {
+            "source": 204,
+            "target": 169
+        },
+        {
+            "source": 204,
+            "target": 183
+        },
+        {
+            "source": 204,
+            "target": 136
+        },
+        {
+            "source": 204,
+            "target": 205
+        },
+        {
+            "source": 204,
+            "target": 89
+        },
+        {
+            "source": 204,
+            "target": 154
+        },
+        {
+            "source": 204,
+            "target": 161
+        },
+        {
+            "source": 204,
+            "target": 143
+        },
+        {
+            "source": 204,
+            "target": 164
+        },
+        {
+            "source": 204,
+            "target": 149
+        },
+        {
+            "source": 204,
+            "target": 156
+        },
+        {
+            "source": 204,
+            "target": 151
+        },
+        {
+            "source": 204,
+            "target": 95
+        },
+        {
+            "source": 204,
+            "target": 6
+        },
+        {
+            "source": 204,
+            "target": 97
+        },
+        {
+            "source": 204,
+            "target": 157
+        },
+        {
+            "source": 204,
+            "target": 128
+        },
+        {
+            "source": 204,
+            "target": 65
+        },
+        {
+            "source": 204,
+            "target": 16
+        },
+        {
+            "source": 204,
+            "target": 41
+        },
+        {
+            "source": 204,
+            "target": 30
+        },
+        {
+            "source": 204,
+            "target": 207
+        },
+        {
+            "source": 204,
+            "target": 73
+        },
+        {
+            "source": 204,
+            "target": 45
+        },
+        {
+            "source": 204,
+            "target": 133
+        },
+        {
+            "source": 204,
+            "target": 82
+        },
+        {
+            "source": 204,
+            "target": 92
+        },
+        {
+            "source": 204,
+            "target": 51
+        },
+        {
+            "source": 204,
+            "target": 200
+        },
+        {
+            "source": 204,
+            "target": 80
+        },
+        {
+            "source": 204,
+            "target": 190
+        },
+        {
+            "source": 204,
+            "target": 96
+        },
+        {
+            "source": 205,
+            "target": 163
+        },
+        {
+            "source": 206,
+            "target": 82
+        },
+        {
+            "source": 208,
+            "target": 77
+        },
+        {
+            "source": 208,
+            "target": 94
+        },
+        {
+            "source": 208,
+            "target": 157
+        },
+        {
+            "source": 208,
+            "target": 3
+        },
+        {
+            "source": 208,
+            "target": 151
+        },
+        {
+            "source": 208,
+            "target": 82
+        },
+        {
+            "source": 208,
+            "target": 149
+        },
+        {
+            "source": 210,
+            "target": 148
+        },
+        {
+            "source": 210,
+            "target": 76
+        },
+        {
+            "source": 210,
+            "target": 66
+        },
+        {
+            "source": 211,
+            "target": 62
+        },
+        {
+            "source": 212,
+            "target": 154
+        },
+        {
+            "source": 212,
+            "target": 59
+        },
+        {
+            "source": 212,
+            "target": 31
+        },
+        {
+            "source": 212,
+            "target": 176
+        },
+        {
+            "source": 212,
+            "target": 41
+        },
+        {
+            "source": 212,
+            "target": 191
+        },
+        {
+            "source": 212,
+            "target": 3
+        },
+        {
+            "source": 212,
+            "target": 106
+        },
+        {
+            "source": 212,
+            "target": 62
+        },
+        {
+            "source": 212,
+            "target": 153
+        },
+        {
+            "source": 212,
+            "target": 128
+        }
+    ],
+    "graph": {},
+    "basic": {
+        "numEdges": 663,
+        "averagePathLength": 4.006022408963585,
+        "averageOutDegree": 3.112676056338028,
+        "numNodes": 213,
+        "selfLinks": 1,
+        "averageInDegree": 3.112676056338028
+    }
+}

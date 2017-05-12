@@ -1,0 +1,4327 @@
+{
+    "edges": [
+        {
+            "source": "Heimerdinger",
+            "target": "Champion"
+        },
+        {
+            "source": "Heimerdinger",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Sorcerer's Shoes",
+            "target": "Amplifying Tome"
+        },
+        {
+            "source": "Sorcerer's Shoes",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Sorcerer's Shoes",
+            "target": "Boots of Speed"
+        },
+        {
+            "source": "Mercury's Treads",
+            "target": "Boots of Speed"
+        },
+        {
+            "source": "Mercury's Treads",
+            "target": "Null-Magic Mantle"
+        },
+        {
+            "source": "Buffs",
+            "target": "Buff"
+        },
+        {
+            "source": "Rammus",
+            "target": "Official Web Page"
+        },
+        {
+            "source": "Rammus",
+            "target": "Champion"
+        },
+        {
+            "source": "Rammus",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Rammus",
+            "target": "Beta Test"
+        },
+        {
+            "source": "Steve 'Guinsoo' Feak",
+            "target": "Riot"
+        },
+        {
+            "source": "Twisted Fate",
+            "target": "Champions"
+        },
+        {
+            "source": "Twisted Fate",
+            "target": "Champion"
+        },
+        {
+            "source": "Twisted Fate",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Marks",
+            "target": "Mark"
+        },
+        {
+            "source": "Pickaxe",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Pickaxe",
+            "target": "Beta Test"
+        },
+        {
+            "source": "Sapphire Crystal",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Sapphire Crystal",
+            "target": "Beta Test"
+        },
+        {
+            "source": "V0.9.22.16",
+            "target": "Atma's Impaler"
+        },
+        {
+            "source": "V0.9.22.16",
+            "target": "Veigar"
+        },
+        {
+            "source": "V0.9.22.16",
+            "target": "Teemo"
+        },
+        {
+            "source": "V0.9.22.16",
+            "target": "Cho'Gath"
+        },
+        {
+            "source": "V0.9.22.16",
+            "target": "Mercury's Treads"
+        },
+        {
+            "source": "V0.9.22.16",
+            "target": "Kassadin"
+        },
+        {
+            "source": "V0.9.22.16",
+            "target": "Aegis of the Legion"
+        },
+        {
+            "source": "V0.9.22.16",
+            "target": "Infinity Edge"
+        },
+        {
+            "source": "V0.9.22.16",
+            "target": "Runes"
+        },
+        {
+            "source": "V0.9.22.16",
+            "target": "Twitch"
+        },
+        {
+            "source": "V0.9.22.16",
+            "target": "Soraka"
+        },
+        {
+            "source": "V0.9.22.16",
+            "target": "Morgana"
+        },
+        {
+            "source": "V0.9.22.16",
+            "target": "Tear of the Goddess"
+        },
+        {
+            "source": "V0.9.22.16",
+            "target": "Amumu"
+        },
+        {
+            "source": "V0.9.22.16",
+            "target": "Tryndamere"
+        },
+        {
+            "source": "V0.9.22.16",
+            "target": "Ruby Crystal"
+        },
+        {
+            "source": "V0.9.22.16",
+            "target": "Sivir"
+        },
+        {
+            "source": "V0.9.22.16",
+            "target": "Evelynn"
+        },
+        {
+            "source": "V0.9.22.16",
+            "target": "Giant's Belt"
+        },
+        {
+            "source": "V0.9.22.16",
+            "target": "Turret"
+        },
+        {
+            "source": "V0.9.22.16",
+            "target": "Jax"
+        },
+        {
+            "source": "V0.9.22.16",
+            "target": "Tristana"
+        },
+        {
+            "source": "V0.9.22.16",
+            "target": "Champions"
+        },
+        {
+            "source": "V0.9.22.16",
+            "target": "Vampiric Scepter"
+        },
+        {
+            "source": "V0.9.22.16",
+            "target": "Nashor"
+        },
+        {
+            "source": "V0.9.22.16",
+            "target": "Phage"
+        },
+        {
+            "source": "Proving Grounds",
+            "target": "Field of Justice"
+        },
+        {
+            "source": "Proving Grounds",
+            "target": "Ashe"
+        },
+        {
+            "source": "Baron Nashor",
+            "target": "Field of Justice"
+        },
+        {
+            "source": "Baron Nashor",
+            "target": "Summoner's Rift"
+        },
+        {
+            "source": "Baron Nashor",
+            "target": "Creep"
+        },
+        {
+            "source": "Baron Nashor",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Ancient Golem",
+            "target": "Summoner's Rift"
+        },
+        {
+            "source": "Kassadin",
+            "target": "Champion"
+        },
+        {
+            "source": "Kassadin",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Warwick",
+            "target": "Champion"
+        },
+        {
+            "source": "Warwick",
+            "target": "Soraka"
+        },
+        {
+            "source": "Warwick",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Champion skin",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Champion skin",
+            "target": "Collector's Edition"
+        },
+        {
+            "source": "Malphite",
+            "target": "Champion"
+        },
+        {
+            "source": "Malphite",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Blasting Wand",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Blasting Wand",
+            "target": "Beta Test"
+        },
+        {
+            "source": "Sheen",
+            "target": "Amplifying Tome"
+        },
+        {
+            "source": "Sheen",
+            "target": "Sapphire Crystal"
+        },
+        {
+            "source": "Evelynn",
+            "target": "Champion"
+        },
+        {
+            "source": "Evelynn",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Nunu",
+            "target": "Champion"
+        },
+        {
+            "source": "Nunu",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Banshee's Veil",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Banshee's Veil",
+            "target": "Beta Test"
+        },
+        {
+            "source": "Ryze",
+            "target": "Champion"
+        },
+        {
+            "source": "Ryze",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Phage",
+            "target": "Ruby Crystal"
+        },
+        {
+            "source": "Phage",
+            "target": "Long Sword"
+        },
+        {
+            "source": "Doran's Shield",
+            "target": "Doran's Ring"
+        },
+        {
+            "source": "Doran's Shield",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Doran's Shield",
+            "target": "Beta Test"
+        },
+        {
+            "source": "Doran's Shield",
+            "target": "Doran's Blade"
+        },
+        {
+            "source": "Buff",
+            "target": "HP"
+        },
+        {
+            "source": "Summoner spell",
+            "target": "Masteries"
+        },
+        {
+            "source": "Summoner spell",
+            "target": "Runes"
+        },
+        {
+            "source": "Katarina",
+            "target": "Official Web Page"
+        },
+        {
+            "source": "Katarina",
+            "target": "Champion"
+        },
+        {
+            "source": "Katarina",
+            "target": "League of Legends"
+        },
+        {
+            "source": "HP",
+            "target": "Health"
+        },
+        {
+            "source": "Masteries",
+            "target": "Mastery"
+        },
+        {
+            "source": "Riot Points",
+            "target": "Champions"
+        },
+        {
+            "source": "Riot Points",
+            "target": "Influence Points"
+        },
+        {
+            "source": "Catalyst of Aeons",
+            "target": "Ruby Crystal"
+        },
+        {
+            "source": "Catalyst of Aeons",
+            "target": "Sapphire Crystal"
+        },
+        {
+            "source": "Young Lizard",
+            "target": "Minion"
+        },
+        {
+            "source": "Doran's Ring",
+            "target": "Doran's Shield"
+        },
+        {
+            "source": "Doran's Ring",
+            "target": "Doran's Blade"
+        },
+        {
+            "source": "Doran's Ring",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Doran's Ring",
+            "target": "Beta Test"
+        },
+        {
+            "source": "Flask of Crystal Water",
+            "target": "Mana Potion"
+        },
+        {
+            "source": "Kayle",
+            "target": "Champion"
+        },
+        {
+            "source": "Kayle",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Rod of Ages",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Rod of Ages",
+            "target": "Blasting Wand"
+        },
+        {
+            "source": "Rod of Ages",
+            "target": "Beta Test"
+        },
+        {
+            "source": "Nomad's Medallion",
+            "target": "Meki Pendant"
+        },
+        {
+            "source": "Nomad's Medallion",
+            "target": "Regrowth Pendant"
+        },
+        {
+            "source": "Archangel's Staff",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Archangel's Staff",
+            "target": "Beta Test"
+        },
+        {
+            "source": "Mastery",
+            "target": "Summoner"
+        },
+        {
+            "source": "Mastery",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Mastery",
+            "target": "Runes"
+        },
+        {
+            "source": "Nasus",
+            "target": "Champion"
+        },
+        {
+            "source": "Nasus",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Ashe",
+            "target": "Champion"
+        },
+        {
+            "source": "Ashe",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Rune",
+            "target": "Masteries"
+        },
+        {
+            "source": "Rune",
+            "target": "Summoner"
+        },
+        {
+            "source": "Rune",
+            "target": "Quintessence"
+        },
+        {
+            "source": "Rune",
+            "target": "Fields of Justice"
+        },
+        {
+            "source": "Rune",
+            "target": "Champions"
+        },
+        {
+            "source": "Rune",
+            "target": "Seal"
+        },
+        {
+            "source": "Rune",
+            "target": "Mark"
+        },
+        {
+            "source": "Rune",
+            "target": "Glyph"
+        },
+        {
+            "source": "Summoner's Rift",
+            "target": "Field of Justice"
+        },
+        {
+            "source": "Summoner's Rift",
+            "target": "Dragon"
+        },
+        {
+            "source": "Summoner's Rift",
+            "target": "Wraith"
+        },
+        {
+            "source": "Summoner's Rift",
+            "target": "Lanes"
+        },
+        {
+            "source": "Summoner's Rift",
+            "target": "Baron Nashor"
+        },
+        {
+            "source": "Stinger",
+            "target": "Faerie Charm"
+        },
+        {
+            "source": "Stinger",
+            "target": "Dagger"
+        },
+        {
+            "source": "Mejai's Soulstealer",
+            "target": "Amplifying Tome"
+        },
+        {
+            "source": "Mejai's Soulstealer",
+            "target": "Blasting Wand"
+        },
+        {
+            "source": "Mejai's Soulstealer",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Glacial Shroud",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Gold",
+            "target": "Champion"
+        },
+        {
+            "source": "Gold",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Urf",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Urf",
+            "target": "Jax"
+        },
+        {
+            "source": "Urf",
+            "target": "Beta Test"
+        },
+        {
+            "source": "V0.9.25.21",
+            "target": "Teemo"
+        },
+        {
+            "source": "V0.9.25.21",
+            "target": "Kayle"
+        },
+        {
+            "source": "V0.9.25.21",
+            "target": "Frozen Mallet"
+        },
+        {
+            "source": "V0.9.25.21",
+            "target": "Dr. Mundo"
+        },
+        {
+            "source": "V0.9.25.21",
+            "target": "Aegis of the Legion"
+        },
+        {
+            "source": "V0.9.25.21",
+            "target": "Vision Ward"
+        },
+        {
+            "source": "V0.9.25.21",
+            "target": "Warwick"
+        },
+        {
+            "source": "V0.9.25.21",
+            "target": "Runes"
+        },
+        {
+            "source": "V0.9.25.21",
+            "target": "Seal"
+        },
+        {
+            "source": "V0.9.25.21",
+            "target": "Soraka"
+        },
+        {
+            "source": "V0.9.25.21",
+            "target": "Morgana"
+        },
+        {
+            "source": "V0.9.25.21",
+            "target": "Quintessence"
+        },
+        {
+            "source": "V0.9.25.21",
+            "target": "Malphite"
+        },
+        {
+            "source": "V0.9.25.21",
+            "target": "Amumu"
+        },
+        {
+            "source": "V0.9.25.21",
+            "target": "Tryndamere"
+        },
+        {
+            "source": "V0.9.25.21",
+            "target": "Tear of the Goddess"
+        },
+        {
+            "source": "V0.9.25.21",
+            "target": "Elixir of Brilliance"
+        },
+        {
+            "source": "V0.9.25.21",
+            "target": "Ryze"
+        },
+        {
+            "source": "V0.9.25.21",
+            "target": "Veigar"
+        },
+        {
+            "source": "V0.9.25.21",
+            "target": "Tristana"
+        },
+        {
+            "source": "V0.9.25.21",
+            "target": "Mark"
+        },
+        {
+            "source": "V0.9.25.21",
+            "target": "Glyph"
+        },
+        {
+            "source": "Quintessence",
+            "target": "Seal"
+        },
+        {
+            "source": "Quintessence",
+            "target": "Glyph"
+        },
+        {
+            "source": "Quintessence",
+            "target": "Runes"
+        },
+        {
+            "source": "Quintessence",
+            "target": "Mark"
+        },
+        {
+            "source": "Beta Test",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Corki",
+            "target": "Champion"
+        },
+        {
+            "source": "Corki",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Wraith",
+            "target": "Summoner's Rift"
+        },
+        {
+            "source": "Tryndamere",
+            "target": "Champion"
+        },
+        {
+            "source": "Tryndamere",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Field of Justice",
+            "target": "Summoner's Rift"
+        },
+        {
+            "source": "Field of Justice",
+            "target": "Twisted Treeline"
+        },
+        {
+            "source": "Field of Justice",
+            "target": "Champions"
+        },
+        {
+            "source": "Field of Justice",
+            "target": "Summoner"
+        },
+        {
+            "source": "Field of Justice",
+            "target": "Nexus"
+        },
+        {
+            "source": "Glyphs",
+            "target": "Glyph"
+        },
+        {
+            "source": "Taric",
+            "target": "Champion"
+        },
+        {
+            "source": "Taric",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Jax",
+            "target": "Champion"
+        },
+        {
+            "source": "Jax",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Cho'Gath",
+            "target": "Champion"
+        },
+        {
+            "source": "Cho'Gath",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Dragon",
+            "target": "Minion"
+        },
+        {
+            "source": "Dragon",
+            "target": "Summoner's Rift"
+        },
+        {
+            "source": "Dragon",
+            "target": "Champions"
+        },
+        {
+            "source": "Nashor",
+            "target": "Baron Nashor"
+        },
+        {
+            "source": "Twitch",
+            "target": "Official Web Page"
+        },
+        {
+            "source": "Twitch",
+            "target": "Zaun"
+        },
+        {
+            "source": "Twitch",
+            "target": "Champion"
+        },
+        {
+            "source": "Twitch",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Lee Sin",
+            "target": "Official Web Page"
+        },
+        {
+            "source": "Rylai's Crystal Scepter",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Rylai's Crystal Scepter",
+            "target": "Beta Test"
+        },
+        {
+            "source": "Quintessences",
+            "target": "Quintessence"
+        },
+        {
+            "source": "Recall",
+            "target": "Summoner"
+        },
+        {
+            "source": "Recall",
+            "target": "Champion"
+        },
+        {
+            "source": "Dr. Mundo",
+            "target": "Champion"
+        },
+        {
+            "source": "Dr. Mundo",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Champion",
+            "target": "Fields of Justice"
+        },
+        {
+            "source": "Champion",
+            "target": "Collector's Edition"
+        },
+        {
+            "source": "Master Yi",
+            "target": "Champion"
+        },
+        {
+            "source": "Master Yi",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Influence Points",
+            "target": "Riot Points"
+        },
+        {
+            "source": "Riot Games Inc.",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Karthus",
+            "target": "Champion"
+        },
+        {
+            "source": "Karthus",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Shaco",
+            "target": "Official Web Page"
+        },
+        {
+            "source": "Shaco",
+            "target": "Champion"
+        },
+        {
+            "source": "Shaco",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Blue Pill",
+            "target": "Recall"
+        },
+        {
+            "source": "Tristana",
+            "target": "Champion"
+        },
+        {
+            "source": "Tristana",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Guinsoo's Rageblade",
+            "target": "Guinsoo"
+        },
+        {
+            "source": "Janna",
+            "target": "Champion"
+        },
+        {
+            "source": "Janna",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Attack speed",
+            "target": "Masteries"
+        },
+        {
+            "source": "Attack speed",
+            "target": "Runes"
+        },
+        {
+            "source": "Attack speed",
+            "target": "Abilities"
+        },
+        {
+            "source": "Morgana",
+            "target": "Kayle"
+        },
+        {
+            "source": "Morgana",
+            "target": "Champion"
+        },
+        {
+            "source": "Morgana",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Singed",
+            "target": "Champion"
+        },
+        {
+            "source": "Singed",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Avarice Blade",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Avarice Blade",
+            "target": "Beta Test"
+        },
+        {
+            "source": "Anivia",
+            "target": "Official Web Page"
+        },
+        {
+            "source": "Anivia",
+            "target": "Champion"
+        },
+        {
+            "source": "Anivia",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Chain Vest",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Chain Vest",
+            "target": "Beta Test"
+        },
+        {
+            "source": "Minion",
+            "target": "Buffs"
+        },
+        {
+            "source": "Minion",
+            "target": "Lizard Elder"
+        },
+        {
+            "source": "Minion",
+            "target": "Dragon"
+        },
+        {
+            "source": "Minion",
+            "target": "Baron Nashor"
+        },
+        {
+            "source": "Minion",
+            "target": "Young Lizard"
+        },
+        {
+            "source": "Minion",
+            "target": "Fields of Justice"
+        },
+        {
+            "source": "Minion",
+            "target": "Summoner's Rift"
+        },
+        {
+            "source": "Minion",
+            "target": "Wraith"
+        },
+        {
+            "source": "Minion",
+            "target": "Champions"
+        },
+        {
+            "source": "Minion",
+            "target": "Nexus"
+        },
+        {
+            "source": "Minion",
+            "target": "Ancient Golem"
+        },
+        {
+            "source": "Teemo",
+            "target": "Champion"
+        },
+        {
+            "source": "Teemo",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Veigar",
+            "target": "Official Web Page"
+        },
+        {
+            "source": "Veigar",
+            "target": "Champion"
+        },
+        {
+            "source": "Veigar",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Steve 'Pendragon' Mescon",
+            "target": "Official Web Page"
+        },
+        {
+            "source": "Steve 'Pendragon' Mescon",
+            "target": "Riot"
+        },
+        {
+            "source": "Health",
+            "target": "Champion"
+        },
+        {
+            "source": "Champions",
+            "target": "Champion"
+        },
+        {
+            "source": "V0.9.22.15",
+            "target": "Mercury's Treads"
+        },
+        {
+            "source": "V0.9.22.15",
+            "target": "Master Yi"
+        },
+        {
+            "source": "V0.9.22.15",
+            "target": "Teemo"
+        },
+        {
+            "source": "V0.9.22.15",
+            "target": "Faerie Charm"
+        },
+        {
+            "source": "V0.9.22.15",
+            "target": "Nashor's Tooth"
+        },
+        {
+            "source": "V0.9.22.15",
+            "target": "Tristana"
+        },
+        {
+            "source": "V0.9.22.15",
+            "target": "Baron Nashor"
+        },
+        {
+            "source": "V0.9.22.15",
+            "target": "Ashe"
+        },
+        {
+            "source": "V0.9.22.15",
+            "target": "Kassadin"
+        },
+        {
+            "source": "V0.9.22.15",
+            "target": "Warwick"
+        },
+        {
+            "source": "V0.9.22.15",
+            "target": "Rejuvenation Bead"
+        },
+        {
+            "source": "V0.9.22.15",
+            "target": "Meki Pendant"
+        },
+        {
+            "source": "V0.9.22.15",
+            "target": "Soraka"
+        },
+        {
+            "source": "V0.9.22.15",
+            "target": "Morgana"
+        },
+        {
+            "source": "V0.9.22.15",
+            "target": "Veigar"
+        },
+        {
+            "source": "V0.9.22.15",
+            "target": "Amumu"
+        },
+        {
+            "source": "V0.9.22.15",
+            "target": "Singed"
+        },
+        {
+            "source": "V0.9.22.15",
+            "target": "Tryndamere"
+        },
+        {
+            "source": "V0.9.22.15",
+            "target": "Champion"
+        },
+        {
+            "source": "V0.9.22.15",
+            "target": "Sivir"
+        },
+        {
+            "source": "V0.9.22.15",
+            "target": "Evelynn"
+        },
+        {
+            "source": "V0.9.22.15",
+            "target": "Ryze"
+        },
+        {
+            "source": "V0.9.22.15",
+            "target": "Turret"
+        },
+        {
+            "source": "V0.9.22.15",
+            "target": "Jax"
+        },
+        {
+            "source": "V0.9.22.15",
+            "target": "Atma's Impaler"
+        },
+        {
+            "source": "V0.9.22.15",
+            "target": "Cho'Gath"
+        },
+        {
+            "source": "V0.9.22.15",
+            "target": "Twitch"
+        },
+        {
+            "source": "V0.9.22.15",
+            "target": "Runes"
+        },
+        {
+            "source": "Atma's Impaler",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Atma's Impaler",
+            "target": "Beta Test"
+        },
+        {
+            "source": "Nashor's Tooth",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Nashor's Tooth",
+            "target": "Beta Test"
+        },
+        {
+            "source": "Frozen Mallet",
+            "target": "Giant's Belt"
+        },
+        {
+            "source": "Frozen Mallet",
+            "target": "Phage"
+        },
+        {
+            "source": "Mana",
+            "target": "Health"
+        },
+        {
+            "source": "Brush",
+            "target": "Vision Ward"
+        },
+        {
+            "source": "Brawlers Gloves",
+            "target": "Brawler's Gloves"
+        },
+        {
+            "source": "Fields of Justice",
+            "target": "Field of Justice"
+        },
+        {
+            "source": "Aegis of the Legion",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Aegis of the Legion",
+            "target": "Beta Test"
+        },
+        {
+            "source": "Summoner",
+            "target": "Masteries"
+        },
+        {
+            "source": "Summoner",
+            "target": "Runes"
+        },
+        {
+            "source": "Abyssal Scepter",
+            "target": "Negatron Cloak"
+        },
+        {
+            "source": "Abyssal Scepter",
+            "target": "Blasting Wand"
+        },
+        {
+            "source": "Hp",
+            "target": "Health"
+        },
+        {
+            "source": "Collector's Edition",
+            "target": "Runes"
+        },
+        {
+            "source": "Collector's Edition",
+            "target": "Nasus"
+        },
+        {
+            "source": "Collector's Edition",
+            "target": "Morgana"
+        },
+        {
+            "source": "Collector's Edition",
+            "target": "Malphite"
+        },
+        {
+            "source": "Collector's Edition",
+            "target": "Teemo"
+        },
+        {
+            "source": "Collector's Edition",
+            "target": "Tryndamere"
+        },
+        {
+            "source": "Collector's Edition",
+            "target": "Alistar"
+        },
+        {
+            "source": "Collector's Edition",
+            "target": "Ryze"
+        },
+        {
+            "source": "Collector's Edition",
+            "target": "Evelynn"
+        },
+        {
+            "source": "Collector's Edition",
+            "target": "Janna"
+        },
+        {
+            "source": "Collector's Edition",
+            "target": "Warwick"
+        },
+        {
+            "source": "Collector's Edition",
+            "target": "Amumu"
+        },
+        {
+            "source": "Collector's Edition",
+            "target": "Sivir"
+        },
+        {
+            "source": "Collector's Edition",
+            "target": "Veigar"
+        },
+        {
+            "source": "Collector's Edition",
+            "target": "Riot Points"
+        },
+        {
+            "source": "Collector's Edition",
+            "target": "Tristana"
+        },
+        {
+            "source": "Collector's Edition",
+            "target": "Champions"
+        },
+        {
+            "source": "Collector's Edition",
+            "target": "Summoner"
+        },
+        {
+            "source": "Collector's Edition",
+            "target": "Kayle"
+        },
+        {
+            "source": "Collector's Edition",
+            "target": "Rammus"
+        },
+        {
+            "source": "Lich Bane",
+            "target": "Sheen"
+        },
+        {
+            "source": "Lich Bane",
+            "target": "Null-Magic Mantle"
+        },
+        {
+            "source": "Lich Bane",
+            "target": "Blasting Wand"
+        },
+        {
+            "source": "Seals",
+            "target": "Seal"
+        },
+        {
+            "source": "Soraka",
+            "target": "Champion"
+        },
+        {
+            "source": "Soraka",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Sivir",
+            "target": "Champion"
+        },
+        {
+            "source": "Sivir",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Rune Book",
+            "target": "Marks"
+        },
+        {
+            "source": "Rune Book",
+            "target": "Runes"
+        },
+        {
+            "source": "Rune Book",
+            "target": "Champion"
+        },
+        {
+            "source": "Amumu",
+            "target": "Official Web Page"
+        },
+        {
+            "source": "Amumu",
+            "target": "Champion"
+        },
+        {
+            "source": "Amumu",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Gameplay Mechanics",
+            "target": "LoL"
+        },
+        {
+            "source": "Gameplay Mechanics",
+            "target": "Kayle"
+        },
+        {
+            "source": "Gameplay Mechanics",
+            "target": "Sivir"
+        },
+        {
+            "source": "Gameplay Mechanics",
+            "target": "Infinity Edge"
+        },
+        {
+            "source": "Gameplay Mechanics",
+            "target": "Banshee's Veil"
+        },
+        {
+            "source": "Base champion statistics",
+            "target": "Master Yi"
+        },
+        {
+            "source": "Base champion statistics",
+            "target": "Teemo"
+        },
+        {
+            "source": "Base champion statistics",
+            "target": "Cho'Gath"
+        },
+        {
+            "source": "Base champion statistics",
+            "target": "Kayle"
+        },
+        {
+            "source": "Base champion statistics",
+            "target": "Ashe"
+        },
+        {
+            "source": "Base champion statistics",
+            "target": "Kassadin"
+        },
+        {
+            "source": "Base champion statistics",
+            "target": "Warwick"
+        },
+        {
+            "source": "Base champion statistics",
+            "target": "Twitch"
+        },
+        {
+            "source": "Base champion statistics",
+            "target": "Soraka"
+        },
+        {
+            "source": "Base champion statistics",
+            "target": "Morgana"
+        },
+        {
+            "source": "Base champion statistics",
+            "target": "Taric"
+        },
+        {
+            "source": "Base champion statistics",
+            "target": "Amumu"
+        },
+        {
+            "source": "Base champion statistics",
+            "target": "Singed"
+        },
+        {
+            "source": "Base champion statistics",
+            "target": "Tryndamere"
+        },
+        {
+            "source": "Base champion statistics",
+            "target": "Anivia"
+        },
+        {
+            "source": "Base champion statistics",
+            "target": "Sivir"
+        },
+        {
+            "source": "Base champion statistics",
+            "target": "Nunu"
+        },
+        {
+            "source": "Base champion statistics",
+            "target": "Evelynn"
+        },
+        {
+            "source": "Base champion statistics",
+            "target": "Ryze"
+        },
+        {
+            "source": "Base champion statistics",
+            "target": "Veigar"
+        },
+        {
+            "source": "Base champion statistics",
+            "target": "Jax"
+        },
+        {
+            "source": "Base champion statistics",
+            "target": "Tristana"
+        },
+        {
+            "source": "Base champion statistics",
+            "target": "Twisted Fate"
+        },
+        {
+            "source": "Base champion statistics",
+            "target": "Alistar"
+        },
+        {
+            "source": "Base champion statistics",
+            "target": "Rammus"
+        },
+        {
+            "source": "Alistar",
+            "target": "Champion"
+        },
+        {
+            "source": "Alistar",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Alistar",
+            "target": "Collector's Edition"
+        },
+        {
+            "source": "Fiendish Codex",
+            "target": "Amplifying Tome"
+        },
+        {
+            "source": "Fiendish Codex",
+            "target": "Meki Pendant"
+        },
+        {
+            "source": "Summoners",
+            "target": "Summoner"
+        },
+        {
+            "source": "Zhonya's Ring",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Zhonya's Ring",
+            "target": "Sage's Ring"
+        },
+        {
+            "source": "Zhonya's Ring",
+            "target": "Blasting Wand"
+        },
+        {
+            "source": "Zhonya's Ring",
+            "target": "Beta Test"
+        },
+        {
+            "source": "Berserker's Greaves",
+            "target": "League of Legends"
+        },
+        {
+            "source": "Berserker's Greaves",
+            "target": "Beta Test"
+        },
+        {
+            "source": "Lanes",
+            "target": "Champions"
+        },
+        {
+            "source": "Lanes",
+            "target": "Nexus"
+        },
+        {
+            "source": "Item",
+            "target": "Archangel's Staff"
+        },
+        {
+            "source": "Item",
+            "target": "Sheen"
+        },
+        {
+            "source": "Item",
+            "target": "Sorcerer's Shoes"
+        },
+        {
+            "source": "Item",
+            "target": "Regrowth Pendant"
+        },
+        {
+            "source": "Item",
+            "target": "Doran's Blade"
+        },
+        {
+            "source": "Item",
+            "target": "Faerie Charm"
+        },
+        {
+            "source": "Item",
+            "target": "Cloak of Agility"
+        },
+        {
+            "source": "Item",
+            "target": "Sapphire Crystal"
+        },
+        {
+            "source": "Item",
+            "target": "Elixir of Agility"
+        },
+        {
+            "source": "Item",
+            "target": "Avarice Blade"
+        },
+        {
+            "source": "Item",
+            "target": "Sage's Ring"
+        },
+        {
+            "source": "Item",
+            "target": "Rejuvenation Bead"
+        },
+        {
+            "source": "Item",
+            "target": "Oracle's Elixir"
+        },
+        {
+            "source": "Item",
+            "target": "Lich Bane"
+        },
+        {
+            "source": "Item",
+            "target": "Null-Magic Mantle"
+        },
+        {
+            "source": "Item",
+            "target": "Tear of the Goddess"
+        },
+        {
+            "source": "Item",
+            "target": "Infinity Edge"
+        },
+        {
+            "source": "Item",
+            "target": "Ruby Crystal"
+        },
+        {
+            "source": "Item",
+            "target": "Doran's Shield"
+        },
+        {
+            "source": "Item",
+            "target": "Fiendish Codex"
+        },
+        {
+            "source": "Item",
+            "target": "Banshee's Veil"
+        },
+        {
+            "source": "Item",
+            "target": "Elixir of Brilliance"
+        },
+        {
+            "source": "Item",
+            "target": "Vampiric Scepter"
+        },
+        {
+            "source": "Item",
+            "target": "Zhonya's Ring"
+        },
+        {
+            "source": "Item",
+            "target": "Guinsoo's Rageblade"
+        },
+        {
+            "source": "Item",
+            "target": "Vision Ward"
+        },
+        {
+            "source": "Item",
+            "target": "Glacial Shroud"
+        },
+        {
+            "source": "Item",
+            "target": "Mana Potion"
+        },
+        {
+            "source": "Item",
+            "target": "Phage"
+        },
+        {
+            "source": "Item",
+            "target": "Atma's Impaler"
+        },
+        {
+            "source": "Item",
+            "target": "Amplifying Tome"
+        },
+        {
+            "source": "Item",
+            "target": "Meki Pendant"
+        },
+        {
+            "source": "Item",
+            "target": "Negatron Cloak"
+        },
+        {
+            "source": "Item",
+            "target": "Abyssal Scepter"
+        },
+        {
+            "source": "Item",
+            "target": "Frozen Mallet"
+        },
+        {
+            "source": "Item",
+            "target": "Nashor's Tooth"
+        },
+        {
+            "source": "Item",
+            "target": "Cloth Armor"
+        },
+        {
+            "source": "Item",
+            "target": "Dagger"
+        },
+        {
+            "source": "Item",
+            "target": "Recurve Bow"
+        },
+        {
+            "source": "Item",
+            "target": "Brawler's Gloves"
+        },
+        {
+            "source": "Item",
+            "target": "Mercury's Treads"
+        },
+        {
+            "source": "Item",
+            "target": "Elixir of Fortitude"
+        },
+        {
+            "source": "Item",
+            "target": "Aegis of the Legion"
+        },
+        {
+            "source": "Item",
+            "target": "Mejai's Soulstealer"
+        },
+        {
+            "source": "Item",
+            "target": "Blasting Wand"
+        },
+        {
+            "source": "Item",
+            "target": "Doran's Ring"
+        },
+        {
+            "source": "Item",
+            "target": "Health Potion"
+        },
+        {
+            "source": "Item",
+            "target": "Stinger"
+        },
+        {
+            "source": "Item",
+            "target": "Champions"
+        },
+        {
+            "source": "Item",
+            "target": "Pickaxe"
+        },
+        {
+            "source": "Item",
+            "target": "Chain Vest"
+        },
+        {
+            "source": "Item",
+            "target": "B. F. Sword"
+        },
+        {
+            "source": "Item",
+            "target": "Long Sword"
+        },
+        {
+            "source": "Item",
+            "target": "Giant's Belt"
+        },
+        {
+            "source": "Item",
+            "target": "Berserker's Greaves"
+        },
+        {
+            "source": "Item",
+            "target": "Boots of Speed"
+        },
+        {
+            "source": "Item",
+            "target": "Rod of Ages"
+        },
+        {
+            "source": "Mark",
+            "target": "Seal"
+        },
+        {
+            "source": "Mark",
+            "target": "Quintessence"
+        },
+        {
+            "source": "Mark",
+            "target": "Runes"
+        },
+        {
+            "source": "Mark",
+            "target": "Glyph"
+        },
+        {
+            "source": "Runes",
+            "target": "Rune"
+        }
+    ],
+    "directed": true,
+    "multigraph": false,
+    "nodes": [
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Heimerdinger"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Ruby Crystal"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Sorcerer's Shoes"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Mercury's Treads"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Buffs"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Rammus"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Steve 'Guinsoo' Feak"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Twisted Fate"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Marks"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Pickaxe"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Sapphire Crystal"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Vision Ward"
+        },
+        {
+            "parity": 1,
+            "degree": 26,
+            "id": "V0.9.22.16"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Proving Grounds"
+        },
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "Baron Nashor"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Ancient Golem"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Kassadin"
+        },
+        {
+            "parity": 0,
+            "degree": 7,
+            "id": "Warwick"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "LoL"
+        },
+        {
+            "parity": 0,
+            "degree": 9,
+            "id": "Official Web Page"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Seal"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Champion skin"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Malphite"
+        },
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "Blasting Wand"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Infinity Edge"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Sheen"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Evelynn"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Vampiric Scepter"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Nunu"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Banshee's Veil"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Ryze"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Turret"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Phage"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Doran's Shield"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Buff"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Summoner spell"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Health Potion"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Katarina"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "HP"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Masteries"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Riot Points"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Catalyst of Aeons"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Young Lizard"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Guinsoo"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Doran's Ring"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Flask of Crystal Water"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "B. F. Sword"
+        },
+        {
+            "parity": 0,
+            "degree": 7,
+            "id": "Kayle"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Rod of Ages"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Nomad's Medallion"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Cloth Armor"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Archangel's Staff"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Mastery"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Creep"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Nasus"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Amplifying Tome"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Ashe"
+        },
+        {
+            "parity": 0,
+            "degree": 9,
+            "id": "Rune"
+        },
+        {
+            "parity": 0,
+            "degree": 11,
+            "id": "Summoner's Rift"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Stinger"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Mejai's Soulstealer"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Glacial Shroud"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Gold"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Urf"
+        },
+        {
+            "parity": 1,
+            "degree": 22,
+            "id": "V0.9.25.21"
+        },
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "Quintessence"
+        },
+        {
+            "parity": 0,
+            "degree": 19,
+            "id": "Beta Test"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Corki"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Wraith"
+        },
+        {
+            "parity": 0,
+            "degree": 7,
+            "id": "Tryndamere"
+        },
+        {
+            "parity": 0,
+            "degree": 9,
+            "id": "Field of Justice"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Negatron Cloak"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Glyphs"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Glyph"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Taric"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Jax"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Cho'Gath"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Dragon"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Nashor"
+        },
+        {
+            "parity": 0,
+            "degree": 7,
+            "id": "Twitch"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lee Sin"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Rylai's Crystal Scepter"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lizard Elder"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Quintessences"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Recall"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Dr. Mundo"
+        },
+        {
+            "parity": 1,
+            "degree": 42,
+            "id": "Champion"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Master Yi"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Zaun"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Influence Points"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Faerie Charm"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Riot Games Inc."
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Cloak of Agility"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Sage's Ring"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Elixir of Agility"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Tear of the Goddess"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Nexus"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Karthus"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Oracle's Elixir"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Shaco"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Blue Pill"
+        },
+        {
+            "parity": 0,
+            "degree": 7,
+            "id": "Tristana"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Guinsoo's Rageblade"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Meki Pendant"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Janna"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Attack speed"
+        },
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "Morgana"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Singed"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Avarice Blade"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Anivia"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Giant's Belt"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Chain Vest"
+        },
+        {
+            "parity": 0,
+            "degree": 13,
+            "id": "Minion"
+        },
+        {
+            "parity": 0,
+            "degree": 7,
+            "id": "Teemo"
+        },
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "Veigar"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Riot"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Rejuvenation Bead"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Steve 'Pendragon' Mescon"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Regrowth Pendant"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Health"
+        },
+        {
+            "parity": 0,
+            "degree": 11,
+            "id": "Champions"
+        },
+        {
+            "parity": 1,
+            "degree": 60,
+            "id": "League of Legends"
+        },
+        {
+            "parity": 1,
+            "degree": 28,
+            "id": "V0.9.22.15"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Mana Potion"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Doran's Blade"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Atma's Impaler"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Elixir of Brilliance"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Nashor's Tooth"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Frozen Mallet"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Mana"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Dagger"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Brush"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Brawler's Gloves"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Abilities"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Brawlers Gloves"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Fields of Justice"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Elixir of Fortitude"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Aegis of the Legion"
+        },
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "Summoner"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Abyssal Scepter"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Hp"
+        },
+        {
+            "parity": 0,
+            "degree": 23,
+            "id": "Collector's Edition"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Lich Bane"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Twisted Treeline"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Seals"
+        },
+        {
+            "parity": 0,
+            "degree": 7,
+            "id": "Soraka"
+        },
+        {
+            "parity": 0,
+            "degree": 7,
+            "id": "Sivir"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Rune Book"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Recurve Bow"
+        },
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "Amumu"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Gameplay Mechanics"
+        },
+        {
+            "parity": 0,
+            "degree": 25,
+            "id": "Base champion statistics"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Alistar"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Long Sword"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Fiendish Codex"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Summoners"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Zhonya's Ring"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Berserker's Greaves"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Boots of Speed"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Lanes"
+        },
+        {
+            "parity": 0,
+            "degree": 57,
+            "id": "Item"
+        },
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "Mark"
+        },
+        {
+            "parity": 1,
+            "degree": 12,
+            "id": "Runes"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Null-Magic Mantle"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 86
+        },
+        {
+            "source": 0,
+            "target": 121
+        },
+        {
+            "source": 2,
+            "target": 55
+        },
+        {
+            "source": 2,
+            "target": 121
+        },
+        {
+            "source": 2,
+            "target": 158
+        },
+        {
+            "source": 3,
+            "target": 158
+        },
+        {
+            "source": 3,
+            "target": 163
+        },
+        {
+            "source": 4,
+            "target": 34
+        },
+        {
+            "source": 5,
+            "target": 19
+        },
+        {
+            "source": 5,
+            "target": 86
+        },
+        {
+            "source": 5,
+            "target": 121
+        },
+        {
+            "source": 5,
+            "target": 66
+        },
+        {
+            "source": 6,
+            "target": 115
+        },
+        {
+            "source": 7,
+            "target": 120
+        },
+        {
+            "source": 7,
+            "target": 86
+        },
+        {
+            "source": 7,
+            "target": 121
+        },
+        {
+            "source": 8,
+            "target": 161
+        },
+        {
+            "source": 9,
+            "target": 121
+        },
+        {
+            "source": 9,
+            "target": 66
+        },
+        {
+            "source": 10,
+            "target": 121
+        },
+        {
+            "source": 10,
+            "target": 66
+        },
+        {
+            "source": 12,
+            "target": 125
+        },
+        {
+            "source": 12,
+            "target": 114
+        },
+        {
+            "source": 12,
+            "target": 113
+        },
+        {
+            "source": 12,
+            "target": 76
+        },
+        {
+            "source": 12,
+            "target": 3
+        },
+        {
+            "source": 12,
+            "target": 16
+        },
+        {
+            "source": 12,
+            "target": 137
+        },
+        {
+            "source": 12,
+            "target": 24
+        },
+        {
+            "source": 12,
+            "target": 162
+        },
+        {
+            "source": 12,
+            "target": 79
+        },
+        {
+            "source": 12,
+            "target": 145
+        },
+        {
+            "source": 12,
+            "target": 106
+        },
+        {
+            "source": 12,
+            "target": 95
+        },
+        {
+            "source": 12,
+            "target": 149
+        },
+        {
+            "source": 12,
+            "target": 69
+        },
+        {
+            "source": 12,
+            "target": 1
+        },
+        {
+            "source": 12,
+            "target": 146
+        },
+        {
+            "source": 12,
+            "target": 26
+        },
+        {
+            "source": 12,
+            "target": 110
+        },
+        {
+            "source": 12,
+            "target": 31
+        },
+        {
+            "source": 12,
+            "target": 75
+        },
+        {
+            "source": 12,
+            "target": 101
+        },
+        {
+            "source": 12,
+            "target": 120
+        },
+        {
+            "source": 12,
+            "target": 27
+        },
+        {
+            "source": 12,
+            "target": 78
+        },
+        {
+            "source": 12,
+            "target": 32
+        },
+        {
+            "source": 13,
+            "target": 70
+        },
+        {
+            "source": 13,
+            "target": 56
+        },
+        {
+            "source": 14,
+            "target": 70
+        },
+        {
+            "source": 14,
+            "target": 58
+        },
+        {
+            "source": 14,
+            "target": 53
+        },
+        {
+            "source": 14,
+            "target": 121
+        },
+        {
+            "source": 15,
+            "target": 58
+        },
+        {
+            "source": 16,
+            "target": 86
+        },
+        {
+            "source": 16,
+            "target": 121
+        },
+        {
+            "source": 17,
+            "target": 86
+        },
+        {
+            "source": 17,
+            "target": 145
+        },
+        {
+            "source": 17,
+            "target": 121
+        },
+        {
+            "source": 21,
+            "target": 121
+        },
+        {
+            "source": 21,
+            "target": 141
+        },
+        {
+            "source": 22,
+            "target": 86
+        },
+        {
+            "source": 22,
+            "target": 121
+        },
+        {
+            "source": 23,
+            "target": 121
+        },
+        {
+            "source": 23,
+            "target": 66
+        },
+        {
+            "source": 25,
+            "target": 55
+        },
+        {
+            "source": 25,
+            "target": 10
+        },
+        {
+            "source": 26,
+            "target": 86
+        },
+        {
+            "source": 26,
+            "target": 121
+        },
+        {
+            "source": 28,
+            "target": 86
+        },
+        {
+            "source": 28,
+            "target": 121
+        },
+        {
+            "source": 29,
+            "target": 121
+        },
+        {
+            "source": 29,
+            "target": 66
+        },
+        {
+            "source": 30,
+            "target": 86
+        },
+        {
+            "source": 30,
+            "target": 121
+        },
+        {
+            "source": 32,
+            "target": 1
+        },
+        {
+            "source": 32,
+            "target": 153
+        },
+        {
+            "source": 33,
+            "target": 44
+        },
+        {
+            "source": 33,
+            "target": 121
+        },
+        {
+            "source": 33,
+            "target": 66
+        },
+        {
+            "source": 33,
+            "target": 124
+        },
+        {
+            "source": 34,
+            "target": 38
+        },
+        {
+            "source": 35,
+            "target": 39
+        },
+        {
+            "source": 35,
+            "target": 162
+        },
+        {
+            "source": 37,
+            "target": 19
+        },
+        {
+            "source": 37,
+            "target": 86
+        },
+        {
+            "source": 37,
+            "target": 121
+        },
+        {
+            "source": 38,
+            "target": 119
+        },
+        {
+            "source": 39,
+            "target": 52
+        },
+        {
+            "source": 40,
+            "target": 120
+        },
+        {
+            "source": 40,
+            "target": 89
+        },
+        {
+            "source": 41,
+            "target": 1
+        },
+        {
+            "source": 41,
+            "target": 10
+        },
+        {
+            "source": 42,
+            "target": 112
+        },
+        {
+            "source": 44,
+            "target": 33
+        },
+        {
+            "source": 44,
+            "target": 124
+        },
+        {
+            "source": 44,
+            "target": 121
+        },
+        {
+            "source": 44,
+            "target": 66
+        },
+        {
+            "source": 45,
+            "target": 123
+        },
+        {
+            "source": 47,
+            "target": 86
+        },
+        {
+            "source": 47,
+            "target": 121
+        },
+        {
+            "source": 48,
+            "target": 121
+        },
+        {
+            "source": 48,
+            "target": 23
+        },
+        {
+            "source": 48,
+            "target": 66
+        },
+        {
+            "source": 49,
+            "target": 103
+        },
+        {
+            "source": 49,
+            "target": 118
+        },
+        {
+            "source": 51,
+            "target": 121
+        },
+        {
+            "source": 51,
+            "target": 66
+        },
+        {
+            "source": 52,
+            "target": 138
+        },
+        {
+            "source": 52,
+            "target": 121
+        },
+        {
+            "source": 52,
+            "target": 162
+        },
+        {
+            "source": 54,
+            "target": 86
+        },
+        {
+            "source": 54,
+            "target": 121
+        },
+        {
+            "source": 56,
+            "target": 86
+        },
+        {
+            "source": 56,
+            "target": 121
+        },
+        {
+            "source": 57,
+            "target": 39
+        },
+        {
+            "source": 57,
+            "target": 138
+        },
+        {
+            "source": 57,
+            "target": 65
+        },
+        {
+            "source": 57,
+            "target": 135
+        },
+        {
+            "source": 57,
+            "target": 120
+        },
+        {
+            "source": 57,
+            "target": 20
+        },
+        {
+            "source": 57,
+            "target": 161
+        },
+        {
+            "source": 57,
+            "target": 73
+        },
+        {
+            "source": 58,
+            "target": 70
+        },
+        {
+            "source": 58,
+            "target": 77
+        },
+        {
+            "source": 58,
+            "target": 68
+        },
+        {
+            "source": 58,
+            "target": 159
+        },
+        {
+            "source": 58,
+            "target": 14
+        },
+        {
+            "source": 59,
+            "target": 90
+        },
+        {
+            "source": 59,
+            "target": 130
+        },
+        {
+            "source": 60,
+            "target": 55
+        },
+        {
+            "source": 60,
+            "target": 23
+        },
+        {
+            "source": 60,
+            "target": 121
+        },
+        {
+            "source": 61,
+            "target": 121
+        },
+        {
+            "source": 62,
+            "target": 86
+        },
+        {
+            "source": 62,
+            "target": 121
+        },
+        {
+            "source": 63,
+            "target": 121
+        },
+        {
+            "source": 63,
+            "target": 75
+        },
+        {
+            "source": 63,
+            "target": 66
+        },
+        {
+            "source": 64,
+            "target": 113
+        },
+        {
+            "source": 64,
+            "target": 47
+        },
+        {
+            "source": 64,
+            "target": 128
+        },
+        {
+            "source": 64,
+            "target": 85
+        },
+        {
+            "source": 64,
+            "target": 137
+        },
+        {
+            "source": 64,
+            "target": 11
+        },
+        {
+            "source": 64,
+            "target": 17
+        },
+        {
+            "source": 64,
+            "target": 162
+        },
+        {
+            "source": 64,
+            "target": 20
+        },
+        {
+            "source": 64,
+            "target": 145
+        },
+        {
+            "source": 64,
+            "target": 106
+        },
+        {
+            "source": 64,
+            "target": 65
+        },
+        {
+            "source": 64,
+            "target": 22
+        },
+        {
+            "source": 64,
+            "target": 149
+        },
+        {
+            "source": 64,
+            "target": 69
+        },
+        {
+            "source": 64,
+            "target": 95
+        },
+        {
+            "source": 64,
+            "target": 126
+        },
+        {
+            "source": 64,
+            "target": 30
+        },
+        {
+            "source": 64,
+            "target": 114
+        },
+        {
+            "source": 64,
+            "target": 101
+        },
+        {
+            "source": 64,
+            "target": 161
+        },
+        {
+            "source": 64,
+            "target": 73
+        },
+        {
+            "source": 65,
+            "target": 20
+        },
+        {
+            "source": 65,
+            "target": 73
+        },
+        {
+            "source": 65,
+            "target": 162
+        },
+        {
+            "source": 65,
+            "target": 161
+        },
+        {
+            "source": 66,
+            "target": 121
+        },
+        {
+            "source": 67,
+            "target": 86
+        },
+        {
+            "source": 67,
+            "target": 121
+        },
+        {
+            "source": 68,
+            "target": 58
+        },
+        {
+            "source": 69,
+            "target": 86
+        },
+        {
+            "source": 69,
+            "target": 121
+        },
+        {
+            "source": 70,
+            "target": 58
+        },
+        {
+            "source": 70,
+            "target": 143
+        },
+        {
+            "source": 70,
+            "target": 120
+        },
+        {
+            "source": 70,
+            "target": 138
+        },
+        {
+            "source": 70,
+            "target": 96
+        },
+        {
+            "source": 72,
+            "target": 73
+        },
+        {
+            "source": 74,
+            "target": 86
+        },
+        {
+            "source": 74,
+            "target": 121
+        },
+        {
+            "source": 75,
+            "target": 86
+        },
+        {
+            "source": 75,
+            "target": 121
+        },
+        {
+            "source": 76,
+            "target": 86
+        },
+        {
+            "source": 76,
+            "target": 121
+        },
+        {
+            "source": 77,
+            "target": 112
+        },
+        {
+            "source": 77,
+            "target": 58
+        },
+        {
+            "source": 77,
+            "target": 120
+        },
+        {
+            "source": 78,
+            "target": 14
+        },
+        {
+            "source": 79,
+            "target": 19
+        },
+        {
+            "source": 79,
+            "target": 88
+        },
+        {
+            "source": 79,
+            "target": 86
+        },
+        {
+            "source": 79,
+            "target": 121
+        },
+        {
+            "source": 80,
+            "target": 19
+        },
+        {
+            "source": 81,
+            "target": 121
+        },
+        {
+            "source": 81,
+            "target": 66
+        },
+        {
+            "source": 83,
+            "target": 65
+        },
+        {
+            "source": 84,
+            "target": 138
+        },
+        {
+            "source": 84,
+            "target": 86
+        },
+        {
+            "source": 85,
+            "target": 86
+        },
+        {
+            "source": 85,
+            "target": 121
+        },
+        {
+            "source": 86,
+            "target": 135
+        },
+        {
+            "source": 86,
+            "target": 141
+        },
+        {
+            "source": 87,
+            "target": 86
+        },
+        {
+            "source": 87,
+            "target": 121
+        },
+        {
+            "source": 89,
+            "target": 40
+        },
+        {
+            "source": 91,
+            "target": 121
+        },
+        {
+            "source": 97,
+            "target": 86
+        },
+        {
+            "source": 97,
+            "target": 121
+        },
+        {
+            "source": 99,
+            "target": 19
+        },
+        {
+            "source": 99,
+            "target": 86
+        },
+        {
+            "source": 99,
+            "target": 121
+        },
+        {
+            "source": 100,
+            "target": 84
+        },
+        {
+            "source": 101,
+            "target": 86
+        },
+        {
+            "source": 101,
+            "target": 121
+        },
+        {
+            "source": 102,
+            "target": 43
+        },
+        {
+            "source": 104,
+            "target": 86
+        },
+        {
+            "source": 104,
+            "target": 121
+        },
+        {
+            "source": 105,
+            "target": 39
+        },
+        {
+            "source": 105,
+            "target": 162
+        },
+        {
+            "source": 105,
+            "target": 133
+        },
+        {
+            "source": 106,
+            "target": 47
+        },
+        {
+            "source": 106,
+            "target": 86
+        },
+        {
+            "source": 106,
+            "target": 121
+        },
+        {
+            "source": 107,
+            "target": 86
+        },
+        {
+            "source": 107,
+            "target": 121
+        },
+        {
+            "source": 108,
+            "target": 121
+        },
+        {
+            "source": 108,
+            "target": 66
+        },
+        {
+            "source": 109,
+            "target": 19
+        },
+        {
+            "source": 109,
+            "target": 86
+        },
+        {
+            "source": 109,
+            "target": 121
+        },
+        {
+            "source": 111,
+            "target": 121
+        },
+        {
+            "source": 111,
+            "target": 66
+        },
+        {
+            "source": 112,
+            "target": 4
+        },
+        {
+            "source": 112,
+            "target": 82
+        },
+        {
+            "source": 112,
+            "target": 77
+        },
+        {
+            "source": 112,
+            "target": 14
+        },
+        {
+            "source": 112,
+            "target": 42
+        },
+        {
+            "source": 112,
+            "target": 135
+        },
+        {
+            "source": 112,
+            "target": 58
+        },
+        {
+            "source": 112,
+            "target": 68
+        },
+        {
+            "source": 112,
+            "target": 120
+        },
+        {
+            "source": 112,
+            "target": 96
+        },
+        {
+            "source": 112,
+            "target": 15
+        },
+        {
+            "source": 113,
+            "target": 86
+        },
+        {
+            "source": 113,
+            "target": 121
+        },
+        {
+            "source": 114,
+            "target": 19
+        },
+        {
+            "source": 114,
+            "target": 86
+        },
+        {
+            "source": 114,
+            "target": 121
+        },
+        {
+            "source": 117,
+            "target": 19
+        },
+        {
+            "source": 117,
+            "target": 115
+        },
+        {
+            "source": 119,
+            "target": 86
+        },
+        {
+            "source": 120,
+            "target": 86
+        },
+        {
+            "source": 122,
+            "target": 3
+        },
+        {
+            "source": 122,
+            "target": 87
+        },
+        {
+            "source": 122,
+            "target": 113
+        },
+        {
+            "source": 122,
+            "target": 90
+        },
+        {
+            "source": 122,
+            "target": 127
+        },
+        {
+            "source": 122,
+            "target": 101
+        },
+        {
+            "source": 122,
+            "target": 14
+        },
+        {
+            "source": 122,
+            "target": 56
+        },
+        {
+            "source": 122,
+            "target": 16
+        },
+        {
+            "source": 122,
+            "target": 17
+        },
+        {
+            "source": 122,
+            "target": 116
+        },
+        {
+            "source": 122,
+            "target": 103
+        },
+        {
+            "source": 122,
+            "target": 145
+        },
+        {
+            "source": 122,
+            "target": 106
+        },
+        {
+            "source": 122,
+            "target": 114
+        },
+        {
+            "source": 122,
+            "target": 149
+        },
+        {
+            "source": 122,
+            "target": 107
+        },
+        {
+            "source": 122,
+            "target": 69
+        },
+        {
+            "source": 122,
+            "target": 86
+        },
+        {
+            "source": 122,
+            "target": 146
+        },
+        {
+            "source": 122,
+            "target": 26
+        },
+        {
+            "source": 122,
+            "target": 30
+        },
+        {
+            "source": 122,
+            "target": 31
+        },
+        {
+            "source": 122,
+            "target": 75
+        },
+        {
+            "source": 122,
+            "target": 125
+        },
+        {
+            "source": 122,
+            "target": 76
+        },
+        {
+            "source": 122,
+            "target": 79
+        },
+        {
+            "source": 122,
+            "target": 162
+        },
+        {
+            "source": 125,
+            "target": 121
+        },
+        {
+            "source": 125,
+            "target": 66
+        },
+        {
+            "source": 127,
+            "target": 121
+        },
+        {
+            "source": 127,
+            "target": 66
+        },
+        {
+            "source": 128,
+            "target": 110
+        },
+        {
+            "source": 128,
+            "target": 32
+        },
+        {
+            "source": 129,
+            "target": 119
+        },
+        {
+            "source": 131,
+            "target": 11
+        },
+        {
+            "source": 134,
+            "target": 132
+        },
+        {
+            "source": 135,
+            "target": 70
+        },
+        {
+            "source": 137,
+            "target": 121
+        },
+        {
+            "source": 137,
+            "target": 66
+        },
+        {
+            "source": 138,
+            "target": 39
+        },
+        {
+            "source": 138,
+            "target": 162
+        },
+        {
+            "source": 139,
+            "target": 71
+        },
+        {
+            "source": 139,
+            "target": 23
+        },
+        {
+            "source": 140,
+            "target": 119
+        },
+        {
+            "source": 141,
+            "target": 162
+        },
+        {
+            "source": 141,
+            "target": 54
+        },
+        {
+            "source": 141,
+            "target": 106
+        },
+        {
+            "source": 141,
+            "target": 22
+        },
+        {
+            "source": 141,
+            "target": 113
+        },
+        {
+            "source": 141,
+            "target": 69
+        },
+        {
+            "source": 141,
+            "target": 152
+        },
+        {
+            "source": 141,
+            "target": 30
+        },
+        {
+            "source": 141,
+            "target": 26
+        },
+        {
+            "source": 141,
+            "target": 104
+        },
+        {
+            "source": 141,
+            "target": 17
+        },
+        {
+            "source": 141,
+            "target": 149
+        },
+        {
+            "source": 141,
+            "target": 146
+        },
+        {
+            "source": 141,
+            "target": 114
+        },
+        {
+            "source": 141,
+            "target": 40
+        },
+        {
+            "source": 141,
+            "target": 101
+        },
+        {
+            "source": 141,
+            "target": 120
+        },
+        {
+            "source": 141,
+            "target": 138
+        },
+        {
+            "source": 141,
+            "target": 47
+        },
+        {
+            "source": 141,
+            "target": 5
+        },
+        {
+            "source": 142,
+            "target": 25
+        },
+        {
+            "source": 142,
+            "target": 163
+        },
+        {
+            "source": 142,
+            "target": 23
+        },
+        {
+            "source": 144,
+            "target": 20
+        },
+        {
+            "source": 145,
+            "target": 86
+        },
+        {
+            "source": 145,
+            "target": 121
+        },
+        {
+            "source": 146,
+            "target": 86
+        },
+        {
+            "source": 146,
+            "target": 121
+        },
+        {
+            "source": 147,
+            "target": 8
+        },
+        {
+            "source": 147,
+            "target": 162
+        },
+        {
+            "source": 147,
+            "target": 86
+        },
+        {
+            "source": 149,
+            "target": 19
+        },
+        {
+            "source": 149,
+            "target": 86
+        },
+        {
+            "source": 149,
+            "target": 121
+        },
+        {
+            "source": 150,
+            "target": 18
+        },
+        {
+            "source": 150,
+            "target": 47
+        },
+        {
+            "source": 150,
+            "target": 146
+        },
+        {
+            "source": 150,
+            "target": 24
+        },
+        {
+            "source": 150,
+            "target": 29
+        },
+        {
+            "source": 151,
+            "target": 87
+        },
+        {
+            "source": 151,
+            "target": 113
+        },
+        {
+            "source": 151,
+            "target": 76
+        },
+        {
+            "source": 151,
+            "target": 47
+        },
+        {
+            "source": 151,
+            "target": 56
+        },
+        {
+            "source": 151,
+            "target": 16
+        },
+        {
+            "source": 151,
+            "target": 17
+        },
+        {
+            "source": 151,
+            "target": 79
+        },
+        {
+            "source": 151,
+            "target": 145
+        },
+        {
+            "source": 151,
+            "target": 106
+        },
+        {
+            "source": 151,
+            "target": 74
+        },
+        {
+            "source": 151,
+            "target": 149
+        },
+        {
+            "source": 151,
+            "target": 107
+        },
+        {
+            "source": 151,
+            "target": 69
+        },
+        {
+            "source": 151,
+            "target": 109
+        },
+        {
+            "source": 151,
+            "target": 146
+        },
+        {
+            "source": 151,
+            "target": 28
+        },
+        {
+            "source": 151,
+            "target": 26
+        },
+        {
+            "source": 151,
+            "target": 30
+        },
+        {
+            "source": 151,
+            "target": 114
+        },
+        {
+            "source": 151,
+            "target": 75
+        },
+        {
+            "source": 151,
+            "target": 101
+        },
+        {
+            "source": 151,
+            "target": 7
+        },
+        {
+            "source": 151,
+            "target": 152
+        },
+        {
+            "source": 151,
+            "target": 5
+        },
+        {
+            "source": 152,
+            "target": 86
+        },
+        {
+            "source": 152,
+            "target": 121
+        },
+        {
+            "source": 152,
+            "target": 141
+        },
+        {
+            "source": 154,
+            "target": 55
+        },
+        {
+            "source": 154,
+            "target": 103
+        },
+        {
+            "source": 155,
+            "target": 138
+        },
+        {
+            "source": 156,
+            "target": 121
+        },
+        {
+            "source": 156,
+            "target": 93
+        },
+        {
+            "source": 156,
+            "target": 23
+        },
+        {
+            "source": 156,
+            "target": 66
+        },
+        {
+            "source": 157,
+            "target": 121
+        },
+        {
+            "source": 157,
+            "target": 66
+        },
+        {
+            "source": 159,
+            "target": 120
+        },
+        {
+            "source": 159,
+            "target": 96
+        },
+        {
+            "source": 160,
+            "target": 51
+        },
+        {
+            "source": 160,
+            "target": 25
+        },
+        {
+            "source": 160,
+            "target": 2
+        },
+        {
+            "source": 160,
+            "target": 118
+        },
+        {
+            "source": 160,
+            "target": 124
+        },
+        {
+            "source": 160,
+            "target": 90
+        },
+        {
+            "source": 160,
+            "target": 92
+        },
+        {
+            "source": 160,
+            "target": 10
+        },
+        {
+            "source": 160,
+            "target": 94
+        },
+        {
+            "source": 160,
+            "target": 108
+        },
+        {
+            "source": 160,
+            "target": 93
+        },
+        {
+            "source": 160,
+            "target": 116
+        },
+        {
+            "source": 160,
+            "target": 98
+        },
+        {
+            "source": 160,
+            "target": 142
+        },
+        {
+            "source": 160,
+            "target": 163
+        },
+        {
+            "source": 160,
+            "target": 95
+        },
+        {
+            "source": 160,
+            "target": 24
+        },
+        {
+            "source": 160,
+            "target": 1
+        },
+        {
+            "source": 160,
+            "target": 33
+        },
+        {
+            "source": 160,
+            "target": 154
+        },
+        {
+            "source": 160,
+            "target": 29
+        },
+        {
+            "source": 160,
+            "target": 126
+        },
+        {
+            "source": 160,
+            "target": 27
+        },
+        {
+            "source": 160,
+            "target": 156
+        },
+        {
+            "source": 160,
+            "target": 102
+        },
+        {
+            "source": 160,
+            "target": 11
+        },
+        {
+            "source": 160,
+            "target": 61
+        },
+        {
+            "source": 160,
+            "target": 123
+        },
+        {
+            "source": 160,
+            "target": 32
+        },
+        {
+            "source": 160,
+            "target": 125
+        },
+        {
+            "source": 160,
+            "target": 55
+        },
+        {
+            "source": 160,
+            "target": 103
+        },
+        {
+            "source": 160,
+            "target": 71
+        },
+        {
+            "source": 160,
+            "target": 139
+        },
+        {
+            "source": 160,
+            "target": 128
+        },
+        {
+            "source": 160,
+            "target": 127
+        },
+        {
+            "source": 160,
+            "target": 50
+        },
+        {
+            "source": 160,
+            "target": 130
+        },
+        {
+            "source": 160,
+            "target": 148
+        },
+        {
+            "source": 160,
+            "target": 132
+        },
+        {
+            "source": 160,
+            "target": 3
+        },
+        {
+            "source": 160,
+            "target": 136
+        },
+        {
+            "source": 160,
+            "target": 137
+        },
+        {
+            "source": 160,
+            "target": 60
+        },
+        {
+            "source": 160,
+            "target": 23
+        },
+        {
+            "source": 160,
+            "target": 44
+        },
+        {
+            "source": 160,
+            "target": 36
+        },
+        {
+            "source": 160,
+            "target": 59
+        },
+        {
+            "source": 160,
+            "target": 120
+        },
+        {
+            "source": 160,
+            "target": 9
+        },
+        {
+            "source": 160,
+            "target": 111
+        },
+        {
+            "source": 160,
+            "target": 46
+        },
+        {
+            "source": 160,
+            "target": 153
+        },
+        {
+            "source": 160,
+            "target": 110
+        },
+        {
+            "source": 160,
+            "target": 157
+        },
+        {
+            "source": 160,
+            "target": 158
+        },
+        {
+            "source": 160,
+            "target": 48
+        },
+        {
+            "source": 161,
+            "target": 20
+        },
+        {
+            "source": 161,
+            "target": 65
+        },
+        {
+            "source": 161,
+            "target": 162
+        },
+        {
+            "source": 161,
+            "target": 73
+        },
+        {
+            "source": 162,
+            "target": 57
+        }
+    ],
+    "graph": {},
+    "basic": {
+        "numEdges": 436,
+        "averagePathLength": 0.7092997156965435,
+        "averageOutDegree": 2.658536585365854,
+        "numNodes": 164,
+        "selfLinks": 0,
+        "averageInDegree": 2.658536585365854
+    }
+}

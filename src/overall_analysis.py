@@ -28,18 +28,17 @@ def retrieve_basic_dicts(dir, current_only=True):
 
 def convert_json_to_numpy(li):
     # Dimensions of the Matrix
-    n, d = len(li), len(li[0].values()) - 1
+    order = ["selfLinks", "numNodes", "averageInDegree", "averagePathLength", "numEdges", "averageOutDegree"]
+    n, d = len(li), len(order)
     x = np.zeros((n, d))
     distributed_path_len = np.zeros(n)
     num_paths_found = np.zeros(n)
-
-    order = ["selfLinks", "numNodes", "averageInDegree", "averagePathLength", "numEdges", "averageOutDegree"]
-
-    assert d == len(order)
+    
+    # assert d == len(order)
 
     for idx, item in enumerate(li):
-        distributed_path_len[idx] = item["decentralized"]["average_decentralized_path_length"]
-        num_paths_found[idx] = item["decentralized"]["num_paths_found"]
+        distributed_path_len[idx] = item["decentralized_average_decentralized_path_length"]
+        num_paths_found[idx] = item["decentralized_num_paths_found"]
         for i in range(d):
             x[idx][i] = float(item[order[i]])
 
@@ -170,7 +169,7 @@ def BOOSTING(x_train, y_train, x_test, y_test):
 if __name__ == '__main__':
     path_reg = True
 
-    listed_data = retrieve_basic_dicts("../data/")
+    listed_data = retrieve_basic_dicts("../data/current/")
     x, distributed_path_lengths, num_paths_found = convert_json_to_numpy(listed_data)
 
     # Splitting data

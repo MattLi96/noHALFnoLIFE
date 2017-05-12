@@ -1,0 +1,2681 @@
+{
+    "edges": [
+        {
+            "source": "Journey of Discovery",
+            "target": "Basic Lands"
+        },
+        {
+            "source": "Journey of Discovery",
+            "target": "Entwine"
+        },
+        {
+            "source": "Daru Stinger",
+            "target": "Creature"
+        },
+        {
+            "source": "Slith Predator",
+            "target": "Trample"
+        },
+        {
+            "source": "Slith Predator",
+            "target": "Creature"
+        },
+        {
+            "source": "Gatecrash",
+            "target": "Boros Battalion"
+        },
+        {
+            "source": "Sixth Edition",
+            "target": "6th Edition"
+        },
+        {
+            "source": "Creature Types",
+            "target": "Champions of Kamigawa"
+        },
+        {
+            "source": "Creature Types",
+            "target": "Time Spiral"
+        },
+        {
+            "source": "Creature Types",
+            "target": "Wizards of the Coast"
+        },
+        {
+            "source": "Creature Types",
+            "target": "Ravnica"
+        },
+        {
+            "source": "Creature Types",
+            "target": "Elves"
+        },
+        {
+            "source": "Creature Types",
+            "target": "Goblins"
+        },
+        {
+            "source": "Ur-Golem's Eye",
+            "target": "Mana Pool"
+        },
+        {
+            "source": "Frontline Sage",
+            "target": "Creature"
+        },
+        {
+            "source": "Worldly Counsel",
+            "target": "Domain"
+        },
+        {
+            "source": "Myr Retriever",
+            "target": "Creature"
+        },
+        {
+            "source": "Bonesplitter",
+            "target": "Equipment"
+        },
+        {
+            "source": "Bonesplitter",
+            "target": "Creature"
+        },
+        {
+            "source": "Rulings:Demonic Consultation",
+            "target": "Magic: The Gathering"
+        },
+        {
+            "source": "Creature's",
+            "target": "Creature"
+        },
+        {
+            "source": "Affinity for Artifacts",
+            "target": "Affinity"
+        },
+        {
+            "source": "Tapped",
+            "target": "Tapping"
+        },
+        {
+            "source": "Sedraxis Alchemist",
+            "target": "Creature"
+        },
+        {
+            "source": "Nyxathid",
+            "target": "Creature"
+        },
+        {
+            "source": "Tom LaPille",
+            "target": "Magic: The Gathering"
+        },
+        {
+            "source": "Tom LaPille",
+            "target": "Wizards of the Coast"
+        },
+        {
+            "source": "Sulfur Vent",
+            "target": "Tapping"
+        },
+        {
+            "source": "Unlimited Edition",
+            "target": "Unlimited"
+        },
+        {
+            "source": "First Strike",
+            "target": "First strike"
+        },
+        {
+            "source": "Lieutenant Kirtar",
+            "target": "Creature"
+        },
+        {
+            "source": "Lore Broker",
+            "target": "Creature"
+        },
+        {
+            "source": "Forestwalk",
+            "target": "Landwalk"
+        },
+        {
+            "source": "Assault Zeppelid",
+            "target": "Trample"
+        },
+        {
+            "source": "Assault Zeppelid",
+            "target": "Flying"
+        },
+        {
+            "source": "Assault Zeppelid",
+            "target": "Creature"
+        },
+        {
+            "source": "Assault Zeppelid",
+            "target": "Momir Vig, Simic Visionary"
+        },
+        {
+            "source": "Niv-mizzet, the firemind",
+            "target": "Niv-mizzet, the Firemind"
+        },
+        {
+            "source": "Sphinx",
+            "target": "Ravnica"
+        },
+        {
+            "source": "Sphinx",
+            "target": "Isperia the Inscrutable"
+        },
+        {
+            "source": "Sphinx",
+            "target": "Sphinx Ambassador"
+        },
+        {
+            "source": "Power Nine",
+            "target": "Time Spiral"
+        },
+        {
+            "source": "Power Nine",
+            "target": "Wizards of the Coast"
+        },
+        {
+            "source": "Ben-Ben, Akki Hermit",
+            "target": "Creature"
+        },
+        {
+            "source": "Haste",
+            "target": "Summoning Sickness"
+        },
+        {
+            "source": "Set",
+            "target": "Time Spiral"
+        },
+        {
+            "source": "Set",
+            "target": "Wizards of the Coast"
+        },
+        {
+            "source": "Set",
+            "target": "The Dark (Magic: The Gathering)"
+        },
+        {
+            "source": "Unlimited",
+            "target": "Magic: The Gathering"
+        },
+        {
+            "source": "Unlimited",
+            "target": "Power Nine"
+        },
+        {
+            "source": "Unlimited",
+            "target": "Wizards of the Coast"
+        },
+        {
+            "source": "Ronom Hulk",
+            "target": "Cumulative Upkeep"
+        },
+        {
+            "source": "Lhurgoyf (type)",
+            "target": "Time Spiral"
+        },
+        {
+            "source": "The Boros Legion",
+            "target": "Boros"
+        },
+        {
+            "source": "Salvage Slasher",
+            "target": "Creature"
+        },
+        {
+            "source": "Rulings:Suleiman's Legacy",
+            "target": "Phasing"
+        },
+        {
+            "source": "The Dark (Magic: The Gathering)",
+            "target": "The Dark"
+        },
+        {
+            "source": "Alpha",
+            "target": "Magic: The Gathering"
+        },
+        {
+            "source": "Alpha",
+            "target": "Richard Garfield"
+        },
+        {
+            "source": "Alpha",
+            "target": "Power Nine"
+        },
+        {
+            "source": "Block",
+            "target": "Blocking"
+        },
+        {
+            "source": "Soul of the Harvest",
+            "target": "Trample"
+        },
+        {
+            "source": "Soul of the Harvest",
+            "target": "Creature"
+        },
+        {
+            "source": "Typecycling",
+            "target": "Cycling"
+        },
+        {
+            "source": "Ravnica Block",
+            "target": "Forecast"
+        },
+        {
+            "source": "Ravnica Block",
+            "target": "Hellbent"
+        },
+        {
+            "source": "Ravnica Block",
+            "target": "Cruzer"
+        },
+        {
+            "source": "Ravnica Block",
+            "target": "Radiance"
+        },
+        {
+            "source": "Ravnica Block",
+            "target": "Dredge"
+        },
+        {
+            "source": "Dreadwing",
+            "target": "Creature"
+        },
+        {
+            "source": "Gnat Alley Creeper",
+            "target": "Creature"
+        },
+        {
+            "source": "Toxic Iguanar",
+            "target": "Creature"
+        },
+        {
+            "source": "MTG Wiki:Images",
+            "target": "Sets"
+        },
+        {
+            "source": "Blockers",
+            "target": "Blocking"
+        },
+        {
+            "source": "Revised",
+            "target": "Magic: The Gathering"
+        },
+        {
+            "source": "Revised",
+            "target": "Ravnica"
+        },
+        {
+            "source": "Revised",
+            "target": "Power Nine"
+        },
+        {
+            "source": "Portal Three Kingdoms",
+            "target": "Portal Three Kingdoms"
+        },
+        {
+            "source": "Core Set",
+            "target": "Fourth Edition"
+        },
+        {
+            "source": "Core Set",
+            "target": "Fifth Edition"
+        },
+        {
+            "source": "Core Set",
+            "target": "Revised"
+        },
+        {
+            "source": "Bull Aurochs",
+            "target": "Trample"
+        },
+        {
+            "source": "Limited Edition Alpha",
+            "target": "Alpha"
+        },
+        {
+            "source": "Tinder Farm",
+            "target": "Tapping"
+        },
+        {
+            "source": "Card Types",
+            "target": "Basic Lands"
+        },
+        {
+            "source": "Card Types",
+            "target": "Cruzer"
+        },
+        {
+            "source": "Slang",
+            "target": "Magic: The Gathering"
+        },
+        {
+            "source": "Rulings:Arcbound Ravager",
+            "target": "-1/-1 counter"
+        },
+        {
+            "source": "Rulings:Arcbound Ravager",
+            "target": "+1/+1 counter"
+        },
+        {
+            "source": "Swampcycling",
+            "target": "Cycling"
+        },
+        {
+            "source": "Boon Cycle",
+            "target": "Alpha"
+        },
+        {
+            "source": "Boon Cycle",
+            "target": "Beta"
+        },
+        {
+            "source": "Boon Cycle",
+            "target": "Power Nine"
+        },
+        {
+            "source": "Boon Cycle",
+            "target": "Unlimited"
+        },
+        {
+            "source": "Carnivorous Death-Parrot",
+            "target": "Flying"
+        },
+        {
+            "source": "Basic land",
+            "target": "Basic Lands"
+        },
+        {
+            "source": "Main Page",
+            "target": "Magic: The Gathering Wiki"
+        },
+        {
+            "source": "Sets",
+            "target": "Set"
+        },
+        {
+            "source": "The Dark",
+            "target": "Sorrow's Path"
+        },
+        {
+            "source": "The Dark",
+            "target": "Ball Lightning"
+        },
+        {
+            "source": "Beta",
+            "target": "Magic: The Gathering"
+        },
+        {
+            "source": "Beta",
+            "target": "Richard Garfield"
+        },
+        {
+            "source": "Beta",
+            "target": "Power Nine"
+        },
+        {
+            "source": "Brine Hag",
+            "target": "Creature"
+        },
+        {
+            "source": "Rulings:Void",
+            "target": "Token"
+        },
+        {
+            "source": "5th Edition",
+            "target": "Magic: The Gathering"
+        },
+        {
+            "source": "5th Edition",
+            "target": "Revised"
+        },
+        {
+            "source": "Murkfiend Liege",
+            "target": "Creature"
+        },
+        {
+            "source": "Tap",
+            "target": "Tapping"
+        },
+        {
+            "source": "Revised Edition",
+            "target": "Revised"
+        },
+        {
+            "source": "4th Edition",
+            "target": "Magic: The Gathering"
+        },
+        {
+            "source": "4th Edition",
+            "target": "Wizards of the Coast"
+        },
+        {
+            "source": "4th Edition",
+            "target": "Revised"
+        },
+        {
+            "source": "4th Edition",
+            "target": "The Dark (Magic: The Gathering)"
+        },
+        {
+            "source": "Creatures",
+            "target": "Creature"
+        },
+        {
+            "source": "Cruzer",
+            "target": "Karoos"
+        },
+        {
+            "source": "WotC",
+            "target": "Wizards of the Coast"
+        },
+        {
+            "source": "Sylvan Primordial",
+            "target": "Creature"
+        },
+        {
+            "source": "Anodet Lurker",
+            "target": "Creature"
+        },
+        {
+            "source": "Knowledge Pool",
+            "target": "Imprint"
+        },
+        {
+            "source": "Mtg",
+            "target": "Magic The Gathering"
+        },
+        {
+            "source": "Horizon Canopy",
+            "target": "Tapping"
+        },
+        {
+            "source": "Dragonsoul Knight",
+            "target": "First strike"
+        },
+        {
+            "source": "Dragonsoul Knight",
+            "target": "Creature"
+        },
+        {
+            "source": "Plated Slagwurm",
+            "target": "Spells"
+        },
+        {
+            "source": "Plated Slagwurm",
+            "target": "Creature"
+        },
+        {
+            "source": "Sapling of Colfenor",
+            "target": "Treefolk"
+        },
+        {
+            "source": "Sapling of Colfenor",
+            "target": "Creature"
+        },
+        {
+            "source": "Karoos",
+            "target": "Ravnica"
+        },
+        {
+            "source": "Karoos",
+            "target": "Ravnica Block"
+        },
+        {
+            "source": "Rulings:Sengir Vampire",
+            "target": "+1/+1 counter"
+        },
+        {
+            "source": "Arcbound Worker",
+            "target": "Creature"
+        },
+        {
+            "source": "Mana",
+            "target": "Mana Pool"
+        },
+        {
+            "source": "Mana",
+            "target": "Creature"
+        },
+        {
+            "source": "Mana",
+            "target": "Card Types"
+        },
+        {
+            "source": "Mana",
+            "target": "Magic The Gathering"
+        },
+        {
+            "source": "Time Spiral Block",
+            "target": "Timeshifted cards"
+        },
+        {
+            "source": "Time Spiral Block",
+            "target": "Time Spiral"
+        },
+        {
+            "source": "Time Spiral Block",
+            "target": "Expansion Blocks"
+        },
+        {
+            "source": "Magic's Planes",
+            "target": "Planes"
+        },
+        {
+            "source": "Boros Battalion",
+            "target": "Gatecrash"
+        },
+        {
+            "source": "Myr Prototype",
+            "target": "Creature"
+        },
+        {
+            "source": "Fourth Edition",
+            "target": "4th Edition"
+        },
+        {
+            "source": "Faerie Mechanist",
+            "target": "Creature"
+        },
+        {
+            "source": "Faerie Mechanist",
+            "target": "Flying"
+        },
+        {
+            "source": "Summoning Sickness",
+            "target": "Haste"
+        },
+        {
+            "source": "Summoning Sickness",
+            "target": "Tapping"
+        },
+        {
+            "source": "Limited Edition Beta",
+            "target": "Beta"
+        },
+        {
+            "source": "Rulings:Boartusk Liege",
+            "target": "Ability"
+        },
+        {
+            "source": "Magic: The Gathering",
+            "target": "MTG"
+        },
+        {
+            "source": "Magic: the gathering",
+            "target": "Magic: The Gathering"
+        },
+        {
+            "source": "Fifth Edition",
+            "target": "5th Edition"
+        },
+        {
+            "source": "Urborg Volcano",
+            "target": "Tapping"
+        },
+        {
+            "source": "Children of Korlis",
+            "target": "Children of Korlis"
+        },
+        {
+            "source": "Suntouched Myr",
+            "target": "Sunburst"
+        },
+        {
+            "source": "Suntouched Myr",
+            "target": "Creature"
+        },
+        {
+            "source": "Pestilent Kathari",
+            "target": "Creature"
+        },
+        {
+            "source": "Pestilent Kathari",
+            "target": "Flying"
+        },
+        {
+            "source": "Plagued Rusalka",
+            "target": "Plagued Rusalka"
+        },
+        {
+            "source": "Void Maw",
+            "target": "Trample"
+        },
+        {
+            "source": "Infectious Horror",
+            "target": "Creature"
+        },
+        {
+            "source": "Plainswalk",
+            "target": "Landwalk"
+        },
+        {
+            "source": "Gravespawn Sovereign",
+            "target": "Creature"
+        },
+        {
+            "source": "Arachnoid",
+            "target": "Creature"
+        },
+        {
+            "source": "Rules",
+            "target": "Magic: The Gathering"
+        },
+        {
+            "source": "Yeva, Nature's Herald",
+            "target": "Creature"
+        },
+        {
+            "source": "Myr Enforcer",
+            "target": "Affinity"
+        },
+        {
+            "source": "Myr Enforcer",
+            "target": "Creature"
+        },
+        {
+            "source": "Double strike",
+            "target": "Double Strike"
+        },
+        {
+            "source": "You need to know this",
+            "target": "MTG"
+        },
+        {
+            "source": "You need to know this",
+            "target": "WotC"
+        },
+        {
+            "source": "Rulings:Llanowar Reborn",
+            "target": "+1/+1 counter"
+        },
+        {
+            "source": "Magic: The Gathering Wiki",
+            "target": "Mechanics"
+        },
+        {
+            "source": "Magic: The Gathering Wiki",
+            "target": "Richard Garfield"
+        },
+        {
+            "source": "Magic: The Gathering Wiki",
+            "target": "MTG"
+        },
+        {
+            "source": "Magic: The Gathering Wiki",
+            "target": "Magic's Planes"
+        },
+        {
+            "source": "Magic: The Gathering Wiki",
+            "target": "Wizards of the Coast"
+        },
+        {
+            "source": "Magic: The Gathering Wiki",
+            "target": "Card Types"
+        },
+        {
+            "source": "Magic: The Gathering Wiki",
+            "target": "Expansion Blocks"
+        },
+        {
+            "source": "Magic: The Gathering Wiki",
+            "target": "You need to know this"
+        },
+        {
+            "source": "Magic: The Gathering Wiki",
+            "target": "Rules"
+        },
+        {
+            "source": "Magic: The Gathering Wiki",
+            "target": "Sets"
+        },
+        {
+            "source": "Token",
+            "target": "Creature"
+        },
+        {
+            "source": "Familiars",
+            "target": "Planeshift"
+        },
+        {
+            "source": "Ravinca Block",
+            "target": "Ravnica Block"
+        },
+        {
+            "source": "Auratog",
+            "target": "Atog"
+        },
+        {
+            "source": "Auratog",
+            "target": "Creature"
+        },
+        {
+            "source": "Hellbent",
+            "target": "Ravnica"
+        },
+        {
+            "source": "Time Spiral block",
+            "target": "Time Spiral Block"
+        },
+        {
+            "source": "Fiery Fall",
+            "target": "Cycling"
+        },
+        {
+            "source": "Ravnica block",
+            "target": "Ravnica Block"
+        },
+        {
+            "source": "Ball Lightning",
+            "target": "Haste"
+        },
+        {
+            "source": "Ball Lightning",
+            "target": "Trample"
+        },
+        {
+            "source": "Expansion Blocks",
+            "target": "Time Spiral Block"
+        },
+        {
+            "source": "Expansion Blocks",
+            "target": "Ravinca Block"
+        },
+        {
+            "source": "Incarnation",
+            "target": "Wonder"
+        },
+        {
+            "source": "Incarnation",
+            "target": "Filth"
+        },
+        {
+            "source": "Incarnation",
+            "target": "Valor"
+        },
+        {
+            "source": "Incarnation",
+            "target": "Brawn"
+        },
+        {
+            "source": "Incarnation",
+            "target": "Anger"
+        },
+        {
+            "source": "Incarnation",
+            "target": "Alpha"
+        },
+        {
+            "source": "Incarnation",
+            "target": "Glory"
+        },
+        {
+            "source": "Magic The Gathering",
+            "target": "Main Page"
+        },
+        {
+            "source": "Zodiac Dragon",
+            "target": "Creature"
+        },
+        {
+            "source": "Swampwalk",
+            "target": "Landwalk"
+        },
+        {
+            "source": "Basic Lands",
+            "target": "Cruzer"
+        },
+        {
+            "source": "Planes",
+            "target": "Ravnica"
+        },
+        {
+            "source": "J\u00f6tun Owl Keeper",
+            "target": "Cumulative Upkeep"
+        },
+        {
+            "source": "Card",
+            "target": "Magic: The Gathering"
+        },
+        {
+            "source": "Devoted Hero",
+            "target": "Creature"
+        },
+        {
+            "source": "Inkwell Leviathan",
+            "target": "Creature"
+        },
+        {
+            "source": "Inkwell Leviathan",
+            "target": "Landwalk"
+        },
+        {
+            "source": "Rulings:Shorecrasher Mimic",
+            "target": "Static ability"
+        },
+        {
+            "source": "Elfhame Palace",
+            "target": "Tapping"
+        }
+    ],
+    "directed": true,
+    "multigraph": false,
+    "nodes": [
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Journey of Discovery"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Entwine"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Brawn"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Phasing"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "MTG"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Daru Stinger"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Mana Pool"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Slith Predator"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Gatecrash"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Sixth Edition"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Creature Types"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Ur-Golem's Eye"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Frontline Sage"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Worldly Counsel"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Myr Retriever"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Landwalk"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Bonesplitter"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Rulings:Demonic Consultation"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Creature's"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Affinity for Artifacts"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Tapped"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Sedraxis Alchemist"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Nyxathid"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Tom LaPille"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Sulfur Vent"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "6th Edition"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Unlimited Edition"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "First Strike"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lieutenant Kirtar"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Affinity"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lore Broker"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Filth"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Forestwalk"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Assault Zeppelid"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Niv-mizzet, the firemind"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Sphinx"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Valor"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Equipment"
+        },
+        {
+            "parity": 0,
+            "degree": 7,
+            "id": "Power Nine"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Ben-Ben, Akki Hermit"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Haste"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Set"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Unlimited"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Spells"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Ronom Hulk"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Elves"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lhurgoyf (type)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "The Boros Legion"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Isperia the Inscrutable"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Salvage Slasher"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Blocking"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Mechanics"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Timeshifted cards"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Rulings:Suleiman's Legacy"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Forecast"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Richard Garfield"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "The Dark (Magic: The Gathering)"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Alpha"
+        },
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "Tapping"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Block"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Soul of the Harvest"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Typecycling"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Trample"
+        },
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "Ravnica Block"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Dreadwing"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Glory"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Gnat Alley Creeper"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Toxic Iguanar"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "MTG Wiki:Images"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Blockers"
+        },
+        {
+            "parity": 0,
+            "degree": 7,
+            "id": "Revised"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Portal Three Kingdoms"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Niv-mizzet, the Firemind"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Core Set"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Bull Aurochs"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Planeshift"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Limited Edition Alpha"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Tinder Farm"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Card Types"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Slang"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Radiance"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Rulings:Arcbound Ravager"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Swampcycling"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Boon Cycle"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Carnivorous Death-Parrot"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "First strike"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Basic land"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Main Page"
+        },
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "Wizards of the Coast"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "-1/-1 counter"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Sets"
+        },
+        {
+            "parity": 0,
+            "degree": 41,
+            "id": "Creature"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "The Dark"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Beta"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Brine Hag"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Rulings:Void"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "+1/+1 counter"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Sphinx Ambassador"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "5th Edition"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Murkfiend Liege"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Tap"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Revised Edition"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "4th Edition"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Creatures"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Cruzer"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "WotC"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Sylvan Primordial"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Treefolk"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Anodet Lurker"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Knowledge Pool"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Time Spiral"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Champions of Kamigawa"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Mtg"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Anger"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Ravnica"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Horizon Canopy"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Dragonsoul Knight"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Plated Slagwurm"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Sapling of Colfenor"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Ability"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Karoos"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Rulings:Sengir Vampire"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Arcbound Worker"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Double Strike"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Mana"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Time Spiral Block"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Magic's Planes"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Boros Battalion"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Myr Prototype"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Fourth Edition"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Faerie Mechanist"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Summoning Sickness"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Cumulative Upkeep"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Limited Edition Beta"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Goblins"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Rulings:Boartusk Liege"
+        },
+        {
+            "parity": 0,
+            "degree": 13,
+            "id": "Magic: The Gathering"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Magic: the gathering"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Fifth Edition"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Urborg Volcano"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Momir Vig, Simic Visionary"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Cycling"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Children of Korlis"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Suntouched Myr"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Pestilent Kathari"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Plagued Rusalka"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Void Maw"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Infectious Horror"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Plainswalk"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Gravespawn Sovereign"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Arachnoid"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Flying"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Rules"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Yeva, Nature's Herald"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Myr Enforcer"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Static ability"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Double strike"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Boros"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "You need to know this"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Rulings:Llanowar Reborn"
+        },
+        {
+            "parity": 0,
+            "degree": 11,
+            "id": "Magic: The Gathering Wiki"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Token"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Wonder"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Familiars"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Ravinca Block"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Auratog"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Sorrow's Path"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Hellbent"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Time Spiral block"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Atog"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Fiery Fall"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Ravnica block"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Ball Lightning"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Expansion Blocks"
+        },
+        {
+            "parity": 0,
+            "degree": 7,
+            "id": "Incarnation"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Imprint"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Magic The Gathering"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Zodiac Dragon"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Swampwalk"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Basic Lands"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Sunburst"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Planes"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "J\u00f6tun Owl Keeper"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Card"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Domain"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Dredge"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Devoted Hero"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Inkwell Leviathan"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Rulings:Shorecrasher Mimic"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Elfhame Palace"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 179
+        },
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 5,
+            "target": 91
+        },
+        {
+            "source": 7,
+            "target": 62
+        },
+        {
+            "source": 7,
+            "target": 91
+        },
+        {
+            "source": 8,
+            "target": 127
+        },
+        {
+            "source": 9,
+            "target": 25
+        },
+        {
+            "source": 10,
+            "target": 111
+        },
+        {
+            "source": 10,
+            "target": 110
+        },
+        {
+            "source": 10,
+            "target": 88
+        },
+        {
+            "source": 10,
+            "target": 114
+        },
+        {
+            "source": 10,
+            "target": 45
+        },
+        {
+            "source": 10,
+            "target": 134
+        },
+        {
+            "source": 11,
+            "target": 6
+        },
+        {
+            "source": 12,
+            "target": 91
+        },
+        {
+            "source": 13,
+            "target": 184
+        },
+        {
+            "source": 14,
+            "target": 91
+        },
+        {
+            "source": 16,
+            "target": 37
+        },
+        {
+            "source": 16,
+            "target": 91
+        },
+        {
+            "source": 17,
+            "target": 136
+        },
+        {
+            "source": 18,
+            "target": 91
+        },
+        {
+            "source": 19,
+            "target": 29
+        },
+        {
+            "source": 20,
+            "target": 58
+        },
+        {
+            "source": 21,
+            "target": 91
+        },
+        {
+            "source": 22,
+            "target": 91
+        },
+        {
+            "source": 23,
+            "target": 136
+        },
+        {
+            "source": 23,
+            "target": 88
+        },
+        {
+            "source": 24,
+            "target": 58
+        },
+        {
+            "source": 26,
+            "target": 42
+        },
+        {
+            "source": 27,
+            "target": 85
+        },
+        {
+            "source": 28,
+            "target": 91
+        },
+        {
+            "source": 30,
+            "target": 91
+        },
+        {
+            "source": 32,
+            "target": 15
+        },
+        {
+            "source": 33,
+            "target": 62
+        },
+        {
+            "source": 33,
+            "target": 151
+        },
+        {
+            "source": 33,
+            "target": 91
+        },
+        {
+            "source": 33,
+            "target": 140
+        },
+        {
+            "source": 34,
+            "target": 72
+        },
+        {
+            "source": 35,
+            "target": 114
+        },
+        {
+            "source": 35,
+            "target": 48
+        },
+        {
+            "source": 35,
+            "target": 97
+        },
+        {
+            "source": 38,
+            "target": 110
+        },
+        {
+            "source": 38,
+            "target": 88
+        },
+        {
+            "source": 39,
+            "target": 91
+        },
+        {
+            "source": 40,
+            "target": 131
+        },
+        {
+            "source": 41,
+            "target": 110
+        },
+        {
+            "source": 41,
+            "target": 88
+        },
+        {
+            "source": 41,
+            "target": 56
+        },
+        {
+            "source": 42,
+            "target": 136
+        },
+        {
+            "source": 42,
+            "target": 38
+        },
+        {
+            "source": 42,
+            "target": 88
+        },
+        {
+            "source": 44,
+            "target": 132
+        },
+        {
+            "source": 46,
+            "target": 110
+        },
+        {
+            "source": 47,
+            "target": 157
+        },
+        {
+            "source": 49,
+            "target": 91
+        },
+        {
+            "source": 53,
+            "target": 3
+        },
+        {
+            "source": 56,
+            "target": 92
+        },
+        {
+            "source": 57,
+            "target": 136
+        },
+        {
+            "source": 57,
+            "target": 55
+        },
+        {
+            "source": 57,
+            "target": 38
+        },
+        {
+            "source": 59,
+            "target": 50
+        },
+        {
+            "source": 60,
+            "target": 62
+        },
+        {
+            "source": 60,
+            "target": 91
+        },
+        {
+            "source": 61,
+            "target": 141
+        },
+        {
+            "source": 63,
+            "target": 54
+        },
+        {
+            "source": 63,
+            "target": 167
+        },
+        {
+            "source": 63,
+            "target": 104
+        },
+        {
+            "source": 63,
+            "target": 80
+        },
+        {
+            "source": 63,
+            "target": 185
+        },
+        {
+            "source": 64,
+            "target": 91
+        },
+        {
+            "source": 66,
+            "target": 91
+        },
+        {
+            "source": 67,
+            "target": 91
+        },
+        {
+            "source": 68,
+            "target": 90
+        },
+        {
+            "source": 69,
+            "target": 50
+        },
+        {
+            "source": 70,
+            "target": 136
+        },
+        {
+            "source": 70,
+            "target": 114
+        },
+        {
+            "source": 70,
+            "target": 38
+        },
+        {
+            "source": 71,
+            "target": 71
+        },
+        {
+            "source": 73,
+            "target": 129
+        },
+        {
+            "source": 73,
+            "target": 138
+        },
+        {
+            "source": 73,
+            "target": 70
+        },
+        {
+            "source": 74,
+            "target": 62
+        },
+        {
+            "source": 76,
+            "target": 57
+        },
+        {
+            "source": 77,
+            "target": 58
+        },
+        {
+            "source": 78,
+            "target": 179
+        },
+        {
+            "source": 78,
+            "target": 104
+        },
+        {
+            "source": 79,
+            "target": 136
+        },
+        {
+            "source": 81,
+            "target": 89
+        },
+        {
+            "source": 81,
+            "target": 96
+        },
+        {
+            "source": 82,
+            "target": 141
+        },
+        {
+            "source": 83,
+            "target": 57
+        },
+        {
+            "source": 83,
+            "target": 93
+        },
+        {
+            "source": 83,
+            "target": 38
+        },
+        {
+            "source": 83,
+            "target": 42
+        },
+        {
+            "source": 84,
+            "target": 151
+        },
+        {
+            "source": 86,
+            "target": 179
+        },
+        {
+            "source": 87,
+            "target": 160
+        },
+        {
+            "source": 90,
+            "target": 41
+        },
+        {
+            "source": 92,
+            "target": 166
+        },
+        {
+            "source": 92,
+            "target": 172
+        },
+        {
+            "source": 93,
+            "target": 136
+        },
+        {
+            "source": 93,
+            "target": 55
+        },
+        {
+            "source": 93,
+            "target": 38
+        },
+        {
+            "source": 94,
+            "target": 91
+        },
+        {
+            "source": 95,
+            "target": 161
+        },
+        {
+            "source": 98,
+            "target": 136
+        },
+        {
+            "source": 98,
+            "target": 70
+        },
+        {
+            "source": 99,
+            "target": 91
+        },
+        {
+            "source": 100,
+            "target": 58
+        },
+        {
+            "source": 101,
+            "target": 70
+        },
+        {
+            "source": 102,
+            "target": 136
+        },
+        {
+            "source": 102,
+            "target": 88
+        },
+        {
+            "source": 102,
+            "target": 70
+        },
+        {
+            "source": 102,
+            "target": 56
+        },
+        {
+            "source": 103,
+            "target": 91
+        },
+        {
+            "source": 104,
+            "target": 120
+        },
+        {
+            "source": 105,
+            "target": 88
+        },
+        {
+            "source": 106,
+            "target": 91
+        },
+        {
+            "source": 108,
+            "target": 91
+        },
+        {
+            "source": 109,
+            "target": 175
+        },
+        {
+            "source": 112,
+            "target": 176
+        },
+        {
+            "source": 115,
+            "target": 58
+        },
+        {
+            "source": 116,
+            "target": 85
+        },
+        {
+            "source": 116,
+            "target": 91
+        },
+        {
+            "source": 117,
+            "target": 43
+        },
+        {
+            "source": 117,
+            "target": 91
+        },
+        {
+            "source": 118,
+            "target": 107
+        },
+        {
+            "source": 118,
+            "target": 91
+        },
+        {
+            "source": 120,
+            "target": 114
+        },
+        {
+            "source": 120,
+            "target": 63
+        },
+        {
+            "source": 121,
+            "target": 96
+        },
+        {
+            "source": 122,
+            "target": 91
+        },
+        {
+            "source": 124,
+            "target": 6
+        },
+        {
+            "source": 124,
+            "target": 91
+        },
+        {
+            "source": 124,
+            "target": 78
+        },
+        {
+            "source": 124,
+            "target": 176
+        },
+        {
+            "source": 125,
+            "target": 52
+        },
+        {
+            "source": 125,
+            "target": 110
+        },
+        {
+            "source": 125,
+            "target": 173
+        },
+        {
+            "source": 126,
+            "target": 181
+        },
+        {
+            "source": 127,
+            "target": 8
+        },
+        {
+            "source": 128,
+            "target": 91
+        },
+        {
+            "source": 129,
+            "target": 102
+        },
+        {
+            "source": 130,
+            "target": 91
+        },
+        {
+            "source": 130,
+            "target": 151
+        },
+        {
+            "source": 131,
+            "target": 40
+        },
+        {
+            "source": 131,
+            "target": 58
+        },
+        {
+            "source": 133,
+            "target": 93
+        },
+        {
+            "source": 135,
+            "target": 119
+        },
+        {
+            "source": 136,
+            "target": 4
+        },
+        {
+            "source": 137,
+            "target": 136
+        },
+        {
+            "source": 138,
+            "target": 98
+        },
+        {
+            "source": 139,
+            "target": 58
+        },
+        {
+            "source": 142,
+            "target": 142
+        },
+        {
+            "source": 143,
+            "target": 180
+        },
+        {
+            "source": 143,
+            "target": 91
+        },
+        {
+            "source": 144,
+            "target": 91
+        },
+        {
+            "source": 144,
+            "target": 151
+        },
+        {
+            "source": 145,
+            "target": 145
+        },
+        {
+            "source": 146,
+            "target": 62
+        },
+        {
+            "source": 147,
+            "target": 91
+        },
+        {
+            "source": 148,
+            "target": 15
+        },
+        {
+            "source": 149,
+            "target": 91
+        },
+        {
+            "source": 150,
+            "target": 91
+        },
+        {
+            "source": 152,
+            "target": 136
+        },
+        {
+            "source": 153,
+            "target": 91
+        },
+        {
+            "source": 154,
+            "target": 29
+        },
+        {
+            "source": 154,
+            "target": 91
+        },
+        {
+            "source": 156,
+            "target": 123
+        },
+        {
+            "source": 158,
+            "target": 4
+        },
+        {
+            "source": 158,
+            "target": 105
+        },
+        {
+            "source": 159,
+            "target": 96
+        },
+        {
+            "source": 160,
+            "target": 51
+        },
+        {
+            "source": 160,
+            "target": 55
+        },
+        {
+            "source": 160,
+            "target": 4
+        },
+        {
+            "source": 160,
+            "target": 126
+        },
+        {
+            "source": 160,
+            "target": 88
+        },
+        {
+            "source": 160,
+            "target": 78
+        },
+        {
+            "source": 160,
+            "target": 173
+        },
+        {
+            "source": 160,
+            "target": 158
+        },
+        {
+            "source": 160,
+            "target": 152
+        },
+        {
+            "source": 160,
+            "target": 90
+        },
+        {
+            "source": 161,
+            "target": 91
+        },
+        {
+            "source": 163,
+            "target": 75
+        },
+        {
+            "source": 164,
+            "target": 63
+        },
+        {
+            "source": 165,
+            "target": 169
+        },
+        {
+            "source": 165,
+            "target": 91
+        },
+        {
+            "source": 167,
+            "target": 114
+        },
+        {
+            "source": 168,
+            "target": 125
+        },
+        {
+            "source": 170,
+            "target": 141
+        },
+        {
+            "source": 171,
+            "target": 63
+        },
+        {
+            "source": 172,
+            "target": 40
+        },
+        {
+            "source": 172,
+            "target": 62
+        },
+        {
+            "source": 173,
+            "target": 125
+        },
+        {
+            "source": 173,
+            "target": 164
+        },
+        {
+            "source": 174,
+            "target": 162
+        },
+        {
+            "source": 174,
+            "target": 31
+        },
+        {
+            "source": 174,
+            "target": 36
+        },
+        {
+            "source": 174,
+            "target": 2
+        },
+        {
+            "source": 174,
+            "target": 113
+        },
+        {
+            "source": 174,
+            "target": 57
+        },
+        {
+            "source": 174,
+            "target": 65
+        },
+        {
+            "source": 176,
+            "target": 87
+        },
+        {
+            "source": 177,
+            "target": 91
+        },
+        {
+            "source": 178,
+            "target": 15
+        },
+        {
+            "source": 179,
+            "target": 104
+        },
+        {
+            "source": 181,
+            "target": 114
+        },
+        {
+            "source": 182,
+            "target": 132
+        },
+        {
+            "source": 183,
+            "target": 136
+        },
+        {
+            "source": 186,
+            "target": 91
+        },
+        {
+            "source": 187,
+            "target": 91
+        },
+        {
+            "source": 187,
+            "target": 15
+        },
+        {
+            "source": 188,
+            "target": 155
+        },
+        {
+            "source": 189,
+            "target": 58
+        }
+    ],
+    "graph": {},
+    "basic": {
+        "numEdges": 214,
+        "averagePathLength": 1.5,
+        "averageOutDegree": 1.1263157894736842,
+        "numNodes": 190,
+        "selfLinks": 3,
+        "averageInDegree": 1.1263157894736842
+    }
+}

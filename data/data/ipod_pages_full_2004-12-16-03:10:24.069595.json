@@ -1,0 +1,146 @@
+{
+    "edges": [
+        {
+            "source": "IPod Touch 4g",
+            "target": "IPod Touch 4"
+        },
+        {
+            "source": "MultiFinder",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Temple Run",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "App:Angry Birds Star Wars",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Final Cut Server",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Temple Run 2",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "MacWrite",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "MacWrite",
+            "target": "GUI"
+        },
+        {
+            "source": "Jurassic Park Builder",
+            "target": "Mac OS X"
+        }
+    ],
+    "directed": true,
+    "multigraph": false,
+    "nodes": [
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "IPod Touch 4g"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "MultiFinder"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Temple Run"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "App:Angry Birds Star Wars"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "IPod Touch 4"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Final Cut Server"
+        },
+        {
+            "parity": 0,
+            "degree": 7,
+            "id": "Mac OS X"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Temple Run 2"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "MacWrite"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "GUI"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Jurassic Park Builder"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 1,
+            "target": 6
+        },
+        {
+            "source": 2,
+            "target": 6
+        },
+        {
+            "source": 3,
+            "target": 6
+        },
+        {
+            "source": 5,
+            "target": 6
+        },
+        {
+            "source": 7,
+            "target": 6
+        },
+        {
+            "source": 8,
+            "target": 6
+        },
+        {
+            "source": 8,
+            "target": 9
+        },
+        {
+            "source": 10,
+            "target": 6
+        }
+    ],
+    "graph": {},
+    "basic": {
+        "numEdges": 9,
+        "averagePathLength": 0,
+        "averageOutDegree": 0.8181818181818182,
+        "numNodes": 11,
+        "selfLinks": 0,
+        "averageInDegree": 0.8181818181818182
+    }
+}

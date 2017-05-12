@@ -1,0 +1,927 @@
+{
+    "edges": [
+        {
+            "source": "Lyrics:Polkamon",
+            "target": "Song:Polkamon"
+        },
+        {
+            "source": "Song:Theme from Rocky XIII",
+            "target": "Theme From Rocky XIII"
+        },
+        {
+            "source": "Lyrics:Don't You Forget About Meat",
+            "target": "Don't You Forget About Meat"
+        },
+        {
+            "source": "Lyrics:Eat It",
+            "target": "Song:Eat It"
+        },
+        {
+            "source": "Lyrics:Weasel Stomping Day",
+            "target": "Song:Weasel Stomping Day"
+        },
+        {
+            "source": "Pigeons",
+            "target": "Lyrics:Pigeons"
+        },
+        {
+            "source": "Lyrics:The Ballad Of Kent Marlow",
+            "target": "The Ballad Of Kent Marlow"
+        },
+        {
+            "source": "Leisure Suit Serenade",
+            "target": "Lyrics:Leisure Suit Serenade"
+        },
+        {
+            "source": "Lyrics:Attack Of The Radioactive Hamsters From A Planet Near Mars",
+            "target": "Song:Attack Of The Radioactive Hamsters From A Planet Near Mars"
+        },
+        {
+            "source": "Lyrics:Al's Band (Instrumental)",
+            "target": "Al's Band (Instrumental)"
+        },
+        {
+            "source": "Lyrics:Yoda Chant",
+            "target": "Song:Yoda Chant"
+        },
+        {
+            "source": "Lyrics:Vulture",
+            "target": "Vulture"
+        },
+        {
+            "source": "UHF (film)",
+            "target": "UHF Movie"
+        },
+        {
+            "source": "The Ballad Of Kent Marlow",
+            "target": "Lyrics:The Ballad Of Kent Marlow"
+        },
+        {
+            "source": "Finale",
+            "target": "Lyrics:Finale"
+        },
+        {
+            "source": "Poodle",
+            "target": "Lyrics:Poodle"
+        },
+        {
+            "source": "Lyrics:Polka Your Eyes Out",
+            "target": "Song:Polka Your Eyes Out"
+        },
+        {
+            "source": "Lyrics:Ebay",
+            "target": "Lyrics:EBay"
+        },
+        {
+            "source": "Lyrics:Stanley Spadowski's Theme",
+            "target": "Lyrics:Fun Zone"
+        },
+        {
+            "source": "My Home Movies",
+            "target": "Poodle Hat"
+        },
+        {
+            "source": "Theme from Rocky XIII",
+            "target": "Theme From Rocky XIII"
+        },
+        {
+            "source": "Rick Derringer",
+            "target": "Weird Al"
+        },
+        {
+            "source": "Alligator",
+            "target": "Lyrics:Alligator"
+        },
+        {
+            "source": "Lyrics:Doctor",
+            "target": "Doctor"
+        },
+        {
+            "source": "Lyrics:Leisure Suit Serenade",
+            "target": "Leisure Suit Serenade"
+        },
+        {
+            "source": "Snails",
+            "target": "Lyrics:Snails"
+        },
+        {
+            "source": "My Bologna (food medley)",
+            "target": "Lyrics:My Bologna (food medley)"
+        },
+        {
+            "source": "Hit Me With A Rock",
+            "target": "Lyrics:Hit Me With A Rock"
+        },
+        {
+            "source": "Lyrics:Poodle",
+            "target": "Poodle"
+        },
+        {
+            "source": "Lyrics:I Think I'm A Clone Now",
+            "target": "Song:I Think I'm A Clone Now"
+        },
+        {
+            "source": "Vulture",
+            "target": "Lyrics:Vulture"
+        },
+        {
+            "source": "Lyrics:Beverly Hillbillies/Miss You",
+            "target": "Song:Beverly Hillbillies/Miss You"
+        },
+        {
+            "source": "I Feel Like Throwin' Up",
+            "target": "Lyrics:I Feel Like Throwin' Up"
+        },
+        {
+            "source": "Lyrics:Attack Of The Radioactive Hamsters...",
+            "target": "Lyrics:Attack Of The Radioactive Hamsters From A Planet Near Mars"
+        },
+        {
+            "source": "Feel Like Throwing Up",
+            "target": "I Feel Like Throwin' Up"
+        },
+        {
+            "source": "Lyrics:Alligator",
+            "target": "Alligator"
+        },
+        {
+            "source": "Spy Hard (Orchestral)",
+            "target": "Spy Hard (Instrumental)"
+        },
+        {
+            "source": "Spy Hard (Orchestral)",
+            "target": "Song:Spy Hard"
+        },
+        {
+            "source": "Lyrics:Snails",
+            "target": "Snails"
+        },
+        {
+            "source": "Lyrics:Song:Perform This Way",
+            "target": "Lyrics:Perform This Way"
+        },
+        {
+            "source": "Lyrics:Finale",
+            "target": "Finale"
+        },
+        {
+            "source": "Lyrics:Money For Nothing/Beverly Hillbillies",
+            "target": "Money For Nothing/Beverly Hillbillies"
+        },
+        {
+            "source": "Spy Hard (Instrumental)",
+            "target": "Song:Spy Hard"
+        },
+        {
+            "source": "Spy Hard (Instrumental)",
+            "target": "Spy Hard (Orchestral)"
+        },
+        {
+            "source": "Lyrics:Confessions Part III",
+            "target": "Song:Confessions Part III"
+        },
+        {
+            "source": "Internet Leaks",
+            "target": "Album:Internet Leaks"
+        },
+        {
+            "source": "Don't You Forget About Meat",
+            "target": "Lyrics:Don't You Forget About Meat"
+        },
+        {
+            "source": "Lyrics:Christmas At Ground Zero (Alternate Mix)",
+            "target": "Christmas At Ground Zero (Alternate Mix)"
+        },
+        {
+            "source": "Christmas At Ground Zero (Alternate Mix)",
+            "target": "Lyrics:Christmas At Ground Zero (Alternate Mix)"
+        },
+        {
+            "source": "Studio Albums",
+            "target": "Studio Albums (info)"
+        },
+        {
+            "source": "Album:Placebo",
+            "target": "Album:Another One Rides The Bus"
+        },
+        {
+            "source": "Lyrics:My Bologna (food medley)",
+            "target": "My Bologna (food medley)"
+        },
+        {
+            "source": "Lyrics:Hit Me With A Rock",
+            "target": "Hit Me With A Rock"
+        },
+        {
+            "source": "Lyrics:Pigeons",
+            "target": "Pigeons"
+        },
+        {
+            "source": "Lyrics:Unicorn",
+            "target": "Unicorn"
+        },
+        {
+            "source": "Lyrics:I Feel Like Throwin' Up",
+            "target": "I Feel Like Throwin' Up"
+        },
+        {
+            "source": "Lyrics:The Night Santa Went Crazy (Extra Gory Version)",
+            "target": "Song:The Night Santa Went Crazy (Extra Gory Version)"
+        },
+        {
+            "source": "Album:Another One Rides the Bus",
+            "target": "Album:Another One Rides The Bus"
+        },
+        {
+            "source": "Lyrics:Stuck In A Closet With Vanna White",
+            "target": "Song:Stuck In A Closet With Vanna White"
+        },
+        {
+            "source": "Unicorn",
+            "target": "Lyrics:Unicorn"
+        },
+        {
+            "source": "Theme from Rocky XIII (song)",
+            "target": "Theme From Rocky XIII"
+        }
+    ],
+    "directed": true,
+    "multigraph": false,
+    "nodes": [
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Polkamon"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Theme From Rocky XIII"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:Theme from Rocky XIII"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:Eat It"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Don't You Forget About Meat"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Album:Another One Rides The Bus"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Eat It"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Weasel Stomping Day"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Pigeons"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:I Think I'm A Clone Now"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Doctor"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:The Ballad Of Kent Marlow"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Leisure Suit Serenade"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Attack Of The Radioactive Hamsters From A Planet Near Mars"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Al's Band (Instrumental)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Yoda Chant"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:Yoda Chant"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Album:Internet Leaks"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Vulture"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "UHF (film)"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "The Ballad Of Kent Marlow"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Finale"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Poodle"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Polka Your Eyes Out"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Ebay"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Stanley Spadowski's Theme"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "My Home Movies"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Theme from Rocky XIII"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:Polka Your Eyes Out"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Rick Derringer"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "UHF Movie"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Weird Al"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:Confessions Part III"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Perform This Way"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:EBay"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Alligator"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Doctor"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Leisure Suit Serenade"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Snails"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "My Bologna (food medley)"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Hit Me With A Rock"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Poodle"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:I Think I'm A Clone Now"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Vulture"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Beverly Hillbillies/Miss You"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "I Feel Like Throwin' Up"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Money For Nothing/Beverly Hillbillies"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Attack Of The Radioactive Hamsters..."
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:Beverly Hillbillies/Miss You"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:Weasel Stomping Day"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Feel Like Throwing Up"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Alligator"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Song:Spy Hard"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Studio Albums (info)"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Spy Hard (Orchestral)"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Snails"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Song:Perform This Way"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Finale"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Money For Nothing/Beverly Hillbillies"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Spy Hard (Instrumental)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Confessions Part III"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Poodle Hat"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:Polkamon"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Internet Leaks"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Don't You Forget About Meat"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Christmas At Ground Zero (Alternate Mix)"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Christmas At Ground Zero (Alternate Mix)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Studio Albums"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:Attack Of The Radioactive Hamsters From A Planet Near Mars"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Album:Placebo"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:My Bologna (food medley)"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Hit Me With A Rock"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Al's Band (Instrumental)"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Pigeons"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Unicorn"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:Stuck In A Closet With Vanna White"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:I Feel Like Throwin' Up"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:The Night Santa Went Crazy (Extra Gory Version)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:The Night Santa Went Crazy (Extra Gory Version)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Album:Another One Rides the Bus"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Stuck In A Closet With Vanna White"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Unicorn"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Fun Zone"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Theme from Rocky XIII (song)"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 62
+        },
+        {
+            "source": 2,
+            "target": 1
+        },
+        {
+            "source": 4,
+            "target": 64
+        },
+        {
+            "source": 6,
+            "target": 3
+        },
+        {
+            "source": 7,
+            "target": 49
+        },
+        {
+            "source": 8,
+            "target": 73
+        },
+        {
+            "source": 11,
+            "target": 20
+        },
+        {
+            "source": 12,
+            "target": 37
+        },
+        {
+            "source": 13,
+            "target": 68
+        },
+        {
+            "source": 14,
+            "target": 72
+        },
+        {
+            "source": 15,
+            "target": 16
+        },
+        {
+            "source": 18,
+            "target": 43
+        },
+        {
+            "source": 19,
+            "target": 30
+        },
+        {
+            "source": 20,
+            "target": 11
+        },
+        {
+            "source": 21,
+            "target": 57
+        },
+        {
+            "source": 22,
+            "target": 41
+        },
+        {
+            "source": 23,
+            "target": 28
+        },
+        {
+            "source": 24,
+            "target": 34
+        },
+        {
+            "source": 25,
+            "target": 82
+        },
+        {
+            "source": 26,
+            "target": 61
+        },
+        {
+            "source": 27,
+            "target": 1
+        },
+        {
+            "source": 29,
+            "target": 31
+        },
+        {
+            "source": 35,
+            "target": 51
+        },
+        {
+            "source": 36,
+            "target": 10
+        },
+        {
+            "source": 37,
+            "target": 12
+        },
+        {
+            "source": 38,
+            "target": 55
+        },
+        {
+            "source": 39,
+            "target": 70
+        },
+        {
+            "source": 40,
+            "target": 71
+        },
+        {
+            "source": 41,
+            "target": 22
+        },
+        {
+            "source": 42,
+            "target": 9
+        },
+        {
+            "source": 43,
+            "target": 18
+        },
+        {
+            "source": 44,
+            "target": 48
+        },
+        {
+            "source": 45,
+            "target": 76
+        },
+        {
+            "source": 47,
+            "target": 13
+        },
+        {
+            "source": 50,
+            "target": 45
+        },
+        {
+            "source": 51,
+            "target": 35
+        },
+        {
+            "source": 54,
+            "target": 59
+        },
+        {
+            "source": 54,
+            "target": 52
+        },
+        {
+            "source": 55,
+            "target": 38
+        },
+        {
+            "source": 56,
+            "target": 33
+        },
+        {
+            "source": 57,
+            "target": 21
+        },
+        {
+            "source": 58,
+            "target": 46
+        },
+        {
+            "source": 59,
+            "target": 52
+        },
+        {
+            "source": 59,
+            "target": 54
+        },
+        {
+            "source": 60,
+            "target": 32
+        },
+        {
+            "source": 63,
+            "target": 17
+        },
+        {
+            "source": 64,
+            "target": 4
+        },
+        {
+            "source": 65,
+            "target": 66
+        },
+        {
+            "source": 66,
+            "target": 65
+        },
+        {
+            "source": 67,
+            "target": 53
+        },
+        {
+            "source": 69,
+            "target": 5
+        },
+        {
+            "source": 70,
+            "target": 39
+        },
+        {
+            "source": 71,
+            "target": 40
+        },
+        {
+            "source": 73,
+            "target": 8
+        },
+        {
+            "source": 74,
+            "target": 81
+        },
+        {
+            "source": 76,
+            "target": 45
+        },
+        {
+            "source": 78,
+            "target": 77
+        },
+        {
+            "source": 79,
+            "target": 5
+        },
+        {
+            "source": 80,
+            "target": 75
+        },
+        {
+            "source": 81,
+            "target": 74
+        },
+        {
+            "source": 83,
+            "target": 1
+        }
+    ],
+    "graph": {},
+    "basic": {
+        "numEdges": 61,
+        "averagePathLength": 1.0,
+        "averageOutDegree": 0.7261904761904762,
+        "numNodes": 84,
+        "selfLinks": 0,
+        "averageInDegree": 0.7261904761904762
+    }
+}
