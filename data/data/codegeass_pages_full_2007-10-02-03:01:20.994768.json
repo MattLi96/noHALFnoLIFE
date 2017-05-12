@@ -1,0 +1,125 @@
+{
+    "edges": [
+        {
+            "source": "Yukimaro Sawazaki",
+            "target": "Chinese Federation"
+        },
+        {
+            "source": "CG:NOPAGE",
+            "target": "Code Geass:No page"
+        },
+        {
+            "source": "Burai Special Weapons B-Type",
+            "target": "Yggdrasil Drive"
+        },
+        {
+            "source": "Burai Special Weapons B-Type",
+            "target": "The Black Knights"
+        },
+        {
+            "source": "Burai Special Weapons B-Type",
+            "target": "Energy Filler"
+        },
+        {
+            "source": "Burai Special Weapons B-Type",
+            "target": "The Messenger from Kyoto"
+        },
+        {
+            "source": "Burai Special Weapons B-Type",
+            "target": "Kyoto House"
+        }
+    ],
+    "directed": true,
+    "multigraph": false,
+    "nodes": [
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "The Black Knights"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Yukimaro Sawazaki"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Kyoto House"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Code Geass:No page"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Chinese Federation"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Yggdrasil Drive"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "CG:NOPAGE"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Energy Filler"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "The Messenger from Kyoto"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Burai Special Weapons B-Type"
+        }
+    ],
+    "links": [
+        {
+            "source": 1,
+            "target": 4
+        },
+        {
+            "source": 6,
+            "target": 3
+        },
+        {
+            "source": 9,
+            "target": 5
+        },
+        {
+            "source": 9,
+            "target": 0
+        },
+        {
+            "source": 9,
+            "target": 7
+        },
+        {
+            "source": 9,
+            "target": 8
+        },
+        {
+            "source": 9,
+            "target": 2
+        }
+    ],
+    "graph": {},
+    "basic": {
+        "numEdges": 7,
+        "averagePathLength": 0,
+        "averageOutDegree": 0.7,
+        "numNodes": 10,
+        "selfLinks": 0,
+        "averageInDegree": 0.7
+    }
+}

@@ -1,0 +1,256 @@
+{
+    "edges": [
+        {
+            "source": "Jim's pranks",
+            "target": "List of Jim's Pranks"
+        },
+        {
+            "source": "Pam",
+            "target": "Pam Beesly"
+        },
+        {
+            "source": "The Office: The Girl Next Door",
+            "target": "The Girl Next Door"
+        },
+        {
+            "source": "The Cameraman",
+            "target": "Brian (Cameraman)"
+        },
+        {
+            "source": "Devon Abner",
+            "target": "Devon"
+        },
+        {
+            "source": "Karly Rothenberg",
+            "target": "Madge"
+        },
+        {
+            "source": "Interview",
+            "target": "Mackenzie Crook"
+        },
+        {
+            "source": "Lester",
+            "target": "Calvin"
+        },
+        {
+            "source": "Nick Figaro",
+            "target": "The Office (US)"
+        },
+        {
+            "source": "St. Patrick's Day Quotes",
+            "target": "Michael"
+        },
+        {
+            "source": "Judgement",
+            "target": "Mackenzie Crook"
+        },
+        {
+            "source": "Judgement Quotes",
+            "target": "Judgement"
+        },
+        {
+            "source": "List of Books, Movies, and Television Shows",
+            "target": "List of Books, Movies, Music, and Television Shows"
+        },
+        {
+            "source": "Interview Quotes",
+            "target": "Interview"
+        }
+    ],
+    "directed": true,
+    "multigraph": false,
+    "nodes": [
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Jim's pranks"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "List of Books, Movies, Music, and Television Shows"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "The Office (US)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Pam"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "The Office: The Girl Next Door"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "The Cameraman"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Devon Abner"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Karly Rothenberg"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Interview"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Madge"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Devon"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lester"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Nick Figaro"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "St. Patrick's Day Quotes"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Brian (Cameraman)"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Judgement"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Judgement Quotes"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "List of Jim's Pranks"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Pam Beesly"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "List of Books, Movies, and Television Shows"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "The Girl Next Door"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Interview Quotes"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Calvin"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Mackenzie Crook"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Michael"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 17
+        },
+        {
+            "source": 3,
+            "target": 18
+        },
+        {
+            "source": 4,
+            "target": 20
+        },
+        {
+            "source": 5,
+            "target": 14
+        },
+        {
+            "source": 6,
+            "target": 10
+        },
+        {
+            "source": 7,
+            "target": 9
+        },
+        {
+            "source": 8,
+            "target": 23
+        },
+        {
+            "source": 11,
+            "target": 22
+        },
+        {
+            "source": 12,
+            "target": 2
+        },
+        {
+            "source": 13,
+            "target": 24
+        },
+        {
+            "source": 15,
+            "target": 23
+        },
+        {
+            "source": 16,
+            "target": 15
+        },
+        {
+            "source": 19,
+            "target": 1
+        },
+        {
+            "source": 21,
+            "target": 8
+        }
+    ],
+    "graph": {},
+    "basic": {
+        "numEdges": 14,
+        "averagePathLength": 0,
+        "averageOutDegree": 0.56,
+        "numNodes": 25,
+        "selfLinks": 0,
+        "averageInDegree": 0.56
+    }
+}

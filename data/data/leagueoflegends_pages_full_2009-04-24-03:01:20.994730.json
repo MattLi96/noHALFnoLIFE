@@ -1,0 +1,141 @@
+{
+    "edges": [
+        {
+            "source": "Field of Justice",
+            "target": "Summoner's Rift"
+        },
+        {
+            "source": "Summoners",
+            "target": "Summoner"
+        },
+        {
+            "source": "Creep",
+            "target": "Minion"
+        },
+        {
+            "source": "Summoner's Rift",
+            "target": "Dragon"
+        },
+        {
+            "source": "Summoner's Rift",
+            "target": "Wraith"
+        },
+        {
+            "source": "Creeps",
+            "target": "Minion"
+        },
+        {
+            "source": "Minion",
+            "target": "Dragon"
+        },
+        {
+            "source": "Minion",
+            "target": "LoL"
+        },
+        {
+            "source": "Minion",
+            "target": "Wraith"
+        }
+    ],
+    "directed": true,
+    "multigraph": false,
+    "nodes": [
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Field of Justice"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Dragon"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Summoners"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Creep"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Wraith"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Summoner"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "LoL"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Summoner's Rift"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Creeps"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Minion"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 7
+        },
+        {
+            "source": 2,
+            "target": 5
+        },
+        {
+            "source": 3,
+            "target": 9
+        },
+        {
+            "source": 7,
+            "target": 1
+        },
+        {
+            "source": 7,
+            "target": 4
+        },
+        {
+            "source": 8,
+            "target": 9
+        },
+        {
+            "source": 9,
+            "target": 1
+        },
+        {
+            "source": 9,
+            "target": 6
+        },
+        {
+            "source": 9,
+            "target": 4
+        }
+    ],
+    "graph": {},
+    "basic": {
+        "numEdges": 9,
+        "averagePathLength": 0,
+        "averageOutDegree": 0.9,
+        "numNodes": 10,
+        "selfLinks": 0,
+        "averageInDegree": 0.9
+    }
+}

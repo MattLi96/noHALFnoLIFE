@@ -1,0 +1,1725 @@
+{
+    "edges": [
+        {
+            "source": "Amy Poehler",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "Reporter",
+            "target": "The Reporter"
+        },
+        {
+            "source": "List of Recurring Characters",
+            "target": "Marlene Knope"
+        },
+        {
+            "source": "List of Recurring Characters",
+            "target": "Pilot"
+        },
+        {
+            "source": "List of Recurring Characters",
+            "target": "The Reporter"
+        },
+        {
+            "source": "List of Recurring Characters",
+            "target": "Shauna Malwae-Tweep"
+        },
+        {
+            "source": "Aziz Ansari",
+            "target": "Tom Haverford"
+        },
+        {
+            "source": "Police Station",
+            "target": "Pawnee, Indiana"
+        },
+        {
+            "source": "Gregory",
+            "target": "Pawnee, Indiana"
+        },
+        {
+            "source": "The Reporter",
+            "target": "Canvassing"
+        },
+        {
+            "source": "The Reporter",
+            "target": "Andy Dwyer"
+        },
+        {
+            "source": "The Reporter",
+            "target": "Shauna Malwae-Tweep"
+        },
+        {
+            "source": "The Reporter",
+            "target": "Season 1"
+        },
+        {
+            "source": "The Reporter",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "The Reporter",
+            "target": "Boys' Club"
+        },
+        {
+            "source": "The Reporter",
+            "target": "Pawnee Journal"
+        },
+        {
+            "source": "The Reporter",
+            "target": "Mark Brendanawicz"
+        },
+        {
+            "source": "Parks and Recreation",
+            "target": "Amy Poehler"
+        },
+        {
+            "source": "Parks and Recreation",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "Parks and Recreation",
+            "target": "Ann Perkins"
+        },
+        {
+            "source": "Parks and Recreation",
+            "target": "Rashida Jones"
+        },
+        {
+            "source": "Moving Up (Part 1)",
+            "target": "Moving Up (Parts 1 & 2)"
+        },
+        {
+            "source": "Tom",
+            "target": "Tom Haverford"
+        },
+        {
+            "source": "Canvassing",
+            "target": "Ann Perkins"
+        },
+        {
+            "source": "Canvassing",
+            "target": "The Reporter"
+        },
+        {
+            "source": "Canvassing",
+            "target": "Season 1"
+        },
+        {
+            "source": "Canvassing",
+            "target": "Tom Haverford"
+        },
+        {
+            "source": "Canvassing",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "Canvassing",
+            "target": "Pilot"
+        },
+        {
+            "source": "Canvassing",
+            "target": "Mark Brendanawicz"
+        },
+        {
+            "source": "Artie",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "Artie",
+            "target": "Pawnee, Indiana"
+        },
+        {
+            "source": "Parks and Recreation Wiki",
+            "target": "Main Page"
+        },
+        {
+            "source": "Marlene Griggs-Knope",
+            "target": "Canvassing"
+        },
+        {
+            "source": "Marlene Griggs-Knope",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "Marlene Griggs-Knope",
+            "target": "Pawnee, Indiana"
+        },
+        {
+            "source": "Marlene Griggs-Knope",
+            "target": "The Banquet"
+        },
+        {
+            "source": "Ann",
+            "target": "Ann Perkins"
+        },
+        {
+            "source": "Roz Degrandis",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "Roz Degrandis",
+            "target": "Pawnee, Indiana"
+        },
+        {
+            "source": "Ron",
+            "target": "Ron Swanson"
+        },
+        {
+            "source": "Bill Haggerty",
+            "target": "Ron Swanson"
+        },
+        {
+            "source": "Bill Haggerty",
+            "target": "Pawnee, Indiana"
+        },
+        {
+            "source": "Bill Haggerty",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "Mezze",
+            "target": "Ann Perkins"
+        },
+        {
+            "source": "Sweetums Stadium",
+            "target": "Tom Haverford"
+        },
+        {
+            "source": "Sweetums Stadium",
+            "target": "Pawnee, Indiana"
+        },
+        {
+            "source": "Sweetums Stadium",
+            "target": "Andy Dwyer"
+        },
+        {
+            "source": "Boys' Club/Trivia",
+            "target": "Mark Brendanawicz"
+        },
+        {
+            "source": "Pawnee Journal",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "Pawnee Journal",
+            "target": "Pawnee, Indiana"
+        },
+        {
+            "source": "Pawnee Journal",
+            "target": "The Reporter"
+        },
+        {
+            "source": "Pawnee Journal",
+            "target": "Shauna Malwae-Tweep"
+        },
+        {
+            "source": "Bluebell Cafe",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "North Pawnee Recreation Center",
+            "target": "Tom Haverford"
+        },
+        {
+            "source": "North Pawnee Recreation Center",
+            "target": "Ron Swanson"
+        },
+        {
+            "source": "North Pawnee Recreation Center",
+            "target": "Andy Dwyer"
+        },
+        {
+            "source": "Rock Show/Trivia",
+            "target": "Marlene Griggs-Knope"
+        },
+        {
+            "source": "Season 1",
+            "target": "Rock Show"
+        },
+        {
+            "source": "Season 1",
+            "target": "Canvassing"
+        },
+        {
+            "source": "Season 1",
+            "target": "The Reporter"
+        },
+        {
+            "source": "Season 1",
+            "target": "Pilot"
+        },
+        {
+            "source": "Season 1",
+            "target": "The Banquet"
+        },
+        {
+            "source": "Season 1",
+            "target": "Boys' Club"
+        },
+        {
+            "source": "Jamm Orthodontia",
+            "target": "Pawnee, Indiana"
+        },
+        {
+            "source": "Ann Perkins",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "Ann Perkins",
+            "target": "Andy"
+        },
+        {
+            "source": "Ann Perkins",
+            "target": "Rashida Jones"
+        },
+        {
+            "source": "Norton Construction",
+            "target": "Season 2"
+        },
+        {
+            "source": "Norton Construction",
+            "target": "Boys' Club"
+        },
+        {
+            "source": "Norton Construction",
+            "target": "Pawnee, Indiana"
+        },
+        {
+            "source": "Norton Construction",
+            "target": "Parks and Recreation Department"
+        },
+        {
+            "source": "Norton Construction",
+            "target": "Mark Brendanawicz"
+        },
+        {
+            "source": "Leslie",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "Pawnee Summer Kick-Off",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "Pawnee Summer Kick-Off",
+            "target": "Pawnee, Indiana"
+        },
+        {
+            "source": "Pawnee Summer Kick-Off",
+            "target": "Ann Perkins"
+        },
+        {
+            "source": "April Ludgate",
+            "target": "Canvassing"
+        },
+        {
+            "source": "April Ludgate",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "April Ludgate",
+            "target": "Pilot"
+        },
+        {
+            "source": "Rock Show",
+            "target": "Season 2"
+        },
+        {
+            "source": "Rock Show",
+            "target": "Ann Perkins"
+        },
+        {
+            "source": "Rock Show",
+            "target": "Andy Dwyer"
+        },
+        {
+            "source": "Rock Show",
+            "target": "Season 1"
+        },
+        {
+            "source": "Rock Show",
+            "target": "Marlene Knope"
+        },
+        {
+            "source": "Rock Show",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "Rock Show",
+            "target": "The Banquet"
+        },
+        {
+            "source": "Rock Show",
+            "target": "Mark Brendanawicz"
+        },
+        {
+            "source": "Michael Schur",
+            "target": "Greg Daniels"
+        },
+        {
+            "source": "Michael Schur",
+            "target": "Pilot"
+        },
+        {
+            "source": "The Reporter/Trivia",
+            "target": "Shauna Malwae-Tweep"
+        },
+        {
+            "source": "The Reporter/Trivia",
+            "target": "Pawnee Journal"
+        },
+        {
+            "source": "The Reporter/Trivia",
+            "target": "Mark Brendanawicz"
+        },
+        {
+            "source": "Marlene Knope",
+            "target": "Marlene Griggs-Knope"
+        },
+        {
+            "source": "Pawnee Central High School",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "Pawnee Central High School",
+            "target": "Pawnee, Indiana"
+        },
+        {
+            "source": "Pawnee Central High School",
+            "target": "Parks and Recreation Department"
+        },
+        {
+            "source": "Nathaniel Bixby Mark",
+            "target": "Pawnee, Indiana"
+        },
+        {
+            "source": "Mark Brendanawicz",
+            "target": "Ron Swanson"
+        },
+        {
+            "source": "Mark Brendanawicz",
+            "target": "Pawnee, Indiana"
+        },
+        {
+            "source": "Mark Brendanawicz",
+            "target": "Pilot"
+        },
+        {
+            "source": "Mark Brendanawicz",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "Ron Swanson",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "Pilot (Parks and Recreation)",
+            "target": "Pilot"
+        },
+        {
+            "source": "WVYS Action 8 News",
+            "target": "Pawnee, Indiana"
+        },
+        {
+            "source": "Tom Haverford",
+            "target": "Canvassing"
+        },
+        {
+            "source": "Tom Haverford",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "Tom Haverford",
+            "target": "Pilot"
+        },
+        {
+            "source": "Tom Haverford",
+            "target": "Aziz Ansari"
+        },
+        {
+            "source": "Pawnee",
+            "target": "Pawnee, Indiana"
+        },
+        {
+            "source": "Scarecrow Boat",
+            "target": "Rock Show"
+        },
+        {
+            "source": "Scarecrow Boat",
+            "target": "Ann Perkins"
+        },
+        {
+            "source": "Scarecrow Boat",
+            "target": "Andy Dwyer"
+        },
+        {
+            "source": "Shauna Malwae-Tweep",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "Shauna Malwae-Tweep",
+            "target": "Pawnee Journal"
+        },
+        {
+            "source": "Shauna Malwae-Tweep",
+            "target": "The Reporter"
+        },
+        {
+            "source": "Shauna Malwae-Tweep",
+            "target": "Mark Brendanawicz"
+        },
+        {
+            "source": "Pilot",
+            "target": "Canvassing"
+        },
+        {
+            "source": "Pilot",
+            "target": "April Ludgate"
+        },
+        {
+            "source": "Pilot",
+            "target": "Greg Daniels"
+        },
+        {
+            "source": "Pilot",
+            "target": "Ann Perkins"
+        },
+        {
+            "source": "Pilot",
+            "target": "Andy"
+        },
+        {
+            "source": "Pilot",
+            "target": "Ron Swanson"
+        },
+        {
+            "source": "Pilot",
+            "target": "Tom Haverford"
+        },
+        {
+            "source": "Pilot",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "Pilot",
+            "target": "Mark Brendanawicz"
+        },
+        {
+            "source": "Pilot",
+            "target": "Season 1"
+        },
+        {
+            "source": "Pilot",
+            "target": "Michael Schur"
+        },
+        {
+            "source": "April",
+            "target": "April Ludgate"
+        },
+        {
+            "source": "Greg Daniels",
+            "target": "Pilot"
+        },
+        {
+            "source": "Greg Daniels",
+            "target": "Michael Schur"
+        },
+        {
+            "source": "Andy Dwyer",
+            "target": "Canvassing"
+        },
+        {
+            "source": "Andy Dwyer",
+            "target": "Rock Show"
+        },
+        {
+            "source": "Andy Dwyer",
+            "target": "Scarecrow Boat"
+        },
+        {
+            "source": "Andy Dwyer",
+            "target": "Ann Perkins"
+        },
+        {
+            "source": "Andy Dwyer",
+            "target": "Pilot"
+        },
+        {
+            "source": "Andy",
+            "target": "Andy Dwyer"
+        },
+        {
+            "source": "The Banquet",
+            "target": "Rock Show"
+        },
+        {
+            "source": "The Banquet",
+            "target": "Tom Haverford"
+        },
+        {
+            "source": "The Banquet",
+            "target": "Ann Perkins"
+        },
+        {
+            "source": "The Banquet",
+            "target": "Season 1"
+        },
+        {
+            "source": "The Banquet",
+            "target": "Marlene Knope"
+        },
+        {
+            "source": "The Banquet",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "The Banquet",
+            "target": "Mark Brendanawicz"
+        },
+        {
+            "source": "The Banquet",
+            "target": "Boys' Club"
+        },
+        {
+            "source": "Kevin",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "Kevin",
+            "target": "Pawnee, Indiana"
+        },
+        {
+            "source": "Boys' Club",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "Boys' Club",
+            "target": "April Ludgate"
+        },
+        {
+            "source": "Boys' Club",
+            "target": "Ann Perkins"
+        },
+        {
+            "source": "Boys' Club",
+            "target": "The Reporter"
+        },
+        {
+            "source": "Boys' Club",
+            "target": "Ron Swanson"
+        },
+        {
+            "source": "Boys' Club",
+            "target": "Tom Haverford"
+        },
+        {
+            "source": "Boys' Club",
+            "target": "Andy Dwyer"
+        },
+        {
+            "source": "Boys' Club",
+            "target": "Season 1"
+        },
+        {
+            "source": "Boys' Club",
+            "target": "The Banquet"
+        },
+        {
+            "source": "Boys' Club",
+            "target": "Mark Brendanawicz"
+        },
+        {
+            "source": "Chez Chez La Rue",
+            "target": "Tom Haverford"
+        },
+        {
+            "source": "Chez Chez La Rue",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "Ron's Woodshop",
+            "target": "Ron Swanson"
+        },
+        {
+            "source": "Ron's Woodshop",
+            "target": "Parks and Recreation Department"
+        },
+        {
+            "source": "Ron's Woodshop",
+            "target": "Mark Brendanawicz"
+        },
+        {
+            "source": "Ron's Woodshop",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "Leslie and Ben's House",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "Leslie and Ben's House",
+            "target": "Ann Perkins"
+        },
+        {
+            "source": "Mark",
+            "target": "Mark Brendanawicz"
+        },
+        {
+            "source": "Leslie Knope",
+            "target": "Amy Poehler"
+        },
+        {
+            "source": "Leslie Knope",
+            "target": "Pawnee, Indiana"
+        },
+        {
+            "source": "Doubletime Sound Studio",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "Doubletime Sound Studio",
+            "target": "Pawnee, Indiana"
+        },
+        {
+            "source": "Doubletime Sound Studio",
+            "target": "Andy Dwyer"
+        },
+        {
+            "source": "Doubletime Sound Studio",
+            "target": "Parks and Recreation Department"
+        }
+    ],
+    "directed": true,
+    "multigraph": false,
+    "nodes": [
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Amy Poehler"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Reporter"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "List of Recurring Characters"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Aziz Ansari"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Police Station"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Gregory"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Moving Up (Parts 1 & 2)"
+        },
+        {
+            "parity": 0,
+            "degree": 15,
+            "id": "The Reporter"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Parks and Recreation"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Moving Up (Part 1)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Tom"
+        },
+        {
+            "parity": 1,
+            "degree": 14,
+            "id": "Canvassing"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Artie"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Parks and Recreation Wiki"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Marlene Griggs-Knope"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Ann"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Roz Degrandis"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Ron"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Bill Haggerty"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Mezze"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Sweetums Stadium"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Boys' Club/Trivia"
+        },
+        {
+            "parity": 0,
+            "degree": 7,
+            "id": "Pawnee Journal"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Rashida Jones"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Bluebell Cafe"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "North Pawnee Recreation Center"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Rock Show/Trivia"
+        },
+        {
+            "parity": 1,
+            "degree": 12,
+            "id": "Season 1"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Jamm Orthodontia"
+        },
+        {
+            "parity": 0,
+            "degree": 15,
+            "id": "Ann Perkins"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Norton Construction"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Leslie"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Main Page"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Pawnee Summer Kick-Off"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "April Ludgate"
+        },
+        {
+            "parity": 1,
+            "degree": 12,
+            "id": "Rock Show"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Michael Schur"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "The Reporter/Trivia"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Marlene Knope"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Pawnee Central High School"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Nathaniel Bixby Mark"
+        },
+        {
+            "parity": 1,
+            "degree": 16,
+            "id": "Mark Brendanawicz"
+        },
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "Ron Swanson"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Pilot (Parks and Recreation)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "WVYS Action 8 News"
+        },
+        {
+            "parity": 0,
+            "degree": 13,
+            "id": "Tom Haverford"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Pawnee"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Scarecrow Boat"
+        },
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "Shauna Malwae-Tweep"
+        },
+        {
+            "parity": 0,
+            "degree": 21,
+            "id": "Pilot"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "April"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Season 2"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Greg Daniels"
+        },
+        {
+            "parity": 0,
+            "degree": 13,
+            "id": "Andy Dwyer"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Andy"
+        },
+        {
+            "parity": 1,
+            "degree": 12,
+            "id": "The Banquet"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Kevin"
+        },
+        {
+            "parity": 1,
+            "degree": 14,
+            "id": "Boys' Club"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Chez Chez La Rue"
+        },
+        {
+            "parity": 0,
+            "degree": 19,
+            "id": "Pawnee, Indiana"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Ron's Woodshop"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Leslie and Ben's House"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Mark"
+        },
+        {
+            "parity": 1,
+            "degree": 30,
+            "id": "Leslie Knope"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Parks and Recreation Department"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Doubletime Sound Studio"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 63
+        },
+        {
+            "source": 1,
+            "target": 7
+        },
+        {
+            "source": 2,
+            "target": 38
+        },
+        {
+            "source": 2,
+            "target": 49
+        },
+        {
+            "source": 2,
+            "target": 7
+        },
+        {
+            "source": 2,
+            "target": 48
+        },
+        {
+            "source": 3,
+            "target": 45
+        },
+        {
+            "source": 4,
+            "target": 59
+        },
+        {
+            "source": 5,
+            "target": 59
+        },
+        {
+            "source": 7,
+            "target": 11
+        },
+        {
+            "source": 7,
+            "target": 53
+        },
+        {
+            "source": 7,
+            "target": 48
+        },
+        {
+            "source": 7,
+            "target": 27
+        },
+        {
+            "source": 7,
+            "target": 63
+        },
+        {
+            "source": 7,
+            "target": 57
+        },
+        {
+            "source": 7,
+            "target": 22
+        },
+        {
+            "source": 7,
+            "target": 41
+        },
+        {
+            "source": 8,
+            "target": 0
+        },
+        {
+            "source": 8,
+            "target": 63
+        },
+        {
+            "source": 8,
+            "target": 29
+        },
+        {
+            "source": 8,
+            "target": 23
+        },
+        {
+            "source": 9,
+            "target": 6
+        },
+        {
+            "source": 10,
+            "target": 45
+        },
+        {
+            "source": 11,
+            "target": 29
+        },
+        {
+            "source": 11,
+            "target": 7
+        },
+        {
+            "source": 11,
+            "target": 27
+        },
+        {
+            "source": 11,
+            "target": 45
+        },
+        {
+            "source": 11,
+            "target": 63
+        },
+        {
+            "source": 11,
+            "target": 49
+        },
+        {
+            "source": 11,
+            "target": 41
+        },
+        {
+            "source": 12,
+            "target": 63
+        },
+        {
+            "source": 12,
+            "target": 59
+        },
+        {
+            "source": 13,
+            "target": 32
+        },
+        {
+            "source": 14,
+            "target": 11
+        },
+        {
+            "source": 14,
+            "target": 63
+        },
+        {
+            "source": 14,
+            "target": 59
+        },
+        {
+            "source": 14,
+            "target": 55
+        },
+        {
+            "source": 15,
+            "target": 29
+        },
+        {
+            "source": 16,
+            "target": 63
+        },
+        {
+            "source": 16,
+            "target": 59
+        },
+        {
+            "source": 17,
+            "target": 42
+        },
+        {
+            "source": 18,
+            "target": 42
+        },
+        {
+            "source": 18,
+            "target": 59
+        },
+        {
+            "source": 18,
+            "target": 63
+        },
+        {
+            "source": 19,
+            "target": 29
+        },
+        {
+            "source": 20,
+            "target": 45
+        },
+        {
+            "source": 20,
+            "target": 59
+        },
+        {
+            "source": 20,
+            "target": 53
+        },
+        {
+            "source": 21,
+            "target": 41
+        },
+        {
+            "source": 22,
+            "target": 63
+        },
+        {
+            "source": 22,
+            "target": 59
+        },
+        {
+            "source": 22,
+            "target": 7
+        },
+        {
+            "source": 22,
+            "target": 48
+        },
+        {
+            "source": 24,
+            "target": 63
+        },
+        {
+            "source": 25,
+            "target": 45
+        },
+        {
+            "source": 25,
+            "target": 42
+        },
+        {
+            "source": 25,
+            "target": 53
+        },
+        {
+            "source": 26,
+            "target": 14
+        },
+        {
+            "source": 27,
+            "target": 35
+        },
+        {
+            "source": 27,
+            "target": 11
+        },
+        {
+            "source": 27,
+            "target": 7
+        },
+        {
+            "source": 27,
+            "target": 49
+        },
+        {
+            "source": 27,
+            "target": 55
+        },
+        {
+            "source": 27,
+            "target": 57
+        },
+        {
+            "source": 28,
+            "target": 59
+        },
+        {
+            "source": 29,
+            "target": 63
+        },
+        {
+            "source": 29,
+            "target": 54
+        },
+        {
+            "source": 29,
+            "target": 23
+        },
+        {
+            "source": 30,
+            "target": 51
+        },
+        {
+            "source": 30,
+            "target": 57
+        },
+        {
+            "source": 30,
+            "target": 59
+        },
+        {
+            "source": 30,
+            "target": 64
+        },
+        {
+            "source": 30,
+            "target": 41
+        },
+        {
+            "source": 31,
+            "target": 63
+        },
+        {
+            "source": 33,
+            "target": 63
+        },
+        {
+            "source": 33,
+            "target": 59
+        },
+        {
+            "source": 33,
+            "target": 29
+        },
+        {
+            "source": 34,
+            "target": 11
+        },
+        {
+            "source": 34,
+            "target": 63
+        },
+        {
+            "source": 34,
+            "target": 49
+        },
+        {
+            "source": 35,
+            "target": 51
+        },
+        {
+            "source": 35,
+            "target": 29
+        },
+        {
+            "source": 35,
+            "target": 53
+        },
+        {
+            "source": 35,
+            "target": 27
+        },
+        {
+            "source": 35,
+            "target": 38
+        },
+        {
+            "source": 35,
+            "target": 63
+        },
+        {
+            "source": 35,
+            "target": 55
+        },
+        {
+            "source": 35,
+            "target": 41
+        },
+        {
+            "source": 36,
+            "target": 52
+        },
+        {
+            "source": 36,
+            "target": 49
+        },
+        {
+            "source": 37,
+            "target": 48
+        },
+        {
+            "source": 37,
+            "target": 22
+        },
+        {
+            "source": 37,
+            "target": 41
+        },
+        {
+            "source": 38,
+            "target": 14
+        },
+        {
+            "source": 39,
+            "target": 63
+        },
+        {
+            "source": 39,
+            "target": 59
+        },
+        {
+            "source": 39,
+            "target": 64
+        },
+        {
+            "source": 40,
+            "target": 59
+        },
+        {
+            "source": 41,
+            "target": 42
+        },
+        {
+            "source": 41,
+            "target": 59
+        },
+        {
+            "source": 41,
+            "target": 49
+        },
+        {
+            "source": 41,
+            "target": 63
+        },
+        {
+            "source": 42,
+            "target": 63
+        },
+        {
+            "source": 43,
+            "target": 49
+        },
+        {
+            "source": 44,
+            "target": 59
+        },
+        {
+            "source": 45,
+            "target": 11
+        },
+        {
+            "source": 45,
+            "target": 63
+        },
+        {
+            "source": 45,
+            "target": 49
+        },
+        {
+            "source": 45,
+            "target": 3
+        },
+        {
+            "source": 46,
+            "target": 59
+        },
+        {
+            "source": 47,
+            "target": 35
+        },
+        {
+            "source": 47,
+            "target": 29
+        },
+        {
+            "source": 47,
+            "target": 53
+        },
+        {
+            "source": 48,
+            "target": 63
+        },
+        {
+            "source": 48,
+            "target": 22
+        },
+        {
+            "source": 48,
+            "target": 7
+        },
+        {
+            "source": 48,
+            "target": 41
+        },
+        {
+            "source": 49,
+            "target": 11
+        },
+        {
+            "source": 49,
+            "target": 34
+        },
+        {
+            "source": 49,
+            "target": 52
+        },
+        {
+            "source": 49,
+            "target": 29
+        },
+        {
+            "source": 49,
+            "target": 54
+        },
+        {
+            "source": 49,
+            "target": 42
+        },
+        {
+            "source": 49,
+            "target": 45
+        },
+        {
+            "source": 49,
+            "target": 63
+        },
+        {
+            "source": 49,
+            "target": 41
+        },
+        {
+            "source": 49,
+            "target": 27
+        },
+        {
+            "source": 49,
+            "target": 36
+        },
+        {
+            "source": 50,
+            "target": 34
+        },
+        {
+            "source": 52,
+            "target": 49
+        },
+        {
+            "source": 52,
+            "target": 36
+        },
+        {
+            "source": 53,
+            "target": 11
+        },
+        {
+            "source": 53,
+            "target": 35
+        },
+        {
+            "source": 53,
+            "target": 47
+        },
+        {
+            "source": 53,
+            "target": 29
+        },
+        {
+            "source": 53,
+            "target": 49
+        },
+        {
+            "source": 54,
+            "target": 53
+        },
+        {
+            "source": 55,
+            "target": 35
+        },
+        {
+            "source": 55,
+            "target": 45
+        },
+        {
+            "source": 55,
+            "target": 29
+        },
+        {
+            "source": 55,
+            "target": 27
+        },
+        {
+            "source": 55,
+            "target": 38
+        },
+        {
+            "source": 55,
+            "target": 63
+        },
+        {
+            "source": 55,
+            "target": 41
+        },
+        {
+            "source": 55,
+            "target": 57
+        },
+        {
+            "source": 56,
+            "target": 63
+        },
+        {
+            "source": 56,
+            "target": 59
+        },
+        {
+            "source": 57,
+            "target": 63
+        },
+        {
+            "source": 57,
+            "target": 34
+        },
+        {
+            "source": 57,
+            "target": 29
+        },
+        {
+            "source": 57,
+            "target": 7
+        },
+        {
+            "source": 57,
+            "target": 42
+        },
+        {
+            "source": 57,
+            "target": 45
+        },
+        {
+            "source": 57,
+            "target": 53
+        },
+        {
+            "source": 57,
+            "target": 27
+        },
+        {
+            "source": 57,
+            "target": 55
+        },
+        {
+            "source": 57,
+            "target": 41
+        },
+        {
+            "source": 58,
+            "target": 45
+        },
+        {
+            "source": 58,
+            "target": 63
+        },
+        {
+            "source": 60,
+            "target": 42
+        },
+        {
+            "source": 60,
+            "target": 64
+        },
+        {
+            "source": 60,
+            "target": 41
+        },
+        {
+            "source": 60,
+            "target": 63
+        },
+        {
+            "source": 61,
+            "target": 63
+        },
+        {
+            "source": 61,
+            "target": 29
+        },
+        {
+            "source": 62,
+            "target": 41
+        },
+        {
+            "source": 63,
+            "target": 0
+        },
+        {
+            "source": 63,
+            "target": 59
+        },
+        {
+            "source": 65,
+            "target": 63
+        },
+        {
+            "source": 65,
+            "target": 59
+        },
+        {
+            "source": 65,
+            "target": 53
+        },
+        {
+            "source": 65,
+            "target": 64
+        }
+    ],
+    "graph": {},
+    "basic": {
+        "numEdges": 172,
+        "averagePathLength": 2.5023809523809524,
+        "averageOutDegree": 2.606060606060606,
+        "numNodes": 66,
+        "selfLinks": 0,
+        "averageInDegree": 2.606060606060606
+    }
+}

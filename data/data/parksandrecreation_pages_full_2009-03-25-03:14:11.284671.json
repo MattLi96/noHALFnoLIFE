@@ -1,0 +1,94 @@
+{
+    "edges": [
+        {
+            "source": "Ron's Woodshop",
+            "target": "Parks and Recreation Department"
+        },
+        {
+            "source": "Norton Construction",
+            "target": "Parks and Recreation Department"
+        },
+        {
+            "source": "Pawnee Central High School",
+            "target": "Parks and Recreation Department"
+        },
+        {
+            "source": "Doubletime Sound Studio",
+            "target": "Parks and Recreation Department"
+        },
+        {
+            "source": "Moving Up (Part 1)",
+            "target": "Moving Up (Parts 1 & 2)"
+        }
+    ],
+    "directed": true,
+    "multigraph": false,
+    "nodes": [
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Parks and Recreation Department"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Ron's Woodshop"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Norton Construction"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Pawnee Central High School"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Doubletime Sound Studio"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Moving Up (Part 1)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Moving Up (Parts 1 & 2)"
+        }
+    ],
+    "links": [
+        {
+            "source": 1,
+            "target": 0
+        },
+        {
+            "source": 2,
+            "target": 0
+        },
+        {
+            "source": 3,
+            "target": 0
+        },
+        {
+            "source": 4,
+            "target": 0
+        },
+        {
+            "source": 5,
+            "target": 6
+        }
+    ],
+    "graph": {},
+    "basic": {
+        "numEdges": 5,
+        "averagePathLength": 0,
+        "averageOutDegree": 0.7142857142857143,
+        "numNodes": 7,
+        "selfLinks": 0,
+        "averageInDegree": 0.7142857142857143
+    }
+}

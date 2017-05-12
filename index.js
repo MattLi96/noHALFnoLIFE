@@ -20,7 +20,7 @@ app.use('/src', express.static(__dirname + '/src'));
 app.use('/dataRaw', express.static(__dirname + '/dataRaw'));
 app.use('/output', express.static(__dirname + '/output'));
 
-let portnum = 8000
+let portnum = 8007
 
 app.listen(portnum, function () {
   console.log('Example app listening on port' + portnum + ' !')

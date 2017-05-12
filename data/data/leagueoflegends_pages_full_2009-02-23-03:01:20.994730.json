@@ -1,0 +1,16 @@
+{
+    "edges": [],
+    "directed": true,
+    "multigraph": false,
+    "nodes": [],
+    "links": [],
+    "graph": {},
+    "basic": {
+        "numEdges": 0,
+        "averagePathLength": 0,
+        "averageOutDegree": 0,
+        "numNodes": 0,
+        "selfLinks": 0,
+        "averageInDegree": 0
+    }
+}

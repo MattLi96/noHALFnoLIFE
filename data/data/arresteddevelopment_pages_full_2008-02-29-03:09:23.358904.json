@@ -1,0 +1,1840 @@
+{
+    "edges": [
+        {
+            "source": "Main Page",
+            "target": "Development Arrested"
+        },
+        {
+            "source": "Main Page",
+            "target": "Michael"
+        },
+        {
+            "source": "Main Page",
+            "target": "List of episodes"
+        },
+        {
+            "source": "Main Page",
+            "target": "Tobias Funke"
+        },
+        {
+            "source": "Main Page",
+            "target": "Tobias"
+        },
+        {
+            "source": "Main Page",
+            "target": "Arrested Development"
+        },
+        {
+            "source": "Main Page",
+            "target": "Michael Bluth"
+        },
+        {
+            "source": "The Cockroach",
+            "target": "Michael Bluth"
+        },
+        {
+            "source": "The Cockroach",
+            "target": "Arrested Development"
+        },
+        {
+            "source": "List of episodes",
+            "target": "Development Arrested"
+        },
+        {
+            "source": "List of episodes",
+            "target": "My Mother, The Car"
+        },
+        {
+            "source": "List of episodes",
+            "target": "Pilot"
+        },
+        {
+            "source": "List of episodes",
+            "target": "Best Man for the GOB"
+        },
+        {
+            "source": "Afternoon Deelite",
+            "target": "Michael"
+        },
+        {
+            "source": "Afternoon Deelite",
+            "target": "Lucille"
+        },
+        {
+            "source": "Development Arrested",
+            "target": "Michael"
+        },
+        {
+            "source": "Development Arrested",
+            "target": "Annyong"
+        },
+        {
+            "source": "Development Arrested",
+            "target": "Mort"
+        },
+        {
+            "source": "Development Arrested",
+            "target": "Lindsay"
+        },
+        {
+            "source": "Development Arrested",
+            "target": "Ann"
+        },
+        {
+            "source": "Development Arrested",
+            "target": "My Mother, The Car"
+        },
+        {
+            "source": "Development Arrested",
+            "target": "Best Man for the GOB"
+        },
+        {
+            "source": "Development Arrested",
+            "target": "George Michael"
+        },
+        {
+            "source": "Development Arrested",
+            "target": "George Sr."
+        },
+        {
+            "source": "Development Arrested",
+            "target": "Pilot"
+        },
+        {
+            "source": "Development Arrested",
+            "target": "Lucille"
+        },
+        {
+            "source": "Development Arrested",
+            "target": "John Fortenberry"
+        },
+        {
+            "source": "Development Arrested",
+            "target": "Arrested Development"
+        },
+        {
+            "source": "Development Arrested",
+            "target": "Jeff Garlin"
+        },
+        {
+            "source": "Development Arrested",
+            "target": "Mitchell Hurwitz"
+        },
+        {
+            "source": "Dr. Sandor Plumb",
+            "target": "Michael Bluth"
+        },
+        {
+            "source": "Dr. Sandor Plumb",
+            "target": "The Plumb Clinic"
+        },
+        {
+            "source": "Fox.com/arresteddev",
+            "target": "Michael"
+        },
+        {
+            "source": "Fox.com/arresteddev",
+            "target": "Season Three"
+        },
+        {
+            "source": "Fox.com/arresteddev",
+            "target": "Arrested Development"
+        },
+        {
+            "source": "Fox.com/arresteddev",
+            "target": "Season Two"
+        },
+        {
+            "source": "Fox.com/arresteddev",
+            "target": "Season One"
+        },
+        {
+            "source": "My Mother, The Car",
+            "target": "My Mother, the Car"
+        },
+        {
+            "source": "My Mother, the Car",
+            "target": "Development Arrested"
+        },
+        {
+            "source": "My Mother, the Car",
+            "target": "FOX"
+        },
+        {
+            "source": "My Mother, the Car",
+            "target": "George Michael Bluth"
+        },
+        {
+            "source": "My Mother, the Car",
+            "target": "George Bluth Sr."
+        },
+        {
+            "source": "My Mother, the Car",
+            "target": "Lindsay F\u00fcnke"
+        },
+        {
+            "source": "My Mother, the Car",
+            "target": "Michael Bluth"
+        },
+        {
+            "source": "My Mother, the Car",
+            "target": "My Mother the Car"
+        },
+        {
+            "source": "Jeff Garlin",
+            "target": "Development Arrested"
+        },
+        {
+            "source": "Jeff Garlin",
+            "target": "Season Three"
+        },
+        {
+            "source": "Jeff Garlin",
+            "target": "Season Two"
+        },
+        {
+            "source": "Jeff Garlin",
+            "target": "Arrested Development"
+        },
+        {
+            "source": "Pilot",
+            "target": "Michael Bluth"
+        },
+        {
+            "source": "Pilot",
+            "target": "George Bluth Sr."
+        },
+        {
+            "source": "Hurwitz",
+            "target": "Mitchell Hurwitz"
+        },
+        {
+            "source": "George",
+            "target": "George Bluth Sr."
+        },
+        {
+            "source": "1x8",
+            "target": "My Mother, the Car"
+        },
+        {
+            "source": "UnLead News",
+            "target": "John Beard's To Entrap a Local Predator: Orange County Edition: Super Creep"
+        },
+        {
+            "source": "UnLead News",
+            "target": "George Michael"
+        },
+        {
+            "source": "Transcript of Hand to God",
+            "target": "Season Two"
+        },
+        {
+            "source": "Transcript of Hand to God",
+            "target": "Mitchell Hurwitz"
+        },
+        {
+            "source": "Arrested Development Netflix Premiere",
+            "target": "2013 Netflix Orange Carpet Season Four Premiere"
+        },
+        {
+            "source": "Transcript of Ready, Aim, Marry Me",
+            "target": "Season Two"
+        },
+        {
+            "source": "Transcript of Ready, Aim, Marry Me",
+            "target": "Mitchell Hurwitz"
+        },
+        {
+            "source": "Austero Bluth Company",
+            "target": "Michael Bluth"
+        },
+        {
+            "source": "George Sr.",
+            "target": "George Bluth Sr."
+        },
+        {
+            "source": "The Plumb Clinic",
+            "target": "Michael Bluth"
+        },
+        {
+            "source": "The Plumb Clinic",
+            "target": "Dr. Sandor Plumb"
+        },
+        {
+            "source": "Herb Zuckerkorn",
+            "target": "Lucille"
+        },
+        {
+            "source": "Herb Zuckerkorn",
+            "target": "Barry"
+        },
+        {
+            "source": "Herb Zuckerkorn",
+            "target": "George Bluth"
+        },
+        {
+            "source": "George, Sr.",
+            "target": "George Bluth"
+        },
+        {
+            "source": "Gcheung28/Arrested Development's Return Date",
+            "target": "Arrested Development"
+        },
+        {
+            "source": "Chareth Richter",
+            "target": "Michael"
+        },
+        {
+            "source": "Arrested Development bobbleheads",
+            "target": "Michael"
+        },
+        {
+            "source": "3x13",
+            "target": "Development Arrested"
+        },
+        {
+            "source": "1x08",
+            "target": "My Mother, the Car"
+        },
+        {
+            "source": "Pete the mailman",
+            "target": "Michael Bluth"
+        },
+        {
+            "source": "Pete the mailman",
+            "target": "George Michael"
+        },
+        {
+            "source": "Transcript of Righteous Brothers",
+            "target": "Season Two"
+        },
+        {
+            "source": "Transcript of Righteous Brothers",
+            "target": "Mitchell Hurwitz"
+        },
+        {
+            "source": "Transcript of Righteous Brothers",
+            "target": "Jeff Garlin"
+        },
+        {
+            "source": "Home",
+            "target": "Main Page"
+        },
+        {
+            "source": "Season Three",
+            "target": "Development Arrested"
+        },
+        {
+            "source": "Season Three",
+            "target": "George Sr."
+        },
+        {
+            "source": "Season Three",
+            "target": "Mitchell Hurwitz"
+        },
+        {
+            "source": "Season Three",
+            "target": "Michael"
+        },
+        {
+            "source": "Season Three",
+            "target": "Arrested Development"
+        },
+        {
+            "source": "Season Three",
+            "target": "George Michael"
+        },
+        {
+            "source": "Season Two",
+            "target": "Michael"
+        },
+        {
+            "source": "Season Two",
+            "target": "Arrested Development"
+        },
+        {
+            "source": "Season Two",
+            "target": "Mitchell Hurwitz"
+        },
+        {
+            "source": "Season Two",
+            "target": "George Sr."
+        },
+        {
+            "source": "Season Two",
+            "target": "Tobias"
+        },
+        {
+            "source": "Season Two",
+            "target": "Season One"
+        },
+        {
+            "source": "George Michael",
+            "target": "George Michael Bluth"
+        },
+        {
+            "source": "Nichael Bluth",
+            "target": "Michael Bluth"
+        },
+        {
+            "source": "Cookies scented spray",
+            "target": "James"
+        },
+        {
+            "source": "Lemon grove",
+            "target": "Oscar"
+        },
+        {
+            "source": "Lemon grove",
+            "target": "Lucille"
+        },
+        {
+            "source": "Lemon grove",
+            "target": "Michael"
+        },
+        {
+            "source": "Los Mas Buscados de Mexico",
+            "target": "George Bluth"
+        },
+        {
+            "source": "Transcript of Queen for a Day",
+            "target": "Season Two"
+        },
+        {
+            "source": "Transcript of Queen for a Day",
+            "target": "Jeff Garlin"
+        },
+        {
+            "source": "George Bluth",
+            "target": "Development Arrested"
+        },
+        {
+            "source": "George Bluth",
+            "target": "Bluth Family"
+        },
+        {
+            "source": "George Bluth",
+            "target": "Michael Bluth"
+        },
+        {
+            "source": "George Bluth",
+            "target": "Pilot"
+        },
+        {
+            "source": "George Bluth",
+            "target": "The apartment"
+        },
+        {
+            "source": "George Bluth",
+            "target": "Lucille"
+        },
+        {
+            "source": "George Bluth",
+            "target": "Larry Mittleman"
+        },
+        {
+            "source": "Michael Bluth",
+            "target": "Development Arrested"
+        },
+        {
+            "source": "Michael Bluth",
+            "target": "George Sr."
+        },
+        {
+            "source": "Michael Bluth",
+            "target": "The Model Home"
+        },
+        {
+            "source": "Michael Bluth",
+            "target": "Annyong"
+        },
+        {
+            "source": "Michael Bluth",
+            "target": "Pilot"
+        },
+        {
+            "source": "Michael Bluth",
+            "target": "Bluth Family"
+        },
+        {
+            "source": "Michael Bluth",
+            "target": "Lindsay"
+        },
+        {
+            "source": "Michael Bluth",
+            "target": "Ann"
+        },
+        {
+            "source": "Michael Bluth",
+            "target": "Arrested Development"
+        },
+        {
+            "source": "Michael Bluth",
+            "target": "George Michael"
+        },
+        {
+            "source": "Michael Bluth",
+            "target": "George Michael Bluth"
+        },
+        {
+            "source": "1x01",
+            "target": "Pilot"
+        },
+        {
+            "source": "Transcript of The Cabin Show",
+            "target": "Season Three"
+        },
+        {
+            "source": "Transcript of The Cabin Show",
+            "target": "Mitchell Hurwitz"
+        },
+        {
+            "source": "Nichael",
+            "target": "Michael Bluth"
+        },
+        {
+            "source": "Seth Rogen",
+            "target": "George Bluth"
+        },
+        {
+            "source": "Transcript of Burning Love",
+            "target": "Michael"
+        },
+        {
+            "source": "Transcript of Burning Love",
+            "target": "Season Two"
+        },
+        {
+            "source": "Season One",
+            "target": "George Sr."
+        },
+        {
+            "source": "Season One",
+            "target": "Michael Bluth"
+        },
+        {
+            "source": "Season One",
+            "target": "Arrested Development"
+        },
+        {
+            "source": "Season One",
+            "target": "Mitchell Hurwitz"
+        },
+        {
+            "source": "Season One",
+            "target": "Lucille"
+        },
+        {
+            "source": "Season One",
+            "target": "Tobias"
+        },
+        {
+            "source": "Season One",
+            "target": "Lindsay"
+        },
+        {
+            "source": "Season One",
+            "target": "Lucille 2"
+        },
+        {
+            "source": "Season One",
+            "target": "George Michael"
+        },
+        {
+            "source": "John Fortenberry",
+            "target": "Development Arrested"
+        },
+        {
+            "source": "John Fortenberry",
+            "target": "Season Three"
+        },
+        {
+            "source": "John Fortenberry",
+            "target": "Arrested Development"
+        },
+        {
+            "source": "John Fortenberry",
+            "target": "Season One"
+        },
+        {
+            "source": "Michael",
+            "target": "Michael Bluth"
+        },
+        {
+            "source": "Freddie Wilson",
+            "target": "Tobias"
+        },
+        {
+            "source": "Freddie Wilson",
+            "target": "Michael"
+        },
+        {
+            "source": "Freddie Wilson",
+            "target": "George Michael"
+        },
+        {
+            "source": "Freddie Wilson",
+            "target": "Lindsay"
+        },
+        {
+            "source": "Mural",
+            "target": "Michael"
+        },
+        {
+            "source": "Mural",
+            "target": "Arrested Development"
+        },
+        {
+            "source": "Peanut brittle",
+            "target": "George Bluth"
+        },
+        {
+            "source": "Max Winkler",
+            "target": "Arrested Development"
+        },
+        {
+            "source": "Transcript of Afternoon Delight",
+            "target": "Season Two"
+        },
+        {
+            "source": "Transcript of Meat the Veals",
+            "target": "Season Two"
+        },
+        {
+            "source": "Transcript of Good Grief",
+            "target": "Season Two"
+        },
+        {
+            "source": "George Michael Bluth",
+            "target": "Development Arrested"
+        },
+        {
+            "source": "George Michael Bluth",
+            "target": "Michael"
+        },
+        {
+            "source": "George Michael Bluth",
+            "target": "Michael Bluth"
+        },
+        {
+            "source": "George Michael Bluth",
+            "target": "Banana Stand"
+        },
+        {
+            "source": "George Michael Bluth",
+            "target": "Pilot"
+        },
+        {
+            "source": "George Michael Bluth",
+            "target": "Bluth Family"
+        },
+        {
+            "source": "George Michael Bluth",
+            "target": "Ann"
+        },
+        {
+            "source": "George Michael Bluth",
+            "target": "Model House"
+        },
+        {
+            "source": "Reno",
+            "target": "Kitty"
+        },
+        {
+            "source": "Reno",
+            "target": "Tobias"
+        },
+        {
+            "source": "Reno",
+            "target": "Michael Bluth"
+        },
+        {
+            "source": "Reno",
+            "target": "George Michael"
+        },
+        {
+            "source": "Reno",
+            "target": "George Bluth"
+        },
+        {
+            "source": "Transcript of Motherboy XXX",
+            "target": "Season Two"
+        },
+        {
+            "source": "Transcript of Motherboy XXX",
+            "target": "Mitchell Hurwitz"
+        },
+        {
+            "source": "Arrested Development Wiki",
+            "target": "Main Page"
+        },
+        {
+            "source": "George Bluth Sr.",
+            "target": "George Bluth"
+        },
+        {
+            "source": "Black Friday",
+            "target": "George Bluth"
+        },
+        {
+            "source": "My Mother the Car",
+            "target": "My Mother, the Car"
+        },
+        {
+            "source": "Transcript of Spring Breakout",
+            "target": "Season Two"
+        },
+        {
+            "source": "Transcript of Spring Breakout",
+            "target": "Jeff Garlin"
+        }
+    ],
+    "directed": true,
+    "multigraph": false,
+    "nodes": [
+        {
+            "parity": 0,
+            "degree": 9,
+            "id": "Main Page"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Annyong"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "The Cockroach"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "List of episodes"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lucille 2"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Afternoon Deelite"
+        },
+        {
+            "parity": 0,
+            "degree": 25,
+            "id": "Development Arrested"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Dr. Sandor Plumb"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Fox.com/arresteddev"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "My Mother, The Car"
+        },
+        {
+            "parity": 0,
+            "degree": 11,
+            "id": "My Mother, the Car"
+        },
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "Jeff Garlin"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Tobias Funke"
+        },
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "Pilot"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Hurwitz"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "The apartment"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "George"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "1x8"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "UnLead News"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Transcript of Hand to God"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Lindsay"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Arrested Development Netflix Premiere"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Transcript of Ready, Aim, Marry Me"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "The Model Home"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Austero Bluth Company"
+        },
+        {
+            "parity": 1,
+            "degree": 10,
+            "id": "Mitchell Hurwitz"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "George Sr."
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "The Plumb Clinic"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Herb Zuckerkorn"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "George, Sr."
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Gcheung28/Arrested Development's Return Date"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Chareth Richter"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Arrested Development bobbleheads"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "3x13"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "1x08"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Pete the mailman"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Transcript of Righteous Brothers"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Kitty"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Home"
+        },
+        {
+            "parity": 1,
+            "degree": 10,
+            "id": "Season Three"
+        },
+        {
+            "parity": 1,
+            "degree": 18,
+            "id": "Season Two"
+        },
+        {
+            "parity": 0,
+            "degree": 9,
+            "id": "George Michael"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lindsay F\u00fcnke"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Nichael Bluth"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Bluth Family"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Tobias"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Cookies scented spray"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Lemon grove"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Los Mas Buscados de Mexico"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Transcript of Queen for a Day"
+        },
+        {
+            "parity": 0,
+            "degree": 15,
+            "id": "George Bluth"
+        },
+        {
+            "parity": 1,
+            "degree": 26,
+            "id": "Michael Bluth"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "1x01"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Transcript of The Cabin Show"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Nichael"
+        },
+        {
+            "parity": 0,
+            "degree": 13,
+            "id": "Arrested Development"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Seth Rogen"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Oscar"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Transcript of Burning Love"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "FOX"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Model House"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Ann"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "John Beard's To Entrap a Local Predator: Orange County Edition: Super Creep"
+        },
+        {
+            "parity": 1,
+            "degree": 12,
+            "id": "Season One"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "John Fortenberry"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Barry"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Larry Mittleman"
+        },
+        {
+            "parity": 1,
+            "degree": 14,
+            "id": "Michael"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Mort"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Freddie Wilson"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Mural"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Banana Stand"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Peanut brittle"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Max Winkler"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Best Man for the GOB"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Transcript of Afternoon Delight"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Transcript of Meat the Veals"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Transcript of Good Grief"
+        },
+        {
+            "parity": 0,
+            "degree": 11,
+            "id": "George Michael Bluth"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Reno"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Transcript of Motherboy XXX"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Arrested Development Wiki"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "George Bluth Sr."
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Black Friday"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "2013 Netflix Orange Carpet Season Four Premiere"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Lucille"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "James"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "My Mother the Car"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Transcript of Spring Breakout"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 6
+        },
+        {
+            "source": 0,
+            "target": 67
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 12
+        },
+        {
+            "source": 0,
+            "target": 45
+        },
+        {
+            "source": 0,
+            "target": 55
+        },
+        {
+            "source": 0,
+            "target": 51
+        },
+        {
+            "source": 2,
+            "target": 51
+        },
+        {
+            "source": 2,
+            "target": 55
+        },
+        {
+            "source": 3,
+            "target": 6
+        },
+        {
+            "source": 3,
+            "target": 9
+        },
+        {
+            "source": 3,
+            "target": 13
+        },
+        {
+            "source": 3,
+            "target": 74
+        },
+        {
+            "source": 5,
+            "target": 67
+        },
+        {
+            "source": 5,
+            "target": 85
+        },
+        {
+            "source": 6,
+            "target": 67
+        },
+        {
+            "source": 6,
+            "target": 1
+        },
+        {
+            "source": 6,
+            "target": 68
+        },
+        {
+            "source": 6,
+            "target": 20
+        },
+        {
+            "source": 6,
+            "target": 61
+        },
+        {
+            "source": 6,
+            "target": 9
+        },
+        {
+            "source": 6,
+            "target": 74
+        },
+        {
+            "source": 6,
+            "target": 41
+        },
+        {
+            "source": 6,
+            "target": 26
+        },
+        {
+            "source": 6,
+            "target": 13
+        },
+        {
+            "source": 6,
+            "target": 85
+        },
+        {
+            "source": 6,
+            "target": 64
+        },
+        {
+            "source": 6,
+            "target": 55
+        },
+        {
+            "source": 6,
+            "target": 11
+        },
+        {
+            "source": 6,
+            "target": 25
+        },
+        {
+            "source": 7,
+            "target": 51
+        },
+        {
+            "source": 7,
+            "target": 27
+        },
+        {
+            "source": 8,
+            "target": 67
+        },
+        {
+            "source": 8,
+            "target": 39
+        },
+        {
+            "source": 8,
+            "target": 55
+        },
+        {
+            "source": 8,
+            "target": 40
+        },
+        {
+            "source": 8,
+            "target": 63
+        },
+        {
+            "source": 9,
+            "target": 10
+        },
+        {
+            "source": 10,
+            "target": 6
+        },
+        {
+            "source": 10,
+            "target": 59
+        },
+        {
+            "source": 10,
+            "target": 78
+        },
+        {
+            "source": 10,
+            "target": 82
+        },
+        {
+            "source": 10,
+            "target": 42
+        },
+        {
+            "source": 10,
+            "target": 51
+        },
+        {
+            "source": 10,
+            "target": 87
+        },
+        {
+            "source": 11,
+            "target": 6
+        },
+        {
+            "source": 11,
+            "target": 39
+        },
+        {
+            "source": 11,
+            "target": 40
+        },
+        {
+            "source": 11,
+            "target": 55
+        },
+        {
+            "source": 13,
+            "target": 51
+        },
+        {
+            "source": 13,
+            "target": 82
+        },
+        {
+            "source": 14,
+            "target": 25
+        },
+        {
+            "source": 16,
+            "target": 82
+        },
+        {
+            "source": 17,
+            "target": 10
+        },
+        {
+            "source": 18,
+            "target": 62
+        },
+        {
+            "source": 18,
+            "target": 41
+        },
+        {
+            "source": 19,
+            "target": 40
+        },
+        {
+            "source": 19,
+            "target": 25
+        },
+        {
+            "source": 21,
+            "target": 84
+        },
+        {
+            "source": 22,
+            "target": 40
+        },
+        {
+            "source": 22,
+            "target": 25
+        },
+        {
+            "source": 24,
+            "target": 51
+        },
+        {
+            "source": 26,
+            "target": 82
+        },
+        {
+            "source": 27,
+            "target": 51
+        },
+        {
+            "source": 27,
+            "target": 7
+        },
+        {
+            "source": 28,
+            "target": 85
+        },
+        {
+            "source": 28,
+            "target": 65
+        },
+        {
+            "source": 28,
+            "target": 50
+        },
+        {
+            "source": 29,
+            "target": 50
+        },
+        {
+            "source": 30,
+            "target": 55
+        },
+        {
+            "source": 31,
+            "target": 67
+        },
+        {
+            "source": 32,
+            "target": 67
+        },
+        {
+            "source": 33,
+            "target": 6
+        },
+        {
+            "source": 34,
+            "target": 10
+        },
+        {
+            "source": 35,
+            "target": 51
+        },
+        {
+            "source": 35,
+            "target": 41
+        },
+        {
+            "source": 36,
+            "target": 40
+        },
+        {
+            "source": 36,
+            "target": 25
+        },
+        {
+            "source": 36,
+            "target": 11
+        },
+        {
+            "source": 38,
+            "target": 0
+        },
+        {
+            "source": 39,
+            "target": 6
+        },
+        {
+            "source": 39,
+            "target": 26
+        },
+        {
+            "source": 39,
+            "target": 25
+        },
+        {
+            "source": 39,
+            "target": 67
+        },
+        {
+            "source": 39,
+            "target": 55
+        },
+        {
+            "source": 39,
+            "target": 41
+        },
+        {
+            "source": 40,
+            "target": 67
+        },
+        {
+            "source": 40,
+            "target": 55
+        },
+        {
+            "source": 40,
+            "target": 25
+        },
+        {
+            "source": 40,
+            "target": 26
+        },
+        {
+            "source": 40,
+            "target": 45
+        },
+        {
+            "source": 40,
+            "target": 63
+        },
+        {
+            "source": 41,
+            "target": 78
+        },
+        {
+            "source": 43,
+            "target": 51
+        },
+        {
+            "source": 46,
+            "target": 86
+        },
+        {
+            "source": 47,
+            "target": 57
+        },
+        {
+            "source": 47,
+            "target": 85
+        },
+        {
+            "source": 47,
+            "target": 67
+        },
+        {
+            "source": 48,
+            "target": 50
+        },
+        {
+            "source": 49,
+            "target": 40
+        },
+        {
+            "source": 49,
+            "target": 11
+        },
+        {
+            "source": 50,
+            "target": 6
+        },
+        {
+            "source": 50,
+            "target": 44
+        },
+        {
+            "source": 50,
+            "target": 51
+        },
+        {
+            "source": 50,
+            "target": 13
+        },
+        {
+            "source": 50,
+            "target": 15
+        },
+        {
+            "source": 50,
+            "target": 85
+        },
+        {
+            "source": 50,
+            "target": 66
+        },
+        {
+            "source": 51,
+            "target": 6
+        },
+        {
+            "source": 51,
+            "target": 26
+        },
+        {
+            "source": 51,
+            "target": 23
+        },
+        {
+            "source": 51,
+            "target": 1
+        },
+        {
+            "source": 51,
+            "target": 13
+        },
+        {
+            "source": 51,
+            "target": 44
+        },
+        {
+            "source": 51,
+            "target": 20
+        },
+        {
+            "source": 51,
+            "target": 61
+        },
+        {
+            "source": 51,
+            "target": 55
+        },
+        {
+            "source": 51,
+            "target": 41
+        },
+        {
+            "source": 51,
+            "target": 78
+        },
+        {
+            "source": 52,
+            "target": 13
+        },
+        {
+            "source": 53,
+            "target": 39
+        },
+        {
+            "source": 53,
+            "target": 25
+        },
+        {
+            "source": 54,
+            "target": 51
+        },
+        {
+            "source": 56,
+            "target": 50
+        },
+        {
+            "source": 58,
+            "target": 67
+        },
+        {
+            "source": 58,
+            "target": 40
+        },
+        {
+            "source": 63,
+            "target": 26
+        },
+        {
+            "source": 63,
+            "target": 51
+        },
+        {
+            "source": 63,
+            "target": 55
+        },
+        {
+            "source": 63,
+            "target": 25
+        },
+        {
+            "source": 63,
+            "target": 85
+        },
+        {
+            "source": 63,
+            "target": 45
+        },
+        {
+            "source": 63,
+            "target": 20
+        },
+        {
+            "source": 63,
+            "target": 4
+        },
+        {
+            "source": 63,
+            "target": 41
+        },
+        {
+            "source": 64,
+            "target": 6
+        },
+        {
+            "source": 64,
+            "target": 39
+        },
+        {
+            "source": 64,
+            "target": 55
+        },
+        {
+            "source": 64,
+            "target": 63
+        },
+        {
+            "source": 67,
+            "target": 51
+        },
+        {
+            "source": 69,
+            "target": 45
+        },
+        {
+            "source": 69,
+            "target": 67
+        },
+        {
+            "source": 69,
+            "target": 41
+        },
+        {
+            "source": 69,
+            "target": 20
+        },
+        {
+            "source": 70,
+            "target": 67
+        },
+        {
+            "source": 70,
+            "target": 55
+        },
+        {
+            "source": 72,
+            "target": 50
+        },
+        {
+            "source": 73,
+            "target": 55
+        },
+        {
+            "source": 75,
+            "target": 40
+        },
+        {
+            "source": 76,
+            "target": 40
+        },
+        {
+            "source": 77,
+            "target": 40
+        },
+        {
+            "source": 78,
+            "target": 6
+        },
+        {
+            "source": 78,
+            "target": 67
+        },
+        {
+            "source": 78,
+            "target": 51
+        },
+        {
+            "source": 78,
+            "target": 71
+        },
+        {
+            "source": 78,
+            "target": 13
+        },
+        {
+            "source": 78,
+            "target": 44
+        },
+        {
+            "source": 78,
+            "target": 61
+        },
+        {
+            "source": 78,
+            "target": 60
+        },
+        {
+            "source": 79,
+            "target": 37
+        },
+        {
+            "source": 79,
+            "target": 45
+        },
+        {
+            "source": 79,
+            "target": 51
+        },
+        {
+            "source": 79,
+            "target": 41
+        },
+        {
+            "source": 79,
+            "target": 50
+        },
+        {
+            "source": 80,
+            "target": 40
+        },
+        {
+            "source": 80,
+            "target": 25
+        },
+        {
+            "source": 81,
+            "target": 0
+        },
+        {
+            "source": 82,
+            "target": 50
+        },
+        {
+            "source": 83,
+            "target": 50
+        },
+        {
+            "source": 87,
+            "target": 10
+        },
+        {
+            "source": 88,
+            "target": 40
+        },
+        {
+            "source": 88,
+            "target": 11
+        }
+    ],
+    "graph": {},
+    "basic": {
+        "numEdges": 172,
+        "averagePathLength": 2.5845588235294117,
+        "averageOutDegree": 1.9325842696629214,
+        "numNodes": 89,
+        "selfLinks": 0,
+        "averageInDegree": 1.9325842696629214
+    }
+}

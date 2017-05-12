@@ -1,0 +1,6153 @@
+{
+    "edges": [
+        {
+            "source": "Song:eBay",
+            "target": "EBay"
+        },
+        {
+            "source": "Song:I Can't Watch This",
+            "target": "I Can't Watch This"
+        },
+        {
+            "source": "\"Weird Al\" Yankovic",
+            "target": "Song:I Can't Watch This"
+        },
+        {
+            "source": "\"Weird Al\" Yankovic",
+            "target": "Song:Happy Birthday"
+        },
+        {
+            "source": "\"Weird Al\" Yankovic",
+            "target": "Song:Headline News"
+        },
+        {
+            "source": "\"Weird Al\" Yankovic",
+            "target": "Steve Jay"
+        },
+        {
+            "source": "\"Weird Al\" Yankovic",
+            "target": "Song:Bob"
+        },
+        {
+            "source": "\"Weird Al\" Yankovic",
+            "target": "Song:Another One Rides The Bus"
+        },
+        {
+            "source": "\"Weird Al\" Yankovic",
+            "target": "Song:The Saga Begins"
+        },
+        {
+            "source": "\"Weird Al\" Yankovic",
+            "target": "Song:Pacman"
+        },
+        {
+            "source": "\"Weird Al\" Yankovic",
+            "target": "Song:Mr. Popeil"
+        },
+        {
+            "source": "\"Weird Al\" Yankovic",
+            "target": "Song:Callin' In Sick"
+        },
+        {
+            "source": "\"Weird Al\" Yankovic",
+            "target": "Song:It's Still Billy Joel To Me"
+        },
+        {
+            "source": "\"Weird Al\" Yankovic",
+            "target": "Song:Genius in France"
+        },
+        {
+            "source": "\"Weird Al\" Yankovic",
+            "target": "Song:School Cafeteria"
+        },
+        {
+            "source": "\"Weird Al\" Yankovic",
+            "target": "Song:I Love Rocky Road"
+        },
+        {
+            "source": "\"Weird Al\" Yankovic",
+            "target": "Jon \"Bermuda\" Schwartz"
+        },
+        {
+            "source": "\"Weird Al\" Yankovic",
+            "target": "Song:Eat It"
+        },
+        {
+            "source": "\"Weird Al\" Yankovic",
+            "target": "Song:Trigger Happy"
+        },
+        {
+            "source": "\"Weird Al\" Yankovic",
+            "target": "Song:Hardware Store"
+        },
+        {
+            "source": "\"Weird Al\" Yankovic",
+            "target": "UHF"
+        },
+        {
+            "source": "\"Weird Al\" Yankovic",
+            "target": "Song:Everything You Know Is Wrong"
+        },
+        {
+            "source": "\"Weird Al\" Yankovic",
+            "target": "Song:Why Does This Always Happen To Me?"
+        },
+        {
+            "source": "\"Weird Al\" Yankovic",
+            "target": "The Simpsons"
+        },
+        {
+            "source": "\"Weird Al\" Yankovic",
+            "target": "Song:Brain Freeze"
+        },
+        {
+            "source": "My Bologna",
+            "target": "Lyrics:My Bologna"
+        },
+        {
+            "source": "Weird Al Wiki:Userboxes",
+            "target": "Song:Amish Paradise"
+        },
+        {
+            "source": "Weird Al Wiki:Userboxes",
+            "target": "Song:Gump"
+        },
+        {
+            "source": "Weird Al Wiki:Userboxes",
+            "target": "Song:(This Song's Just) Six Words Long"
+        },
+        {
+            "source": "Weird Al Wiki:Userboxes",
+            "target": "27"
+        },
+        {
+            "source": "Lyrics:That Boy Could Dance",
+            "target": "Song:That Boy Could Dance"
+        },
+        {
+            "source": "Album:Placebo",
+            "target": "Album:Another One Rides The Bus"
+        },
+        {
+            "source": "Theme from Rocky XIII",
+            "target": "Theme From Rocky XIII"
+        },
+        {
+            "source": "Lyrics:Mr.Frump In The Iron Lung",
+            "target": "Lyrics:Mr. Frump In The Iron Lung"
+        },
+        {
+            "source": "Song:",
+            "target": "Weird Al Wiki"
+        },
+        {
+            "source": "Song:Amish Paradise",
+            "target": "Amish Paradise"
+        },
+        {
+            "source": "Bending Guitars",
+            "target": "Visuals:Gump"
+        },
+        {
+            "source": "Bending Guitars",
+            "target": "Visuals:Smells Like Nirvana"
+        },
+        {
+            "source": "Bending Guitars",
+            "target": "\"Weird Al\" Yankovic"
+        },
+        {
+            "source": "Song:Ricky",
+            "target": "Ricky"
+        },
+        {
+            "source": "Lyrics:Finale",
+            "target": "Finale"
+        },
+        {
+            "source": "Gotta Boogie (song)",
+            "target": "Gotta Boogie"
+        },
+        {
+            "source": "Song:Ebay",
+            "target": "Lyrics:Ebay"
+        },
+        {
+            "source": "Song:UHF",
+            "target": "UHF"
+        },
+        {
+            "source": "Song:UHF",
+            "target": "Visuals:UHF"
+        },
+        {
+            "source": "Song:UHF",
+            "target": "Lyrics:UHF"
+        },
+        {
+            "source": "Song:UHF",
+            "target": "\"Weird Al\" Yankovic"
+        },
+        {
+            "source": "Song:Midnight Star",
+            "target": "Midnight Star"
+        },
+        {
+            "source": "Song:The White Stuff",
+            "target": "The White Stuff"
+        },
+        {
+            "source": "Genius In France",
+            "target": "Album:Poodle Hat"
+        },
+        {
+            "source": "Cavity Search",
+            "target": "Lyrics:Cavity Search"
+        },
+        {
+            "source": "Song:My Bologna",
+            "target": "My Bologna"
+        },
+        {
+            "source": "Lyrics:Song:Fat",
+            "target": "Lyrics:Fat"
+        },
+        {
+            "source": "\"Weird Al\"",
+            "target": "\"Weird Al\" Yankovic"
+        },
+        {
+            "source": "Headline News",
+            "target": "Visuals:Headline News"
+        },
+        {
+            "source": "Complete Song List (Wikipedia)",
+            "target": "\"Weird Al\" Yankovic in 3-D"
+        },
+        {
+            "source": "Complete Song List (Wikipedia)",
+            "target": "Poodle Hat"
+        },
+        {
+            "source": "Complete Song List (Wikipedia)",
+            "target": "Polka Party! (album)"
+        },
+        {
+            "source": "Complete Song List (Wikipedia)",
+            "target": "Even Worse"
+        },
+        {
+            "source": "Complete Song List (Wikipedia)",
+            "target": "My Bologna"
+        },
+        {
+            "source": "Complete Song List (Wikipedia)",
+            "target": "2003"
+        },
+        {
+            "source": "Complete Song List (Wikipedia)",
+            "target": "Bad Hair Day"
+        },
+        {
+            "source": "Complete Song List (Wikipedia)",
+            "target": "UHF (film)"
+        },
+        {
+            "source": "Complete Song List (Wikipedia)",
+            "target": "Fat (song)"
+        },
+        {
+            "source": "Complete Song List (Wikipedia)",
+            "target": "Eat It"
+        },
+        {
+            "source": "Complete Song List (Wikipedia)",
+            "target": "\"Weird Al\" Yankovic"
+        },
+        {
+            "source": "Complete Song List (Wikipedia)",
+            "target": "Alapalooza"
+        },
+        {
+            "source": "Complete Song List (Wikipedia)",
+            "target": "Smells Like Nirvana"
+        },
+        {
+            "source": "Complete Song List (Wikipedia)",
+            "target": "Jurassic Park"
+        },
+        {
+            "source": "Complete Song List (Wikipedia)",
+            "target": "Amish Paradise"
+        },
+        {
+            "source": "Complete Song List (Wikipedia)",
+            "target": "The Saga Begins"
+        },
+        {
+            "source": "Straight outta lynwood",
+            "target": "Album:Straight Outta Lynwood"
+        },
+        {
+            "source": "Homer and Marge",
+            "target": "Homer And Marge"
+        },
+        {
+            "source": "Song:Bob",
+            "target": "Bob"
+        },
+        {
+            "source": "Lyrics:Song:My Bologna",
+            "target": "Lyrics:My Bologna"
+        },
+        {
+            "source": "Lyrics:Fat",
+            "target": "Song:Fat"
+        },
+        {
+            "source": "Song:Genius in France",
+            "target": "Genius In France"
+        },
+        {
+            "source": "Trigger Happy",
+            "target": "Lyrics:Trigger Happy"
+        },
+        {
+            "source": "Lyrics:Angry White Boy Polka",
+            "target": "Song:Angry White Boy Polka"
+        },
+        {
+            "source": "Midnight Star",
+            "target": "Lyrics:Midnight Star"
+        },
+        {
+            "source": "Lyrics:Money For Nothing/Beverly Hillbillies",
+            "target": "Money For Nothing/Beverly Hillbillies"
+        },
+        {
+            "source": "Spy Hard (Orchestral)",
+            "target": "Spy Hard (Instrumental)"
+        },
+        {
+            "source": "Spy Hard (Orchestral)",
+            "target": "Song:Spy Hard"
+        },
+        {
+            "source": "Bob",
+            "target": "\"Weird Al\" Yankovic"
+        },
+        {
+            "source": "Bob",
+            "target": "Lyrics:Bob"
+        },
+        {
+            "source": "Mr. Frump In The Iron Lung",
+            "target": "Album:\"Weird Al\" Yankovic"
+        },
+        {
+            "source": "Mr. Frump In The Iron Lung",
+            "target": "Lyrics:Mr.Frump In The Iron Lung"
+        },
+        {
+            "source": "Pacman (song)",
+            "target": "Pacman"
+        },
+        {
+            "source": "Weird Al Wiki:Tour/Song:My Bologna",
+            "target": "Weird Al Wiki:Tour/Song"
+        },
+        {
+            "source": "Lyrics:My Bologna (food medley)",
+            "target": "My Bologna (food medley)"
+        },
+        {
+            "source": "Poodle Hat",
+            "target": "Album:Poodle Hat"
+        },
+        {
+            "source": "October 23",
+            "target": "\"Weird Al\" Yankovic"
+        },
+        {
+            "source": "Jon Schwartz",
+            "target": "Jon \"Bermuda\" Schwartz"
+        },
+        {
+            "source": "Spy Hard (Instrumental)",
+            "target": "Spy Hard (Orchestral)"
+        },
+        {
+            "source": "Spy Hard (Instrumental)",
+            "target": "Song:Spy Hard"
+        },
+        {
+            "source": "\"Normal Al\" Wiki",
+            "target": "Weird Al Wiki"
+        },
+        {
+            "source": "Why Does This Always Happen To Me",
+            "target": "Why Does This Always Happen To Me?"
+        },
+        {
+            "source": "White & Nerdy",
+            "target": "Song:White & Nerdy"
+        },
+        {
+            "source": "Weird Al Yankovich",
+            "target": "\"Weird Al\" Yankovic"
+        },
+        {
+            "source": "Steve Jay",
+            "target": "\"Weird Al\" Yankovic"
+        },
+        {
+            "source": "Midnight Star (song)",
+            "target": "Midnight Star"
+        },
+        {
+            "source": "Lyrics:Poodle",
+            "target": "Poodle"
+        },
+        {
+            "source": "Trash Day",
+            "target": "Album:Poodle Hat"
+        },
+        {
+            "source": "Confessions part III",
+            "target": "Song:Confessions Part III"
+        },
+        {
+            "source": "UHF (song)",
+            "target": "Song:UHF"
+        },
+        {
+            "source": "Song:Angry White Boy Polka",
+            "target": "Angry White Boy Polka"
+        },
+        {
+            "source": "My Bologna (food medley)",
+            "target": "My Bologna"
+        },
+        {
+            "source": "My Bologna (food medley)",
+            "target": "Lyrics:My Bologna (food medley)"
+        },
+        {
+            "source": "Lyrics:You're Pitiful",
+            "target": "Song:You're Pitiful"
+        },
+        {
+            "source": "Lyrics:The Saga Begins",
+            "target": "Song:The Saga Begins"
+        },
+        {
+            "source": "Brain Freeze",
+            "target": "Lyrics:Brain Freeze"
+        },
+        {
+            "source": "Brain Freeze",
+            "target": "The Simpsons"
+        },
+        {
+            "source": "Happy Birthday (song)",
+            "target": "Happy Birthday"
+        },
+        {
+            "source": "Weird Al Wiki:Tour/Main Page",
+            "target": "\"Weird Al\" Yankovic"
+        },
+        {
+            "source": "Weird Al Wiki:Tour/Main Page",
+            "target": "Inputboxes"
+        },
+        {
+            "source": "Weird Al Wiki:Tour/Main Page",
+            "target": "Complete Song List"
+        },
+        {
+            "source": "In 3-D",
+            "target": "Album:\"Weird Al\" Yankovic in 3-D"
+        },
+        {
+            "source": "Lyrics:Yoda Chant",
+            "target": "Song:Yoda Chant"
+        },
+        {
+            "source": "Song:Bite Me",
+            "target": "Bite Me"
+        },
+        {
+            "source": "Song:The Night Santa Went Crazy (Extra Gory Version)",
+            "target": "The Night Santa Went Crazy (Extra Gory Version)"
+        },
+        {
+            "source": "Everything You Know Is Wrong",
+            "target": "Lyrics:Everything You Know is Wrong"
+        },
+        {
+            "source": "Weird Al Wiki:Wikitroll",
+            "target": "Main Page"
+        },
+        {
+            "source": "Lyrics:Everything You Know is Wrong",
+            "target": "Lyrics:Everything You Know Is Wrong"
+        },
+        {
+            "source": "Ode To A Superhero",
+            "target": "Album:Poodle Hat"
+        },
+        {
+            "source": "S:G",
+            "target": "Song:Gump"
+        },
+        {
+            "source": "Hanson",
+            "target": "The Weird Al Show"
+        },
+        {
+            "source": "White and Nerdy",
+            "target": "White & Nerdy"
+        },
+        {
+            "source": "Song:Jedi Knight",
+            "target": "Song:The Saga Begins"
+        },
+        {
+            "source": "Video:You Don't Love Me Anymore",
+            "target": "Smells Like Nirvana"
+        },
+        {
+            "source": "Lyrics:I Can't Watch This",
+            "target": "Song:I Can't Watch This"
+        },
+        {
+            "source": "Lyrics:Alligator",
+            "target": "Alligator"
+        },
+        {
+            "source": "Lyrics:Theme from Rocky XIII",
+            "target": "Lyrics:Theme From Rocky XIII"
+        },
+        {
+            "source": "Lyrics: (This Song's Just) Six Words Long",
+            "target": "(This Song's Just) Six Words Long"
+        },
+        {
+            "source": "Song:A Constipated Song",
+            "target": "Song:A Complicated Song"
+        },
+        {
+            "source": "Lyrics:Attack Of The Radioactive Hamsters From A Planet Near Mars",
+            "target": "Song:Attack Of The Radioactive Hamsters From A Planet Near Mars"
+        },
+        {
+            "source": "Amish Paradise",
+            "target": "Lyrics:Amish Paradise"
+        },
+        {
+            "source": "Album:I Love Rocky Road",
+            "target": "Single:I Love Rocky Road"
+        },
+        {
+            "source": "Weird al Yankovic",
+            "target": "\"Weird Al\" Yankovic"
+        },
+        {
+            "source": "Lyrics:Don't You Forget About Meat",
+            "target": "Don't You Forget About Meat"
+        },
+        {
+            "source": "Lyrics:Fat (song)",
+            "target": "Lyrics:Fat"
+        },
+        {
+            "source": "Biggest Ball Of Twine In Minnesota",
+            "target": "The Biggest Ball Of Twine In Minnesota"
+        },
+        {
+            "source": "Lyrics:UHF (song)",
+            "target": "Lyrics:UHF"
+        },
+        {
+            "source": "Song:Gotta Boogie",
+            "target": "Gotta Boogie"
+        },
+        {
+            "source": "Song:Couch Potato",
+            "target": "Couch Potato"
+        },
+        {
+            "source": "Lyrics:My Bologna",
+            "target": "Song:My Bologna"
+        },
+        {
+            "source": "Lyrics:The White Stuff",
+            "target": "The White Stuff"
+        },
+        {
+            "source": "Song:A Complicated Song",
+            "target": "A Complicated Song"
+        },
+        {
+            "source": "Song:Jerry Springer",
+            "target": "Jerry Springer"
+        },
+        {
+            "source": "The Night Santa Went Crazy (Extra Gory Version)",
+            "target": "Song:The Night Santa Went Crazy"
+        },
+        {
+            "source": "The Night Santa Went Crazy (Extra Gory Version)",
+            "target": "Lyrics:The Night Santa Went Crazy (Extra Gory Version)"
+        },
+        {
+            "source": "Fanstuff Wiki",
+            "target": "Fanstuff/Main Page"
+        },
+        {
+            "source": "Fanstuff Wiki",
+            "target": "Fanstuff/Community Portal"
+        },
+        {
+            "source": "Lyrics:Unicorn",
+            "target": "Unicorn"
+        },
+        {
+            "source": "Take Me Down (song)",
+            "target": "Song:Take Me Down"
+        },
+        {
+            "source": "Song:Mmmm Mmmm Mmmm Mmmm",
+            "target": "Song:Headline News"
+        },
+        {
+            "source": "Confessions Part III",
+            "target": "Lyrics:Confessions Part III"
+        },
+        {
+            "source": "I Can't Watch This",
+            "target": "Lyrics:I Can't Watch This"
+        },
+        {
+            "source": "Mixed Up S.O.B.",
+            "target": "\"Weird Al\" Yankovic"
+        },
+        {
+            "source": "Poodle",
+            "target": "Lyrics:Poodle"
+        },
+        {
+            "source": "Snails",
+            "target": "Lyrics:Snails"
+        },
+        {
+            "source": "Weird Al Wiki:WikiTroll",
+            "target": "Weird Al Wiki:WikiTroll"
+        },
+        {
+            "source": "Song:Confessions Part III",
+            "target": "Confessions Part III"
+        },
+        {
+            "source": "Stop Draggin' My Car Around (song)",
+            "target": "Stop Draggin' My Car Around"
+        },
+        {
+            "source": "Angry White Boy Polka",
+            "target": "\"Weird Al\" Yankovic"
+        },
+        {
+            "source": "Angry White Boy Polka",
+            "target": "Lyrics:Angry White Boy Polka"
+        },
+        {
+            "source": "Angry White Boy Polka",
+            "target": "Album:Poodle Hat"
+        },
+        {
+            "source": "Yoda (song)",
+            "target": "Yoda"
+        },
+        {
+            "source": "Lyrics:Ricky (song)",
+            "target": "Lyrics:Ricky"
+        },
+        {
+            "source": "Baby Likes Burping (song)",
+            "target": "Baby Likes Burping"
+        },
+        {
+            "source": "Album:Single",
+            "target": "Weird Al Wiki"
+        },
+        {
+            "source": "Album:\"Weird Al\" Yankovic In 3-D",
+            "target": "Song:Mr. Popeil"
+        },
+        {
+            "source": "Album:\"Weird Al\" Yankovic In 3-D",
+            "target": "Song:That Boy Could Dance"
+        },
+        {
+            "source": "Album:\"Weird Al\" Yankovic In 3-D",
+            "target": "Song:Eat It"
+        },
+        {
+            "source": "Album:\"Weird Al\" Yankovic In 3-D",
+            "target": "Song:Midnight Star"
+        },
+        {
+            "source": "Album:\"Weird Al\" Yankovic In 3-D",
+            "target": "Song:I Lost On Jeopardy"
+        },
+        {
+            "source": "Album:\"Weird Al\" Yankovic In 3-D",
+            "target": "Song:Buy Me a Condo"
+        },
+        {
+            "source": "Album:\"Weird Al\" Yankovic In 3-D",
+            "target": "Song:The Brady Bunch"
+        },
+        {
+            "source": "Album:Weird Al Yankovic",
+            "target": "Album:\"Weird Al\" Yankovic"
+        },
+        {
+            "source": "Bohemian Polka",
+            "target": "Album:Alapalooza"
+        },
+        {
+            "source": "Song:Jurassic Park",
+            "target": "Jurassic Park"
+        },
+        {
+            "source": "Song:Achy Breaky Heart",
+            "target": "Song:Achy Breaky Song"
+        },
+        {
+            "source": "I'll Be Mellow When I'm Dead",
+            "target": "Lyrics:I'll Be Mellow When I'm Dead"
+        },
+        {
+            "source": "I'll Be Mellow When I'm Dead",
+            "target": "Album:\"Weird Al\" Yankovic"
+        },
+        {
+            "source": "Song:Constipated",
+            "target": "Song:A Complicated Song"
+        },
+        {
+            "source": "Lyrics:Homer and Marge",
+            "target": "Lyrics:Homer And Marge"
+        },
+        {
+            "source": "School Cafeteria (song)",
+            "target": "Song:School Cafeteria"
+        },
+        {
+            "source": "Song:Callin' In Sick",
+            "target": "Callin' In Sick"
+        },
+        {
+            "source": "Visuals:Smells Like Nirvana",
+            "target": "Song:Smells Like Nirvana"
+        },
+        {
+            "source": "Visuals:Smells Like Nirvana",
+            "target": "\"Weird Al\" Yankovic"
+        },
+        {
+            "source": "Lyrics:I Feel Like Throwin' Up",
+            "target": "I Feel Like Throwin' Up"
+        },
+        {
+            "source": "My Bologna (song)",
+            "target": "Song:My Bologna"
+        },
+        {
+            "source": "Weird Al",
+            "target": "\"Weird Al\" Yankovic"
+        },
+        {
+            "source": "Lyrics:Confessions Part III",
+            "target": "Song:Confessions Part III"
+        },
+        {
+            "source": "Lyrics:Bob",
+            "target": "Song:Bob"
+        },
+        {
+            "source": "The Ballad Of Kent Marlow",
+            "target": "Lyrics:The Ballad Of Kent Marlow"
+        },
+        {
+            "source": "I Love Rocky Road",
+            "target": "Lyrics:I Love Rocky Road"
+        },
+        {
+            "source": "I Love Rocky Road",
+            "target": "\"Weird Al\" Yankovic"
+        },
+        {
+            "source": "Album:Another One Rides the Bus",
+            "target": "Album:Another One Rides The Bus"
+        },
+        {
+            "source": "Song:Trigger Happy",
+            "target": "Trigger Happy"
+        },
+        {
+            "source": "Song:Eat It",
+            "target": "Eat It"
+        },
+        {
+            "source": "Main Page",
+            "target": "Weird Al Wiki"
+        },
+        {
+            "source": "Theme from Rocky XIII (song)",
+            "target": "Theme From Rocky XIII"
+        },
+        {
+            "source": "Bad Hair Day",
+            "target": "Album:Bad Hair Day"
+        },
+        {
+            "source": "Finale",
+            "target": "Lyrics:Finale"
+        },
+        {
+            "source": "Song:Hardware Store",
+            "target": "Hardware Store"
+        },
+        {
+            "source": "The Simpsons",
+            "target": "Song:Brain Freeze"
+        },
+        {
+            "source": "The Simpsons",
+            "target": "\"Weird Al\" Yankovic"
+        },
+        {
+            "source": "Lyrics:The Biggest Ball of Twine in Minnesota",
+            "target": "Lyrics:The Biggest Ball of Twine In Minnesota"
+        },
+        {
+            "source": "Song:White & Nerdy",
+            "target": "Lyrics:White and Nerdy"
+        },
+        {
+            "source": "Song:White & Nerdy",
+            "target": "Video:White and Nerdy"
+        },
+        {
+            "source": "Lyrics:Song:Bob",
+            "target": "Lyrics:Bob"
+        },
+        {
+            "source": "\"Weird Al\" Yankovich",
+            "target": "\"Weird Al\" Yankovic"
+        },
+        {
+            "source": "Visuals:It's All About the Pentiums",
+            "target": "\"Weird Al\" Yankovic"
+        },
+        {
+            "source": "Visuals:It's All About the Pentiums",
+            "target": "Song:It's All About The Pentiums"
+        },
+        {
+            "source": "Mr.Frump In The Iron Lung",
+            "target": "Mr. Frump In The Iron Lung"
+        },
+        {
+            "source": "Gotta Boogie",
+            "target": "Album:\"Weird Al\" Yankovic"
+        },
+        {
+            "source": "Gotta Boogie",
+            "target": "Lyrics:Gotta Boogie"
+        },
+        {
+            "source": "Lyrics:Stuck In A Closet With Vanna White",
+            "target": "Song:Stuck In A Closet With Vanna White"
+        },
+        {
+            "source": "Lyrics:School Cafeteria",
+            "target": "Song:School Cafeteria"
+        },
+        {
+            "source": "Lyrics:Doctor",
+            "target": "Doctor"
+        },
+        {
+            "source": "Lyrics:Party At The Leper Colony",
+            "target": "Song:Party At The Leper Colony"
+        },
+        {
+            "source": "Ricky",
+            "target": "Lyrics:Ricky"
+        },
+        {
+            "source": "Ricky",
+            "target": "Video:Ricky"
+        },
+        {
+            "source": "Eat It (song)",
+            "target": "Eat It"
+        },
+        {
+            "source": "Unicorn",
+            "target": "Lyrics:Unicorn"
+        },
+        {
+            "source": "Leisure Suit Serenade",
+            "target": "Lyrics:Leisure Suit Serenade"
+        },
+        {
+            "source": "Inputboxes",
+            "target": "Weird Al Wiki:Inputboxes"
+        },
+        {
+            "source": "Lyrics:I Think I'm A Clone Now",
+            "target": "Song:I Think I'm A Clone Now"
+        },
+        {
+            "source": "Eat It",
+            "target": "Lyrics:Eat It"
+        },
+        {
+            "source": "Song:Baby Likes Farting",
+            "target": "Song:Baby Likes Burping"
+        },
+        {
+            "source": "Song:Take Me Down",
+            "target": "Take Me Down"
+        },
+        {
+            "source": "The Biggest Ball Of Twine In Minnesota",
+            "target": "27"
+        },
+        {
+            "source": "The Biggest Ball Of Twine In Minnesota",
+            "target": "Lyrics:The Biggest Ball of Twine in Minnesota"
+        },
+        {
+            "source": "The Biggest Ball Of Twine In Minnesota",
+            "target": "Album:Al-In-The-Box"
+        },
+        {
+            "source": "Yoda",
+            "target": "Lyrics:Yoda"
+        },
+        {
+            "source": "Yoda",
+            "target": "Album:Al-In-The-Box"
+        },
+        {
+            "source": "Yoda",
+            "target": "Album:Dare To Be Stupid"
+        },
+        {
+            "source": "Yoda",
+            "target": "Song:The Saga Begins"
+        },
+        {
+            "source": "Yoda",
+            "target": "Album:Greatest Hits 2"
+        },
+        {
+            "source": "Visuals:It's All About The Pentiums",
+            "target": "Visuals:It's All About the Pentiums"
+        },
+        {
+            "source": "Albuquerque",
+            "target": "Album:Running with Scissors"
+        },
+        {
+            "source": "Albuquerque",
+            "target": "Albequerque"
+        },
+        {
+            "source": "Lyrics:The Night Santa Went Crazy",
+            "target": "Song:The Night Santa Went Crazy"
+        },
+        {
+            "source": "(This Song's Just) Six Words Long",
+            "target": "Lyrics: (This Song's Just) Six Words Long"
+        },
+        {
+            "source": "Lyrics:Al's Band (Instrumental)",
+            "target": "Al's Band (Instrumental)"
+        },
+        {
+            "source": "Lyrics:",
+            "target": "Weird Al Wiki"
+        },
+        {
+            "source": "Album:\"Weird Al\" Yankovic",
+            "target": "Song:The Check's In The Mail"
+        },
+        {
+            "source": "Album:\"Weird Al\" Yankovic",
+            "target": "Song:Happy Birthday"
+        },
+        {
+            "source": "Album:\"Weird Al\" Yankovic",
+            "target": "Song:I'll Be Mellow When I'm Dead"
+        },
+        {
+            "source": "Album:\"Weird Al\" Yankovic",
+            "target": "Song:Stop Draggin' My Car Around"
+        },
+        {
+            "source": "Album:\"Weird Al\" Yankovic",
+            "target": "Song:Another One Rides The Bus"
+        },
+        {
+            "source": "Album:\"Weird Al\" Yankovic",
+            "target": "Song:Such A Groovy Guy"
+        },
+        {
+            "source": "Album:\"Weird Al\" Yankovic",
+            "target": "Song:I Love Rocky Road"
+        },
+        {
+            "source": "Album:\"Weird Al\" Yankovic",
+            "target": "\"Weird Al\" Yankovic"
+        },
+        {
+            "source": "Album:\"Weird Al\" Yankovic",
+            "target": "Song:Gotta Boogie"
+        },
+        {
+            "source": "Album:\"Weird Al\" Yankovic",
+            "target": "Song:My Bologna"
+        },
+        {
+            "source": "Album:\"Weird Al\" Yankovic",
+            "target": "Song:Ricky"
+        },
+        {
+            "source": "Album:\"Weird Al\" Yankovic",
+            "target": "Song:Buckingham Blues"
+        },
+        {
+            "source": "Lyrics:Trigger Happy",
+            "target": "Song:Trigger Happy"
+        },
+        {
+            "source": "Lyrics:UHF",
+            "target": "Song:UHF"
+        },
+        {
+            "source": "Song:Cavity Search",
+            "target": "Cavity Search"
+        },
+        {
+            "source": "EBay",
+            "target": "Album:Poodle Hat"
+        },
+        {
+            "source": "EBay",
+            "target": "Lyrics:eBay"
+        },
+        {
+            "source": "Song:Yoda",
+            "target": "Yoda"
+        },
+        {
+            "source": "27",
+            "target": "Song:Callin' In Sick"
+        },
+        {
+            "source": "27",
+            "target": "\"Weird Al\" Yankovic"
+        },
+        {
+            "source": "27",
+            "target": "Song:Hardware Store"
+        },
+        {
+            "source": "27",
+            "target": "Song:Confessions Part III"
+        },
+        {
+            "source": "Lyrics:Callin' In Sick",
+            "target": "Song:Callin' In Sick"
+        },
+        {
+            "source": "Lyrics:Callin' In Sick",
+            "target": "27"
+        },
+        {
+            "source": "Lyrics:I Love Rocky Road",
+            "target": "Song:I Love Rocky Road"
+        },
+        {
+            "source": "Lyrics:Polkamon",
+            "target": "Song:Polkamon"
+        },
+        {
+            "source": "Song:Bohemian Rap City",
+            "target": "Song:Bohemian Polka"
+        },
+        {
+            "source": "Lyrics:Snails",
+            "target": "Snails"
+        },
+        {
+            "source": "Weird Al Wiki:Tour/Song",
+            "target": "Lyrics:My Bologna"
+        },
+        {
+            "source": "Song:It's All About The Pentiums",
+            "target": "It's All About The Pentiums"
+        },
+        {
+            "source": "A Complicated Song",
+            "target": "Lyrics:A Complicated Song"
+        },
+        {
+            "source": "Lyrics:Cavity Search",
+            "target": "Song:Cavity Search"
+        },
+        {
+            "source": "Lyrics:The Night Santa Went Crazy (Extra Gory Version)",
+            "target": "Song:The Night Santa Went Crazy (Extra Gory Version)"
+        },
+        {
+            "source": "School Cafeteria",
+            "target": "Lyrics:School Cafeteria"
+        },
+        {
+            "source": "I'll Be Mellow When I'm Dead (song)",
+            "target": "I'll Be Mellow When I'm Dead"
+        },
+        {
+            "source": "Album:Running with Scissors",
+            "target": "Album:Running With Scissors"
+        },
+        {
+            "source": "Song:Harvey The Wonder Hamster",
+            "target": "Harvey The Wonder Hamster"
+        },
+        {
+            "source": "The White Stuff",
+            "target": "Lyrics:The White Stuff"
+        },
+        {
+            "source": "The White Stuff",
+            "target": "Album:Off The Deep End"
+        },
+        {
+            "source": "Bob (song)",
+            "target": "Song:Bob"
+        },
+        {
+            "source": "Album:Off the Deep End",
+            "target": "Album:Off The Deep End"
+        },
+        {
+            "source": "Album:In 3-D",
+            "target": "\"Weird Al\" Yankovic in 3-D"
+        },
+        {
+            "source": "Song:Fat",
+            "target": "Fat"
+        },
+        {
+            "source": "Song:Such A Groovy Guy",
+            "target": "Such A Groovy Guy"
+        },
+        {
+            "source": "Trash Day (song)",
+            "target": "Song:Trash Day"
+        },
+        {
+            "source": "UHF (film)",
+            "target": "UHF Movie"
+        },
+        {
+            "source": "Lyrics:Weasel Stomping Day",
+            "target": "Song:Weasel Stomping Day"
+        },
+        {
+            "source": "Song:Party At The Leper Colony",
+            "target": "Party At The Leper Colony"
+        },
+        {
+            "source": "Lyrics:Stanley Spadowski's Theme",
+            "target": "Lyrics:Fun Zone"
+        },
+        {
+            "source": "The Check's In The Mail (song)",
+            "target": "The Check's In The Mail"
+        },
+        {
+            "source": "Lyrics:Pigeons",
+            "target": "Pigeons"
+        },
+        {
+            "source": "Song:Livin' In The Fridge",
+            "target": "Livin' In The Fridge"
+        },
+        {
+            "source": "Don't You Forget About Meat",
+            "target": "Lyrics:Don't You Forget About Meat"
+        },
+        {
+            "source": "I Feel Like Throwin' Up",
+            "target": "Lyrics:I Feel Like Throwin' Up"
+        },
+        {
+            "source": "Weird Al Yankovic",
+            "target": "\"Weird Al\" Yankovic"
+        },
+        {
+            "source": "The Night Santa Went Crazy",
+            "target": "Lyrics:The Night Santa Went Crazy"
+        },
+        {
+            "source": "The Night Santa Went Crazy",
+            "target": "Song:The Night Santa Went Crazy (Extra Gory Version)"
+        },
+        {
+            "source": "Song:Why Does This Always Happen To Me",
+            "target": "Song:Why Does This Always Happen To Me?"
+        },
+        {
+            "source": "Lyrics:Couch Potato",
+            "target": "Song:Couch Potato"
+        },
+        {
+            "source": "Lyrics:Beverly Hillbillies/Miss You",
+            "target": "Song:Beverly Hillbillies/Miss You"
+        },
+        {
+            "source": "Song:Baby Likes Burping",
+            "target": "Baby Likes Burping"
+        },
+        {
+            "source": "Ask Al",
+            "target": "FAQ"
+        },
+        {
+            "source": "Song:School Cafeteria",
+            "target": "School Cafeteria"
+        },
+        {
+            "source": "Baby Likes Burping",
+            "target": "Lyrics:Baby Likes Burping"
+        },
+        {
+            "source": "\"Weird Al\" Yankovic in 3-D",
+            "target": "Album:\"Weird Al\" Yankovic in 3-D"
+        },
+        {
+            "source": "The Saga Begins",
+            "target": "Lyrics:The Saga Begins"
+        },
+        {
+            "source": "Lyrics:Polka Your Eyes Out",
+            "target": "Song:Polka Your Eyes Out"
+        },
+        {
+            "source": "Album:Off The Deep End",
+            "target": "Song:The White Stuff"
+        },
+        {
+            "source": "Album:Off The Deep End",
+            "target": "Song:Trigger Happy"
+        },
+        {
+            "source": "Album:Off The Deep End",
+            "target": "Song:Bite Me"
+        },
+        {
+            "source": "Album:Off The Deep End",
+            "target": "Song:Smells Like Nirvana"
+        },
+        {
+            "source": "Album:Off The Deep End",
+            "target": "Song:I Can't Watch This"
+        },
+        {
+            "source": "Album:Off The Deep End",
+            "target": "Song:Polka Your Eyes Out"
+        },
+        {
+            "source": "Lyrics:Hit Me With A Rock",
+            "target": "Hit Me With A Rock"
+        },
+        {
+            "source": "Song:Everything You Know Is Wrong",
+            "target": "Everything You Know Is Wrong"
+        },
+        {
+            "source": "Complete Song List/New",
+            "target": "Lyrics:Take Me Down"
+        },
+        {
+            "source": "Complete Song List/New",
+            "target": "Lyrics:My Bologna"
+        },
+        {
+            "source": "Complete Song List/New",
+            "target": "Album:Single"
+        },
+        {
+            "source": "Complete Song List/New",
+            "target": "Song:My Bologna"
+        },
+        {
+            "source": "Complete Song List/New",
+            "target": "Song:Take Me Down"
+        },
+        {
+            "source": "Alligator",
+            "target": "Lyrics:Alligator"
+        },
+        {
+            "source": "Lyrics:White and Nerdy",
+            "target": "Lyrics:White & Nerdy"
+        },
+        {
+            "source": "Video:White and Nerdy",
+            "target": "Video:White & Nerdy"
+        },
+        {
+            "source": "Smells Like Nirvana",
+            "target": "Lyrics:Smells Like Nirvana"
+        },
+        {
+            "source": "Smells Like Nirvana",
+            "target": "Visuals:Smells Like Nirvana"
+        },
+        {
+            "source": "Song:Headline News",
+            "target": "Headline News"
+        },
+        {
+            "source": "Fanstuff",
+            "target": "Fanstuff Wiki"
+        },
+        {
+            "source": "Lyrics:I love rocky road",
+            "target": "Lyrics:I Love Rocky Road"
+        },
+        {
+            "source": "Another One Rides The Bus (song)",
+            "target": "Another One Rides The Bus"
+        },
+        {
+            "source": "Lyrics:Nature Trail To Hell",
+            "target": "Song:Nature Trail To Hell"
+        },
+        {
+            "source": "Homer And Marge",
+            "target": "The Simpsons"
+        },
+        {
+            "source": "Homer And Marge",
+            "target": "Lyrics:Homer and Marge"
+        },
+        {
+            "source": "Song:The Devil Went Down to Jamaica",
+            "target": "The Devil Went Down to Jamaica"
+        },
+        {
+            "source": "Lyrics:eBay",
+            "target": "Song:eBay"
+        },
+        {
+            "source": "Feel Like Throwing Up",
+            "target": "I Feel Like Throwin' Up"
+        },
+        {
+            "source": "Song:I'm Fat",
+            "target": "Song:Fat"
+        },
+        {
+            "source": "Jedi Knight",
+            "target": "The Saga Begins"
+        },
+        {
+            "source": "Lyrics:Eat It",
+            "target": "Song:Eat It"
+        },
+        {
+            "source": "My Home Movies",
+            "target": "Poodle Hat"
+        },
+        {
+            "source": "It's All About The Pentiums",
+            "target": "Lyrics:It's All About the Pentiums"
+        },
+        {
+            "source": "It's All About The Pentiums",
+            "target": "Visuals:It's All About The Pentiums"
+        },
+        {
+            "source": "Song:Stop Draggin' My Car Around",
+            "target": "Stop Draggin' My Car Around"
+        },
+        {
+            "source": "Off The Deep End",
+            "target": "Album:Off The Deep End"
+        },
+        {
+            "source": "You're Pitiful",
+            "target": "Lyrics:You're Pitiful"
+        },
+        {
+            "source": "Rick Derringer",
+            "target": "Weird Al"
+        },
+        {
+            "source": "Another One Rides The Bus",
+            "target": "Album:\"Weird Al\" Yankovic"
+        },
+        {
+            "source": "Another One Rides The Bus",
+            "target": "Lyrics:Another One Rides The Bus"
+        },
+        {
+            "source": "Another One Rides The Bus",
+            "target": "Album:Al-In-The-Box"
+        },
+        {
+            "source": "Lyrics:Song:Take Me Down",
+            "target": "Lyrics:Take Me Down"
+        },
+        {
+            "source": "Lyrics:Jerry Springer",
+            "target": "Jerry Springer"
+        },
+        {
+            "source": "The Biggest Ball Of Twine in Minnesota",
+            "target": "The Biggest Ball Of Twine In Minnesota"
+        },
+        {
+            "source": "Fat",
+            "target": "Lyrics:Fat"
+        },
+        {
+            "source": "Fat",
+            "target": "Visuals:Fat"
+        },
+        {
+            "source": "Song:The Check's In The Mail",
+            "target": "The Check's In The Mail"
+        },
+        {
+            "source": "Song:Happy Birthday",
+            "target": "Happy Birthday"
+        },
+        {
+            "source": "UHF",
+            "target": "Visuals:UHF"
+        },
+        {
+            "source": "UHF",
+            "target": "UHF Movie"
+        },
+        {
+            "source": "UHF",
+            "target": "Song:UHF"
+        },
+        {
+            "source": "UHF",
+            "target": "Album:UHF Soundtrack And Other Stuff"
+        },
+        {
+            "source": "Lyrics:Attack Of The Radioactive Hamsters...",
+            "target": "Lyrics:Attack Of The Radioactive Hamsters From A Planet Near Mars"
+        },
+        {
+            "source": "Pacman",
+            "target": "Lyrics:Pacman"
+        },
+        {
+            "source": "Happy Birthday",
+            "target": "Album:\"Weird Al\" Yankovic"
+        },
+        {
+            "source": "Happy Birthday",
+            "target": "Lyrics:Happy Birthday"
+        },
+        {
+            "source": "Lyrics:Ricky",
+            "target": "Song:Ricky"
+        },
+        {
+            "source": "Lyrics:Take Me Down",
+            "target": "Song:Take Me Down"
+        },
+        {
+            "source": "Song:Ode To A Superhero",
+            "target": "Ode To A Superhero"
+        },
+        {
+            "source": "Weird Al Wiki:Welcoming committee",
+            "target": "Main Page"
+        },
+        {
+            "source": "Hit Me With A Rock",
+            "target": "Lyrics:Hit Me With A Rock"
+        },
+        {
+            "source": "Lyrics:Ebay",
+            "target": "Lyrics:EBay"
+        },
+        {
+            "source": "Take Me Down",
+            "target": "Lyrics:Take Me Down"
+        },
+        {
+            "source": "Take Me Down",
+            "target": "\"Weird Al\" Yankovic"
+        },
+        {
+            "source": "Song:Pacman",
+            "target": "Pacman"
+        },
+        {
+            "source": "Running With Scissors",
+            "target": "Album:Running With Scissors"
+        },
+        {
+            "source": "Lyrics:Hardware Store",
+            "target": "Song:Hardware Store"
+        },
+        {
+            "source": "Such A Groovy Guy (song)",
+            "target": "Such A Groovy Guy"
+        },
+        {
+            "source": "Lyrics:Happy Birthday",
+            "target": "Song:Happy Birthday"
+        },
+        {
+            "source": "Song:Gump",
+            "target": "Gump"
+        },
+        {
+            "source": "Album:Running With Scissors",
+            "target": "Song:The Weird Al Show Theme"
+        },
+        {
+            "source": "Album:Running With Scissors",
+            "target": "Song:Jerry Springer"
+        },
+        {
+            "source": "Album:Running With Scissors",
+            "target": "Song:The Saga Begins"
+        },
+        {
+            "source": "Song:Wanna B Ur Lovr",
+            "target": "Wanna B Ur Lovr"
+        },
+        {
+            "source": "Lyrics:Song:Perform This Way",
+            "target": "Lyrics:Perform This Way"
+        },
+        {
+            "source": "Ricky (song)",
+            "target": "Song:Ricky"
+        },
+        {
+            "source": "Mr.Frump In The Iron Lung (song)",
+            "target": "Mr. Frump In The Iron Lung"
+        },
+        {
+            "source": "Christmas At Ground Zero (Alternate Mix)",
+            "target": "Lyrics:Christmas At Ground Zero (Alternate Mix)"
+        },
+        {
+            "source": "WAWiki:WikiTroll",
+            "target": "Weird Al Wiki:WikiTroll"
+        },
+        {
+            "source": "Lyrics:Leisure Suit Serenade",
+            "target": "Leisure Suit Serenade"
+        },
+        {
+            "source": "Lyrics:Why Does This Always Happen To Me?",
+            "target": "Song:Why Does This Always Happen To Me?"
+        },
+        {
+            "source": "Studio Albums",
+            "target": "Studio Albums (info)"
+        },
+        {
+            "source": "Song:Another One Rides The Bus",
+            "target": "Another One Rides The Bus"
+        },
+        {
+            "source": "Hardware Store",
+            "target": "Lyrics:Hardware Store"
+        },
+        {
+            "source": "Hardware Store",
+            "target": "27"
+        },
+        {
+            "source": "Hardware Store",
+            "target": "Album:Poodle Hat"
+        },
+        {
+            "source": "\u201cWeird Al\u201d Yankovic",
+            "target": "\"Weird Al\" Yankovic"
+        },
+        {
+            "source": "Album:Alapalooza",
+            "target": "Song:Harvey The Wonder Hamster"
+        },
+        {
+            "source": "Album:Alapalooza",
+            "target": "Song:Livin' In The Fridge"
+        },
+        {
+            "source": "Album:Alapalooza",
+            "target": "Song:Bohemian Polka"
+        },
+        {
+            "source": "Album:Alapalooza",
+            "target": "Song:Jurassic Park"
+        },
+        {
+            "source": "Lyrics:Amish Paradise",
+            "target": "Amish Paradise"
+        },
+        {
+            "source": "Vulture",
+            "target": "Lyrics:Vulture"
+        },
+        {
+            "source": "Fanstuff/Main Page",
+            "target": "\"Weird Al\" Yankovic"
+        },
+        {
+            "source": "\u201cWeird Al\u201d",
+            "target": "\"Weird Al\" Yankovic"
+        },
+        {
+            "source": "Lyrics:My Blologna",
+            "target": "Lyrics:My Bologna"
+        },
+        {
+            "source": "Visuals:Gump",
+            "target": "Song:Gump"
+        },
+        {
+            "source": "Weird al",
+            "target": "\"Weird Al\" Yankovic"
+        },
+        {
+            "source": "Song:Trash Day",
+            "target": "Trash Day"
+        },
+        {
+            "source": "The Check's In The Mail",
+            "target": "Lyrics:The Check's In The Mail"
+        },
+        {
+            "source": "The Check's In The Mail",
+            "target": "Album:\"Weird Al\" Yankovic"
+        },
+        {
+            "source": "Party At The Leper Colony",
+            "target": "Lyrics:Party At The Leper Colony"
+        },
+        {
+            "source": "Party At The Leper Colony",
+            "target": "Album:Poodle Hat"
+        },
+        {
+            "source": "Lyrics:Vulture",
+            "target": "Vulture"
+        },
+        {
+            "source": "Song:Brain Freeze",
+            "target": "Brain Freeze"
+        },
+        {
+            "source": "Song:The Saga Begins",
+            "target": "The Saga Begins"
+        },
+        {
+            "source": "Weird Al Wiki:Tour/Album",
+            "target": "Song:Couch Potato"
+        },
+        {
+            "source": "Weird Al Wiki:Tour/Album",
+            "target": "Song:Party At The Leper Colony"
+        },
+        {
+            "source": "Weird Al Wiki:Tour/Album",
+            "target": "Song:Trash Day"
+        },
+        {
+            "source": "Weird Al Wiki:Tour/Album",
+            "target": "Song:Bob"
+        },
+        {
+            "source": "Weird Al Wiki:Tour/Album",
+            "target": "Song:A Complicated Song"
+        },
+        {
+            "source": "Weird Al Wiki:Tour/Album",
+            "target": "Song:Wanna B Ur Lovr"
+        },
+        {
+            "source": "Weird Al Wiki:Tour/Album",
+            "target": "Song:Hardware Store"
+        },
+        {
+            "source": "Weird Al Wiki:Tour/Album",
+            "target": "Steve Jay"
+        },
+        {
+            "source": "Weird Al Wiki:Tour/Album",
+            "target": "\"Weird Al\" Yankovic"
+        },
+        {
+            "source": "Weird Al Wiki:Tour/Album",
+            "target": "Song:Why Does This Always Happen To Me?"
+        },
+        {
+            "source": "Weird Al Wiki:Tour/Album",
+            "target": "Jon \"Bermuda\" Schwartz"
+        },
+        {
+            "source": "Weird Al Wiki:Tour/Album",
+            "target": "Song:eBay"
+        },
+        {
+            "source": "Weird Al Wiki:Tour/Album",
+            "target": "Song:Genius In France"
+        },
+        {
+            "source": "Weird Al Wiki:Tour/Album",
+            "target": "Song:Angry White Boy Polka"
+        },
+        {
+            "source": "Weird Al Wiki:Tour/Album",
+            "target": "Song:Ode To A Superhero"
+        },
+        {
+            "source": "White & Nerdy (song)",
+            "target": "White & Nerdy"
+        },
+        {
+            "source": "Lyrics:Midnight Star",
+            "target": "Song:Midnight Star"
+        },
+        {
+            "source": "Song:(This Song's Just) Six Words Long",
+            "target": "(This Song's Just) Six Words Long"
+        },
+        {
+            "source": "Jon \"Bermuda\" Schwartz",
+            "target": "\"Weird Al\" Yankovic"
+        },
+        {
+            "source": "Jon \"Bermuda\" Schwartz",
+            "target": "The Simpsons"
+        },
+        {
+            "source": "Lyrics:The Ballad Of Kent Marlow",
+            "target": "The Ballad Of Kent Marlow"
+        },
+        {
+            "source": "Lyrics:Harvey The Wonder Hamster",
+            "target": "Harvey The Wonder Hamster"
+        },
+        {
+            "source": "Song:The Night Santa Went Crazy",
+            "target": "The Night Santa Went Crazy"
+        },
+        {
+            "source": "Lyrics:Christmas At Ground Zero (Alternate Mix)",
+            "target": "Christmas At Ground Zero (Alternate Mix)"
+        },
+        {
+            "source": "Song:You're Pitiful",
+            "target": "You're Pitiful"
+        },
+        {
+            "source": "Callin' In Sick",
+            "target": "Album:Gump"
+        },
+        {
+            "source": "Callin' In Sick",
+            "target": "Album:Bad Hair Day"
+        },
+        {
+            "source": "Callin' In Sick",
+            "target": "Lyrics:Callin' In Sick"
+        },
+        {
+            "source": "Stop Draggin' My Car Around",
+            "target": "Lyrics:Stop Draggin' My Car Around"
+        },
+        {
+            "source": "Lyrics:Bob (song)",
+            "target": "Lyrics:Bob"
+        },
+        {
+            "source": "Straight Outta Lynwood",
+            "target": "Album:Straight Outta Lynwood"
+        },
+        {
+            "source": "Lyrics:It's All About the Pentiums",
+            "target": "Lyrics:It's All About The Pentiums"
+        },
+        {
+            "source": "Couch Potato",
+            "target": "Lyrics:Couch Potato"
+        },
+        {
+            "source": "Couch Potato",
+            "target": "\"Weird Al\" Yankovic"
+        },
+        {
+            "source": "Couch Potato",
+            "target": "Album:Poodle Hat"
+        },
+        {
+            "source": "Song:Smells Like Nirvana",
+            "target": "Smells Like Nirvana"
+        },
+        {
+            "source": "Livin' In The Fridge",
+            "target": "Album:Alapalooza"
+        },
+        {
+            "source": "Lyrics:Brain Freeze",
+            "target": "Song:Brain Freeze"
+        },
+        {
+            "source": "Album:",
+            "target": "Weird Al Wiki"
+        },
+        {
+            "source": "Which Backstreet Boy Is Gay?",
+            "target": "\"Weird Al\" Yankovic"
+        },
+        {
+            "source": "Pigeons",
+            "target": "Lyrics:Pigeons"
+        },
+        {
+            "source": "Song:Batman Returns",
+            "target": "Song:Cavity Search"
+        },
+        {
+            "source": "Song:Why Does This Always Happen To Me?",
+            "target": "Why Does This Always Happen To Me?"
+        },
+        {
+            "source": "Song:Genius In France",
+            "target": "Genius In France"
+        },
+        {
+            "source": "Video:White & Nerdy",
+            "target": "27"
+        },
+        {
+            "source": "Lyrics:Smells Like Nirvana",
+            "target": "Song:Smells Like Nirvana"
+        },
+        {
+            "source": "Harvey The Wonder Hamster",
+            "target": "Album:Alapalooza"
+        },
+        {
+            "source": "Album:\"Weird Al\" Yankovic in 3-D",
+            "target": "Album:\"Weird Al\" Yankovic In 3-D"
+        },
+        {
+            "source": "Song:Theme from Rocky XIII",
+            "target": "Theme From Rocky XIII"
+        },
+        {
+            "source": "I Love Rocky Road (song)",
+            "target": "I Love Rocky Road"
+        },
+        {
+            "source": "Song:Anakin Guy",
+            "target": "Song:The Saga Begins"
+        },
+        {
+            "source": "Albequerque",
+            "target": "Albuquerque"
+        },
+        {
+            "source": "Jurassic Park",
+            "target": "Album:Al-In-The-Box"
+        },
+        {
+            "source": "Jurassic Park",
+            "target": "Album:Alapalooza"
+        },
+        {
+            "source": "Jurassic Park",
+            "target": "Album:Greatest Hits 2"
+        },
+        {
+            "source": "2003",
+            "target": "Poodle Hat"
+        },
+        {
+            "source": "Song:Bohemian Polka",
+            "target": "Bohemian Polka"
+        },
+        {
+            "source": "Song:I'll Be Mellow When I'm Dead",
+            "target": "I'll Be Mellow When I'm Dead"
+        },
+        {
+            "source": "Lyrics:Buy Me a Condo",
+            "target": "Lyrics:Buy Me A Condo"
+        },
+        {
+            "source": "Lyrics:A Complicated Song",
+            "target": "Song:A Complicated Song"
+        },
+        {
+            "source": "Fat (song)",
+            "target": "Song:Fat"
+        },
+        {
+            "source": "Song:I Love Rocky Road",
+            "target": "I Love Rocky Road"
+        },
+        {
+            "source": "Lyrics:EBay",
+            "target": "Lyrics:eBay"
+        },
+        {
+            "source": "Wanna B Ur Lovr",
+            "target": "Lyrics:Wanna B Ur Lovr"
+        },
+        {
+            "source": "Wanna B Ur Lovr",
+            "target": "Album:Poodle Hat"
+        },
+        {
+            "source": "Lyrics:Wanna B Ur Lovr",
+            "target": "Song:Wanna B Ur Lovr"
+        },
+        {
+            "source": "Why Does This Always Happen To Me?",
+            "target": "Lyrics:Why Does This Always Happen To Me?"
+        },
+        {
+            "source": "Why Does This Always Happen To Me?",
+            "target": "Album:Poodle Hat"
+        },
+        {
+            "source": "Album:Poodle Hat",
+            "target": "27"
+        },
+        {
+            "source": "Album:Poodle Hat",
+            "target": "Song:Couch Potato"
+        },
+        {
+            "source": "Album:Poodle Hat",
+            "target": "Steve Jay"
+        },
+        {
+            "source": "Album:Poodle Hat",
+            "target": "Song:Trash Day"
+        },
+        {
+            "source": "Album:Poodle Hat",
+            "target": "Song:Bob"
+        },
+        {
+            "source": "Album:Poodle Hat",
+            "target": "Song:A Complicated Song"
+        },
+        {
+            "source": "Album:Poodle Hat",
+            "target": "Song:Wanna B Ur Lovr"
+        },
+        {
+            "source": "Album:Poodle Hat",
+            "target": "Song:Hardware Store"
+        },
+        {
+            "source": "Album:Poodle Hat",
+            "target": "Song:Party At The Leper Colony"
+        },
+        {
+            "source": "Album:Poodle Hat",
+            "target": "\"Weird Al\" Yankovic"
+        },
+        {
+            "source": "Album:Poodle Hat",
+            "target": "Song:Why Does This Always Happen To Me?"
+        },
+        {
+            "source": "Album:Poodle Hat",
+            "target": "Jon \"Bermuda\" Schwartz"
+        },
+        {
+            "source": "Album:Poodle Hat",
+            "target": "Song:eBay"
+        },
+        {
+            "source": "Album:Poodle Hat",
+            "target": "Song:Genius In France"
+        },
+        {
+            "source": "Album:Poodle Hat",
+            "target": "Song:Angry White Boy Polka"
+        },
+        {
+            "source": "Album:Poodle Hat",
+            "target": "Song:Ode To A Superhero"
+        },
+        {
+            "source": "Jon schwartz",
+            "target": "Jon Schwartz"
+        },
+        {
+            "source": "Internet Leaks",
+            "target": "Album:Internet Leaks"
+        },
+        {
+            "source": "Video:",
+            "target": "Weird Al Wiki"
+        },
+        {
+            "source": "Gump",
+            "target": "Visuals:Gump"
+        },
+        {
+            "source": "Alapalooza",
+            "target": "Album:Alapalooza"
+        }
+    ],
+    "directed": true,
+    "multigraph": false,
+    "nodes": [
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Song:eBay"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Song:I Can't Watch This"
+        },
+        {
+            "parity": 1,
+            "degree": 54,
+            "id": "\"Weird Al\" Yankovic"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "My Bologna"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Weird Al Wiki:Userboxes"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:That Boy Could Dance"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Album:Placebo"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Theme from Rocky XIII"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Everything You Know Is Wrong"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Mr.Frump In The Iron Lung"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Song:Amish Paradise"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Bending Guitars"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Song:Ricky"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Finale"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Gotta Boogie (song)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:Ebay"
+        },
+        {
+            "parity": 0,
+            "degree": 7,
+            "id": "Song:UHF"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Song:Midnight Star"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Song:The White Stuff"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Genius In France"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:The Biggest Ball of Twine In Minnesota"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Cavity Search"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Song:My Bologna"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:The Check's In The Mail"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Song:Fat"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "\"Weird Al\""
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Headline News"
+        },
+        {
+            "parity": 1,
+            "degree": 16,
+            "id": "Complete Song List (Wikipedia)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Straight outta lynwood"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Homer and Marge"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Song:Bob"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:Achy Breaky Song"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Song:My Bologna"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Lyrics:Fat"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Song:Genius in France"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Album:Another One Rides The Bus"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Buy Me A Condo"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Trigger Happy"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Angry White Boy Polka"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Midnight Star"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Money For Nothing/Beverly Hillbillies"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Spy Hard (Orchestral)"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Bob"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Mr. Frump In The Iron Lung"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Pacman (song)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:Attack Of The Radioactive Hamsters From A Planet Near Mars"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:It's Still Billy Joel To Me"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Weird Al Wiki:Tour/Song:My Bologna"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:My Bologna (food medley)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Perform This Way"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "UHF Movie"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Poodle Hat"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "October 23"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Jon Schwartz"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Spy Hard (Instrumental)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "\"Normal Al\" Wiki"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Why Does This Always Happen To Me"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "The Weird Al Show"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "White & Nerdy"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Weird Al Yankovich"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Steve Jay"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Midnight Star (song)"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Poodle"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Trash Day"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Confessions part III"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "UHF (song)"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Song:Angry White Boy Polka"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Fun Zone"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "My Bologna (food medley)"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:You're Pitiful"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:The Saga Begins"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Brain Freeze"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Happy Birthday (song)"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Weird Al Wiki:Tour/Main Page"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:Beverly Hillbillies/Miss You"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "In 3-D"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Yoda Chant"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Song:Bite Me"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Song:Polka Your Eyes Out"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Fanstuff/Community Portal"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Song:The Night Santa Went Crazy (Extra Gory Version)"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Everything You Know Is Wrong"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Weird Al Wiki:Wikitroll"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Everything You Know is Wrong"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Ode To A Superhero"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "S:G"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Hanson"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "White and Nerdy"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:Jedi Knight"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Video:You Don't Love Me Anymore"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:I Can't Watch This"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Alligator"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Theme from Rocky XIII"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics: (This Song's Just) Six Words Long"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:A Constipated Song"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Attack Of The Radioactive Hamsters From A Planet Near Mars"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Amish Paradise"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Album:I Love Rocky Road"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Weird al Yankovic"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Don't You Forget About Meat"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Fat (song)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Biggest Ball Of Twine In Minnesota"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:UHF (song)"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Song:Gotta Boogie"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Song:Couch Potato"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Lyrics:My Bologna"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:The White Stuff"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Album:Internet Leaks"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Song:A Complicated Song"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Song:Jerry Springer"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "The Night Santa Went Crazy (Extra Gory Version)"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Fanstuff Wiki"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Yoda"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Unicorn"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Take Me Down (song)"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Song:Mr. Popeil"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:Mmmm Mmmm Mmmm Mmmm"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Confessions Part III"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "I Can't Watch This"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Mixed Up S.O.B."
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Poodle"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Snails"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Weird Al Wiki:WikiTroll"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Song:Confessions Part III"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Stop Draggin' My Car Around (song)"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Angry White Boy Polka"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Yoda (song)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Ricky (song)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Baby Likes Burping (song)"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Album:Single"
+        },
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "Album:\"Weird Al\" Yankovic In 3-D"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Album:Weird Al Yankovic"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Bohemian Polka"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Song:Jurassic Park"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:Achy Breaky Heart"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "I'll Be Mellow When I'm Dead"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Weird Al Wiki:Inputboxes"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:Constipated"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Homer and Marge"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "School Cafeteria (song)"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Song:Callin' In Sick"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Visuals:Smells Like Nirvana"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:I Feel Like Throwin' Up"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "My Bologna (song)"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Weird Al"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Confessions Part III"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Lyrics:Bob"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "The Ballad Of Kent Marlow"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "I Love Rocky Road"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:Stuck In A Closet With Vanna White"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Album:Another One Rides the Bus"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Song:Trigger Happy"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Song:Eat It"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Main Page"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Theme from Rocky XIII (song)"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Bad Hair Day"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Finale"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Song:Hardware Store"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:Polkamon"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "The Simpsons"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Album:Al-In-The-Box"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:The Biggest Ball of Twine in Minnesota"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Song:White & Nerdy"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Album:UHF Soundtrack And Other Stuff"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Doctor"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Song:Bob"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "\"Weird Al\" Yankovich"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Visuals:It's All About the Pentiums"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Mr.Frump In The Iron Lung"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Gotta Boogie"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Single:I Love Rocky Road"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Stuck In A Closet With Vanna White"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:School Cafeteria"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Doctor"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Bite Me"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Party At The Leper Colony"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Gotta Boogie"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Ricky"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Visuals:Fat"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Eat It (song)"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Unicorn"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Leisure Suit Serenade"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Inputboxes"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:I Think I'm A Clone Now"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Eat It"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:Baby Likes Farting"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Jerry Springer"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:The Weird Al Show Theme"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Song:Take Me Down"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "The Biggest Ball Of Twine In Minnesota"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Baby Likes Burping"
+        },
+        {
+            "parity": 0,
+            "degree": 7,
+            "id": "Yoda"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Visuals:It's All About The Pentiums"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Albuquerque"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:The Night Santa Went Crazy"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "(This Song's Just) Six Words Long"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Al's Band (Instrumental)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Mr. Frump In The Iron Lung"
+        },
+        {
+            "parity": 0,
+            "degree": 19,
+            "id": "Album:\"Weird Al\" Yankovic"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Trigger Happy"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Lyrics:UHF"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Song:Cavity Search"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Video:Ricky"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "EBay"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:Yoda"
+        },
+        {
+            "parity": 1,
+            "degree": 10,
+            "id": "27"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Lyrics:Callin' In Sick"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Lyrics:I Love Rocky Road"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Polkamon"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:Bohemian Rap City"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Snails"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Weird Al Wiki:Tour/Song"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Song:It's All About The Pentiums"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "A Complicated Song"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Cavity Search"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:The Night Santa Went Crazy (Extra Gory Version)"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "School Cafeteria"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "I'll Be Mellow When I'm Dead (song)"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Album:Running with Scissors"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Polka Party! (album)"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Song:Harvey The Wonder Hamster"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "The White Stuff"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Bob (song)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Album:Off the Deep End"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Album:In 3-D"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Song:Fat"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Visuals:UHF"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Song:Such A Groovy Guy"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Al's Band (Instrumental)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Trash Day (song)"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "UHF (film)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Weasel Stomping Day"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Song:Party At The Leper Colony"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Stanley Spadowski's Theme"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "The Check's In The Mail (song)"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Pigeons"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Song:Livin' In The Fridge"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Don't You Forget About Meat"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:White & Nerdy"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "I Feel Like Throwin' Up"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Weird Al Yankovic"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "The Night Santa Went Crazy"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:Why Does This Always Happen To Me"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:Buy Me a Condo"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Couch Potato"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Beverly Hillbillies/Miss You"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Song:Baby Likes Burping"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:I Think I'm A Clone Now"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Ask Al"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Song:School Cafeteria"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Baby Likes Burping"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "\"Weird Al\" Yankovic in 3-D"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "The Saga Begins"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Polka Your Eyes Out"
+        },
+        {
+            "parity": 0,
+            "degree": 9,
+            "id": "Album:Off The Deep End"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Hit Me With A Rock"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Pacman"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Song:Everything You Know Is Wrong"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Complete Song List/New"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Alligator"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:White and Nerdy"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Video:White and Nerdy"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Another One Rides The Bus"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Smells Like Nirvana"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Song:Headline News"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Fanstuff"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:I love rocky road"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Another One Rides The Bus (song)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Nature Trail To Hell"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Homer And Marge"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:The Devil Went Down to Jamaica"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Lyrics:eBay"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Feel Like Throwing Up"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:I'm Fat"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Complete Song List"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Jedi Knight"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Eat It"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "My Home Movies"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "It's All About The Pentiums"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Song:Stop Draggin' My Car Around"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Off The Deep End"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "You're Pitiful"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Rick Derringer"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Another One Rides The Bus"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Such A Groovy Guy"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Song:Take Me Down"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Jerry Springer"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "The Biggest Ball Of Twine in Minnesota"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Fat"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Song:The Check's In The Mail"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Song:Happy Birthday"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "UHF"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Attack Of The Radioactive Hamsters..."
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Pacman"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Happy Birthday"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Lyrics:Ricky"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Lyrics:Take Me Down"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Song:Ode To A Superhero"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Weird Al Wiki:Welcoming committee"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Hit Me With A Rock"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Ebay"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Take Me Down"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Song:Pacman"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Running With Scissors"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Hardware Store"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Such A Groovy Guy (song)"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Song:That Boy Could Dance"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Happy Birthday"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Song:Gump"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Album:Running With Scissors"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Song:Wanna B Ur Lovr"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Song:Perform This Way"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Theme From Rocky XIII"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Ricky (song)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Mr.Frump In The Iron Lung (song)"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Christmas At Ground Zero (Alternate Mix)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "WAWiki:WikiTroll"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Leisure Suit Serenade"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Why Does This Always Happen To Me?"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Studio Albums"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Song:Another One Rides The Bus"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Hardware Store"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Album:Gump"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "\u201cWeird Al\u201d Yankovic"
+        },
+        {
+            "parity": 0,
+            "degree": 9,
+            "id": "Album:Alapalooza"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:I Lost On Jeopardy"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Amish Paradise"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Vulture"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Fanstuff/Main Page"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "\u201cWeird Al\u201d"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Theme From Rocky XIII"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:My Blologna"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Visuals:Gump"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Weird al"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Album:Straight Outta Lynwood"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "The Devil Went Down to Jamaica"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Album:Dare To Be Stupid"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Song:Trash Day"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "The Check's In The Mail"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Homer And Marge"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Party At The Leper Colony"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:Weasel Stomping Day"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Vulture"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Song:Brain Freeze"
+        },
+        {
+            "parity": 0,
+            "degree": 7,
+            "id": "Song:The Saga Begins"
+        },
+        {
+            "parity": 0,
+            "degree": 15,
+            "id": "Weird Al Wiki:Tour/Album"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "White & Nerdy (song)"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Midnight Star"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Song:(This Song's Just) Six Words Long"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Jon \"Bermuda\" Schwartz"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:The Ballad Of Kent Marlow"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Harvey The Wonder Hamster"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Song:The Night Santa Went Crazy"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Christmas At Ground Zero (Alternate Mix)"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Song:You're Pitiful"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Callin' In Sick"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Stop Draggin' My Car Around"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Bob (song)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Straight Outta Lynwood"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:It's All About the Pentiums"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Couch Potato"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Song:Smells Like Nirvana"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Livin' In The Fridge"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Brain Freeze"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Money For Nothing/Beverly Hillbillies"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Album:"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Album:Bad Hair Day"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Which Backstreet Boy Is Gay?"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:It's All About The Pentiums"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Pigeons"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:Batman Returns"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Song:Why Does This Always Happen To Me?"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "FAQ"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Studio Albums (info)"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Song:Genius In France"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Song:Spy Hard"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Video:White & Nerdy"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Smells Like Nirvana"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Even Worse"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Harvey The Wonder Hamster"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:I'll Be Mellow When I'm Dead"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Album:\"Weird Al\" Yankovic in 3-D"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:Theme from Rocky XIII"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "I Love Rocky Road (song)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Stop Draggin' My Car Around"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:Yoda Chant"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:Anakin Guy"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Albequerque"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Jurassic Park"
+        },
+        {
+            "parity": 0,
+            "degree": 7,
+            "id": "Weird Al Wiki"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "2003"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:Nature Trail To Hell"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Song:Bohemian Polka"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Visuals:Headline News"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Song:I'll Be Mellow When I'm Dead"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:Buckingham Blues"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lyrics:Buy Me a Condo"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:A Complicated Song"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Fat (song)"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Song:I Love Rocky Road"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:EBay"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Wanna B Ur Lovr"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Lyrics:Wanna B Ur Lovr"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Why Does This Always Happen To Me?"
+        },
+        {
+            "parity": 0,
+            "degree": 27,
+            "id": "Album:Poodle Hat"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Song:The Brady Bunch"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Album:Greatest Hits 2"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Jon schwartz"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Internet Leaks"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Video:"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Gump"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Alapalooza"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 205
+        },
+        {
+            "source": 1,
+            "target": 119
+        },
+        {
+            "source": 2,
+            "target": 1
+        },
+        {
+            "source": 2,
+            "target": 292
+        },
+        {
+            "source": 2,
+            "target": 266
+        },
+        {
+            "source": 2,
+            "target": 61
+        },
+        {
+            "source": 2,
+            "target": 31
+        },
+        {
+            "source": 2,
+            "target": 322
+        },
+        {
+            "source": 2,
+            "target": 346
+        },
+        {
+            "source": 2,
+            "target": 304
+        },
+        {
+            "source": 2,
+            "target": 116
+        },
+        {
+            "source": 2,
+            "target": 141
+        },
+        {
+            "source": 2,
+            "target": 47
+        },
+        {
+            "source": 2,
+            "target": 35
+        },
+        {
+            "source": 2,
+            "target": 251
+        },
+        {
+            "source": 2,
+            "target": 401
+        },
+        {
+            "source": 2,
+            "target": 351
+        },
+        {
+            "source": 2,
+            "target": 153
+        },
+        {
+            "source": 2,
+            "target": 152
+        },
+        {
+            "source": 2,
+            "target": 158
+        },
+        {
+            "source": 2,
+            "target": 293
+        },
+        {
+            "source": 2,
+            "target": 259
+        },
+        {
+            "source": 2,
+            "target": 373
+        },
+        {
+            "source": 2,
+            "target": 160
+        },
+        {
+            "source": 2,
+            "target": 345
+        },
+        {
+            "source": 3,
+            "target": 106
+        },
+        {
+            "source": 4,
+            "target": 11
+        },
+        {
+            "source": 4,
+            "target": 310
+        },
+        {
+            "source": 4,
+            "target": 350
+        },
+        {
+            "source": 4,
+            "target": 207
+        },
+        {
+            "source": 5,
+            "target": 308
+        },
+        {
+            "source": 6,
+            "target": 36
+        },
+        {
+            "source": 7,
+            "target": 314
+        },
+        {
+            "source": 9,
+            "target": 199
+        },
+        {
+            "source": 10,
+            "target": 391
+        },
+        {
+            "source": 11,
+            "target": 97
+        },
+        {
+            "source": 12,
+            "target": 334
+        },
+        {
+            "source": 12,
+            "target": 142
+        },
+        {
+            "source": 12,
+            "target": 2
+        },
+        {
+            "source": 13,
+            "target": 178
+        },
+        {
+            "source": 14,
+            "target": 157
+        },
+        {
+            "source": 15,
+            "target": 170
+        },
+        {
+            "source": 16,
+            "target": 302
+        },
+        {
+            "source": 17,
+            "target": 293
+        },
+        {
+            "source": 17,
+            "target": 228
+        },
+        {
+            "source": 17,
+            "target": 202
+        },
+        {
+            "source": 17,
+            "target": 2
+        },
+        {
+            "source": 18,
+            "target": 40
+        },
+        {
+            "source": 19,
+            "target": 223
+        },
+        {
+            "source": 20,
+            "target": 406
+        },
+        {
+            "source": 22,
+            "target": 216
+        },
+        {
+            "source": 23,
+            "target": 3
+        },
+        {
+            "source": 25,
+            "target": 34
+        },
+        {
+            "source": 26,
+            "target": 2
+        },
+        {
+            "source": 27,
+            "target": 395
+        },
+        {
+            "source": 28,
+            "target": 253
+        },
+        {
+            "source": 28,
+            "target": 52
+        },
+        {
+            "source": 28,
+            "target": 221
+        },
+        {
+            "source": 28,
+            "target": 380
+        },
+        {
+            "source": 28,
+            "target": 3
+        },
+        {
+            "source": 28,
+            "target": 392
+        },
+        {
+            "source": 28,
+            "target": 156
+        },
+        {
+            "source": 28,
+            "target": 232
+        },
+        {
+            "source": 28,
+            "target": 400
+        },
+        {
+            "source": 28,
+            "target": 185
+        },
+        {
+            "source": 28,
+            "target": 2
+        },
+        {
+            "source": 28,
+            "target": 413
+        },
+        {
+            "source": 28,
+            "target": 265
+        },
+        {
+            "source": 28,
+            "target": 390
+        },
+        {
+            "source": 28,
+            "target": 97
+        },
+        {
+            "source": 28,
+            "target": 254
+        },
+        {
+            "source": 29,
+            "target": 336
+        },
+        {
+            "source": 30,
+            "target": 271
+        },
+        {
+            "source": 31,
+            "target": 43
+        },
+        {
+            "source": 33,
+            "target": 106
+        },
+        {
+            "source": 34,
+            "target": 227
+        },
+        {
+            "source": 35,
+            "target": 20
+        },
+        {
+            "source": 38,
+            "target": 201
+        },
+        {
+            "source": 39,
+            "target": 67
+        },
+        {
+            "source": 40,
+            "target": 349
+        },
+        {
+            "source": 41,
+            "target": 366
+        },
+        {
+            "source": 42,
+            "target": 55
+        },
+        {
+            "source": 42,
+            "target": 377
+        },
+        {
+            "source": 43,
+            "target": 2
+        },
+        {
+            "source": 43,
+            "target": 147
+        },
+        {
+            "source": 44,
+            "target": 200
+        },
+        {
+            "source": 44,
+            "target": 9
+        },
+        {
+            "source": 45,
+            "target": 295
+        },
+        {
+            "source": 48,
+            "target": 213
+        },
+        {
+            "source": 49,
+            "target": 69
+        },
+        {
+            "source": 52,
+            "target": 406
+        },
+        {
+            "source": 53,
+            "target": 2
+        },
+        {
+            "source": 54,
+            "target": 351
+        },
+        {
+            "source": 55,
+            "target": 42
+        },
+        {
+            "source": 55,
+            "target": 377
+        },
+        {
+            "source": 56,
+            "target": 391
+        },
+        {
+            "source": 57,
+            "target": 405
+        },
+        {
+            "source": 59,
+            "target": 163
+        },
+        {
+            "source": 60,
+            "target": 2
+        },
+        {
+            "source": 61,
+            "target": 2
+        },
+        {
+            "source": 62,
+            "target": 40
+        },
+        {
+            "source": 63,
+            "target": 121
+        },
+        {
+            "source": 64,
+            "target": 406
+        },
+        {
+            "source": 65,
+            "target": 124
+        },
+        {
+            "source": 66,
+            "target": 17
+        },
+        {
+            "source": 67,
+            "target": 126
+        },
+        {
+            "source": 69,
+            "target": 3
+        },
+        {
+            "source": 69,
+            "target": 49
+        },
+        {
+            "source": 70,
+            "target": 356
+        },
+        {
+            "source": 71,
+            "target": 346
+        },
+        {
+            "source": 72,
+            "target": 365
+        },
+        {
+            "source": 72,
+            "target": 160
+        },
+        {
+            "source": 73,
+            "target": 296
+        },
+        {
+            "source": 74,
+            "target": 2
+        },
+        {
+            "source": 74,
+            "target": 183
+        },
+        {
+            "source": 74,
+            "target": 276
+        },
+        {
+            "source": 76,
+            "target": 383
+        },
+        {
+            "source": 77,
+            "target": 387
+        },
+        {
+            "source": 78,
+            "target": 175
+        },
+        {
+            "source": 81,
+            "target": 111
+        },
+        {
+            "source": 82,
+            "target": 84
+        },
+        {
+            "source": 83,
+            "target": 154
+        },
+        {
+            "source": 84,
+            "target": 8
+        },
+        {
+            "source": 85,
+            "target": 406
+        },
+        {
+            "source": 86,
+            "target": 310
+        },
+        {
+            "source": 87,
+            "target": 58
+        },
+        {
+            "source": 88,
+            "target": 59
+        },
+        {
+            "source": 89,
+            "target": 346
+        },
+        {
+            "source": 90,
+            "target": 265
+        },
+        {
+            "source": 91,
+            "target": 1
+        },
+        {
+            "source": 92,
+            "target": 261
+        },
+        {
+            "source": 93,
+            "target": 332
+        },
+        {
+            "source": 94,
+            "target": 196
+        },
+        {
+            "source": 95,
+            "target": 109
+        },
+        {
+            "source": 96,
+            "target": 46
+        },
+        {
+            "source": 97,
+            "target": 328
+        },
+        {
+            "source": 98,
+            "target": 171
+        },
+        {
+            "source": 99,
+            "target": 2
+        },
+        {
+            "source": 100,
+            "target": 239
+        },
+        {
+            "source": 101,
+            "target": 34
+        },
+        {
+            "source": 102,
+            "target": 190
+        },
+        {
+            "source": 103,
+            "target": 202
+        },
+        {
+            "source": 104,
+            "target": 170
+        },
+        {
+            "source": 105,
+            "target": 362
+        },
+        {
+            "source": 106,
+            "target": 23
+        },
+        {
+            "source": 107,
+            "target": 223
+        },
+        {
+            "source": 109,
+            "target": 215
+        },
+        {
+            "source": 110,
+            "target": 187
+        },
+        {
+            "source": 111,
+            "target": 354
+        },
+        {
+            "source": 111,
+            "target": 217
+        },
+        {
+            "source": 112,
+            "target": 330
+        },
+        {
+            "source": 112,
+            "target": 80
+        },
+        {
+            "source": 114,
+            "target": 181
+        },
+        {
+            "source": 115,
+            "target": 189
+        },
+        {
+            "source": 117,
+            "target": 266
+        },
+        {
+            "source": 118,
+            "target": 146
+        },
+        {
+            "source": 119,
+            "target": 91
+        },
+        {
+            "source": 120,
+            "target": 2
+        },
+        {
+            "source": 121,
+            "target": 63
+        },
+        {
+            "source": 122,
+            "target": 212
+        },
+        {
+            "source": 123,
+            "target": 123
+        },
+        {
+            "source": 124,
+            "target": 118
+        },
+        {
+            "source": 125,
+            "target": 358
+        },
+        {
+            "source": 126,
+            "target": 2
+        },
+        {
+            "source": 126,
+            "target": 39
+        },
+        {
+            "source": 126,
+            "target": 406
+        },
+        {
+            "source": 127,
+            "target": 192
+        },
+        {
+            "source": 128,
+            "target": 297
+        },
+        {
+            "source": 129,
+            "target": 252
+        },
+        {
+            "source": 130,
+            "target": 391
+        },
+        {
+            "source": 131,
+            "target": 116
+        },
+        {
+            "source": 131,
+            "target": 308
+        },
+        {
+            "source": 131,
+            "target": 153
+        },
+        {
+            "source": 131,
+            "target": 18
+        },
+        {
+            "source": 131,
+            "target": 327
+        },
+        {
+            "source": 131,
+            "target": 245
+        },
+        {
+            "source": 131,
+            "target": 407
+        },
+        {
+            "source": 132,
+            "target": 200
+        },
+        {
+            "source": 133,
+            "target": 326
+        },
+        {
+            "source": 134,
+            "target": 390
+        },
+        {
+            "source": 135,
+            "target": 32
+        },
+        {
+            "source": 136,
+            "target": 382
+        },
+        {
+            "source": 136,
+            "target": 200
+        },
+        {
+            "source": 138,
+            "target": 109
+        },
+        {
+            "source": 139,
+            "target": 341
+        },
+        {
+            "source": 140,
+            "target": 251
+        },
+        {
+            "source": 141,
+            "target": 357
+        },
+        {
+            "source": 142,
+            "target": 363
+        },
+        {
+            "source": 142,
+            "target": 2
+        },
+        {
+            "source": 143,
+            "target": 241
+        },
+        {
+            "source": 144,
+            "target": 23
+        },
+        {
+            "source": 145,
+            "target": 2
+        },
+        {
+            "source": 146,
+            "target": 124
+        },
+        {
+            "source": 147,
+            "target": 31
+        },
+        {
+            "source": 148,
+            "target": 352
+        },
+        {
+            "source": 149,
+            "target": 209
+        },
+        {
+            "source": 149,
+            "target": 2
+        },
+        {
+            "source": 151,
+            "target": 36
+        },
+        {
+            "source": 152,
+            "target": 38
+        },
+        {
+            "source": 153,
+            "target": 185
+        },
+        {
+            "source": 154,
+            "target": 391
+        },
+        {
+            "source": 155,
+            "target": 314
+        },
+        {
+            "source": 156,
+            "target": 368
+        },
+        {
+            "source": 157,
+            "target": 14
+        },
+        {
+            "source": 158,
+            "target": 323
+        },
+        {
+            "source": 160,
+            "target": 345
+        },
+        {
+            "source": 160,
+            "target": 2
+        },
+        {
+            "source": 162,
+            "target": 21
+        },
+        {
+            "source": 163,
+            "target": 262
+        },
+        {
+            "source": 163,
+            "target": 263
+        },
+        {
+            "source": 166,
+            "target": 147
+        },
+        {
+            "source": 167,
+            "target": 2
+        },
+        {
+            "source": 168,
+            "target": 2
+        },
+        {
+            "source": 168,
+            "target": 214
+        },
+        {
+            "source": 169,
+            "target": 44
+        },
+        {
+            "source": 170,
+            "target": 200
+        },
+        {
+            "source": 170,
+            "target": 177
+        },
+        {
+            "source": 172,
+            "target": 150
+        },
+        {
+            "source": 173,
+            "target": 251
+        },
+        {
+            "source": 174,
+            "target": 165
+        },
+        {
+            "source": 176,
+            "target": 234
+        },
+        {
+            "source": 178,
+            "target": 297
+        },
+        {
+            "source": 178,
+            "target": 204
+        },
+        {
+            "source": 180,
+            "target": 185
+        },
+        {
+            "source": 181,
+            "target": 114
+        },
+        {
+            "source": 182,
+            "target": 319
+        },
+        {
+            "source": 183,
+            "target": 137
+        },
+        {
+            "source": 184,
+            "target": 249
+        },
+        {
+            "source": 185,
+            "target": 278
+        },
+        {
+            "source": 186,
+            "target": 248
+        },
+        {
+            "source": 189,
+            "target": 303
+        },
+        {
+            "source": 190,
+            "target": 207
+        },
+        {
+            "source": 190,
+            "target": 162
+        },
+        {
+            "source": 190,
+            "target": 161
+        },
+        {
+            "source": 192,
+            "target": 113
+        },
+        {
+            "source": 192,
+            "target": 161
+        },
+        {
+            "source": 192,
+            "target": 338
+        },
+        {
+            "source": 192,
+            "target": 346
+        },
+        {
+            "source": 192,
+            "target": 408
+        },
+        {
+            "source": 193,
+            "target": 168
+        },
+        {
+            "source": 194,
+            "target": 220
+        },
+        {
+            "source": 194,
+            "target": 389
+        },
+        {
+            "source": 195,
+            "target": 354
+        },
+        {
+            "source": 196,
+            "target": 94
+        },
+        {
+            "source": 197,
+            "target": 230
+        },
+        {
+            "source": 198,
+            "target": 391
+        },
+        {
+            "source": 200,
+            "target": 291
+        },
+        {
+            "source": 200,
+            "target": 292
+        },
+        {
+            "source": 200,
+            "target": 396
+        },
+        {
+            "source": 200,
+            "target": 281
+        },
+        {
+            "source": 200,
+            "target": 322
+        },
+        {
+            "source": 200,
+            "target": 229
+        },
+        {
+            "source": 200,
+            "target": 401
+        },
+        {
+            "source": 200,
+            "target": 2
+        },
+        {
+            "source": 200,
+            "target": 104
+        },
+        {
+            "source": 200,
+            "target": 23
+        },
+        {
+            "source": 200,
+            "target": 13
+        },
+        {
+            "source": 200,
+            "target": 397
+        },
+        {
+            "source": 201,
+            "target": 152
+        },
+        {
+            "source": 202,
+            "target": 17
+        },
+        {
+            "source": 203,
+            "target": 22
+        },
+        {
+            "source": 205,
+            "target": 406
+        },
+        {
+            "source": 205,
+            "target": 273
+        },
+        {
+            "source": 206,
+            "target": 192
+        },
+        {
+            "source": 207,
+            "target": 141
+        },
+        {
+            "source": 207,
+            "target": 2
+        },
+        {
+            "source": 207,
+            "target": 158
+        },
+        {
+            "source": 207,
+            "target": 124
+        },
+        {
+            "source": 208,
+            "target": 141
+        },
+        {
+            "source": 208,
+            "target": 207
+        },
+        {
+            "source": 209,
+            "target": 401
+        },
+        {
+            "source": 210,
+            "target": 159
+        },
+        {
+            "source": 211,
+            "target": 394
+        },
+        {
+            "source": 212,
+            "target": 122
+        },
+        {
+            "source": 213,
+            "target": 106
+        },
+        {
+            "source": 214,
+            "target": 280
+        },
+        {
+            "source": 215,
+            "target": 399
+        },
+        {
+            "source": 216,
+            "target": 203
+        },
+        {
+            "source": 217,
+            "target": 81
+        },
+        {
+            "source": 218,
+            "target": 173
+        },
+        {
+            "source": 219,
+            "target": 136
+        },
+        {
+            "source": 220,
+            "target": 311
+        },
+        {
+            "source": 222,
+            "target": 381
+        },
+        {
+            "source": 223,
+            "target": 107
+        },
+        {
+            "source": 223,
+            "target": 256
+        },
+        {
+            "source": 224,
+            "target": 31
+        },
+        {
+            "source": 225,
+            "target": 256
+        },
+        {
+            "source": 226,
+            "target": 253
+        },
+        {
+            "source": 227,
+            "target": 290
+        },
+        {
+            "source": 229,
+            "target": 286
+        },
+        {
+            "source": 231,
+            "target": 339
+        },
+        {
+            "source": 232,
+            "target": 51
+        },
+        {
+            "source": 233,
+            "target": 343
+        },
+        {
+            "source": 234,
+            "target": 342
+        },
+        {
+            "source": 235,
+            "target": 68
+        },
+        {
+            "source": 236,
+            "target": 340
+        },
+        {
+            "source": 237,
+            "target": 371
+        },
+        {
+            "source": 238,
+            "target": 364
+        },
+        {
+            "source": 239,
+            "target": 100
+        },
+        {
+            "source": 241,
+            "target": 143
+        },
+        {
+            "source": 242,
+            "target": 2
+        },
+        {
+            "source": 243,
+            "target": 195
+        },
+        {
+            "source": 243,
+            "target": 81
+        },
+        {
+            "source": 244,
+            "target": 373
+        },
+        {
+            "source": 246,
+            "target": 105
+        },
+        {
+            "source": 247,
+            "target": 75
+        },
+        {
+            "source": 248,
+            "target": 252
+        },
+        {
+            "source": 250,
+            "target": 374
+        },
+        {
+            "source": 251,
+            "target": 218
+        },
+        {
+            "source": 252,
+            "target": 191
+        },
+        {
+            "source": 253,
+            "target": 383
+        },
+        {
+            "source": 254,
+            "target": 71
+        },
+        {
+            "source": 255,
+            "target": 79
+        },
+        {
+            "source": 256,
+            "target": 19
+        },
+        {
+            "source": 256,
+            "target": 152
+        },
+        {
+            "source": 256,
+            "target": 78
+        },
+        {
+            "source": 256,
+            "target": 363
+        },
+        {
+            "source": 256,
+            "target": 1
+        },
+        {
+            "source": 256,
+            "target": 79
+        },
+        {
+            "source": 257,
+            "target": 301
+        },
+        {
+            "source": 259,
+            "target": 82
+        },
+        {
+            "source": 260,
+            "target": 298
+        },
+        {
+            "source": 260,
+            "target": 106
+        },
+        {
+            "source": 260,
+            "target": 130
+        },
+        {
+            "source": 260,
+            "target": 23
+        },
+        {
+            "source": 260,
+            "target": 189
+        },
+        {
+            "source": 261,
+            "target": 92
+        },
+        {
+            "source": 262,
+            "target": 240
+        },
+        {
+            "source": 263,
+            "target": 378
+        },
+        {
+            "source": 265,
+            "target": 379
+        },
+        {
+            "source": 265,
+            "target": 142
+        },
+        {
+            "source": 266,
+            "target": 27
+        },
+        {
+            "source": 267,
+            "target": 112
+        },
+        {
+            "source": 268,
+            "target": 209
+        },
+        {
+            "source": 269,
+            "target": 285
+        },
+        {
+            "source": 270,
+            "target": 393
+        },
+        {
+            "source": 271,
+            "target": 160
+        },
+        {
+            "source": 271,
+            "target": 139
+        },
+        {
+            "source": 272,
+            "target": 337
+        },
+        {
+            "source": 273,
+            "target": 0
+        },
+        {
+            "source": 274,
+            "target": 241
+        },
+        {
+            "source": 275,
+            "target": 227
+        },
+        {
+            "source": 277,
+            "target": 254
+        },
+        {
+            "source": 278,
+            "target": 153
+        },
+        {
+            "source": 279,
+            "target": 52
+        },
+        {
+            "source": 280,
+            "target": 361
+        },
+        {
+            "source": 280,
+            "target": 193
+        },
+        {
+            "source": 281,
+            "target": 358
+        },
+        {
+            "source": 282,
+            "target": 256
+        },
+        {
+            "source": 283,
+            "target": 70
+        },
+        {
+            "source": 284,
+            "target": 145
+        },
+        {
+            "source": 285,
+            "target": 200
+        },
+        {
+            "source": 285,
+            "target": 264
+        },
+        {
+            "source": 285,
+            "target": 161
+        },
+        {
+            "source": 287,
+            "target": 298
+        },
+        {
+            "source": 288,
+            "target": 187
+        },
+        {
+            "source": 289,
+            "target": 190
+        },
+        {
+            "source": 290,
+            "target": 34
+        },
+        {
+            "source": 290,
+            "target": 179
+        },
+        {
+            "source": 291,
+            "target": 340
+        },
+        {
+            "source": 292,
+            "target": 296
+        },
+        {
+            "source": 293,
+            "target": 228
+        },
+        {
+            "source": 293,
+            "target": 51
+        },
+        {
+            "source": 293,
+            "target": 17
+        },
+        {
+            "source": 293,
+            "target": 164
+        },
+        {
+            "source": 294,
+            "target": 96
+        },
+        {
+            "source": 295,
+            "target": 258
+        },
+        {
+            "source": 296,
+            "target": 200
+        },
+        {
+            "source": 296,
+            "target": 309
+        },
+        {
+            "source": 297,
+            "target": 13
+        },
+        {
+            "source": 298,
+            "target": 189
+        },
+        {
+            "source": 299,
+            "target": 85
+        },
+        {
+            "source": 300,
+            "target": 154
+        },
+        {
+            "source": 301,
+            "target": 257
+        },
+        {
+            "source": 302,
+            "target": 402
+        },
+        {
+            "source": 303,
+            "target": 298
+        },
+        {
+            "source": 303,
+            "target": 2
+        },
+        {
+            "source": 304,
+            "target": 295
+        },
+        {
+            "source": 305,
+            "target": 311
+        },
+        {
+            "source": 306,
+            "target": 158
+        },
+        {
+            "source": 307,
+            "target": 286
+        },
+        {
+            "source": 309,
+            "target": 292
+        },
+        {
+            "source": 310,
+            "target": 412
+        },
+        {
+            "source": 311,
+            "target": 188
+        },
+        {
+            "source": 311,
+            "target": 110
+        },
+        {
+            "source": 311,
+            "target": 346
+        },
+        {
+            "source": 312,
+            "target": 403
+        },
+        {
+            "source": 313,
+            "target": 50
+        },
+        {
+            "source": 315,
+            "target": 13
+        },
+        {
+            "source": 316,
+            "target": 44
+        },
+        {
+            "source": 317,
+            "target": 355
+        },
+        {
+            "source": 318,
+            "target": 123
+        },
+        {
+            "source": 319,
+            "target": 182
+        },
+        {
+            "source": 320,
+            "target": 373
+        },
+        {
+            "source": 321,
+            "target": 375
+        },
+        {
+            "source": 322,
+            "target": 285
+        },
+        {
+            "source": 323,
+            "target": 306
+        },
+        {
+            "source": 323,
+            "target": 207
+        },
+        {
+            "source": 323,
+            "target": 406
+        },
+        {
+            "source": 325,
+            "target": 2
+        },
+        {
+            "source": 326,
+            "target": 222
+        },
+        {
+            "source": 326,
+            "target": 238
+        },
+        {
+            "source": 326,
+            "target": 394
+        },
+        {
+            "source": 326,
+            "target": 134
+        },
+        {
+            "source": 328,
+            "target": 97
+        },
+        {
+            "source": 329,
+            "target": 344
+        },
+        {
+            "source": 330,
+            "target": 2
+        },
+        {
+            "source": 331,
+            "target": 2
+        },
+        {
+            "source": 333,
+            "target": 106
+        },
+        {
+            "source": 334,
+            "target": 310
+        },
+        {
+            "source": 335,
+            "target": 2
+        },
+        {
+            "source": 339,
+            "target": 64
+        },
+        {
+            "source": 340,
+            "target": 24
+        },
+        {
+            "source": 340,
+            "target": 200
+        },
+        {
+            "source": 342,
+            "target": 176
+        },
+        {
+            "source": 342,
+            "target": 406
+        },
+        {
+            "source": 344,
+            "target": 329
+        },
+        {
+            "source": 345,
+            "target": 72
+        },
+        {
+            "source": 346,
+            "target": 254
+        },
+        {
+            "source": 347,
+            "target": 105
+        },
+        {
+            "source": 347,
+            "target": 234
+        },
+        {
+            "source": 347,
+            "target": 339
+        },
+        {
+            "source": 347,
+            "target": 31
+        },
+        {
+            "source": 347,
+            "target": 109
+        },
+        {
+            "source": 347,
+            "target": 312
+        },
+        {
+            "source": 347,
+            "target": 158
+        },
+        {
+            "source": 347,
+            "target": 61
+        },
+        {
+            "source": 347,
+            "target": 2
+        },
+        {
+            "source": 347,
+            "target": 373
+        },
+        {
+            "source": 347,
+            "target": 351
+        },
+        {
+            "source": 347,
+            "target": 0
+        },
+        {
+            "source": 347,
+            "target": 376
+        },
+        {
+            "source": 347,
+            "target": 67
+        },
+        {
+            "source": 347,
+            "target": 299
+        },
+        {
+            "source": 348,
+            "target": 59
+        },
+        {
+            "source": 349,
+            "target": 18
+        },
+        {
+            "source": 350,
+            "target": 196
+        },
+        {
+            "source": 351,
+            "target": 2
+        },
+        {
+            "source": 351,
+            "target": 160
+        },
+        {
+            "source": 352,
+            "target": 148
+        },
+        {
+            "source": 353,
+            "target": 381
+        },
+        {
+            "source": 354,
+            "target": 243
+        },
+        {
+            "source": 355,
+            "target": 317
+        },
+        {
+            "source": 356,
+            "target": 283
+        },
+        {
+            "source": 357,
+            "target": 324
+        },
+        {
+            "source": 357,
+            "target": 368
+        },
+        {
+            "source": 357,
+            "target": 208
+        },
+        {
+            "source": 358,
+            "target": 386
+        },
+        {
+            "source": 359,
+            "target": 147
+        },
+        {
+            "source": 360,
+            "target": 336
+        },
+        {
+            "source": 361,
+            "target": 370
+        },
+        {
+            "source": 362,
+            "target": 246
+        },
+        {
+            "source": 362,
+            "target": 2
+        },
+        {
+            "source": 362,
+            "target": 406
+        },
+        {
+            "source": 363,
+            "target": 265
+        },
+        {
+            "source": 364,
+            "target": 326
+        },
+        {
+            "source": 365,
+            "target": 345
+        },
+        {
+            "source": 367,
+            "target": 391
+        },
+        {
+            "source": 369,
+            "target": 2
+        },
+        {
+            "source": 371,
+            "target": 237
+        },
+        {
+            "source": 372,
+            "target": 203
+        },
+        {
+            "source": 373,
+            "target": 405
+        },
+        {
+            "source": 376,
+            "target": 20
+        },
+        {
+            "source": 378,
+            "target": 207
+        },
+        {
+            "source": 379,
+            "target": 363
+        },
+        {
+            "source": 381,
+            "target": 326
+        },
+        {
+            "source": 383,
+            "target": 131
+        },
+        {
+            "source": 384,
+            "target": 314
+        },
+        {
+            "source": 385,
+            "target": 149
+        },
+        {
+            "source": 388,
+            "target": 346
+        },
+        {
+            "source": 389,
+            "target": 194
+        },
+        {
+            "source": 390,
+            "target": 161
+        },
+        {
+            "source": 390,
+            "target": 326
+        },
+        {
+            "source": 390,
+            "target": 408
+        },
+        {
+            "source": 392,
+            "target": 52
+        },
+        {
+            "source": 394,
+            "target": 133
+        },
+        {
+            "source": 396,
+            "target": 136
+        },
+        {
+            "source": 398,
+            "target": 37
+        },
+        {
+            "source": 399,
+            "target": 109
+        },
+        {
+            "source": 400,
+            "target": 227
+        },
+        {
+            "source": 401,
+            "target": 149
+        },
+        {
+            "source": 402,
+            "target": 273
+        },
+        {
+            "source": 403,
+            "target": 404
+        },
+        {
+            "source": 403,
+            "target": 406
+        },
+        {
+            "source": 404,
+            "target": 312
+        },
+        {
+            "source": 405,
+            "target": 320
+        },
+        {
+            "source": 405,
+            "target": 406
+        },
+        {
+            "source": 406,
+            "target": 207
+        },
+        {
+            "source": 406,
+            "target": 105
+        },
+        {
+            "source": 406,
+            "target": 61
+        },
+        {
+            "source": 406,
+            "target": 339
+        },
+        {
+            "source": 406,
+            "target": 31
+        },
+        {
+            "source": 406,
+            "target": 109
+        },
+        {
+            "source": 406,
+            "target": 312
+        },
+        {
+            "source": 406,
+            "target": 158
+        },
+        {
+            "source": 406,
+            "target": 234
+        },
+        {
+            "source": 406,
+            "target": 2
+        },
+        {
+            "source": 406,
+            "target": 373
+        },
+        {
+            "source": 406,
+            "target": 351
+        },
+        {
+            "source": 406,
+            "target": 0
+        },
+        {
+            "source": 406,
+            "target": 376
+        },
+        {
+            "source": 406,
+            "target": 67
+        },
+        {
+            "source": 406,
+            "target": 299
+        },
+        {
+            "source": 409,
+            "target": 54
+        },
+        {
+            "source": 410,
+            "target": 108
+        },
+        {
+            "source": 411,
+            "target": 391
+        },
+        {
+            "source": 412,
+            "target": 334
+        },
+        {
+            "source": 413,
+            "target": 326
+        }
+    ],
+    "graph": {},
+    "basic": {
+        "numEdges": 508,
+        "averagePathLength": 4.578142076502732,
+        "averageOutDegree": 1.2270531400966183,
+        "numNodes": 414,
+        "selfLinks": 1,
+        "averageInDegree": 1.2270531400966183
+    }
+}

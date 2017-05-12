@@ -1,0 +1,230 @@
+{
+    "edges": [
+        {
+            "source": "No Game, No Life",
+            "target": "Stephanie Dora"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "Jibril"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "Shiro"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "Sora"
+        },
+        {
+            "source": "Shiro",
+            "target": "Sora"
+        },
+        {
+            "source": "Stephanie Dora",
+            "target": "Stephanie Dola"
+        },
+        {
+            "source": "No Game No Life Wiki",
+            "target": "Stephanie Dora"
+        },
+        {
+            "source": "No Game No Life Wiki",
+            "target": "No Game, No Life"
+        },
+        {
+            "source": "No Game No Life Wiki",
+            "target": "Jibril"
+        },
+        {
+            "source": "No Game No Life Wiki",
+            "target": "Shiro"
+        },
+        {
+            "source": "No Game No Life Wiki",
+            "target": "Sora"
+        },
+        {
+            "source": "Math",
+            "target": "Mathematical formulas"
+        },
+        {
+            "source": "Chlammy",
+            "target": "Chlammy Zell"
+        },
+        {
+            "source": "Sora",
+            "target": "Shiro"
+        },
+        {
+            "source": "Feel Nilvalen/Image Gallery",
+            "target": "Fiel Nilvalen/Image Gallery"
+        },
+        {
+            "source": "Main Page",
+            "target": "No Game No Life Wiki"
+        },
+        {
+            "source": "Stephanie",
+            "target": "Stephanie Dola"
+        }
+    ],
+    "directed": true,
+    "multigraph": false,
+    "nodes": [
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "No Game, No Life"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Shiro"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Stephanie Dora"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Fiel Nilvalen/Image Gallery"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Stephanie Dola"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Mathematical formulas"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "No Game No Life Wiki"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Math"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Chlammy"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Chlammy Zell"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Sora"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Feel Nilvalen/Image Gallery"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Jibril"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Main Page"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Stephanie"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 12
+        },
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 10
+        },
+        {
+            "source": 1,
+            "target": 10
+        },
+        {
+            "source": 2,
+            "target": 4
+        },
+        {
+            "source": 6,
+            "target": 2
+        },
+        {
+            "source": 6,
+            "target": 0
+        },
+        {
+            "source": 6,
+            "target": 12
+        },
+        {
+            "source": 6,
+            "target": 1
+        },
+        {
+            "source": 6,
+            "target": 10
+        },
+        {
+            "source": 7,
+            "target": 5
+        },
+        {
+            "source": 8,
+            "target": 9
+        },
+        {
+            "source": 10,
+            "target": 1
+        },
+        {
+            "source": 11,
+            "target": 3
+        },
+        {
+            "source": 13,
+            "target": 6
+        },
+        {
+            "source": 14,
+            "target": 4
+        }
+    ],
+    "graph": {},
+    "basic": {
+        "numEdges": 17,
+        "averagePathLength": 1.0,
+        "averageOutDegree": 1.1333333333333333,
+        "numNodes": 15,
+        "selfLinks": 0,
+        "averageInDegree": 1.1333333333333333
+    }
+}
