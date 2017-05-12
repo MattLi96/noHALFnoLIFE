@@ -98,7 +98,7 @@ class Runner:
 
             random_search_model = RandomSearch(net.G, na)
             n_found, n_missing, av_path_len, av_unique_nodes = random_search_model.run_search(1000,
-                decentralized_search_settings["plots"])
+                decentralized_search_settings["widen_search"], decentralized_search_settings["plots"])
             basic.update({
                 "random_num_paths_found": n_found,
                 "random_num_paths_missing": n_missing,
@@ -127,11 +127,12 @@ class Runner:
             if d:
                 net = NetworkParser(d)
                 output("Analyzing File " + data_file + ' at time ' + str(curr_time))
-                na = NetworkAnalysis(net.G, os.path.basename(data_file), output_path)
+                na = NetworkAnalysis(net.G, os.path.basename(data_file), output_path, curr_time)
+
+                basic = na.d3dump(public_out_path, str(curr_time))
 
                 # Run Decentralized Search
                 try:
-                    basic = na.d3dump("../public/data/", str(curr_time))
                     if decentralized_search_settings["run_decentralized_search"]:
                         hiearchyG = net.G.copy()
                         category_hierarchy = CategoryBasedHierarchicalModel(hiearchyG,
@@ -165,18 +166,18 @@ class Runner:
 
                         random_search_model = RandomSearch(net.G, na)
                         n_found, n_missing, av_path_len, av_unique_nodes = random_search_model.run_search(1000,
-                            decentralized_search_settings["plots"])
+                            decentralized_search_settings["widen_search"], decentralized_search_settings["plots"])
                         basic.update({
                             "random_num_paths_found": n_found,
                             "random_num_paths_missing": n_missing,
                             "random_average_decentralized_path_length": av_path_len,
                             "random_average_num_unique_nodes": av_unique_nodes
                         })
-
-                    if generate_data:  # write out decentralized results
-                        na.write_permanent_data_json(public_data, basic, str(curr_time))
                 except:
                     pass
+
+                if generate_data:  # write out decentralized results
+                    na.write_permanent_data_json(public_data, basic, str(curr_time.date()))
 
         output("Completed Analyzing: " + data_file)
 

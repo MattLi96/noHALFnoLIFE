@@ -11,12 +11,12 @@ from networkx.readwrite import json_graph
 
 
 class NetworkAnalysis:
-    def __init__(self, G, fileName, outputBase):  # TODO any settings for the network analysis
+    def __init__(self, G, fileName, outputBase, time=None):  # TODO any settings for the network analysis
         self.G = G.copy()
         split = re.split('\\ /', fileName)
         fileName = split[0].split(".")[0]
         self.fileName = str(fileName)
-        self.outputPath = outputBase + fileName + "/"
+        self.outputPath = outputBase + fileName + ('' if time is None else "_" + str(time.date())) + "/"
         if not os.path.exists(self.outputPath):
             os.makedirs(self.outputPath)
 
@@ -138,8 +138,11 @@ class NetworkAnalysis:
             # subs = nx.strongly_connected_components(self.G)
             # subLengths = list(map(lambda x: len(x), subs))
             # print(subLengths)
-            subs = max(nx.strongly_connected_component_subgraphs(self.G), key=len)
-            return nx.average_shortest_path_length(subs)
+            try:
+                subs = max(nx.strongly_connected_component_subgraphs(self.G), key=len)
+                return nx.average_shortest_path_length(subs)
+            except:
+                return 0
 
     def makePlot(self, title, xaxis, yaxis, xdata, ydata, path):
         fig = plt.figure()

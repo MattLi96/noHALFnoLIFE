@@ -1,0 +1,8 @@
+{
+  "averagePathLength": 0,
+  "numNodes": 25,
+  "numEdges": 20,
+  "selfLinks": 0,
+  "averageOutDegree": 0.8,
+  "averageInDegree": 0.8
+}

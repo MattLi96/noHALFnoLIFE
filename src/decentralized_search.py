@@ -50,8 +50,8 @@ class HierarchicalDecentralizedSearch:
         x = current_node.neighbor_to_location[neighbor_node.name]  # current link position
         n = len(current_node.neighbor_to_location)  # number of links
 
-        # Linear: a = -2/(n(n-1)), b = 2/n. Designed so sum is 1
-        return 1 if n == 1 else -2 / (n * (n - 1)) * x + 2 / n
+        # Linear: a = -2/(n(n+1)), b = 2/(n+1). Designed so sum is 1
+        return -2 / (n * (n + 1)) * x + 2 / (n+1)
 
     def get_decentralized_search_path(self, node1, node2, widen_target):
         """
