@@ -17,6 +17,10 @@
     "data/gameofthrones_pages_full": "http://gameofthrones.wikia.com/wiki/",
     "data/parksandrecreation_pages_current": "http://parksandrecreation.wikia.com/wiki/",
     "data/parksandrecreation_pages_full": "http://parksandrecreation.wikia.com/wiki/",
-    "data/weirdal_pages_current" : "http://weirdal.wikia.com/wiki/",
-    "data/weirdal_pages_full" : "http://weirdal.wikia.com/wiki/"
+    "data/weirdal_pages_current": "http://weirdal.wikia.com/wiki/",
+    "data/weirdal_pages_full": "http://weirdal.wikia.com/wiki/"
+    "data/codegeass_pages_current": "http://codegeass.wikia.com/wiki/",
+    "data/codegeass_pages_full": "http://codegeass.wikia.com/wiki/",
+    "data/typemoon_pages_current": "http://typemoon.wikia.com/wiki/",
+    "data/typemoon_pages_full": "http://typemoon.wikia.com/wiki/"
 }
