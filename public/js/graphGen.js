@@ -16,7 +16,8 @@ sigma.classes.graph.addMethod('neighbors', function (nodeId) {
 function generate(path) {
     if(window.info.$data.currentTime == ""){
         path = "public/" + path;
-        path = window.info.$data.fullOptions[path][0]
+        lastOne = window.info.$data.fullOptions[path].length;
+        path = window.info.$data.fullOptions[path][lastOne-1];
         path = path.slice(7);
         window.info.$data.currentTime = path;
     }

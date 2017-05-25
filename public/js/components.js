@@ -29,8 +29,8 @@ window.info = new Vue({
             });
 
            $("#timeSlider").slider('setAttribute', 'max', this.timeOptions.length-1);
-           $("#timeSlider").slider('setValue', 0);
-           $("#timeSliderValLabel").text(formatDate(window.info.$data.timeOptions[0]))
+           $("#timeSlider").slider('setValue', this.timeOptions.length-1);
+           $("#timeSliderValLabel").text(formatDate(window.info.$data.timeOptions[this.timeOptions.length-1]));
 
            generate(option);
         },
