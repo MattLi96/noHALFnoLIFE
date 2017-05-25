@@ -1,7 +1,7 @@
 {
-  "name": "cs6850project",
-  "version": "1.0.0",
-  "description": "visualizations of networkx",
+  "name": "noHALFnoLIFE",
+  "version": "1.0.1",
+  "description": "Exploring decentralized search in fandom wiki networks!",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/techlover10/cs6850project.git"
+    "url": "git+https://github.com/MattLi96/noHALFnoLIFE"
   },
   "dependencies": {
     "express": "^4.13.1",
@@ -23,12 +23,14 @@
     "unzip": "*"
   },
   "keywords": [
-    "derp"
+    "fandom",
+    "network",
+    "decentralized"
   ],
-  "author": "Austin",
+  "author": "Austin Liu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/techlover10/cs6850project/issues"
+    "url": "https://github.com/MattLi96/noHALFnoLIFE/issues"
   },
-  "homepage": "https://github.com/techlover10/cs6850project#readme"
+  "homepage": "https://mattli96.github.io/noHALFnoLIFE/"
 }
