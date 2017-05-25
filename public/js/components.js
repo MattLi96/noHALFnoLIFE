@@ -1,22 +1,30 @@
+/**
+ * The Main Vue Component
+ * Manages all of the functionality in the side panel
+ */
 window.info = new Vue({
     el: '#info',
     data: {
-        currentTab: 0, 
-        forceOn: false,
-        componentMode: false,
-        options: [],
-        fullOptions: {},
-        currentOption: "",
-        currentTime: "",
-        timeOptions: [],
-        showAllLabels: false,
-        selectedNode: null,
-        selectedPath: null,
-        basicInfo: {},
-        links: {},
-        searchTerm: ""
+        currentTab: 0,                  // Which tab is active
+        forceOn: false,                 // Turn on forces for the network graph
+        componentMode: false,           // Only display connected component?
+        options: [],                    // What other wiki options are there
+        fullOptions: {},                // What are all of the options
+        currentOption: "",              // Currently selected wiki
+        currentTime: "",                // Currently selected time
+        timeOptions: [],                // All possible times
+        showAllLabels: false,           // Display node name labels
+        selectedNode: null,             // Is there a node selected
+        selectedPath: null,             // Is there a selected path
+        basicInfo: {},                  // Basic information to display
+        links: {},                      // Links - if loaded
+        searchTerm: ""                  // What is being searched
     },
     methods: {
+        /**
+         * Changes the graph to display the new wiki selected
+         * @param {string} option - The name of wiki to be displayed
+         */
         updateData: function (option) {
            this.currentOption = option;
            this.currentTime = "";
@@ -34,17 +42,33 @@ window.info = new Vue({
 
            generate(option);
         },
+
+        /**
+         * Changes the graph to display the current wiki at the selected time
+         * @param {string} newTime - The time to be displayed
+         */
         updateTime: function(newTime){
             this.currentTime = newTime;
             generate(newTime);
         },
+
+        /**
+         * Toggles the component mode setting
+         */
         updateComponentMode: function () {
             this.componentMode = !this.componentMode;
         },
+
+        /**
+         * Toggles the show labels setting
+         */
         updateShowAllLabels: function () {
             this.showAllLabels= !this.showAllLabels;
-            generate(hasher.getHash());
         },
+        
+        /**
+         * Toggles the force on the graph
+         */
         updateForce: function () {
             if (this.forceOn) {
                 window.s.stopForceAtlas2();
@@ -54,6 +78,10 @@ window.info = new Vue({
             }
             this.forceOn = !this.forceOn;
         },
+
+        /** 
+         * Converts the curent selected path into a displayable string
+         */
         pathToString: function () {
             let res = "";
             this.selectedPath.forEach(function (o) {
@@ -63,6 +91,11 @@ window.info = new Vue({
             res = res.slice(2);
             return res;
         },
+
+        /**
+         * FOR USE ONLY WITH THE FULL NODE APP
+         * Can call for a full recompile
+         */
         recompile: function () {
             $.ajax("/data", {
                 success: function (data) {
@@ -71,7 +104,14 @@ window.info = new Vue({
                 }
             });
         },
+
+        /** Search for the given node */
         search: searchNode,
+
+        /** 
+         * Animate the Node Removal procedure:
+         * Remove nodes one by one (ordered by largest degree)
+         */
         runNodeRemoval: function(){
             let sorted = window.s.graph.nodes().sort(function(x,y){
                 return y.degree - x.degree;
