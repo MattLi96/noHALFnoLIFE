@@ -6,3 +6,5 @@ project
 * Click on two nodes to see the path between them
 * Drag nodes
 * Right-Click a node to open its page
+
+Need python3-tk

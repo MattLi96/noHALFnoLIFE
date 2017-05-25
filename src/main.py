@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
-
-
 import datetime as dt
-import logging
 import shutil
-from logging.config import fileConfig
 from multiprocessing import Pool
 
 from decentralized_search import HierarchicalDecentralizedSearch
@@ -20,7 +16,6 @@ OLDEST_TIME = dt.datetime(2000, 1, 1)
 ONE_YEAR = 365
 ONE_MONTH = 30
 TIME_INCR = dt.timedelta(days=30)
-
 
 def get_data_files(dir_path=None):
     if dir_path is None:
@@ -43,7 +38,6 @@ def get_data_files(dir_path=None):
 
 def get_time():
     return SNAPSHOT_TIME
-
 
 # basically a class so we can have a thread pool
 class Runner:
@@ -233,8 +227,5 @@ class Runner:
 
 # Main method
 if __name__ == '__main__':
-    fileConfig('logging_config.ini')
-    logger = logging.getLogger()
-    output = lambda x: logger.debug(x)
-
+    output = lambda x: print(x)
     Runner().main()  # Runs the actual processing.
