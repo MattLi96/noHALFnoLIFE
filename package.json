@@ -6,6 +6,8 @@
   "scripts": {
     "start": "nodemon index.js",
     "analyze": "cd ./src && python main.py",
+    "unzip": "./zip_data.sh -u",
+    "zip": "./zip_data.sh -z",
     "reg": "cd ./src && python overall_analysis.py"
   },
   "repository": {
