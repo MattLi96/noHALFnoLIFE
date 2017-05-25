@@ -1,7 +1,5 @@
 import datetime as dt
-
 import xmltodict
-
 
 class XMLParser:
     def __init__(self, fname, snapshot_time=dt.datetime.now()):

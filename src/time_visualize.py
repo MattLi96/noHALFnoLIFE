@@ -64,9 +64,6 @@ TITLEDICT = { 'numNodes': 'Number of Nodes',
         'random_average_decentralized_path_length': 'Average Random Search Path Length',
         'random_average_num_unique_nodes': 'Average Number of Unique Nodes \n in Random Search Paths'}
 
-
-
-
 def retrieve_basic_dicts(dir):
     files = os.listdir(dir)
     ret = []
@@ -119,13 +116,11 @@ def compare_hiearchy_random():
     plt.savefig(out_path)
     plt.close()
 
-
 def plot_compare_hiearchy_random(data_path, color, label):
     (data, dates) = retrieve_basic_dicts(data_path)
     xdata = list(map(lambda z: z[FIELDS[24]], data))  # Random
     ydata = list(map(lambda z: z[FIELDS[9]], data))  # Hierarchy
     plt.scatter(x=xdata, y=ydata, c=color, label=label)
-
 
 def visualize(data, dates=None):
     xfields = [i for _, i in FIELDS.items()]
@@ -175,7 +170,6 @@ def makePlot(title, xaxis, yaxis, xdata, ydata, out):
 
     plt.savefig(out_path)
     plt.close()
-
 
 if __name__ == '__main__':
     if os.path.exists(OUTPUT_PATH):

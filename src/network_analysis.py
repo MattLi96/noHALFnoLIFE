@@ -9,7 +9,6 @@ import matplotlib.pyplot as plt
 import networkx as nx
 from networkx.readwrite import json_graph
 
-
 class NetworkAnalysis:
     def __init__(self, G, fileName, outputBase, time=None):  # TODO any settings for the network analysis
         self.G = G.copy()

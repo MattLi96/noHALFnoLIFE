@@ -10,7 +10,6 @@ from sklearn.gaussian_process import GaussianProcessRegressor
 from sklearn.neighbors import KNeighborsRegressor
 from sklearn.tree import DecisionTreeRegressor
 
-
 def retrieve_basic_dicts(dir, current_only=True):
     files = os.listdir(dir)
     only_current = list(filter(lambda x: "current" in x, files))
@@ -177,44 +176,8 @@ if __name__ == '__main__':
     x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2)
     x_test, x_val, y_test, y_val = train_test_split(x_test, y_test, test_size=0.5)
 
-    # jiggled_x, jiggled_y = jiggle(x_train, y_train, 10)
-    # print(x_train.shape)
-    # print(jiggled_x.shape)
-
-    # knn(x_train, y_train, x_test, y_test)
-
-    # print("jiggle")
-    # knn(jiggled_x, jiggled_y, x_test, y_test)
-
     regr = BOOSTING(x_train, y_train, x_test, y_test)
     grid, minY = grid_search(regr, 2)
     print(minY)
     with open('./grid_dump.json', 'w') as outfile:
         json.dump(grid, outfile)
-
-    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-    # Logistic regression
-    # regModel = LogisticRegression()
-    # regModel.fit(x_train, y_train)
-    # print("Score on Validation: ", regModel.score(x_train, y_train))
-
-    # predicted = model2.predict(x_test)
-    # print("Predicted: ", predicted)
-    # print("Actual: ", y_test)
-
-    # probs = model2.predict_proba(x_test)
-
-    # print(metrics.accuracy_score(y_test, predicted))
-    # print(metrics.roc_auc_score(y_test, probs[:, 1]))
-
-    # grid, minY = grid_search(gpr, 2)
-
-    # print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
-    # print(minY)
-    # print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
-
-    # with open('./grid_dump.json', 'w') as outfile:
-    #     json.dump(grid, outfile)
-
-    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
