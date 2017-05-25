@@ -3,7 +3,7 @@
 zip=false
 unzip=false
 ignore=false
-while getopts ":zufi" opt; do
+while getopts ":zui" opt; do
     case ${opt} in
         z) # zip all data
             zip=true

@@ -6,7 +6,9 @@
   "scripts": {
     "start": "nodemon index.js",
     "analyze": "cd ./src && python main.py",
-    "reg": "cd ./src && python overall_analysis.py"
+    "reg": "cd ./src && python overall_analysis.py",
+    "unzip": "utilities/zip_data.sh -u",
+    "zip": "utilities/zip_data.sh -z"
   },
   "repository": {
     "type": "git",
@@ -19,8 +21,7 @@
   },
   "devDependencies": {
     "nodemon": "*",
-    "split-file": "*",
-    "unzip": "*"
+    "split-file": "*"
   },
   "keywords": [
     "fandom",
