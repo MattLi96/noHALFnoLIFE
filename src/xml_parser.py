@@ -14,6 +14,7 @@ class XMLParser:
             self.data_obj = d
             return d
 
+    # Check if a page is actual content or not, by matching against ignore lists
     def should_keep(self, node_title):
         IGNORE_LIST_PREFIX = ['Talk:', 'User:', 'File:', 'Thread:', 'Category:', 'Board Thread:', 'Template:',
                               'Category talk:', 'MediaWiki:', 'User blog comment:', 'Message Wall:', 'User blog:',
@@ -48,6 +49,7 @@ class XMLParser:
     def update_time(self, new_time):
         self.time = new_time
 
+    # Finds the oldest time in a complete wiki data dump
     def find_oldest_time(self):
         oldest_time = None
         if not self.data_obj:
@@ -67,6 +69,7 @@ class XMLParser:
                         oldest_time = time_obj
         return oldest_time
 
+    # Parses wikia data into a Python dict 
     def parse_to_dict(self):
         is_snapshot = False
         data_return = {}
