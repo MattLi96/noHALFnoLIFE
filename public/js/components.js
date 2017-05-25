@@ -1,42 +1,3 @@
-window.forceConfig = {
-    worker: true,
-    barnesHutOptimize: true
-};
-
-// window.handleChanges = function (newHash, oldHash) {
-//     window.info.$data.currentOption = newHash;
-//     generate(newHash);
-// };
-
-// $( document ).ready(function () {
-//     hasher.init();
-//     hasher.changed.add(window.handleChanges);
-//     hasher.initialized.add(window.handleChanges);
-// });
-
-function formatDate(dateString){
-    //Chop off the beginning
-    dateString = dateString.substring(dateString.lastIndexOf("_")+1, dateString.length-1);
-    //Remove the .json tail
-    dateString = dateString.substring(0, dateString.lastIndexOf("."));
-    let divide = dateString.split("-");
-
-    dateString = divide[1] + "/" + divide[2] + "/" + divide[0] + " at " + divide[3];
-
-    return dateString;
-}
-
-function searchNode(nodeName){           
-    let found = (_.find(window.s.graph.nodes(), { 'id': nodeName }));
-
-    if(found == undefined){
-        alert("Node not found...")
-    }
-    else{
-        colorNeighbors(found);
-    }
-}
-
 window.info = new Vue({
     el: '#info',
     data: {
@@ -152,11 +113,4 @@ window.info = new Vue({
             findStage(sorted);
         }
     }
-})
-
-$("#timeSlider").slider();
-$("#timeSlider").on("slideStop", function(slideEvt) {
-    let num = slideEvt.value
-    window.info.updateTime(window.info.$data.timeOptions[num])
-    $("#timeSliderValLabel").text(formatDate(window.info.$data.timeOptions[num]))
 });
