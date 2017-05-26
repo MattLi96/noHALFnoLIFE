@@ -1,0 +1,596 @@
+{
+    "edges": [
+        {
+            "source": "Freddie Wilson",
+            "target": "Michael"
+        },
+        {
+            "source": "Freddie Wilson",
+            "target": "Tobias"
+        },
+        {
+            "source": "Freddie Wilson",
+            "target": "Lindsay"
+        },
+        {
+            "source": "Freddie Wilson",
+            "target": "George Michael"
+        },
+        {
+            "source": "Gcheung28/Arrested Development's Return Date",
+            "target": "Arrested Development"
+        },
+        {
+            "source": "Afternoon Deelite",
+            "target": "Michael"
+        },
+        {
+            "source": "Afternoon Deelite",
+            "target": "Lucille"
+        },
+        {
+            "source": "Transcript of Ready, Aim, Marry Me",
+            "target": "Mitchell Hurwitz"
+        },
+        {
+            "source": "Cookies scented spray",
+            "target": "James"
+        },
+        {
+            "source": "Fox.com/arresteddev",
+            "target": "Michael"
+        },
+        {
+            "source": "Fox.com/arresteddev",
+            "target": "Arrested Development"
+        },
+        {
+            "source": "Transcript of Spring Breakout",
+            "target": "Jeff Garlin"
+        },
+        {
+            "source": "Max Winkler",
+            "target": "Arrested Development"
+        },
+        {
+            "source": "Transcript of Hand to God",
+            "target": "Mitchell Hurwitz"
+        },
+        {
+            "source": "John Fortenberry",
+            "target": "Arrested Development"
+        },
+        {
+            "source": "Transcript of Queen for a Day",
+            "target": "Jeff Garlin"
+        },
+        {
+            "source": "Transcript of Righteous Brothers",
+            "target": "Mitchell Hurwitz"
+        },
+        {
+            "source": "Transcript of Righteous Brothers",
+            "target": "Jeff Garlin"
+        },
+        {
+            "source": "Transcript of Burning Love",
+            "target": "Michael"
+        },
+        {
+            "source": "Arrested Development Wiki",
+            "target": "Main Page"
+        },
+        {
+            "source": "Arrested Development Netflix Premiere",
+            "target": "2013 Netflix Orange Carpet Season Four Premiere"
+        },
+        {
+            "source": "UnLead News",
+            "target": "John Beard's To Entrap a Local Predator: Orange County Edition: Super Creep"
+        },
+        {
+            "source": "UnLead News",
+            "target": "George Michael"
+        },
+        {
+            "source": "Jeff Garlin",
+            "target": "Arrested Development"
+        },
+        {
+            "source": "Lemon grove",
+            "target": "Michael"
+        },
+        {
+            "source": "Lemon grove",
+            "target": "Lucille"
+        },
+        {
+            "source": "Lemon grove",
+            "target": "Oscar"
+        },
+        {
+            "source": "Home",
+            "target": "Main Page"
+        },
+        {
+            "source": "Transcript of The Cabin Show",
+            "target": "Mitchell Hurwitz"
+        },
+        {
+            "source": "Hurwitz",
+            "target": "Mitchell Hurwitz"
+        },
+        {
+            "source": "Transcript of Motherboy XXX",
+            "target": "Mitchell Hurwitz"
+        },
+        {
+            "source": "Mural",
+            "target": "Michael"
+        },
+        {
+            "source": "Mural",
+            "target": "Arrested Development"
+        },
+        {
+            "source": "Reno",
+            "target": "Kitty"
+        },
+        {
+            "source": "Reno",
+            "target": "Tobias"
+        },
+        {
+            "source": "Reno",
+            "target": "George Michael"
+        },
+        {
+            "source": "The Cockroach",
+            "target": "Arrested Development"
+        },
+        {
+            "source": "Pete the mailman",
+            "target": "George Michael"
+        },
+        {
+            "source": "Arrested Development bobbleheads",
+            "target": "Michael"
+        },
+        {
+            "source": "Chareth Richter",
+            "target": "Michael"
+        },
+        {
+            "source": "Herb Zuckerkorn",
+            "target": "Barry"
+        },
+        {
+            "source": "Herb Zuckerkorn",
+            "target": "Lucille"
+        },
+        {
+            "source": "Dr. Sandor Plumb",
+            "target": "The Plumb Clinic"
+        },
+        {
+            "source": "The Plumb Clinic",
+            "target": "Dr. Sandor Plumb"
+        }
+    ],
+    "directed": true,
+    "multigraph": false,
+    "nodes": [
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "Michael"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Freddie Wilson"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Gcheung28/Arrested Development's Return Date"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Afternoon Deelite"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lindsay"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Transcript of Ready, Aim, Marry Me"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Cookies scented spray"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Fox.com/arresteddev"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Transcript of Spring Breakout"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Lucille"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Max Winkler"
+        },
+        {
+            "parity": 0,
+            "degree": 7,
+            "id": "Arrested Development"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Transcript of Hand to God"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "John Fortenberry"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Transcript of Queen for a Day"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Transcript of Righteous Brothers"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Transcript of Burning Love"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Tobias"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Arrested Development Wiki"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Arrested Development Netflix Premiere"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "2013 Netflix Orange Carpet Season Four Premiere"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "UnLead News"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Jeff Garlin"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Mitchell Hurwitz"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Lemon grove"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Home"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Transcript of The Cabin Show"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Hurwitz"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Kitty"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Transcript of Motherboy XXX"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "John Beard's To Entrap a Local Predator: Orange County Edition: Super Creep"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Mural"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Reno"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "The Cockroach"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Barry"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Pete the mailman"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Arrested Development bobbleheads"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Oscar"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Chareth Richter"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Main Page"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Herb Zuckerkorn"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Dr. Sandor Plumb"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "James"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "The Plumb Clinic"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "George Michael"
+        }
+    ],
+    "links": [
+        {
+            "source": 1,
+            "target": 0
+        },
+        {
+            "source": 1,
+            "target": 17
+        },
+        {
+            "source": 1,
+            "target": 4
+        },
+        {
+            "source": 1,
+            "target": 44
+        },
+        {
+            "source": 2,
+            "target": 11
+        },
+        {
+            "source": 3,
+            "target": 0
+        },
+        {
+            "source": 3,
+            "target": 9
+        },
+        {
+            "source": 5,
+            "target": 23
+        },
+        {
+            "source": 6,
+            "target": 42
+        },
+        {
+            "source": 7,
+            "target": 0
+        },
+        {
+            "source": 7,
+            "target": 11
+        },
+        {
+            "source": 8,
+            "target": 22
+        },
+        {
+            "source": 10,
+            "target": 11
+        },
+        {
+            "source": 12,
+            "target": 23
+        },
+        {
+            "source": 13,
+            "target": 11
+        },
+        {
+            "source": 14,
+            "target": 22
+        },
+        {
+            "source": 15,
+            "target": 23
+        },
+        {
+            "source": 15,
+            "target": 22
+        },
+        {
+            "source": 16,
+            "target": 0
+        },
+        {
+            "source": 18,
+            "target": 39
+        },
+        {
+            "source": 19,
+            "target": 20
+        },
+        {
+            "source": 21,
+            "target": 30
+        },
+        {
+            "source": 21,
+            "target": 44
+        },
+        {
+            "source": 22,
+            "target": 11
+        },
+        {
+            "source": 24,
+            "target": 0
+        },
+        {
+            "source": 24,
+            "target": 9
+        },
+        {
+            "source": 24,
+            "target": 37
+        },
+        {
+            "source": 25,
+            "target": 39
+        },
+        {
+            "source": 26,
+            "target": 23
+        },
+        {
+            "source": 27,
+            "target": 23
+        },
+        {
+            "source": 29,
+            "target": 23
+        },
+        {
+            "source": 31,
+            "target": 0
+        },
+        {
+            "source": 31,
+            "target": 11
+        },
+        {
+            "source": 32,
+            "target": 28
+        },
+        {
+            "source": 32,
+            "target": 17
+        },
+        {
+            "source": 32,
+            "target": 44
+        },
+        {
+            "source": 33,
+            "target": 11
+        },
+        {
+            "source": 35,
+            "target": 44
+        },
+        {
+            "source": 36,
+            "target": 0
+        },
+        {
+            "source": 38,
+            "target": 0
+        },
+        {
+            "source": 40,
+            "target": 34
+        },
+        {
+            "source": 40,
+            "target": 9
+        },
+        {
+            "source": 41,
+            "target": 43
+        },
+        {
+            "source": 43,
+            "target": 41
+        }
+    ],
+    "graph": {},
+    "basic": {
+        "numEdges": 44,
+        "averagePathLength": 1.0,
+        "averageOutDegree": 0.9777777777777777,
+        "numNodes": 45,
+        "selfLinks": 0,
+        "averageInDegree": 0.9777777777777777
+    }
+}

@@ -1,0 +1,6307 @@
+{
+    "edges": [
+        {
+            "source": "Shiro/Image Gallery",
+            "target": "Episode 05"
+        },
+        {
+            "source": "Shiro/Image Gallery",
+            "target": "Episode 06"
+        },
+        {
+            "source": "Shiro/Image Gallery",
+            "target": "Episode 04"
+        },
+        {
+            "source": "Shiro/Image Gallery",
+            "target": "ED1"
+        },
+        {
+            "source": "Shiro/Image Gallery",
+            "target": "Episode 08"
+        },
+        {
+            "source": "Shiro/Image Gallery",
+            "target": "Episode 03"
+        },
+        {
+            "source": "Shiro/Image Gallery",
+            "target": "Volume 4"
+        },
+        {
+            "source": "Shiro/Image Gallery",
+            "target": "OP1"
+        },
+        {
+            "source": "Shiro/Image Gallery",
+            "target": "Avant Heim"
+        },
+        {
+            "source": "Shiro/Image Gallery",
+            "target": "Volume 3"
+        },
+        {
+            "source": "Shiro/Image Gallery",
+            "target": "Volume 5"
+        },
+        {
+            "source": "Shiro/Image Gallery",
+            "target": "Episode 07"
+        },
+        {
+            "source": "Shiro/Image Gallery",
+            "target": "Episode 02"
+        },
+        {
+            "source": "Shiro/Image Gallery",
+            "target": "Volume 1"
+        },
+        {
+            "source": "Shiro/Image Gallery",
+            "target": "Episode 01"
+        },
+        {
+            "source": "Shiro/Image Gallery",
+            "target": "Volume 6"
+        },
+        {
+            "source": "Shiro/Image Gallery",
+            "target": "Volume 2"
+        },
+        {
+            "source": "King City",
+            "target": "Sora"
+        },
+        {
+            "source": "King City",
+            "target": "Shiro"
+        },
+        {
+            "source": "King City",
+            "target": "Imanity"
+        },
+        {
+            "source": "King City",
+            "target": "Episode 2"
+        },
+        {
+            "source": "King City",
+            "target": "Volume 1"
+        },
+        {
+            "source": "King City",
+            "target": "Werebeast"
+        },
+        {
+            "source": "Math",
+            "target": "Mathematical formulas"
+        },
+        {
+            "source": "Materialization Shiritori",
+            "target": "Sora"
+        },
+        {
+            "source": "Materialization Shiritori",
+            "target": "Episode 06"
+        },
+        {
+            "source": "Materialization Shiritori",
+            "target": "Kuhaku"
+        },
+        {
+            "source": "Materialization Shiritori",
+            "target": "Volume 2"
+        },
+        {
+            "source": "Materialization Shiritori",
+            "target": "Fl\u00fcgel"
+        },
+        {
+            "source": "Materialization Shiritori",
+            "target": "Chlammy Zell"
+        },
+        {
+            "source": "Materialization Shiritori",
+            "target": "Jibril"
+        },
+        {
+            "source": "Hatsuse Izuna/Image Gallery",
+            "target": "Episode 4"
+        },
+        {
+            "source": "Hatsuse Izuna/Image Gallery",
+            "target": "Episode 7"
+        },
+        {
+            "source": "Hatsuse Izuna/Image Gallery",
+            "target": "Episode 5"
+        },
+        {
+            "source": "Hatsuse Izuna/Image Gallery",
+            "target": "ED1"
+        },
+        {
+            "source": "Hatsuse Izuna/Image Gallery",
+            "target": "Episode 6"
+        },
+        {
+            "source": "Hatsuse Izuna/Image Gallery",
+            "target": "Volume 4"
+        },
+        {
+            "source": "Hatsuse Izuna/Image Gallery",
+            "target": "OP1"
+        },
+        {
+            "source": "Hatsuse Izuna/Image Gallery",
+            "target": "Volume 3"
+        },
+        {
+            "source": "Hatsuse Izuna/Image Gallery",
+            "target": "Volume 5"
+        },
+        {
+            "source": "Hatsuse Izuna/Image Gallery",
+            "target": "Episode 8"
+        },
+        {
+            "source": "Hatsuse Izuna/Image Gallery",
+            "target": "Volume 1"
+        },
+        {
+            "source": "Hatsuse Izuna/Image Gallery",
+            "target": "Volume 6"
+        },
+        {
+            "source": "Hatsuse Izuna/Image Gallery",
+            "target": "Volume 2"
+        },
+        {
+            "source": "Ten Pledges",
+            "target": "Disboard"
+        },
+        {
+            "source": "Ten Pledges",
+            "target": "Old Deus"
+        },
+        {
+            "source": "Ten Pledges",
+            "target": "Tet"
+        },
+        {
+            "source": "Episode 06",
+            "target": "Sora"
+        },
+        {
+            "source": "Episode 06",
+            "target": "No Game, No Life"
+        },
+        {
+            "source": "Episode 06",
+            "target": "Shiro"
+        },
+        {
+            "source": "Episode 06",
+            "target": "Episode 07"
+        },
+        {
+            "source": "Episode 06",
+            "target": "Materialization Shiritori"
+        },
+        {
+            "source": "Episode 06",
+            "target": "Stephanie Dola"
+        },
+        {
+            "source": "Episode 06",
+            "target": "Episode 05"
+        },
+        {
+            "source": "Episode 06",
+            "target": "Jibril"
+        },
+        {
+            "source": "Episode 06",
+            "target": "Volume 2"
+        },
+        {
+            "source": "Elf",
+            "target": "Exceed"
+        },
+        {
+            "source": "Elf",
+            "target": "Elven Gard"
+        },
+        {
+            "source": "Elf",
+            "target": "Jibril"
+        },
+        {
+            "source": "Elemental",
+            "target": "Sora"
+        },
+        {
+            "source": "Elemental",
+            "target": "Disboard"
+        },
+        {
+            "source": "Elemental",
+            "target": "Shiro"
+        },
+        {
+            "source": "Elemental",
+            "target": "Exceed"
+        },
+        {
+            "source": "Elemental",
+            "target": "Elves"
+        },
+        {
+            "source": "Elemental",
+            "target": "Episode 05"
+        },
+        {
+            "source": "Elemental",
+            "target": "Jibril"
+        },
+        {
+            "source": "Volume 3",
+            "target": "Miko"
+        },
+        {
+            "source": "Volume 3",
+            "target": "No Game, No Life"
+        },
+        {
+            "source": "Volume 3",
+            "target": "Hatsuse Izuna"
+        },
+        {
+            "source": "Volume 3",
+            "target": "Volume 2"
+        },
+        {
+            "source": "Volume 3",
+            "target": "Volume 4"
+        },
+        {
+            "source": "Chlammy",
+            "target": "Chlammy Zell"
+        },
+        {
+            "source": "Chlammy Zell",
+            "target": "Clammy Zell"
+        },
+        {
+            "source": "Tet",
+            "target": "Sora"
+        },
+        {
+            "source": "Tet",
+            "target": "Chapter 1"
+        },
+        {
+            "source": "Tet",
+            "target": "Shiro"
+        },
+        {
+            "source": "Tet",
+            "target": "Ten Oaths"
+        },
+        {
+            "source": "Tet",
+            "target": "Exceed"
+        },
+        {
+            "source": "Tet",
+            "target": "Volume 1"
+        },
+        {
+            "source": "Tet",
+            "target": "Episode 01"
+        },
+        {
+            "source": "Tet",
+            "target": "Disboard"
+        },
+        {
+            "source": "Tet",
+            "target": "Tet's home"
+        },
+        {
+            "source": "Fiel Nirvalen",
+            "target": "Sora"
+        },
+        {
+            "source": "Fiel Nirvalen",
+            "target": "Elven Gard"
+        },
+        {
+            "source": "Fiel Nirvalen",
+            "target": "Shiro"
+        },
+        {
+            "source": "Fiel Nirvalen",
+            "target": "Chlammy Zell"
+        },
+        {
+            "source": "Fiel Nirvalen",
+            "target": "Jibril"
+        },
+        {
+            "source": "Fiel Nirvalen",
+            "target": "Volume 1"
+        },
+        {
+            "source": "Fiel Nirvalen",
+            "target": "Episode 01"
+        },
+        {
+            "source": "Fiel Nirvalen",
+            "target": "Feel Nilvalen/Image Gallery"
+        },
+        {
+            "source": "Fiel Nirvalen",
+            "target": "Elf"
+        },
+        {
+            "source": "Volume 6",
+            "target": "Volume 5"
+        },
+        {
+            "source": "Volume 6",
+            "target": "No Game, No Life"
+        },
+        {
+            "source": "Volume 6",
+            "target": "Tet"
+        },
+        {
+            "source": "Stephanie Dora's maids",
+            "target": "Stephanie Dola's maids"
+        },
+        {
+            "source": "Queen/Image Gallery",
+            "target": "Sora"
+        },
+        {
+            "source": "Queen/Image Gallery",
+            "target": "Shiro"
+        },
+        {
+            "source": "Queen/Image Gallery",
+            "target": "Episode 01"
+        },
+        {
+            "source": "Fiel Nirvalen/Image Gallery",
+            "target": "Volume 3"
+        },
+        {
+            "source": "Fiel Nirvalen/Image Gallery",
+            "target": "Volume 5"
+        },
+        {
+            "source": "Fiel Nirvalen/Image Gallery",
+            "target": "Episode 02"
+        },
+        {
+            "source": "Fiel Nirvalen/Image Gallery",
+            "target": "Episode 04"
+        },
+        {
+            "source": "Fiel Nirvalen/Image Gallery",
+            "target": "Volume 2"
+        },
+        {
+            "source": "Fiel Nirvalen/Image Gallery",
+            "target": "Volume 1"
+        },
+        {
+            "source": "Fiel Nirvalen/Image Gallery",
+            "target": "Episode 01"
+        },
+        {
+            "source": "Fiel Nirvalen/Image Gallery",
+            "target": "Episode 03"
+        },
+        {
+            "source": "Fiel Nirvalen/Image Gallery",
+            "target": "Volume 6"
+        },
+        {
+            "source": "Fiel Nirvalen/Image Gallery",
+            "target": "Episode 05"
+        },
+        {
+            "source": "Fiel Nirvalen/Image Gallery",
+            "target": "Volume 4"
+        },
+        {
+            "source": "Sora",
+            "target": "Imanity"
+        },
+        {
+            "source": "Sora",
+            "target": "Shiro"
+        },
+        {
+            "source": "Sora",
+            "target": "Inn-keeper"
+        },
+        {
+            "source": "Sora",
+            "target": "Sora/Image Gallery"
+        },
+        {
+            "source": "Sora",
+            "target": "Stephanie Dola"
+        },
+        {
+            "source": "Sora",
+            "target": "Elchea Federation"
+        },
+        {
+            "source": "Sora",
+            "target": "Episode 01"
+        },
+        {
+            "source": "Sora",
+            "target": "Jibril"
+        },
+        {
+            "source": "Sora",
+            "target": "Disboard"
+        },
+        {
+            "source": "Sora",
+            "target": "Tet"
+        },
+        {
+            "source": "Sora",
+            "target": "Volume 1"
+        },
+        {
+            "source": "Sora",
+            "target": "Chlammy Zell"
+        },
+        {
+            "source": "Sora",
+            "target": "Imanity-go"
+        },
+        {
+            "source": "NG Cup \u2606 Decisive Battle For The Strongest Gamer",
+            "target": "Sora"
+        },
+        {
+            "source": "NG Cup \u2606 Decisive Battle For The Strongest Gamer",
+            "target": "Shiro"
+        },
+        {
+            "source": "NG Cup \u2606 Decisive Battle For The Strongest Gamer",
+            "target": "No Game, No Life"
+        },
+        {
+            "source": "NG Cup \u2606 Decisive Battle For The Strongest Gamer",
+            "target": "Chlammy"
+        },
+        {
+            "source": "NG Cup \u2606 Decisive Battle For The Strongest Gamer",
+            "target": "Stephanie"
+        },
+        {
+            "source": "Inn-keeper",
+            "target": "Sora"
+        },
+        {
+            "source": "Inn-keeper",
+            "target": "Shiro"
+        },
+        {
+            "source": "Inn-keeper",
+            "target": "Inn of Elchea"
+        },
+        {
+            "source": "Inn-keeper",
+            "target": "Chlammy"
+        },
+        {
+            "source": "Inn-keeper",
+            "target": "Stephanie"
+        },
+        {
+            "source": "Episode 04",
+            "target": "Miko"
+        },
+        {
+            "source": "Episode 04",
+            "target": "Shiro"
+        },
+        {
+            "source": "Episode 04",
+            "target": "Inn-keeper"
+        },
+        {
+            "source": "Episode 04",
+            "target": "Sora"
+        },
+        {
+            "source": "Episode 04",
+            "target": "Race Piece"
+        },
+        {
+            "source": "Episode 04",
+            "target": "Stephanie Dola"
+        },
+        {
+            "source": "Episode 04",
+            "target": "Former king of Imanity"
+        },
+        {
+            "source": "Episode 04",
+            "target": "Episode 03"
+        },
+        {
+            "source": "Episode 04",
+            "target": "Hatsuse Izuna"
+        },
+        {
+            "source": "Episode 04",
+            "target": "Jibril"
+        },
+        {
+            "source": "Episode 04",
+            "target": "Hatsuse Ino"
+        },
+        {
+            "source": "Episode 04",
+            "target": "No Game, No Life"
+        },
+        {
+            "source": "Episode 04",
+            "target": "Clammy Zell"
+        },
+        {
+            "source": "Episode 04",
+            "target": "Three unnamed thieves"
+        },
+        {
+            "source": "Episode 04",
+            "target": "Elderly official"
+        },
+        {
+            "source": "Episode 04",
+            "target": "Tet"
+        },
+        {
+            "source": "Episode 04",
+            "target": "Exceed"
+        },
+        {
+            "source": "Episode 04",
+            "target": "Volume 1"
+        },
+        {
+            "source": "Episode 04",
+            "target": "Chlammy Zell"
+        },
+        {
+            "source": "Episode 04",
+            "target": "Episode 05"
+        },
+        {
+            "source": "Elchea Federation",
+            "target": "Exceed"
+        },
+        {
+            "source": "Elchea Federation",
+            "target": "Eastern Union"
+        },
+        {
+            "source": "Elchea Federation",
+            "target": "Imanity"
+        },
+        {
+            "source": "Elchea Federation",
+            "target": "Werebeast"
+        },
+        {
+            "source": "Izuna",
+            "target": "Hatsuse Izuna"
+        },
+        {
+            "source": "Stephanie Dora",
+            "target": "Stephanie Dola"
+        },
+        {
+            "source": "Avant Heim",
+            "target": "Phantasma"
+        },
+        {
+            "source": "Avant Heim",
+            "target": "Exceed"
+        },
+        {
+            "source": "Avant Heim",
+            "target": "Fl\u00fcgel"
+        },
+        {
+            "source": "Previous king",
+            "target": "Former king of Imanity"
+        },
+        {
+            "source": "Blank",
+            "target": "\u300e \u300f"
+        },
+        {
+            "source": "Old Deus",
+            "target": "Fl\u00fcgel"
+        },
+        {
+            "source": "Old Deus",
+            "target": "Disboard"
+        },
+        {
+            "source": "Old Deus",
+            "target": "Episode 05"
+        },
+        {
+            "source": "Old Deus",
+            "target": "Volume 2"
+        },
+        {
+            "source": "Old Deus",
+            "target": "Exceed"
+        },
+        {
+            "source": "Old Deus",
+            "target": "Volume 1"
+        },
+        {
+            "source": "Old Deus",
+            "target": "Jibril"
+        },
+        {
+            "source": "Episode 07",
+            "target": "Werebeast"
+        },
+        {
+            "source": "Episode 07",
+            "target": "Episode 06"
+        },
+        {
+            "source": "Episode 07",
+            "target": "Shiro"
+        },
+        {
+            "source": "Episode 07",
+            "target": "Episode 08"
+        },
+        {
+            "source": "Episode 07",
+            "target": "Stephanie Dola"
+        },
+        {
+            "source": "Episode 07",
+            "target": "Former king of Imanity"
+        },
+        {
+            "source": "Episode 07",
+            "target": "Jibril"
+        },
+        {
+            "source": "Episode 07",
+            "target": "Sora"
+        },
+        {
+            "source": "Episode 07",
+            "target": "No Game, No Life"
+        },
+        {
+            "source": "Episode 07",
+            "target": "Stephanie Dola's maids"
+        },
+        {
+            "source": "Episode 07",
+            "target": "Chlammy Zell"
+        },
+        {
+            "source": "Episode 07",
+            "target": "Volume 2"
+        },
+        {
+            "source": "Stephanie Dola's maids",
+            "target": "Stephanie Dola"
+        },
+        {
+            "source": "Stephanie Dola's maids",
+            "target": "Episode 02"
+        },
+        {
+            "source": "Stephanie Dola's maids",
+            "target": "Imanity"
+        },
+        {
+            "source": "Episode 4",
+            "target": "Episode 04"
+        },
+        {
+            "source": "Episode 9",
+            "target": "Episode 09"
+        },
+        {
+            "source": "Stephanie Dola/Image Gallery",
+            "target": "Ten Oaths"
+        },
+        {
+            "source": "Stephanie Dola/Image Gallery",
+            "target": "Episode 04"
+        },
+        {
+            "source": "Stephanie Dola/Image Gallery",
+            "target": "ED1"
+        },
+        {
+            "source": "Stephanie Dola/Image Gallery",
+            "target": "Episode 03"
+        },
+        {
+            "source": "Stephanie Dola/Image Gallery",
+            "target": "No Work No Life"
+        },
+        {
+            "source": "Stephanie Dola/Image Gallery",
+            "target": "Volume 4"
+        },
+        {
+            "source": "Stephanie Dola/Image Gallery",
+            "target": "OP1"
+        },
+        {
+            "source": "Stephanie Dola/Image Gallery",
+            "target": "Volume 3"
+        },
+        {
+            "source": "Stephanie Dola/Image Gallery",
+            "target": "Volume 5"
+        },
+        {
+            "source": "Stephanie Dola/Image Gallery",
+            "target": "Volume 2"
+        },
+        {
+            "source": "Stephanie Dola/Image Gallery",
+            "target": "Episode 02"
+        },
+        {
+            "source": "Stephanie Dola/Image Gallery",
+            "target": "Exceed"
+        },
+        {
+            "source": "Stephanie Dola/Image Gallery",
+            "target": "Volume 1"
+        },
+        {
+            "source": "Stephanie Dola/Image Gallery",
+            "target": "Episode 01"
+        },
+        {
+            "source": "Stephanie Dola/Image Gallery",
+            "target": "Volume 6"
+        },
+        {
+            "source": "Stephanie Dola/Image Gallery",
+            "target": "Episode 05"
+        },
+        {
+            "source": "Brain Battle For Imanity",
+            "target": "Sora"
+        },
+        {
+            "source": "Brain Battle For Imanity",
+            "target": "Shiro"
+        },
+        {
+            "source": "Brain Battle For Imanity",
+            "target": "Episode 01"
+        },
+        {
+            "source": "Fiel Nilvalen/Image Gallery",
+            "target": "Fiel Nirvalen/Image Gallery"
+        },
+        {
+            "source": "Elven Gard",
+            "target": "Elves"
+        },
+        {
+            "source": "Elven Gard",
+            "target": "Ten Oaths"
+        },
+        {
+            "source": "Elven Gard",
+            "target": "Disboard"
+        },
+        {
+            "source": "Elven Gard",
+            "target": "Jibril"
+        },
+        {
+            "source": "Elven Gard",
+            "target": "Elf"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "Episode 06"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "Shiro"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "Episode 04"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "Episode 08"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "Manga Volume 1"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "Episode 09"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "Hatsuse Izuna"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "Jibril"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "Episode 10"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "Volume 3"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "Volume 5"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "Oraci\u00f3n"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "Tet"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "Volume 1"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "Volume 6"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "Episode 01"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "Stephanie Dola"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "Episode 03"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "Volume 4"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "Sora"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "Episode 05"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "Episode 07"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "Episode 02"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "Chlammy Zell"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "Volume 2"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "This game"
+        },
+        {
+            "source": "Stephanie",
+            "target": "Stephanie Dola"
+        },
+        {
+            "source": "Episode 08",
+            "target": "Werebeast"
+        },
+        {
+            "source": "Episode 08",
+            "target": "Shiro"
+        },
+        {
+            "source": "Episode 08",
+            "target": "Ten Oaths"
+        },
+        {
+            "source": "Episode 08",
+            "target": "ED1"
+        },
+        {
+            "source": "Episode 08",
+            "target": "Sora"
+        },
+        {
+            "source": "Episode 08",
+            "target": "Race Piece"
+        },
+        {
+            "source": "Episode 08",
+            "target": "Stephanie Dola"
+        },
+        {
+            "source": "Episode 08",
+            "target": "Chlammy Zell"
+        },
+        {
+            "source": "Episode 08",
+            "target": "Hatsuse Izuna"
+        },
+        {
+            "source": "Episode 08",
+            "target": "Jibril"
+        },
+        {
+            "source": "Episode 08",
+            "target": "Hatsuse Ino"
+        },
+        {
+            "source": "Episode 08",
+            "target": "Eastern Union"
+        },
+        {
+            "source": "Episode 08",
+            "target": "No Game, No Life"
+        },
+        {
+            "source": "Episode 08",
+            "target": "Episode 07"
+        },
+        {
+            "source": "Episode 08",
+            "target": "Episode 09"
+        },
+        {
+            "source": "Episode 08",
+            "target": "Volume 2"
+        },
+        {
+            "source": "Elderly official/Image Gallery",
+            "target": "Kuhaku"
+        },
+        {
+            "source": "Elderly official/Image Gallery",
+            "target": "Chlammy Zell"
+        },
+        {
+            "source": "Elderly official/Image Gallery",
+            "target": "Episode 03"
+        },
+        {
+            "source": "Elderly official/Image Gallery",
+            "target": "Episode 04"
+        },
+        {
+            "source": "Elderly official/Image Gallery",
+            "target": "Episode 02"
+        },
+        {
+            "source": "Oceando",
+            "target": "Dhampir"
+        },
+        {
+            "source": "Oceando",
+            "target": "Seiren"
+        },
+        {
+            "source": "Jibril",
+            "target": "Sora"
+        },
+        {
+            "source": "Jibril",
+            "target": "Shiro"
+        },
+        {
+            "source": "Jibril",
+            "target": "Ten Oaths"
+        },
+        {
+            "source": "Jibril",
+            "target": "Azuril"
+        },
+        {
+            "source": "Jibril",
+            "target": "Fl\u00fcgel"
+        },
+        {
+            "source": "Jibril",
+            "target": "Steph"
+        },
+        {
+            "source": "Jibril",
+            "target": "Episode 05"
+        },
+        {
+            "source": "Jibril",
+            "target": "Jibril/Image Gallery"
+        },
+        {
+            "source": "Jibril",
+            "target": "Old Deus"
+        },
+        {
+            "source": "Jibril",
+            "target": "Volume 2"
+        },
+        {
+            "source": "No Work No Life",
+            "target": "No Game, No Life"
+        },
+        {
+            "source": "Oracion",
+            "target": "Oraci\u00f3n"
+        },
+        {
+            "source": "Seiren",
+            "target": "Exceed"
+        },
+        {
+            "source": "Seiren",
+            "target": "Dhampir"
+        },
+        {
+            "source": "Seiren",
+            "target": "Oceando"
+        },
+        {
+            "source": "Game 01",
+            "target": "Manga Volume 1"
+        },
+        {
+            "source": "Exceed",
+            "target": "Phantasma"
+        },
+        {
+            "source": "Exceed",
+            "target": "Fl\u00fcgel"
+        },
+        {
+            "source": "Exceed",
+            "target": "Elven Gard"
+        },
+        {
+            "source": "Exceed",
+            "target": "Dwarf"
+        },
+        {
+            "source": "Exceed",
+            "target": "Ten Pledges"
+        },
+        {
+            "source": "Exceed",
+            "target": "Elf"
+        },
+        {
+            "source": "Exceed",
+            "target": "Eastern Union"
+        },
+        {
+            "source": "Exceed",
+            "target": "Seiren"
+        },
+        {
+            "source": "Exceed",
+            "target": "Werebeast"
+        },
+        {
+            "source": "Exceed",
+            "target": "Dragonia"
+        },
+        {
+            "source": "Exceed",
+            "target": "Gigant"
+        },
+        {
+            "source": "Exceed",
+            "target": "Demonia"
+        },
+        {
+            "source": "Exceed",
+            "target": "Harden Fell"
+        },
+        {
+            "source": "Exceed",
+            "target": "Imanity"
+        },
+        {
+            "source": "Exceed",
+            "target": "Oceando"
+        },
+        {
+            "source": "Exceed",
+            "target": "Elemental"
+        },
+        {
+            "source": "Exceed",
+            "target": "Race Piece"
+        },
+        {
+            "source": "Exceed",
+            "target": "Old Deus"
+        },
+        {
+            "source": "Exceed",
+            "target": "Avant Heim"
+        },
+        {
+            "source": "Exceed",
+            "target": "Disboard"
+        },
+        {
+            "source": "Exceed",
+            "target": "Dhampir"
+        },
+        {
+            "source": "Exceed",
+            "target": "Lunamana"
+        },
+        {
+            "source": "Exceed",
+            "target": "Fairy"
+        },
+        {
+            "source": "Race",
+            "target": "Exceed"
+        },
+        {
+            "source": "Episode 10",
+            "target": "Volume 3"
+        },
+        {
+            "source": "Episode 10",
+            "target": "No Game, No Life"
+        },
+        {
+            "source": "Episode 10",
+            "target": "Episode 09"
+        },
+        {
+            "source": "Demonia",
+            "target": "Exceed"
+        },
+        {
+            "source": "Unnamed thieves",
+            "target": "Sora"
+        },
+        {
+            "source": "Unnamed thieves",
+            "target": "Disboard"
+        },
+        {
+            "source": "Unnamed thieves",
+            "target": "Shiro"
+        },
+        {
+            "source": "Unnamed thieves",
+            "target": "Imanity"
+        },
+        {
+            "source": "Unnamed thieves",
+            "target": "Ten Pledges"
+        },
+        {
+            "source": "Unnamed thieves",
+            "target": "Episode 03"
+        },
+        {
+            "source": "Unnamed thieves",
+            "target": "Episode 01"
+        },
+        {
+            "source": "\u300e \u300f",
+            "target": "Sora"
+        },
+        {
+            "source": "\u300e \u300f",
+            "target": "Disboard"
+        },
+        {
+            "source": "\u300e \u300f",
+            "target": "Shiro"
+        },
+        {
+            "source": "\u300e \u300f",
+            "target": "Tet"
+        },
+        {
+            "source": "Clammy Zell",
+            "target": "Sora"
+        },
+        {
+            "source": "Clammy Zell",
+            "target": "Eastern Union"
+        },
+        {
+            "source": "Clammy Zell",
+            "target": "Shiro"
+        },
+        {
+            "source": "Clammy Zell",
+            "target": "Imanity"
+        },
+        {
+            "source": "Clammy Zell",
+            "target": "Chlammy Zell/Image Gallery"
+        },
+        {
+            "source": "Clammy Zell",
+            "target": "Race Piece"
+        },
+        {
+            "source": "Clammy Zell",
+            "target": "Volume 1"
+        },
+        {
+            "source": "Clammy Zell",
+            "target": "Episode 01"
+        },
+        {
+            "source": "Clammy Zell",
+            "target": "Imanity-go"
+        },
+        {
+            "source": "Clammy Zell",
+            "target": "Elven Gard"
+        },
+        {
+            "source": "Main Page",
+            "target": "No Game No Life Wiki"
+        },
+        {
+            "source": "Manga Volume 1",
+            "target": "Sora"
+        },
+        {
+            "source": "Manga Volume 1",
+            "target": "No Game, No Life"
+        },
+        {
+            "source": "Manga Volume 1",
+            "target": "Shiro"
+        },
+        {
+            "source": "Manga Volume 1",
+            "target": "Tet"
+        },
+        {
+            "source": "Manga Volume 1",
+            "target": "Queen"
+        },
+        {
+            "source": "Manga Volume 1",
+            "target": "Disboard"
+        },
+        {
+            "source": "Imanity-go",
+            "target": "Sora"
+        },
+        {
+            "source": "Imanity-go",
+            "target": "Shiro"
+        },
+        {
+            "source": "Imanity-go",
+            "target": "Episode 02"
+        },
+        {
+            "source": "Imanity-go",
+            "target": "Imanity"
+        },
+        {
+            "source": "Imanity-go",
+            "target": "Stephanie Dola"
+        },
+        {
+            "source": "Imanity-go",
+            "target": "Chlammy Zell"
+        },
+        {
+            "source": "No Game No Life Wiki",
+            "target": "Sora"
+        },
+        {
+            "source": "No Game No Life Wiki",
+            "target": "No Game, No Life"
+        },
+        {
+            "source": "No Game No Life Wiki",
+            "target": "Shiro"
+        },
+        {
+            "source": "No Game No Life Wiki",
+            "target": "Tet"
+        },
+        {
+            "source": "No Game No Life Wiki",
+            "target": "Stephanie Dola"
+        },
+        {
+            "source": "No Game No Life Wiki",
+            "target": "Chlammy Zell"
+        },
+        {
+            "source": "No Game No Life Wiki",
+            "target": "Hatsuse Izuna"
+        },
+        {
+            "source": "No Game No Life Wiki",
+            "target": "Jibril"
+        },
+        {
+            "source": "Steph",
+            "target": "Stephanie Dola"
+        },
+        {
+            "source": "Dora/Image Gallery",
+            "target": "Episode 01"
+        },
+        {
+            "source": "Episode 6",
+            "target": "Episode 06"
+        },
+        {
+            "source": "Hatsuse Ino",
+            "target": "Miko"
+        },
+        {
+            "source": "Hatsuse Ino",
+            "target": "Eastern Union"
+        },
+        {
+            "source": "Hatsuse Ino",
+            "target": "Episode 04"
+        },
+        {
+            "source": "Hatsuse Ino",
+            "target": "Episode 08"
+        },
+        {
+            "source": "Hatsuse Ino",
+            "target": "Werebeast"
+        },
+        {
+            "source": "Hatsuse Ino",
+            "target": "Hatsuse Izuna"
+        },
+        {
+            "source": "Miko/Image Gallery",
+            "target": "This game"
+        },
+        {
+            "source": "Episode 01",
+            "target": "Miko"
+        },
+        {
+            "source": "Episode 01",
+            "target": "Shiro"
+        },
+        {
+            "source": "Episode 01",
+            "target": "Inn-keeper"
+        },
+        {
+            "source": "Episode 01",
+            "target": "Episode 02"
+        },
+        {
+            "source": "Episode 01",
+            "target": "Imanity"
+        },
+        {
+            "source": "Episode 01",
+            "target": "Queen"
+        },
+        {
+            "source": "Episode 01",
+            "target": "Ten Pledges"
+        },
+        {
+            "source": "Episode 01",
+            "target": "Three unnamed thieves"
+        },
+        {
+            "source": "Episode 01",
+            "target": "Hatsuse Izuna"
+        },
+        {
+            "source": "Episode 01",
+            "target": "Jibril"
+        },
+        {
+            "source": "Episode 01",
+            "target": "Sora"
+        },
+        {
+            "source": "Episode 01",
+            "target": "Hatsuse Ino"
+        },
+        {
+            "source": "Episode 01",
+            "target": "Disboard"
+        },
+        {
+            "source": "Episode 01",
+            "target": "No Game, No Life"
+        },
+        {
+            "source": "Episode 01",
+            "target": "Brain Battle For Imanity"
+        },
+        {
+            "source": "Episode 01",
+            "target": "Tet"
+        },
+        {
+            "source": "Episode 01",
+            "target": "Stephanie Dola"
+        },
+        {
+            "source": "Episode 01",
+            "target": "Volume 1"
+        },
+        {
+            "source": "Episode 01",
+            "target": "Chlammy Zell"
+        },
+        {
+            "source": "Elves",
+            "target": "Elf"
+        },
+        {
+            "source": "Library of Elchea",
+            "target": "National Library of Elchea"
+        },
+        {
+            "source": "Tet's home",
+            "target": "Volume 1"
+        },
+        {
+            "source": "Tet's home",
+            "target": "Episode 1"
+        },
+        {
+            "source": "Tet's home",
+            "target": "Tet"
+        },
+        {
+            "source": "Queen",
+            "target": "Chapter 1"
+        },
+        {
+            "source": "Queen",
+            "target": "Episode 01"
+        },
+        {
+            "source": "Phantasma",
+            "target": "Exceed"
+        },
+        {
+            "source": "Phantasma",
+            "target": "Episode 05"
+        },
+        {
+            "source": "Phantasma",
+            "target": "Avant Heim"
+        },
+        {
+            "source": "Fl\u00fcgel",
+            "target": "Exceed"
+        },
+        {
+            "source": "Fl\u00fcgel",
+            "target": "Disboard"
+        },
+        {
+            "source": "Fl\u00fcgel",
+            "target": "Ten Oaths"
+        },
+        {
+            "source": "Fl\u00fcgel",
+            "target": "Avant Heim"
+        },
+        {
+            "source": "ED1",
+            "target": "Oraci\u00f3n"
+        },
+        {
+            "source": "Former king of Imanity",
+            "target": "Werebeast"
+        },
+        {
+            "source": "Former king of Imanity",
+            "target": "Imanity"
+        },
+        {
+            "source": "Former king of Imanity",
+            "target": "Volume 1"
+        },
+        {
+            "source": "Former king of Imanity",
+            "target": "Steph"
+        },
+        {
+            "source": "Former king of Imanity",
+            "target": "Stephanie Dola"
+        },
+        {
+            "source": "Former king of Imanity",
+            "target": "Episode 03"
+        },
+        {
+            "source": "Former king of Imanity",
+            "target": "Jibril"
+        },
+        {
+            "source": "\u30aa\u30e9\u30b7\u30aa\u30f3",
+            "target": "Oraci\u00f3n"
+        },
+        {
+            "source": "Tet/Image Gallery",
+            "target": "Volume 3"
+        },
+        {
+            "source": "Tet/Image Gallery",
+            "target": "Volume 5"
+        },
+        {
+            "source": "Tet/Image Gallery",
+            "target": "Episode 02"
+        },
+        {
+            "source": "Tet/Image Gallery",
+            "target": "Episode 04"
+        },
+        {
+            "source": "Tet/Image Gallery",
+            "target": "Volume 2"
+        },
+        {
+            "source": "Tet/Image Gallery",
+            "target": "Volume 1"
+        },
+        {
+            "source": "Tet/Image Gallery",
+            "target": "Episode 01"
+        },
+        {
+            "source": "Tet/Image Gallery",
+            "target": "Episode 03"
+        },
+        {
+            "source": "Tet/Image Gallery",
+            "target": "Volume 6"
+        },
+        {
+            "source": "Tet/Image Gallery",
+            "target": "Episode 05"
+        },
+        {
+            "source": "Tet/Image Gallery",
+            "target": "Volume 4"
+        },
+        {
+            "source": "Episode 1",
+            "target": "Episode 01"
+        },
+        {
+            "source": "Episode 7",
+            "target": "Episode 07"
+        },
+        {
+            "source": "Eastern Union",
+            "target": "Werebeast"
+        },
+        {
+            "source": "Eastern Union",
+            "target": "Disboard"
+        },
+        {
+            "source": "Shiro",
+            "target": "Sora"
+        },
+        {
+            "source": "Shiro",
+            "target": "Elchea Federation"
+        },
+        {
+            "source": "Shiro",
+            "target": "Chlammy Zell"
+        },
+        {
+            "source": "Shiro",
+            "target": "Jibril"
+        },
+        {
+            "source": "Shiro",
+            "target": "Imanity"
+        },
+        {
+            "source": "Shiro",
+            "target": "Volume 1"
+        },
+        {
+            "source": "Shiro",
+            "target": "Stephanie Dola"
+        },
+        {
+            "source": "Shiro",
+            "target": "Episode 01"
+        },
+        {
+            "source": "Shiro",
+            "target": "Imanity-go"
+        },
+        {
+            "source": "Shiro",
+            "target": "Chapter 1"
+        },
+        {
+            "source": "Shiro",
+            "target": "Oraci\u00f3n"
+        },
+        {
+            "source": "Werebeast",
+            "target": "Miko"
+        },
+        {
+            "source": "Werebeast",
+            "target": "Eastern Union"
+        },
+        {
+            "source": "Werebeast",
+            "target": "Sora"
+        },
+        {
+            "source": "Werebeast",
+            "target": "Exceed"
+        },
+        {
+            "source": "This game",
+            "target": "Episode 01"
+        },
+        {
+            "source": "Episode 2",
+            "target": "Episode 02"
+        },
+        {
+            "source": "Clammy Zell/Image Gallery",
+            "target": "Volume 3"
+        },
+        {
+            "source": "Clammy Zell/Image Gallery",
+            "target": "Volume 5"
+        },
+        {
+            "source": "Clammy Zell/Image Gallery",
+            "target": "Episode 02"
+        },
+        {
+            "source": "Clammy Zell/Image Gallery",
+            "target": "Episode 04"
+        },
+        {
+            "source": "Clammy Zell/Image Gallery",
+            "target": "Volume 2"
+        },
+        {
+            "source": "Clammy Zell/Image Gallery",
+            "target": "Volume 1"
+        },
+        {
+            "source": "Clammy Zell/Image Gallery",
+            "target": "Episode 01"
+        },
+        {
+            "source": "Clammy Zell/Image Gallery",
+            "target": "Episode 03"
+        },
+        {
+            "source": "Clammy Zell/Image Gallery",
+            "target": "Volume 6"
+        },
+        {
+            "source": "Clammy Zell/Image Gallery",
+            "target": "Episode 05"
+        },
+        {
+            "source": "Clammy Zell/Image Gallery",
+            "target": "Volume 4"
+        },
+        {
+            "source": "Inn of Elchea",
+            "target": "Sora"
+        },
+        {
+            "source": "Inn of Elchea",
+            "target": "Disboard"
+        },
+        {
+            "source": "Inn of Elchea",
+            "target": "Shiro"
+        },
+        {
+            "source": "Inn of Elchea",
+            "target": "Inn-keeper"
+        },
+        {
+            "source": "Inn of Elchea",
+            "target": "Imanity"
+        },
+        {
+            "source": "Inn of Elchea",
+            "target": "Tet"
+        },
+        {
+            "source": "Inn of Elchea",
+            "target": "Stephanie"
+        },
+        {
+            "source": "Inn of Elchea",
+            "target": "Volume 1"
+        },
+        {
+            "source": "Inn of Elchea",
+            "target": "Chlammy"
+        },
+        {
+            "source": "Inn of Elchea",
+            "target": "Episode 1"
+        },
+        {
+            "source": "Main library of the human world",
+            "target": "National Library of Elchea"
+        },
+        {
+            "source": "Shrine Priestess",
+            "target": "Miko"
+        },
+        {
+            "source": "Chlammy Zell/Image Gallery",
+            "target": "Clammy Zell/Image Gallery"
+        },
+        {
+            "source": "Stephanie Dola",
+            "target": "Imanity"
+        },
+        {
+            "source": "Stephanie Dola",
+            "target": "Shiro"
+        },
+        {
+            "source": "Stephanie Dola",
+            "target": "Former king of Imanity"
+        },
+        {
+            "source": "Stephanie Dola",
+            "target": "Elchea Federation"
+        },
+        {
+            "source": "Stephanie Dola",
+            "target": "Jibril"
+        },
+        {
+            "source": "Stephanie Dola",
+            "target": "Sora"
+        },
+        {
+            "source": "Stephanie Dola",
+            "target": "Chapter 1"
+        },
+        {
+            "source": "Stephanie Dola",
+            "target": "Episode 05"
+        },
+        {
+            "source": "Stephanie Dola",
+            "target": "Episode 02"
+        },
+        {
+            "source": "Stephanie Dola",
+            "target": "Volume 1"
+        },
+        {
+            "source": "Stephanie Dola",
+            "target": "Episode 01"
+        },
+        {
+            "source": "Stephanie Dola",
+            "target": "Imanity-go"
+        },
+        {
+            "source": "Stephanie Dola",
+            "target": "Kurami"
+        },
+        {
+            "source": "Hatsuse Izuna",
+            "target": "Hatsuse Ino"
+        },
+        {
+            "source": "Hatsuse Izuna",
+            "target": "Elchea Federation"
+        },
+        {
+            "source": "Hatsuse Izuna",
+            "target": "Shiro"
+        },
+        {
+            "source": "Hatsuse Izuna",
+            "target": "Sora"
+        },
+        {
+            "source": "Hatsuse Izuna",
+            "target": "Steph"
+        },
+        {
+            "source": "Hatsuse Izuna",
+            "target": "Werebeast"
+        },
+        {
+            "source": "Hatsuse Izuna",
+            "target": "Episode 8"
+        },
+        {
+            "source": "Hatsuse Izuna",
+            "target": "Eastern Union"
+        },
+        {
+            "source": "Hatsuse Izuna",
+            "target": "Volume 2"
+        },
+        {
+            "source": "Dwarf",
+            "target": "Exceed"
+        },
+        {
+            "source": "Dwarf",
+            "target": "Harden Fell"
+        },
+        {
+            "source": "Episode 03",
+            "target": "Sora"
+        },
+        {
+            "source": "Episode 03",
+            "target": "No Game, No Life"
+        },
+        {
+            "source": "Episode 03",
+            "target": "Shiro"
+        },
+        {
+            "source": "Episode 03",
+            "target": "Clammy Zell"
+        },
+        {
+            "source": "Episode 03",
+            "target": "Episode 02"
+        },
+        {
+            "source": "Episode 03",
+            "target": "Volume 1"
+        },
+        {
+            "source": "Episode 03",
+            "target": "Stephanie Dola"
+        },
+        {
+            "source": "Episode 03",
+            "target": "Elves"
+        },
+        {
+            "source": "Episode 03",
+            "target": "Chlammy Zell"
+        },
+        {
+            "source": "Episode 03",
+            "target": "Episode 04"
+        },
+        {
+            "source": "Episode 03",
+            "target": "Elderly official"
+        },
+        {
+            "source": "Disboard",
+            "target": "Elven Gard"
+        },
+        {
+            "source": "Disboard",
+            "target": "No Game, No Life"
+        },
+        {
+            "source": "Disboard",
+            "target": "Oceando"
+        },
+        {
+            "source": "Disboard",
+            "target": "Ten Pledges"
+        },
+        {
+            "source": "Disboard",
+            "target": "Chapter 1"
+        },
+        {
+            "source": "Disboard",
+            "target": "Avant Heim"
+        },
+        {
+            "source": "Disboard",
+            "target": "Eastern Union"
+        },
+        {
+            "source": "Disboard",
+            "target": "Old Deus"
+        },
+        {
+            "source": "Disboard",
+            "target": "Tet"
+        },
+        {
+            "source": "Disboard",
+            "target": "Volume 1"
+        },
+        {
+            "source": "Disboard",
+            "target": "Exceed"
+        },
+        {
+            "source": "Disboard",
+            "target": "Episode 01"
+        },
+        {
+            "source": "Elchea Kingdom",
+            "target": "Imanity"
+        },
+        {
+            "source": "Elchea Kingdom",
+            "target": "Chapter 1"
+        },
+        {
+            "source": "Elchea Kingdom",
+            "target": "Inn of Elchea"
+        },
+        {
+            "source": "Elchea Kingdom",
+            "target": "Volume 1"
+        },
+        {
+            "source": "Elchea Kingdom",
+            "target": "National Library of Elchea"
+        },
+        {
+            "source": "Elchea Kingdom",
+            "target": "King City"
+        },
+        {
+            "source": "Elchea Kingdom",
+            "target": "Episode 01"
+        },
+        {
+            "source": "OP1",
+            "target": "This game"
+        },
+        {
+            "source": "Dhampir",
+            "target": "Imanity"
+        },
+        {
+            "source": "Dhampir",
+            "target": "Izuna"
+        },
+        {
+            "source": "Dhampir",
+            "target": "Oceando"
+        },
+        {
+            "source": "Dhampir",
+            "target": "Seiren"
+        },
+        {
+            "source": "Dhampir",
+            "target": "Plum"
+        },
+        {
+            "source": "Dhampir",
+            "target": "Exceed"
+        },
+        {
+            "source": "Dhampir",
+            "target": "Ten Pledges"
+        },
+        {
+            "source": "Dhampir",
+            "target": "Jibril"
+        },
+        {
+            "source": "Dhampir",
+            "target": "Volume 4"
+        },
+        {
+            "source": "Episode 09",
+            "target": "Shiro"
+        },
+        {
+            "source": "Episode 09",
+            "target": "Kuhaku"
+        },
+        {
+            "source": "Episode 09",
+            "target": "Episode 08"
+        },
+        {
+            "source": "Episode 09",
+            "target": "Stephanie Dola"
+        },
+        {
+            "source": "Episode 09",
+            "target": "Ten Pledges"
+        },
+        {
+            "source": "Episode 09",
+            "target": "Hatsuse Izuna"
+        },
+        {
+            "source": "Episode 09",
+            "target": "Jibril"
+        },
+        {
+            "source": "Episode 09",
+            "target": "Episode 10"
+        },
+        {
+            "source": "Episode 09",
+            "target": "Hatsuse Ino"
+        },
+        {
+            "source": "Episode 09",
+            "target": "Volume 3"
+        },
+        {
+            "source": "Episode 09",
+            "target": "No Game, No Life"
+        },
+        {
+            "source": "Episode 09",
+            "target": "Chlammy Zell"
+        },
+        {
+            "source": "Episode 09",
+            "target": "Sora"
+        },
+        {
+            "source": "Feel Nilvalen/Image Gallery",
+            "target": "Fiel Nilvalen/Image Gallery"
+        },
+        {
+            "source": "Imanity",
+            "target": "Disboard"
+        },
+        {
+            "source": "Imanity",
+            "target": "Sora"
+        },
+        {
+            "source": "Imanity",
+            "target": "Elchea Federation"
+        },
+        {
+            "source": "Imanity",
+            "target": "Shiro"
+        },
+        {
+            "source": "Imanity",
+            "target": "Seiren"
+        },
+        {
+            "source": "Imanity",
+            "target": "Exceed"
+        },
+        {
+            "source": "Imanity",
+            "target": "Stephanie Dola"
+        },
+        {
+            "source": "Imanity",
+            "target": "Ten Pledges"
+        },
+        {
+            "source": "Imanity",
+            "target": "Dhampir"
+        },
+        {
+            "source": "Imanity",
+            "target": "Flugel"
+        },
+        {
+            "source": "Episode 8",
+            "target": "Episode 08"
+        },
+        {
+            "source": "Warbeast",
+            "target": "Werebeast"
+        },
+        {
+            "source": "Volume 2",
+            "target": "Werebeast"
+        },
+        {
+            "source": "Volume 2",
+            "target": "Volume 3"
+        },
+        {
+            "source": "Volume 2",
+            "target": "No Game, No Life"
+        },
+        {
+            "source": "Volume 2",
+            "target": "Sora"
+        },
+        {
+            "source": "Volume 2",
+            "target": "Materialization Shiritori"
+        },
+        {
+            "source": "Volume 2",
+            "target": "Stephanie Dola"
+        },
+        {
+            "source": "Volume 2",
+            "target": "Former king of Imanity"
+        },
+        {
+            "source": "Volume 2",
+            "target": "Race Piece"
+        },
+        {
+            "source": "Volume 2",
+            "target": "Jibril"
+        },
+        {
+            "source": "Volume 2",
+            "target": "Hatsuse Izuna"
+        },
+        {
+            "source": "Volume 2",
+            "target": "Hatsuse Ino"
+        },
+        {
+            "source": "Volume 2",
+            "target": "Eastern Union"
+        },
+        {
+            "source": "Volume 2",
+            "target": "Old Deus"
+        },
+        {
+            "source": "Volume 2",
+            "target": "Volume 1"
+        },
+        {
+            "source": "Miko",
+            "target": "Imanity"
+        },
+        {
+            "source": "Miko",
+            "target": "Volume 3"
+        },
+        {
+            "source": "Miko",
+            "target": "Shiro"
+        },
+        {
+            "source": "Miko",
+            "target": "Kuhaku"
+        },
+        {
+            "source": "Miko",
+            "target": "Episode 04"
+        },
+        {
+            "source": "Miko",
+            "target": "Fl\u00fcgel"
+        },
+        {
+            "source": "Miko",
+            "target": "Elchea Federation"
+        },
+        {
+            "source": "Miko",
+            "target": "Izuna"
+        },
+        {
+            "source": "Miko",
+            "target": "Episode 1"
+        },
+        {
+            "source": "Miko",
+            "target": "Elf"
+        },
+        {
+            "source": "Miko",
+            "target": "Hatsuse Ino"
+        },
+        {
+            "source": "Miko",
+            "target": "Eastern Union"
+        },
+        {
+            "source": "Miko",
+            "target": "This game"
+        },
+        {
+            "source": "Miko",
+            "target": "Werebeast"
+        },
+        {
+            "source": "Miko",
+            "target": "Episode 01"
+        },
+        {
+            "source": "Miko",
+            "target": "Sora"
+        },
+        {
+            "source": "Volume 1",
+            "target": "Imanity"
+        },
+        {
+            "source": "Volume 1",
+            "target": "No Game, No Life"
+        },
+        {
+            "source": "Volume 1",
+            "target": "Inn-keeper"
+        },
+        {
+            "source": "Volume 1",
+            "target": "Former king of Imanity"
+        },
+        {
+            "source": "Volume 1",
+            "target": "Stephanie Dola"
+        },
+        {
+            "source": "Volume 1",
+            "target": "Sora"
+        },
+        {
+            "source": "Volume 1",
+            "target": "Shiro"
+        },
+        {
+            "source": "Volume 1",
+            "target": "Elderly official"
+        },
+        {
+            "source": "Volume 1",
+            "target": "Tet"
+        },
+        {
+            "source": "Volume 1",
+            "target": "Unnamed thieves"
+        },
+        {
+            "source": "Volume 1",
+            "target": "Chlammy Zell"
+        },
+        {
+            "source": "Volume 1",
+            "target": "Volume 2"
+        },
+        {
+            "source": "Figurines",
+            "target": "Volume 1"
+        },
+        {
+            "source": "Plum",
+            "target": "Sora"
+        },
+        {
+            "source": "Plum",
+            "target": "Shiro"
+        },
+        {
+            "source": "Plum",
+            "target": "Dhampir"
+        },
+        {
+            "source": "Plum",
+            "target": "Oceando"
+        },
+        {
+            "source": "Three unnamed thieves",
+            "target": "Unnamed thieves"
+        },
+        {
+            "source": "Jibril/Image Gallery",
+            "target": "Episode 04"
+        },
+        {
+            "source": "Jibril/Image Gallery",
+            "target": "Episode 05"
+        },
+        {
+            "source": "Jibril/Image Gallery",
+            "target": "Episode 03"
+        },
+        {
+            "source": "Jibril/Image Gallery",
+            "target": "Episode 01"
+        },
+        {
+            "source": "Jibril/Image Gallery",
+            "target": "Episode 02"
+        },
+        {
+            "source": "Angel",
+            "target": "Fl\u00fcgel"
+        },
+        {
+            "source": "Episode 05",
+            "target": "Former king of Imanity"
+        },
+        {
+            "source": "Episode 05",
+            "target": "Episode 06"
+        },
+        {
+            "source": "Episode 05",
+            "target": "Shiro"
+        },
+        {
+            "source": "Episode 05",
+            "target": "Ten Oaths"
+        },
+        {
+            "source": "Episode 05",
+            "target": "Episode 04"
+        },
+        {
+            "source": "Episode 05",
+            "target": "Stephanie Dola"
+        },
+        {
+            "source": "Episode 05",
+            "target": "Old Deus"
+        },
+        {
+            "source": "Episode 05",
+            "target": "Jibril"
+        },
+        {
+            "source": "Episode 05",
+            "target": "Sora"
+        },
+        {
+            "source": "Episode 05",
+            "target": "No Game, No Life"
+        },
+        {
+            "source": "Episode 05",
+            "target": "Tet"
+        },
+        {
+            "source": "Episode 05",
+            "target": "Volume 2"
+        },
+        {
+            "source": "Oraci\u00f3n",
+            "target": "Shiro"
+        },
+        {
+            "source": "Episode 3",
+            "target": "Episode 03"
+        },
+        {
+            "source": "Kuhaku",
+            "target": "\u300e \u300f"
+        },
+        {
+            "source": "Dragonia",
+            "target": "Exceed"
+        },
+        {
+            "source": "Dragonia",
+            "target": "Episode 01"
+        },
+        {
+            "source": "Kurami",
+            "target": "Chlammy Zell"
+        },
+        {
+            "source": "Episode 5",
+            "target": "Episode 05"
+        },
+        {
+            "source": "Sora/Image Gallery",
+            "target": "Episode 04"
+        },
+        {
+            "source": "Sora/Image Gallery",
+            "target": "Episode 05"
+        },
+        {
+            "source": "Sora/Image Gallery",
+            "target": "Episode 03"
+        },
+        {
+            "source": "Sora/Image Gallery",
+            "target": "Episode 01"
+        },
+        {
+            "source": "Sora/Image Gallery",
+            "target": "Episode 02"
+        },
+        {
+            "source": "Main library",
+            "target": "National Library of Elchea"
+        },
+        {
+            "source": "Ten Oaths",
+            "target": "Ten Pledges"
+        },
+        {
+            "source": "National Library of Elchea",
+            "target": "Sora"
+        },
+        {
+            "source": "National Library of Elchea",
+            "target": "Episode 05"
+        },
+        {
+            "source": "National Library of Elchea",
+            "target": "Volume 2"
+        },
+        {
+            "source": "National Library of Elchea",
+            "target": "Imanity"
+        },
+        {
+            "source": "National Library of Elchea",
+            "target": "Materialization Shiritori"
+        },
+        {
+            "source": "National Library of Elchea",
+            "target": "Jibril"
+        },
+        {
+            "source": "Flugel",
+            "target": "Fl\u00fcgel"
+        },
+        {
+            "source": "Race Piece",
+            "target": "Phantasma"
+        },
+        {
+            "source": "Race Piece",
+            "target": "Gigant"
+        },
+        {
+            "source": "Race Piece",
+            "target": "Fl\u00fcgel"
+        },
+        {
+            "source": "Race Piece",
+            "target": "Elemental"
+        },
+        {
+            "source": "Race Piece",
+            "target": "Dwarf"
+        },
+        {
+            "source": "Race Piece",
+            "target": "Elves"
+        },
+        {
+            "source": "Race Piece",
+            "target": "Fairy"
+        },
+        {
+            "source": "Race Piece",
+            "target": "Lunamana"
+        },
+        {
+            "source": "Race Piece",
+            "target": "Old Deus"
+        },
+        {
+            "source": "Race Piece",
+            "target": "Imanity"
+        },
+        {
+            "source": "Race Piece",
+            "target": "Tet"
+        },
+        {
+            "source": "Race Piece",
+            "target": "Dragonia"
+        },
+        {
+            "source": "Race Piece",
+            "target": "Werebeast"
+        },
+        {
+            "source": "Race Piece",
+            "target": "Demonia"
+        },
+        {
+            "source": "Race Piece",
+            "target": "Dhampir"
+        },
+        {
+            "source": "Race Piece",
+            "target": "Seiren"
+        },
+        {
+            "source": "Volume 4",
+            "target": "Sora"
+        },
+        {
+            "source": "Volume 4",
+            "target": "No Game, No Life"
+        },
+        {
+            "source": "Volume 4",
+            "target": "Shiro"
+        },
+        {
+            "source": "Volume 4",
+            "target": "Eastern Union"
+        },
+        {
+            "source": "Volume 4",
+            "target": "Azuril"
+        },
+        {
+            "source": "Volume 4",
+            "target": "Plum"
+        },
+        {
+            "source": "Volume 4",
+            "target": "Disboard"
+        },
+        {
+            "source": "Volume 4",
+            "target": "Volume 5"
+        },
+        {
+            "source": "Volume 4",
+            "target": "Volume 3"
+        },
+        {
+            "source": "Volume 4",
+            "target": "Dhampir"
+        },
+        {
+            "source": "Pledges",
+            "target": "Ten Pledges"
+        },
+        {
+            "source": "Volume 5",
+            "target": "No Game, No Life"
+        },
+        {
+            "source": "Volume 5",
+            "target": "Volume 6"
+        },
+        {
+            "source": "Volume 5",
+            "target": "Azuril"
+        },
+        {
+            "source": "Volume 5",
+            "target": "Volume 4"
+        },
+        {
+            "source": "Fiel Nilvalen",
+            "target": "Fiel Nirvalen"
+        },
+        {
+            "source": "Episode 02",
+            "target": "Imanity"
+        },
+        {
+            "source": "Episode 02",
+            "target": "No Game, No Life"
+        },
+        {
+            "source": "Episode 02",
+            "target": "Stephanie Dola"
+        },
+        {
+            "source": "Episode 02",
+            "target": "King City"
+        },
+        {
+            "source": "Episode 02",
+            "target": "Episode 03"
+        },
+        {
+            "source": "Episode 02",
+            "target": "Episode 01"
+        },
+        {
+            "source": "Episode 02",
+            "target": "Sora"
+        },
+        {
+            "source": "Episode 02",
+            "target": "Shiro"
+        },
+        {
+            "source": "Episode 02",
+            "target": "Exceed"
+        },
+        {
+            "source": "Episode 02",
+            "target": "Stephanie Dola's maids"
+        },
+        {
+            "source": "Episode 02",
+            "target": "Volume 1"
+        },
+        {
+            "source": "Episode 02",
+            "target": "Chlammy Zell"
+        },
+        {
+            "source": "Episode 02",
+            "target": "Imanity-go"
+        },
+        {
+            "source": "Episode 02",
+            "target": "Elderly official"
+        },
+        {
+            "source": "Hatsuse Ino/Image Gallery",
+            "target": "Episode 4"
+        },
+        {
+            "source": "Hatsuse Ino/Image Gallery",
+            "target": "Episode 7"
+        },
+        {
+            "source": "Hatsuse Ino/Image Gallery",
+            "target": "Episode 5"
+        },
+        {
+            "source": "Hatsuse Ino/Image Gallery",
+            "target": "Episode 6"
+        },
+        {
+            "source": "Hatsuse Ino/Image Gallery",
+            "target": "Episode 2"
+        },
+        {
+            "source": "Hatsuse Ino/Image Gallery",
+            "target": "Episode 3"
+        },
+        {
+            "source": "Hatsuse Ino/Image Gallery",
+            "target": "Episode 8"
+        },
+        {
+            "source": "Hatsuse Ino/Image Gallery",
+            "target": "Episode 1"
+        },
+        {
+            "source": "Dora",
+            "target": "Queen"
+        },
+        {
+            "source": "Dora",
+            "target": "Stephanie Dola"
+        },
+        {
+            "source": "Dora",
+            "target": "Chapter 1"
+        },
+        {
+            "source": "Dora",
+            "target": "Episode 01"
+        },
+        {
+            "source": "Dora",
+            "target": "Kuhaku"
+        },
+        {
+            "source": "NG Cup",
+            "target": "NG Cup \u2606 Decisive Battle For The Strongest Gamer"
+        },
+        {
+            "source": "Elderly official",
+            "target": "Sora"
+        },
+        {
+            "source": "Elderly official",
+            "target": "Shiro"
+        },
+        {
+            "source": "Elderly official",
+            "target": "Kuhaku"
+        },
+        {
+            "source": "Elderly official",
+            "target": "Imanity"
+        },
+        {
+            "source": "Elderly official",
+            "target": "Episode 02"
+        },
+        {
+            "source": "Elderly official",
+            "target": "Volume 1"
+        },
+        {
+            "source": "Elderly official",
+            "target": "Episode 3"
+        },
+        {
+            "source": "Elderly official",
+            "target": "Ten Pledges"
+        }
+    ],
+    "links": [
+        {
+            "source": 1,
+            "target": 112
+        },
+        {
+            "source": 1,
+            "target": 7
+        },
+        {
+            "source": 1,
+            "target": 23
+        },
+        {
+            "source": 1,
+            "target": 73
+        },
+        {
+            "source": 1,
+            "target": 41
+        },
+        {
+            "source": 1,
+            "target": 93
+        },
+        {
+            "source": 1,
+            "target": 125
+        },
+        {
+            "source": 1,
+            "target": 97
+        },
+        {
+            "source": 1,
+            "target": 27
+        },
+        {
+            "source": 1,
+            "target": 10
+        },
+        {
+            "source": 1,
+            "target": 127
+        },
+        {
+            "source": 1,
+            "target": 31
+        },
+        {
+            "source": 1,
+            "target": 129
+        },
+        {
+            "source": 1,
+            "target": 106
+        },
+        {
+            "source": 1,
+            "target": 66
+        },
+        {
+            "source": 1,
+            "target": 16
+        },
+        {
+            "source": 1,
+            "target": 104
+        },
+        {
+            "source": 2,
+            "target": 20
+        },
+        {
+            "source": 2,
+            "target": 80
+        },
+        {
+            "source": 2,
+            "target": 101
+        },
+        {
+            "source": 2,
+            "target": 83
+        },
+        {
+            "source": 2,
+            "target": 106
+        },
+        {
+            "source": 2,
+            "target": 81
+        },
+        {
+            "source": 3,
+            "target": 0
+        },
+        {
+            "source": 4,
+            "target": 20
+        },
+        {
+            "source": 4,
+            "target": 7
+        },
+        {
+            "source": 4,
+            "target": 115
+        },
+        {
+            "source": 4,
+            "target": 104
+        },
+        {
+            "source": 4,
+            "target": 72
+        },
+        {
+            "source": 4,
+            "target": 12
+        },
+        {
+            "source": 4,
+            "target": 44
+        },
+        {
+            "source": 5,
+            "target": 33
+        },
+        {
+            "source": 5,
+            "target": 78
+        },
+        {
+            "source": 5,
+            "target": 118
+        },
+        {
+            "source": 5,
+            "target": 73
+        },
+        {
+            "source": 5,
+            "target": 63
+        },
+        {
+            "source": 5,
+            "target": 125
+        },
+        {
+            "source": 5,
+            "target": 97
+        },
+        {
+            "source": 5,
+            "target": 10
+        },
+        {
+            "source": 5,
+            "target": 127
+        },
+        {
+            "source": 5,
+            "target": 102
+        },
+        {
+            "source": 5,
+            "target": 106
+        },
+        {
+            "source": 5,
+            "target": 16
+        },
+        {
+            "source": 5,
+            "target": 104
+        },
+        {
+            "source": 6,
+            "target": 94
+        },
+        {
+            "source": 6,
+            "target": 30
+        },
+        {
+            "source": 6,
+            "target": 13
+        },
+        {
+            "source": 7,
+            "target": 20
+        },
+        {
+            "source": 7,
+            "target": 39
+        },
+        {
+            "source": 7,
+            "target": 80
+        },
+        {
+            "source": 7,
+            "target": 31
+        },
+        {
+            "source": 7,
+            "target": 4
+        },
+        {
+            "source": 7,
+            "target": 90
+        },
+        {
+            "source": 7,
+            "target": 112
+        },
+        {
+            "source": 7,
+            "target": 44
+        },
+        {
+            "source": 7,
+            "target": 104
+        },
+        {
+            "source": 8,
+            "target": 49
+        },
+        {
+            "source": 8,
+            "target": 38
+        },
+        {
+            "source": 8,
+            "target": 44
+        },
+        {
+            "source": 9,
+            "target": 20
+        },
+        {
+            "source": 9,
+            "target": 94
+        },
+        {
+            "source": 9,
+            "target": 80
+        },
+        {
+            "source": 9,
+            "target": 49
+        },
+        {
+            "source": 9,
+            "target": 67
+        },
+        {
+            "source": 9,
+            "target": 112
+        },
+        {
+            "source": 9,
+            "target": 44
+        },
+        {
+            "source": 10,
+            "target": 105
+        },
+        {
+            "source": 10,
+            "target": 39
+        },
+        {
+            "source": 10,
+            "target": 91
+        },
+        {
+            "source": 10,
+            "target": 104
+        },
+        {
+            "source": 10,
+            "target": 125
+        },
+        {
+            "source": 11,
+            "target": 12
+        },
+        {
+            "source": 12,
+            "target": 55
+        },
+        {
+            "source": 13,
+            "target": 20
+        },
+        {
+            "source": 13,
+            "target": 131
+        },
+        {
+            "source": 13,
+            "target": 80
+        },
+        {
+            "source": 13,
+            "target": 121
+        },
+        {
+            "source": 13,
+            "target": 49
+        },
+        {
+            "source": 13,
+            "target": 106
+        },
+        {
+            "source": 13,
+            "target": 66
+        },
+        {
+            "source": 13,
+            "target": 94
+        },
+        {
+            "source": 13,
+            "target": 69
+        },
+        {
+            "source": 14,
+            "target": 20
+        },
+        {
+            "source": 14,
+            "target": 38
+        },
+        {
+            "source": 14,
+            "target": 80
+        },
+        {
+            "source": 14,
+            "target": 12
+        },
+        {
+            "source": 14,
+            "target": 44
+        },
+        {
+            "source": 14,
+            "target": 106
+        },
+        {
+            "source": 14,
+            "target": 66
+        },
+        {
+            "source": 14,
+            "target": 100
+        },
+        {
+            "source": 14,
+            "target": 8
+        },
+        {
+            "source": 16,
+            "target": 127
+        },
+        {
+            "source": 16,
+            "target": 39
+        },
+        {
+            "source": 16,
+            "target": 13
+        },
+        {
+            "source": 17,
+            "target": 32
+        },
+        {
+            "source": 18,
+            "target": 20
+        },
+        {
+            "source": 18,
+            "target": 80
+        },
+        {
+            "source": 18,
+            "target": 66
+        },
+        {
+            "source": 19,
+            "target": 10
+        },
+        {
+            "source": 19,
+            "target": 127
+        },
+        {
+            "source": 19,
+            "target": 129
+        },
+        {
+            "source": 19,
+            "target": 23
+        },
+        {
+            "source": 19,
+            "target": 104
+        },
+        {
+            "source": 19,
+            "target": 106
+        },
+        {
+            "source": 19,
+            "target": 66
+        },
+        {
+            "source": 19,
+            "target": 93
+        },
+        {
+            "source": 19,
+            "target": 16
+        },
+        {
+            "source": 19,
+            "target": 112
+        },
+        {
+            "source": 19,
+            "target": 125
+        },
+        {
+            "source": 20,
+            "target": 101
+        },
+        {
+            "source": 20,
+            "target": 80
+        },
+        {
+            "source": 20,
+            "target": 22
+        },
+        {
+            "source": 20,
+            "target": 119
+        },
+        {
+            "source": 20,
+            "target": 90
+        },
+        {
+            "source": 20,
+            "target": 24
+        },
+        {
+            "source": 20,
+            "target": 66
+        },
+        {
+            "source": 20,
+            "target": 44
+        },
+        {
+            "source": 20,
+            "target": 94
+        },
+        {
+            "source": 20,
+            "target": 13
+        },
+        {
+            "source": 20,
+            "target": 106
+        },
+        {
+            "source": 20,
+            "target": 12
+        },
+        {
+            "source": 20,
+            "target": 59
+        },
+        {
+            "source": 21,
+            "target": 20
+        },
+        {
+            "source": 21,
+            "target": 80
+        },
+        {
+            "source": 21,
+            "target": 39
+        },
+        {
+            "source": 21,
+            "target": 11
+        },
+        {
+            "source": 21,
+            "target": 40
+        },
+        {
+            "source": 22,
+            "target": 20
+        },
+        {
+            "source": 22,
+            "target": 80
+        },
+        {
+            "source": 22,
+            "target": 86
+        },
+        {
+            "source": 22,
+            "target": 11
+        },
+        {
+            "source": 22,
+            "target": 40
+        },
+        {
+            "source": 23,
+            "target": 105
+        },
+        {
+            "source": 23,
+            "target": 80
+        },
+        {
+            "source": 23,
+            "target": 22
+        },
+        {
+            "source": 23,
+            "target": 20
+        },
+        {
+            "source": 23,
+            "target": 124
+        },
+        {
+            "source": 23,
+            "target": 90
+        },
+        {
+            "source": 23,
+            "target": 74
+        },
+        {
+            "source": 23,
+            "target": 93
+        },
+        {
+            "source": 23,
+            "target": 91
+        },
+        {
+            "source": 23,
+            "target": 44
+        },
+        {
+            "source": 23,
+            "target": 64
+        },
+        {
+            "source": 23,
+            "target": 39
+        },
+        {
+            "source": 23,
+            "target": 55
+        },
+        {
+            "source": 23,
+            "target": 109
+        },
+        {
+            "source": 23,
+            "target": 135
+        },
+        {
+            "source": 23,
+            "target": 13
+        },
+        {
+            "source": 23,
+            "target": 49
+        },
+        {
+            "source": 23,
+            "target": 106
+        },
+        {
+            "source": 23,
+            "target": 12
+        },
+        {
+            "source": 23,
+            "target": 112
+        },
+        {
+            "source": 24,
+            "target": 49
+        },
+        {
+            "source": 24,
+            "target": 79
+        },
+        {
+            "source": 24,
+            "target": 101
+        },
+        {
+            "source": 24,
+            "target": 81
+        },
+        {
+            "source": 25,
+            "target": 91
+        },
+        {
+            "source": 26,
+            "target": 90
+        },
+        {
+            "source": 27,
+            "target": 71
+        },
+        {
+            "source": 27,
+            "target": 49
+        },
+        {
+            "source": 27,
+            "target": 72
+        },
+        {
+            "source": 28,
+            "target": 74
+        },
+        {
+            "source": 29,
+            "target": 54
+        },
+        {
+            "source": 30,
+            "target": 72
+        },
+        {
+            "source": 30,
+            "target": 94
+        },
+        {
+            "source": 30,
+            "target": 112
+        },
+        {
+            "source": 30,
+            "target": 104
+        },
+        {
+            "source": 30,
+            "target": 49
+        },
+        {
+            "source": 30,
+            "target": 106
+        },
+        {
+            "source": 30,
+            "target": 44
+        },
+        {
+            "source": 31,
+            "target": 81
+        },
+        {
+            "source": 31,
+            "target": 7
+        },
+        {
+            "source": 31,
+            "target": 80
+        },
+        {
+            "source": 31,
+            "target": 41
+        },
+        {
+            "source": 31,
+            "target": 90
+        },
+        {
+            "source": 31,
+            "target": 74
+        },
+        {
+            "source": 31,
+            "target": 44
+        },
+        {
+            "source": 31,
+            "target": 20
+        },
+        {
+            "source": 31,
+            "target": 39
+        },
+        {
+            "source": 31,
+            "target": 32
+        },
+        {
+            "source": 31,
+            "target": 12
+        },
+        {
+            "source": 31,
+            "target": 104
+        },
+        {
+            "source": 32,
+            "target": 90
+        },
+        {
+            "source": 32,
+            "target": 129
+        },
+        {
+            "source": 32,
+            "target": 101
+        },
+        {
+            "source": 33,
+            "target": 23
+        },
+        {
+            "source": 34,
+            "target": 99
+        },
+        {
+            "source": 35,
+            "target": 121
+        },
+        {
+            "source": 35,
+            "target": 23
+        },
+        {
+            "source": 35,
+            "target": 73
+        },
+        {
+            "source": 35,
+            "target": 93
+        },
+        {
+            "source": 35,
+            "target": 45
+        },
+        {
+            "source": 35,
+            "target": 125
+        },
+        {
+            "source": 35,
+            "target": 97
+        },
+        {
+            "source": 35,
+            "target": 10
+        },
+        {
+            "source": 35,
+            "target": 127
+        },
+        {
+            "source": 35,
+            "target": 104
+        },
+        {
+            "source": 35,
+            "target": 129
+        },
+        {
+            "source": 35,
+            "target": 49
+        },
+        {
+            "source": 35,
+            "target": 106
+        },
+        {
+            "source": 35,
+            "target": 66
+        },
+        {
+            "source": 35,
+            "target": 16
+        },
+        {
+            "source": 35,
+            "target": 112
+        },
+        {
+            "source": 36,
+            "target": 20
+        },
+        {
+            "source": 36,
+            "target": 80
+        },
+        {
+            "source": 36,
+            "target": 66
+        },
+        {
+            "source": 37,
+            "target": 19
+        },
+        {
+            "source": 38,
+            "target": 67
+        },
+        {
+            "source": 38,
+            "target": 121
+        },
+        {
+            "source": 38,
+            "target": 94
+        },
+        {
+            "source": 38,
+            "target": 44
+        },
+        {
+            "source": 38,
+            "target": 8
+        },
+        {
+            "source": 39,
+            "target": 7
+        },
+        {
+            "source": 39,
+            "target": 80
+        },
+        {
+            "source": 39,
+            "target": 23
+        },
+        {
+            "source": 39,
+            "target": 41
+        },
+        {
+            "source": 39,
+            "target": 58
+        },
+        {
+            "source": 39,
+            "target": 99
+        },
+        {
+            "source": 39,
+            "target": 91
+        },
+        {
+            "source": 39,
+            "target": 44
+        },
+        {
+            "source": 39,
+            "target": 51
+        },
+        {
+            "source": 39,
+            "target": 10
+        },
+        {
+            "source": 39,
+            "target": 127
+        },
+        {
+            "source": 39,
+            "target": 113
+        },
+        {
+            "source": 39,
+            "target": 13
+        },
+        {
+            "source": 39,
+            "target": 106
+        },
+        {
+            "source": 39,
+            "target": 16
+        },
+        {
+            "source": 39,
+            "target": 66
+        },
+        {
+            "source": 39,
+            "target": 90
+        },
+        {
+            "source": 39,
+            "target": 93
+        },
+        {
+            "source": 39,
+            "target": 125
+        },
+        {
+            "source": 39,
+            "target": 20
+        },
+        {
+            "source": 39,
+            "target": 112
+        },
+        {
+            "source": 39,
+            "target": 31
+        },
+        {
+            "source": 39,
+            "target": 129
+        },
+        {
+            "source": 39,
+            "target": 12
+        },
+        {
+            "source": 39,
+            "target": 104
+        },
+        {
+            "source": 39,
+            "target": 82
+        },
+        {
+            "source": 40,
+            "target": 90
+        },
+        {
+            "source": 41,
+            "target": 81
+        },
+        {
+            "source": 41,
+            "target": 80
+        },
+        {
+            "source": 41,
+            "target": 121
+        },
+        {
+            "source": 41,
+            "target": 73
+        },
+        {
+            "source": 41,
+            "target": 20
+        },
+        {
+            "source": 41,
+            "target": 124
+        },
+        {
+            "source": 41,
+            "target": 90
+        },
+        {
+            "source": 41,
+            "target": 12
+        },
+        {
+            "source": 41,
+            "target": 91
+        },
+        {
+            "source": 41,
+            "target": 44
+        },
+        {
+            "source": 41,
+            "target": 64
+        },
+        {
+            "source": 41,
+            "target": 79
+        },
+        {
+            "source": 41,
+            "target": 39
+        },
+        {
+            "source": 41,
+            "target": 31
+        },
+        {
+            "source": 41,
+            "target": 99
+        },
+        {
+            "source": 41,
+            "target": 104
+        },
+        {
+            "source": 42,
+            "target": 115
+        },
+        {
+            "source": 42,
+            "target": 12
+        },
+        {
+            "source": 42,
+            "target": 93
+        },
+        {
+            "source": 42,
+            "target": 23
+        },
+        {
+            "source": 42,
+            "target": 129
+        },
+        {
+            "source": 43,
+            "target": 98
+        },
+        {
+            "source": 43,
+            "target": 47
+        },
+        {
+            "source": 44,
+            "target": 20
+        },
+        {
+            "source": 44,
+            "target": 80
+        },
+        {
+            "source": 44,
+            "target": 121
+        },
+        {
+            "source": 44,
+            "target": 56
+        },
+        {
+            "source": 44,
+            "target": 72
+        },
+        {
+            "source": 44,
+            "target": 61
+        },
+        {
+            "source": 44,
+            "target": 112
+        },
+        {
+            "source": 44,
+            "target": 110
+        },
+        {
+            "source": 44,
+            "target": 30
+        },
+        {
+            "source": 44,
+            "target": 104
+        },
+        {
+            "source": 45,
+            "target": 39
+        },
+        {
+            "source": 46,
+            "target": 113
+        },
+        {
+            "source": 47,
+            "target": 49
+        },
+        {
+            "source": 47,
+            "target": 98
+        },
+        {
+            "source": 47,
+            "target": 43
+        },
+        {
+            "source": 48,
+            "target": 58
+        },
+        {
+            "source": 49,
+            "target": 71
+        },
+        {
+            "source": 49,
+            "target": 72
+        },
+        {
+            "source": 49,
+            "target": 38
+        },
+        {
+            "source": 49,
+            "target": 92
+        },
+        {
+            "source": 49,
+            "target": 6
+        },
+        {
+            "source": 49,
+            "target": 8
+        },
+        {
+            "source": 49,
+            "target": 79
+        },
+        {
+            "source": 49,
+            "target": 47
+        },
+        {
+            "source": 49,
+            "target": 81
+        },
+        {
+            "source": 49,
+            "target": 116
+        },
+        {
+            "source": 49,
+            "target": 15
+        },
+        {
+            "source": 49,
+            "target": 52
+        },
+        {
+            "source": 49,
+            "target": 85
+        },
+        {
+            "source": 49,
+            "target": 101
+        },
+        {
+            "source": 49,
+            "target": 43
+        },
+        {
+            "source": 49,
+            "target": 9
+        },
+        {
+            "source": 49,
+            "target": 124
+        },
+        {
+            "source": 49,
+            "target": 30
+        },
+        {
+            "source": 49,
+            "target": 27
+        },
+        {
+            "source": 49,
+            "target": 94
+        },
+        {
+            "source": 49,
+            "target": 98
+        },
+        {
+            "source": 49,
+            "target": 134
+        },
+        {
+            "source": 49,
+            "target": 95
+        },
+        {
+            "source": 50,
+            "target": 49
+        },
+        {
+            "source": 51,
+            "target": 10
+        },
+        {
+            "source": 51,
+            "target": 39
+        },
+        {
+            "source": 51,
+            "target": 99
+        },
+        {
+            "source": 52,
+            "target": 49
+        },
+        {
+            "source": 53,
+            "target": 20
+        },
+        {
+            "source": 53,
+            "target": 94
+        },
+        {
+            "source": 53,
+            "target": 80
+        },
+        {
+            "source": 53,
+            "target": 101
+        },
+        {
+            "source": 53,
+            "target": 6
+        },
+        {
+            "source": 53,
+            "target": 93
+        },
+        {
+            "source": 53,
+            "target": 66
+        },
+        {
+            "source": 54,
+            "target": 20
+        },
+        {
+            "source": 54,
+            "target": 94
+        },
+        {
+            "source": 54,
+            "target": 80
+        },
+        {
+            "source": 54,
+            "target": 13
+        },
+        {
+            "source": 55,
+            "target": 20
+        },
+        {
+            "source": 55,
+            "target": 79
+        },
+        {
+            "source": 55,
+            "target": 80
+        },
+        {
+            "source": 55,
+            "target": 101
+        },
+        {
+            "source": 55,
+            "target": 89
+        },
+        {
+            "source": 55,
+            "target": 124
+        },
+        {
+            "source": 55,
+            "target": 106
+        },
+        {
+            "source": 55,
+            "target": 66
+        },
+        {
+            "source": 55,
+            "target": 59
+        },
+        {
+            "source": 55,
+            "target": 38
+        },
+        {
+            "source": 57,
+            "target": 60
+        },
+        {
+            "source": 58,
+            "target": 20
+        },
+        {
+            "source": 58,
+            "target": 39
+        },
+        {
+            "source": 58,
+            "target": 80
+        },
+        {
+            "source": 58,
+            "target": 13
+        },
+        {
+            "source": 58,
+            "target": 70
+        },
+        {
+            "source": 58,
+            "target": 94
+        },
+        {
+            "source": 59,
+            "target": 20
+        },
+        {
+            "source": 59,
+            "target": 80
+        },
+        {
+            "source": 59,
+            "target": 129
+        },
+        {
+            "source": 59,
+            "target": 101
+        },
+        {
+            "source": 59,
+            "target": 90
+        },
+        {
+            "source": 59,
+            "target": 12
+        },
+        {
+            "source": 60,
+            "target": 20
+        },
+        {
+            "source": 60,
+            "target": 39
+        },
+        {
+            "source": 60,
+            "target": 80
+        },
+        {
+            "source": 60,
+            "target": 13
+        },
+        {
+            "source": 60,
+            "target": 90
+        },
+        {
+            "source": 60,
+            "target": 12
+        },
+        {
+            "source": 60,
+            "target": 91
+        },
+        {
+            "source": 60,
+            "target": 44
+        },
+        {
+            "source": 61,
+            "target": 90
+        },
+        {
+            "source": 62,
+            "target": 66
+        },
+        {
+            "source": 63,
+            "target": 7
+        },
+        {
+            "source": 64,
+            "target": 105
+        },
+        {
+            "source": 64,
+            "target": 79
+        },
+        {
+            "source": 64,
+            "target": 23
+        },
+        {
+            "source": 64,
+            "target": 41
+        },
+        {
+            "source": 64,
+            "target": 81
+        },
+        {
+            "source": 64,
+            "target": 91
+        },
+        {
+            "source": 65,
+            "target": 82
+        },
+        {
+            "source": 66,
+            "target": 105
+        },
+        {
+            "source": 66,
+            "target": 80
+        },
+        {
+            "source": 66,
+            "target": 22
+        },
+        {
+            "source": 66,
+            "target": 129
+        },
+        {
+            "source": 66,
+            "target": 101
+        },
+        {
+            "source": 66,
+            "target": 70
+        },
+        {
+            "source": 66,
+            "target": 6
+        },
+        {
+            "source": 66,
+            "target": 109
+        },
+        {
+            "source": 66,
+            "target": 91
+        },
+        {
+            "source": 66,
+            "target": 44
+        },
+        {
+            "source": 66,
+            "target": 20
+        },
+        {
+            "source": 66,
+            "target": 64
+        },
+        {
+            "source": 66,
+            "target": 94
+        },
+        {
+            "source": 66,
+            "target": 39
+        },
+        {
+            "source": 66,
+            "target": 36
+        },
+        {
+            "source": 66,
+            "target": 13
+        },
+        {
+            "source": 66,
+            "target": 90
+        },
+        {
+            "source": 66,
+            "target": 106
+        },
+        {
+            "source": 66,
+            "target": 12
+        },
+        {
+            "source": 67,
+            "target": 8
+        },
+        {
+            "source": 68,
+            "target": 122
+        },
+        {
+            "source": 69,
+            "target": 106
+        },
+        {
+            "source": 69,
+            "target": 77
+        },
+        {
+            "source": 69,
+            "target": 13
+        },
+        {
+            "source": 70,
+            "target": 131
+        },
+        {
+            "source": 70,
+            "target": 66
+        },
+        {
+            "source": 71,
+            "target": 49
+        },
+        {
+            "source": 71,
+            "target": 112
+        },
+        {
+            "source": 71,
+            "target": 27
+        },
+        {
+            "source": 72,
+            "target": 49
+        },
+        {
+            "source": 72,
+            "target": 94
+        },
+        {
+            "source": 72,
+            "target": 121
+        },
+        {
+            "source": 72,
+            "target": 27
+        },
+        {
+            "source": 73,
+            "target": 113
+        },
+        {
+            "source": 74,
+            "target": 81
+        },
+        {
+            "source": 74,
+            "target": 101
+        },
+        {
+            "source": 74,
+            "target": 106
+        },
+        {
+            "source": 74,
+            "target": 61
+        },
+        {
+            "source": 74,
+            "target": 90
+        },
+        {
+            "source": 74,
+            "target": 93
+        },
+        {
+            "source": 74,
+            "target": 44
+        },
+        {
+            "source": 75,
+            "target": 113
+        },
+        {
+            "source": 76,
+            "target": 10
+        },
+        {
+            "source": 76,
+            "target": 127
+        },
+        {
+            "source": 76,
+            "target": 129
+        },
+        {
+            "source": 76,
+            "target": 23
+        },
+        {
+            "source": 76,
+            "target": 104
+        },
+        {
+            "source": 76,
+            "target": 106
+        },
+        {
+            "source": 76,
+            "target": 66
+        },
+        {
+            "source": 76,
+            "target": 93
+        },
+        {
+            "source": 76,
+            "target": 16
+        },
+        {
+            "source": 76,
+            "target": 112
+        },
+        {
+            "source": 76,
+            "target": 125
+        },
+        {
+            "source": 77,
+            "target": 66
+        },
+        {
+            "source": 78,
+            "target": 31
+        },
+        {
+            "source": 79,
+            "target": 81
+        },
+        {
+            "source": 79,
+            "target": 94
+        },
+        {
+            "source": 80,
+            "target": 20
+        },
+        {
+            "source": 80,
+            "target": 24
+        },
+        {
+            "source": 80,
+            "target": 12
+        },
+        {
+            "source": 80,
+            "target": 44
+        },
+        {
+            "source": 80,
+            "target": 101
+        },
+        {
+            "source": 80,
+            "target": 106
+        },
+        {
+            "source": 80,
+            "target": 90
+        },
+        {
+            "source": 80,
+            "target": 66
+        },
+        {
+            "source": 80,
+            "target": 59
+        },
+        {
+            "source": 80,
+            "target": 131
+        },
+        {
+            "source": 80,
+            "target": 113
+        },
+        {
+            "source": 81,
+            "target": 105
+        },
+        {
+            "source": 81,
+            "target": 79
+        },
+        {
+            "source": 81,
+            "target": 20
+        },
+        {
+            "source": 81,
+            "target": 49
+        },
+        {
+            "source": 82,
+            "target": 66
+        },
+        {
+            "source": 83,
+            "target": 129
+        },
+        {
+            "source": 84,
+            "target": 10
+        },
+        {
+            "source": 84,
+            "target": 127
+        },
+        {
+            "source": 84,
+            "target": 129
+        },
+        {
+            "source": 84,
+            "target": 23
+        },
+        {
+            "source": 84,
+            "target": 104
+        },
+        {
+            "source": 84,
+            "target": 106
+        },
+        {
+            "source": 84,
+            "target": 66
+        },
+        {
+            "source": 84,
+            "target": 93
+        },
+        {
+            "source": 84,
+            "target": 16
+        },
+        {
+            "source": 84,
+            "target": 112
+        },
+        {
+            "source": 84,
+            "target": 125
+        },
+        {
+            "source": 86,
+            "target": 20
+        },
+        {
+            "source": 86,
+            "target": 94
+        },
+        {
+            "source": 86,
+            "target": 80
+        },
+        {
+            "source": 86,
+            "target": 22
+        },
+        {
+            "source": 86,
+            "target": 101
+        },
+        {
+            "source": 86,
+            "target": 13
+        },
+        {
+            "source": 86,
+            "target": 40
+        },
+        {
+            "source": 86,
+            "target": 106
+        },
+        {
+            "source": 86,
+            "target": 11
+        },
+        {
+            "source": 86,
+            "target": 77
+        },
+        {
+            "source": 87,
+            "target": 122
+        },
+        {
+            "source": 88,
+            "target": 105
+        },
+        {
+            "source": 89,
+            "target": 84
+        },
+        {
+            "source": 90,
+            "target": 101
+        },
+        {
+            "source": 90,
+            "target": 80
+        },
+        {
+            "source": 90,
+            "target": 74
+        },
+        {
+            "source": 90,
+            "target": 24
+        },
+        {
+            "source": 90,
+            "target": 44
+        },
+        {
+            "source": 90,
+            "target": 20
+        },
+        {
+            "source": 90,
+            "target": 131
+        },
+        {
+            "source": 90,
+            "target": 112
+        },
+        {
+            "source": 90,
+            "target": 129
+        },
+        {
+            "source": 90,
+            "target": 106
+        },
+        {
+            "source": 90,
+            "target": 66
+        },
+        {
+            "source": 90,
+            "target": 59
+        },
+        {
+            "source": 90,
+            "target": 117
+        },
+        {
+            "source": 91,
+            "target": 64
+        },
+        {
+            "source": 91,
+            "target": 24
+        },
+        {
+            "source": 91,
+            "target": 80
+        },
+        {
+            "source": 91,
+            "target": 20
+        },
+        {
+            "source": 91,
+            "target": 61
+        },
+        {
+            "source": 91,
+            "target": 81
+        },
+        {
+            "source": 91,
+            "target": 102
+        },
+        {
+            "source": 91,
+            "target": 79
+        },
+        {
+            "source": 91,
+            "target": 104
+        },
+        {
+            "source": 92,
+            "target": 49
+        },
+        {
+            "source": 92,
+            "target": 85
+        },
+        {
+            "source": 93,
+            "target": 20
+        },
+        {
+            "source": 93,
+            "target": 39
+        },
+        {
+            "source": 93,
+            "target": 80
+        },
+        {
+            "source": 93,
+            "target": 55
+        },
+        {
+            "source": 93,
+            "target": 129
+        },
+        {
+            "source": 93,
+            "target": 106
+        },
+        {
+            "source": 93,
+            "target": 90
+        },
+        {
+            "source": 93,
+            "target": 67
+        },
+        {
+            "source": 93,
+            "target": 12
+        },
+        {
+            "source": 93,
+            "target": 23
+        },
+        {
+            "source": 93,
+            "target": 135
+        },
+        {
+            "source": 94,
+            "target": 38
+        },
+        {
+            "source": 94,
+            "target": 39
+        },
+        {
+            "source": 94,
+            "target": 43
+        },
+        {
+            "source": 94,
+            "target": 6
+        },
+        {
+            "source": 94,
+            "target": 131
+        },
+        {
+            "source": 94,
+            "target": 27
+        },
+        {
+            "source": 94,
+            "target": 79
+        },
+        {
+            "source": 94,
+            "target": 30
+        },
+        {
+            "source": 94,
+            "target": 13
+        },
+        {
+            "source": 94,
+            "target": 106
+        },
+        {
+            "source": 94,
+            "target": 49
+        },
+        {
+            "source": 94,
+            "target": 66
+        },
+        {
+            "source": 96,
+            "target": 101
+        },
+        {
+            "source": 96,
+            "target": 131
+        },
+        {
+            "source": 96,
+            "target": 86
+        },
+        {
+            "source": 96,
+            "target": 106
+        },
+        {
+            "source": 96,
+            "target": 122
+        },
+        {
+            "source": 96,
+            "target": 2
+        },
+        {
+            "source": 96,
+            "target": 66
+        },
+        {
+            "source": 97,
+            "target": 82
+        },
+        {
+            "source": 98,
+            "target": 101
+        },
+        {
+            "source": 98,
+            "target": 25
+        },
+        {
+            "source": 98,
+            "target": 43
+        },
+        {
+            "source": 98,
+            "target": 47
+        },
+        {
+            "source": 98,
+            "target": 108
+        },
+        {
+            "source": 98,
+            "target": 49
+        },
+        {
+            "source": 98,
+            "target": 6
+        },
+        {
+            "source": 98,
+            "target": 44
+        },
+        {
+            "source": 98,
+            "target": 125
+        },
+        {
+            "source": 99,
+            "target": 80
+        },
+        {
+            "source": 99,
+            "target": 115
+        },
+        {
+            "source": 99,
+            "target": 41
+        },
+        {
+            "source": 99,
+            "target": 90
+        },
+        {
+            "source": 99,
+            "target": 6
+        },
+        {
+            "source": 99,
+            "target": 91
+        },
+        {
+            "source": 99,
+            "target": 44
+        },
+        {
+            "source": 99,
+            "target": 51
+        },
+        {
+            "source": 99,
+            "target": 64
+        },
+        {
+            "source": 99,
+            "target": 10
+        },
+        {
+            "source": 99,
+            "target": 39
+        },
+        {
+            "source": 99,
+            "target": 12
+        },
+        {
+            "source": 99,
+            "target": 20
+        },
+        {
+            "source": 100,
+            "target": 37
+        },
+        {
+            "source": 101,
+            "target": 94
+        },
+        {
+            "source": 101,
+            "target": 20
+        },
+        {
+            "source": 101,
+            "target": 24
+        },
+        {
+            "source": 101,
+            "target": 80
+        },
+        {
+            "source": 101,
+            "target": 47
+        },
+        {
+            "source": 101,
+            "target": 49
+        },
+        {
+            "source": 101,
+            "target": 90
+        },
+        {
+            "source": 101,
+            "target": 6
+        },
+        {
+            "source": 101,
+            "target": 98
+        },
+        {
+            "source": 101,
+            "target": 123
+        },
+        {
+            "source": 102,
+            "target": 41
+        },
+        {
+            "source": 103,
+            "target": 81
+        },
+        {
+            "source": 104,
+            "target": 81
+        },
+        {
+            "source": 104,
+            "target": 10
+        },
+        {
+            "source": 104,
+            "target": 39
+        },
+        {
+            "source": 104,
+            "target": 20
+        },
+        {
+            "source": 104,
+            "target": 4
+        },
+        {
+            "source": 104,
+            "target": 90
+        },
+        {
+            "source": 104,
+            "target": 74
+        },
+        {
+            "source": 104,
+            "target": 124
+        },
+        {
+            "source": 104,
+            "target": 44
+        },
+        {
+            "source": 104,
+            "target": 91
+        },
+        {
+            "source": 104,
+            "target": 64
+        },
+        {
+            "source": 104,
+            "target": 79
+        },
+        {
+            "source": 104,
+            "target": 30
+        },
+        {
+            "source": 104,
+            "target": 106
+        },
+        {
+            "source": 105,
+            "target": 101
+        },
+        {
+            "source": 105,
+            "target": 10
+        },
+        {
+            "source": 105,
+            "target": 80
+        },
+        {
+            "source": 105,
+            "target": 115
+        },
+        {
+            "source": 105,
+            "target": 23
+        },
+        {
+            "source": 105,
+            "target": 72
+        },
+        {
+            "source": 105,
+            "target": 24
+        },
+        {
+            "source": 105,
+            "target": 25
+        },
+        {
+            "source": 105,
+            "target": 77
+        },
+        {
+            "source": 105,
+            "target": 8
+        },
+        {
+            "source": 105,
+            "target": 64
+        },
+        {
+            "source": 105,
+            "target": 79
+        },
+        {
+            "source": 105,
+            "target": 82
+        },
+        {
+            "source": 105,
+            "target": 81
+        },
+        {
+            "source": 105,
+            "target": 66
+        },
+        {
+            "source": 105,
+            "target": 20
+        },
+        {
+            "source": 106,
+            "target": 101
+        },
+        {
+            "source": 106,
+            "target": 39
+        },
+        {
+            "source": 106,
+            "target": 22
+        },
+        {
+            "source": 106,
+            "target": 74
+        },
+        {
+            "source": 106,
+            "target": 90
+        },
+        {
+            "source": 106,
+            "target": 20
+        },
+        {
+            "source": 106,
+            "target": 80
+        },
+        {
+            "source": 106,
+            "target": 135
+        },
+        {
+            "source": 106,
+            "target": 13
+        },
+        {
+            "source": 106,
+            "target": 53
+        },
+        {
+            "source": 106,
+            "target": 12
+        },
+        {
+            "source": 106,
+            "target": 104
+        },
+        {
+            "source": 107,
+            "target": 106
+        },
+        {
+            "source": 108,
+            "target": 20
+        },
+        {
+            "source": 108,
+            "target": 80
+        },
+        {
+            "source": 108,
+            "target": 98
+        },
+        {
+            "source": 108,
+            "target": 43
+        },
+        {
+            "source": 109,
+            "target": 53
+        },
+        {
+            "source": 110,
+            "target": 23
+        },
+        {
+            "source": 110,
+            "target": 112
+        },
+        {
+            "source": 110,
+            "target": 93
+        },
+        {
+            "source": 110,
+            "target": 66
+        },
+        {
+            "source": 110,
+            "target": 129
+        },
+        {
+            "source": 111,
+            "target": 72
+        },
+        {
+            "source": 112,
+            "target": 74
+        },
+        {
+            "source": 112,
+            "target": 7
+        },
+        {
+            "source": 112,
+            "target": 80
+        },
+        {
+            "source": 112,
+            "target": 121
+        },
+        {
+            "source": 112,
+            "target": 23
+        },
+        {
+            "source": 112,
+            "target": 90
+        },
+        {
+            "source": 112,
+            "target": 30
+        },
+        {
+            "source": 112,
+            "target": 44
+        },
+        {
+            "source": 112,
+            "target": 20
+        },
+        {
+            "source": 112,
+            "target": 39
+        },
+        {
+            "source": 112,
+            "target": 13
+        },
+        {
+            "source": 112,
+            "target": 104
+        },
+        {
+            "source": 113,
+            "target": 80
+        },
+        {
+            "source": 114,
+            "target": 93
+        },
+        {
+            "source": 115,
+            "target": 54
+        },
+        {
+            "source": 116,
+            "target": 49
+        },
+        {
+            "source": 116,
+            "target": 66
+        },
+        {
+            "source": 117,
+            "target": 12
+        },
+        {
+            "source": 118,
+            "target": 112
+        },
+        {
+            "source": 119,
+            "target": 23
+        },
+        {
+            "source": 119,
+            "target": 112
+        },
+        {
+            "source": 119,
+            "target": 93
+        },
+        {
+            "source": 119,
+            "target": 66
+        },
+        {
+            "source": 119,
+            "target": 129
+        },
+        {
+            "source": 120,
+            "target": 122
+        },
+        {
+            "source": 121,
+            "target": 6
+        },
+        {
+            "source": 122,
+            "target": 20
+        },
+        {
+            "source": 122,
+            "target": 112
+        },
+        {
+            "source": 122,
+            "target": 104
+        },
+        {
+            "source": 122,
+            "target": 101
+        },
+        {
+            "source": 122,
+            "target": 4
+        },
+        {
+            "source": 122,
+            "target": 44
+        },
+        {
+            "source": 123,
+            "target": 72
+        },
+        {
+            "source": 124,
+            "target": 71
+        },
+        {
+            "source": 124,
+            "target": 15
+        },
+        {
+            "source": 124,
+            "target": 72
+        },
+        {
+            "source": 124,
+            "target": 9
+        },
+        {
+            "source": 124,
+            "target": 92
+        },
+        {
+            "source": 124,
+            "target": 67
+        },
+        {
+            "source": 124,
+            "target": 95
+        },
+        {
+            "source": 124,
+            "target": 134
+        },
+        {
+            "source": 124,
+            "target": 30
+        },
+        {
+            "source": 124,
+            "target": 101
+        },
+        {
+            "source": 124,
+            "target": 13
+        },
+        {
+            "source": 124,
+            "target": 116
+        },
+        {
+            "source": 124,
+            "target": 81
+        },
+        {
+            "source": 124,
+            "target": 52
+        },
+        {
+            "source": 124,
+            "target": 98
+        },
+        {
+            "source": 124,
+            "target": 47
+        },
+        {
+            "source": 125,
+            "target": 20
+        },
+        {
+            "source": 125,
+            "target": 39
+        },
+        {
+            "source": 125,
+            "target": 80
+        },
+        {
+            "source": 125,
+            "target": 79
+        },
+        {
+            "source": 125,
+            "target": 56
+        },
+        {
+            "source": 125,
+            "target": 108
+        },
+        {
+            "source": 125,
+            "target": 94
+        },
+        {
+            "source": 125,
+            "target": 127
+        },
+        {
+            "source": 125,
+            "target": 10
+        },
+        {
+            "source": 125,
+            "target": 98
+        },
+        {
+            "source": 126,
+            "target": 6
+        },
+        {
+            "source": 127,
+            "target": 39
+        },
+        {
+            "source": 127,
+            "target": 16
+        },
+        {
+            "source": 127,
+            "target": 56
+        },
+        {
+            "source": 127,
+            "target": 125
+        },
+        {
+            "source": 128,
+            "target": 14
+        },
+        {
+            "source": 129,
+            "target": 101
+        },
+        {
+            "source": 129,
+            "target": 39
+        },
+        {
+            "source": 129,
+            "target": 90
+        },
+        {
+            "source": 129,
+            "target": 2
+        },
+        {
+            "source": 129,
+            "target": 93
+        },
+        {
+            "source": 129,
+            "target": 66
+        },
+        {
+            "source": 129,
+            "target": 20
+        },
+        {
+            "source": 129,
+            "target": 80
+        },
+        {
+            "source": 129,
+            "target": 49
+        },
+        {
+            "source": 129,
+            "target": 32
+        },
+        {
+            "source": 129,
+            "target": 106
+        },
+        {
+            "source": 129,
+            "target": 12
+        },
+        {
+            "source": 129,
+            "target": 59
+        },
+        {
+            "source": 129,
+            "target": 135
+        },
+        {
+            "source": 130,
+            "target": 33
+        },
+        {
+            "source": 130,
+            "target": 78
+        },
+        {
+            "source": 130,
+            "target": 118
+        },
+        {
+            "source": 130,
+            "target": 63
+        },
+        {
+            "source": 130,
+            "target": 83
+        },
+        {
+            "source": 130,
+            "target": 114
+        },
+        {
+            "source": 130,
+            "target": 102
+        },
+        {
+            "source": 130,
+            "target": 77
+        },
+        {
+            "source": 132,
+            "target": 70
+        },
+        {
+            "source": 132,
+            "target": 90
+        },
+        {
+            "source": 132,
+            "target": 131
+        },
+        {
+            "source": 132,
+            "target": 66
+        },
+        {
+            "source": 132,
+            "target": 115
+        },
+        {
+            "source": 133,
+            "target": 21
+        },
+        {
+            "source": 135,
+            "target": 20
+        },
+        {
+            "source": 135,
+            "target": 80
+        },
+        {
+            "source": 135,
+            "target": 115
+        },
+        {
+            "source": 135,
+            "target": 101
+        },
+        {
+            "source": 135,
+            "target": 129
+        },
+        {
+            "source": 135,
+            "target": 106
+        },
+        {
+            "source": 135,
+            "target": 114
+        },
+        {
+            "source": 135,
+            "target": 6
+        }
+    ],
+    "directed": true,
+    "basic": {
+        "numNodes": 136,
+        "averageInDegree": 5.154411764705882,
+        "averageOutDegree": 5.154411764705882,
+        "averagePathLength": 2.8449512335054505,
+        "numEdges": 701,
+        "selfLinks": 0
+    },
+    "nodes": [
+        {
+            "id": "Mathematical formulas",
+            "degree": 1,
+            "parity": 0
+        },
+        {
+            "id": "Shiro/Image Gallery",
+            "degree": 17,
+            "parity": 0
+        },
+        {
+            "id": "King City",
+            "degree": 8,
+            "parity": 1
+        },
+        {
+            "id": "Math",
+            "degree": 1,
+            "parity": 0
+        },
+        {
+            "id": "Materialization Shiritori",
+            "degree": 10,
+            "parity": 1
+        },
+        {
+            "id": "Hatsuse Izuna/Image Gallery",
+            "degree": 13,
+            "parity": 0
+        },
+        {
+            "id": "Ten Pledges",
+            "degree": 13,
+            "parity": 0
+        },
+        {
+            "id": "Episode 06",
+            "degree": 15,
+            "parity": 0
+        },
+        {
+            "id": "Elf",
+            "degree": 8,
+            "parity": 1
+        },
+        {
+            "id": "Elemental",
+            "degree": 9,
+            "parity": 0
+        },
+        {
+            "id": "Volume 3",
+            "degree": 17,
+            "parity": 0
+        },
+        {
+            "id": "Chlammy",
+            "degree": 4,
+            "parity": 1
+        },
+        {
+            "id": "Chlammy Zell",
+            "degree": 19,
+            "parity": 0
+        },
+        {
+            "id": "Tet",
+            "degree": 24,
+            "parity": 1
+        },
+        {
+            "id": "Fiel Nirvalen",
+            "degree": 10,
+            "parity": 1
+        },
+        {
+            "id": "Gigant",
+            "degree": 2,
+            "parity": 1
+        },
+        {
+            "id": "Volume 6",
+            "degree": 11,
+            "parity": 0
+        },
+        {
+            "id": "Stephanie Dora's maids",
+            "degree": 1,
+            "parity": 0
+        },
+        {
+            "id": "Queen/Image Gallery",
+            "degree": 3,
+            "parity": 0
+        },
+        {
+            "id": "Fiel Nirvalen/Image Gallery",
+            "degree": 12,
+            "parity": 1
+        },
+        {
+            "id": "Sora",
+            "degree": 52,
+            "parity": 1
+        },
+        {
+            "id": "NG Cup \u2606 Decisive Battle For The Strongest Gamer",
+            "degree": 6,
+            "parity": 1
+        },
+        {
+            "id": "Inn-keeper",
+            "degree": 10,
+            "parity": 1
+        },
+        {
+            "id": "Episode 04",
+            "degree": 34,
+            "parity": 1
+        },
+        {
+            "id": "Elchea Federation",
+            "degree": 10,
+            "parity": 1
+        },
+        {
+            "id": "Izuna",
+            "degree": 3,
+            "parity": 0
+        },
+        {
+            "id": "Stephanie Dora",
+            "degree": 1,
+            "parity": 0
+        },
+        {
+            "id": "Avant Heim",
+            "degree": 8,
+            "parity": 1
+        },
+        {
+            "id": "Previous king",
+            "degree": 1,
+            "parity": 0
+        },
+        {
+            "id": "Blank",
+            "degree": 1,
+            "parity": 0
+        },
+        {
+            "id": "Old Deus",
+            "degree": 14,
+            "parity": 1
+        },
+        {
+            "id": "Episode 07",
+            "degree": 17,
+            "parity": 0
+        },
+        {
+            "id": "Stephanie Dola's maids",
+            "degree": 6,
+            "parity": 1
+        },
+        {
+            "id": "Episode 4",
+            "degree": 3,
+            "parity": 0
+        },
+        {
+            "id": "Episode 9",
+            "degree": 1,
+            "parity": 0
+        },
+        {
+            "id": "Stephanie Dola/Image Gallery",
+            "degree": 16,
+            "parity": 1
+        },
+        {
+            "id": "Brain Battle For Imanity",
+            "degree": 4,
+            "parity": 1
+        },
+        {
+            "id": "Fiel Nilvalen/Image Gallery",
+            "degree": 2,
+            "parity": 1
+        },
+        {
+            "id": "Elven Gard",
+            "degree": 10,
+            "parity": 1
+        },
+        {
+            "id": "No Game, No Life",
+            "degree": 47,
+            "parity": 0
+        },
+        {
+            "id": "Stephanie",
+            "degree": 4,
+            "parity": 1
+        },
+        {
+            "id": "Episode 08",
+            "degree": 22,
+            "parity": 1
+        },
+        {
+            "id": "Elderly official/Image Gallery",
+            "degree": 5,
+            "parity": 0
+        },
+        {
+            "id": "Oceando",
+            "degree": 7,
+            "parity": 0
+        },
+        {
+            "id": "Jibril",
+            "degree": 32,
+            "parity": 1
+        },
+        {
+            "id": "No Work No Life",
+            "degree": 2,
+            "parity": 1
+        },
+        {
+            "id": "Oracion",
+            "degree": 1,
+            "parity": 0
+        },
+        {
+            "id": "Seiren",
+            "degree": 8,
+            "parity": 1
+        },
+        {
+            "id": "Game 01",
+            "degree": 1,
+            "parity": 0
+        },
+        {
+            "id": "Exceed",
+            "degree": 43,
+            "parity": 0
+        },
+        {
+            "id": "Race",
+            "degree": 1,
+            "parity": 0
+        },
+        {
+            "id": "Episode 10",
+            "degree": 5,
+            "parity": 0
+        },
+        {
+            "id": "Demonia",
+            "degree": 3,
+            "parity": 0
+        },
+        {
+            "id": "Unnamed thieves",
+            "degree": 9,
+            "parity": 0
+        },
+        {
+            "id": "\u300e \u300f",
+            "degree": 6,
+            "parity": 1
+        },
+        {
+            "id": "Clammy Zell",
+            "degree": 13,
+            "parity": 0
+        },
+        {
+            "id": "Azuril",
+            "degree": 3,
+            "parity": 0
+        },
+        {
+            "id": "Main Page",
+            "degree": 1,
+            "parity": 0
+        },
+        {
+            "id": "Manga Volume 1",
+            "degree": 8,
+            "parity": 1
+        },
+        {
+            "id": "Imanity-go",
+            "degree": 11,
+            "parity": 0
+        },
+        {
+            "id": "No Game No Life Wiki",
+            "degree": 9,
+            "parity": 0
+        },
+        {
+            "id": "Steph",
+            "degree": 4,
+            "parity": 1
+        },
+        {
+            "id": "Dora/Image Gallery",
+            "degree": 1,
+            "parity": 0
+        },
+        {
+            "id": "Episode 6",
+            "degree": 3,
+            "parity": 0
+        },
+        {
+            "id": "Hatsuse Ino",
+            "degree": 13,
+            "parity": 0
+        },
+        {
+            "id": "Miko/Image Gallery",
+            "degree": 1,
+            "parity": 0
+        },
+        {
+            "id": "Episode 01",
+            "degree": 46,
+            "parity": 1
+        },
+        {
+            "id": "Elves",
+            "degree": 5,
+            "parity": 0
+        },
+        {
+            "id": "Library of Elchea",
+            "degree": 1,
+            "parity": 0
+        },
+        {
+            "id": "Tet's home",
+            "degree": 4,
+            "parity": 1
+        },
+        {
+            "id": "Queen",
+            "degree": 5,
+            "parity": 0
+        },
+        {
+            "id": "Phantasma",
+            "degree": 6,
+            "parity": 1
+        },
+        {
+            "id": "Fl\u00fcgel",
+            "degree": 13,
+            "parity": 0
+        },
+        {
+            "id": "ED1",
+            "degree": 5,
+            "parity": 0
+        },
+        {
+            "id": "Former king of Imanity",
+            "degree": 14,
+            "parity": 1
+        },
+        {
+            "id": "\u30aa\u30e9\u30b7\u30aa\u30f3",
+            "degree": 1,
+            "parity": 0
+        },
+        {
+            "id": "Tet/Image Gallery",
+            "degree": 11,
+            "parity": 0
+        },
+        {
+            "id": "Episode 1",
+            "degree": 5,
+            "parity": 0
+        },
+        {
+            "id": "Episode 7",
+            "degree": 3,
+            "parity": 0
+        },
+        {
+            "id": "Eastern Union",
+            "degree": 13,
+            "parity": 0
+        },
+        {
+            "id": "Shiro",
+            "degree": 47,
+            "parity": 0
+        },
+        {
+            "id": "Werebeast",
+            "degree": 17,
+            "parity": 0
+        },
+        {
+            "id": "This game",
+            "degree": 5,
+            "parity": 0
+        },
+        {
+            "id": "Episode 2",
+            "degree": 3,
+            "parity": 0
+        },
+        {
+            "id": "Clammy Zell/Image Gallery",
+            "degree": 12,
+            "parity": 1
+        },
+        {
+            "id": "Harden Fell",
+            "degree": 2,
+            "parity": 1
+        },
+        {
+            "id": "Inn of Elchea",
+            "degree": 12,
+            "parity": 1
+        },
+        {
+            "id": "Main library of the human world",
+            "degree": 1,
+            "parity": 0
+        },
+        {
+            "id": "Shrine Priestess",
+            "degree": 1,
+            "parity": 0
+        },
+        {
+            "id": "Chlammy Zell/Image Gallery",
+            "degree": 2,
+            "parity": 1
+        },
+        {
+            "id": "Stephanie Dola",
+            "degree": 36,
+            "parity": 1
+        },
+        {
+            "id": "Hatsuse Izuna",
+            "degree": 19,
+            "parity": 0
+        },
+        {
+            "id": "Dwarf",
+            "degree": 4,
+            "parity": 1
+        },
+        {
+            "id": "Episode 03",
+            "degree": 25,
+            "parity": 0
+        },
+        {
+            "id": "Disboard",
+            "degree": 28,
+            "parity": 1
+        },
+        {
+            "id": "Fairy",
+            "degree": 2,
+            "parity": 1
+        },
+        {
+            "id": "Elchea Kingdom",
+            "degree": 7,
+            "parity": 0
+        },
+        {
+            "id": "OP1",
+            "degree": 4,
+            "parity": 1
+        },
+        {
+            "id": "Dhampir",
+            "degree": 16,
+            "parity": 1
+        },
+        {
+            "id": "Episode 09",
+            "degree": 17,
+            "parity": 0
+        },
+        {
+            "id": "Feel Nilvalen/Image Gallery",
+            "degree": 2,
+            "parity": 1
+        },
+        {
+            "id": "Imanity",
+            "degree": 31,
+            "parity": 0
+        },
+        {
+            "id": "Episode 8",
+            "degree": 4,
+            "parity": 1
+        },
+        {
+            "id": "Warbeast",
+            "degree": 1,
+            "parity": 0
+        },
+        {
+            "id": "Volume 2",
+            "degree": 32,
+            "parity": 1
+        },
+        {
+            "id": "Miko",
+            "degree": 22,
+            "parity": 1
+        },
+        {
+            "id": "Volume 1",
+            "degree": 39,
+            "parity": 0
+        },
+        {
+            "id": "Figurines",
+            "degree": 1,
+            "parity": 0
+        },
+        {
+            "id": "Plum",
+            "degree": 6,
+            "parity": 1
+        },
+        {
+            "id": "Three unnamed thieves",
+            "degree": 3,
+            "parity": 0
+        },
+        {
+            "id": "Jibril/Image Gallery",
+            "degree": 6,
+            "parity": 1
+        },
+        {
+            "id": "Angel",
+            "degree": 1,
+            "parity": 0
+        },
+        {
+            "id": "Episode 05",
+            "degree": 29,
+            "parity": 0
+        },
+        {
+            "id": "Oraci\u00f3n",
+            "degree": 6,
+            "parity": 1
+        },
+        {
+            "id": "Episode 3",
+            "degree": 3,
+            "parity": 0
+        },
+        {
+            "id": "Kuhaku",
+            "degree": 7,
+            "parity": 0
+        },
+        {
+            "id": "Dragonia",
+            "degree": 4,
+            "parity": 1
+        },
+        {
+            "id": "Kurami",
+            "degree": 2,
+            "parity": 1
+        },
+        {
+            "id": "Episode 5",
+            "degree": 3,
+            "parity": 0
+        },
+        {
+            "id": "Sora/Image Gallery",
+            "degree": 6,
+            "parity": 1
+        },
+        {
+            "id": "Main library",
+            "degree": 1,
+            "parity": 0
+        },
+        {
+            "id": "Ten Oaths",
+            "degree": 8,
+            "parity": 1
+        },
+        {
+            "id": "National Library of Elchea",
+            "degree": 10,
+            "parity": 1
+        },
+        {
+            "id": "Flugel",
+            "degree": 2,
+            "parity": 1
+        },
+        {
+            "id": "Race Piece",
+            "degree": 21,
+            "parity": 0
+        },
+        {
+            "id": "Volume 4",
+            "degree": 20,
+            "parity": 1
+        },
+        {
+            "id": "Pledges",
+            "degree": 1,
+            "parity": 0
+        },
+        {
+            "id": "Volume 5",
+            "degree": 13,
+            "parity": 0
+        },
+        {
+            "id": "Fiel Nilvalen",
+            "degree": 1,
+            "parity": 0
+        },
+        {
+            "id": "Episode 02",
+            "degree": 30,
+            "parity": 1
+        },
+        {
+            "id": "Hatsuse Ino/Image Gallery",
+            "degree": 8,
+            "parity": 1
+        },
+        {
+            "id": "Chapter 1",
+            "degree": 7,
+            "parity": 0
+        },
+        {
+            "id": "Dora",
+            "degree": 5,
+            "parity": 0
+        },
+        {
+            "id": "NG Cup",
+            "degree": 1,
+            "parity": 0
+        },
+        {
+            "id": "Lunamana",
+            "degree": 2,
+            "parity": 1
+        },
+        {
+            "id": "Elderly official",
+            "degree": 12,
+            "parity": 1
+        }
+    ],
+    "graph": {},
+    "multigraph": false
+}

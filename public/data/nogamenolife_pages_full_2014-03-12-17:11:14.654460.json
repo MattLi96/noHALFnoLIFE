@@ -1,0 +1,230 @@
+{
+    "edges": [
+        {
+            "source": "Stephanie Dora",
+            "target": "Stephanie Dola"
+        },
+        {
+            "source": "No Game No Life Wiki",
+            "target": "Jibril"
+        },
+        {
+            "source": "No Game No Life Wiki",
+            "target": "Shiro"
+        },
+        {
+            "source": "No Game No Life Wiki",
+            "target": "Sora"
+        },
+        {
+            "source": "No Game No Life Wiki",
+            "target": "No Game, No Life"
+        },
+        {
+            "source": "No Game No Life Wiki",
+            "target": "Stephanie Dora"
+        },
+        {
+            "source": "Chlammy",
+            "target": "Chlammy Zell"
+        },
+        {
+            "source": "Stephanie",
+            "target": "Stephanie Dola"
+        },
+        {
+            "source": "Main Page",
+            "target": "No Game No Life Wiki"
+        },
+        {
+            "source": "Feel Nilvalen/Image Gallery",
+            "target": "Fiel Nilvalen/Image Gallery"
+        },
+        {
+            "source": "Shiro",
+            "target": "Sora"
+        },
+        {
+            "source": "Sora",
+            "target": "Shiro"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "Jibril"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "Shiro"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "Sora"
+        },
+        {
+            "source": "No Game, No Life",
+            "target": "Stephanie Dora"
+        },
+        {
+            "source": "Math",
+            "target": "Mathematical formulas"
+        }
+    ],
+    "links": [
+        {
+            "source": 2,
+            "target": 0
+        },
+        {
+            "source": 3,
+            "target": 1
+        },
+        {
+            "source": 3,
+            "target": 10
+        },
+        {
+            "source": 3,
+            "target": 11
+        },
+        {
+            "source": 3,
+            "target": 12
+        },
+        {
+            "source": 3,
+            "target": 2
+        },
+        {
+            "source": 4,
+            "target": 14
+        },
+        {
+            "source": 5,
+            "target": 0
+        },
+        {
+            "source": 6,
+            "target": 3
+        },
+        {
+            "source": 8,
+            "target": 9
+        },
+        {
+            "source": 10,
+            "target": 11
+        },
+        {
+            "source": 11,
+            "target": 10
+        },
+        {
+            "source": 12,
+            "target": 1
+        },
+        {
+            "source": 12,
+            "target": 10
+        },
+        {
+            "source": 12,
+            "target": 11
+        },
+        {
+            "source": 12,
+            "target": 2
+        },
+        {
+            "source": 13,
+            "target": 7
+        }
+    ],
+    "directed": true,
+    "basic": {
+        "numNodes": 15,
+        "averageInDegree": 1.1333333333333333,
+        "averageOutDegree": 1.1333333333333333,
+        "averagePathLength": 1.0,
+        "numEdges": 17,
+        "selfLinks": 0
+    },
+    "nodes": [
+        {
+            "id": "Stephanie Dola",
+            "degree": 2,
+            "parity": 1
+        },
+        {
+            "id": "Jibril",
+            "degree": 2,
+            "parity": 1
+        },
+        {
+            "id": "Stephanie Dora",
+            "degree": 3,
+            "parity": 0
+        },
+        {
+            "id": "No Game No Life Wiki",
+            "degree": 6,
+            "parity": 1
+        },
+        {
+            "id": "Chlammy",
+            "degree": 1,
+            "parity": 0
+        },
+        {
+            "id": "Stephanie",
+            "degree": 1,
+            "parity": 0
+        },
+        {
+            "id": "Main Page",
+            "degree": 1,
+            "parity": 0
+        },
+        {
+            "id": "Mathematical formulas",
+            "degree": 1,
+            "parity": 0
+        },
+        {
+            "id": "Feel Nilvalen/Image Gallery",
+            "degree": 1,
+            "parity": 0
+        },
+        {
+            "id": "Fiel Nilvalen/Image Gallery",
+            "degree": 1,
+            "parity": 0
+        },
+        {
+            "id": "Shiro",
+            "degree": 4,
+            "parity": 1
+        },
+        {
+            "id": "Sora",
+            "degree": 4,
+            "parity": 1
+        },
+        {
+            "id": "No Game, No Life",
+            "degree": 5,
+            "parity": 0
+        },
+        {
+            "id": "Math",
+            "degree": 1,
+            "parity": 0
+        },
+        {
+            "id": "Chlammy Zell",
+            "degree": 1,
+            "parity": 0
+        }
+    ],
+    "graph": {},
+    "multigraph": false
+}

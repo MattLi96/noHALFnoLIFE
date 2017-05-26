@@ -1,0 +1,73 @@
+{
+    "edges": [
+        {
+            "source": "Math",
+            "target": "Mathematical formulas"
+        },
+        {
+            "source": "Feel Nilvalen/Image Gallery",
+            "target": "Fiel Nilvalen/Image Gallery"
+        },
+        {
+            "source": "Chlammy",
+            "target": "Chlammy Zell"
+        }
+    ],
+    "links": [
+        {
+            "source": 2,
+            "target": 5
+        },
+        {
+            "source": 3,
+            "target": 0
+        },
+        {
+            "source": 4,
+            "target": 1
+        }
+    ],
+    "directed": true,
+    "basic": {
+        "numNodes": 6,
+        "averageInDegree": 0.5,
+        "averageOutDegree": 0.5,
+        "averagePathLength": 0,
+        "numEdges": 3,
+        "selfLinks": 0
+    },
+    "nodes": [
+        {
+            "id": "Fiel Nilvalen/Image Gallery",
+            "degree": 1,
+            "parity": 0
+        },
+        {
+            "id": "Chlammy Zell",
+            "degree": 1,
+            "parity": 0
+        },
+        {
+            "id": "Math",
+            "degree": 1,
+            "parity": 0
+        },
+        {
+            "id": "Feel Nilvalen/Image Gallery",
+            "degree": 1,
+            "parity": 0
+        },
+        {
+            "id": "Chlammy",
+            "degree": 1,
+            "parity": 0
+        },
+        {
+            "id": "Mathematical formulas",
+            "degree": 1,
+            "parity": 0
+        }
+    ],
+    "graph": {},
+    "multigraph": false
+}
