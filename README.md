@@ -1,4 +1,4 @@
-# [noHALFnoLIFE: Fandom Wiki Analysis](https://MattLi96.github.io/noHALFnoLIFE/)
+# [No HALF No LIFE: Fandom Wiki Analysis](https://MattLi96.github.io/noHALFnoLIFE/)
 by [Austin Liu](https://github.com/aliu139), [Jared Wong](https://github.com/techlover10), [Matthew Li](https://github.com/MattLi96), and [Kevin Jiang](https://github.com/kzj1995)
 
 ![Example of Web App](./newUI.png)
