@@ -2,6 +2,10 @@ $('#graph-container').bind('contextmenu', function (e) {
     return false;
 });
 
+/**
+ * Additional function for identifying neighbors
+ * @param {String} nodeId - name of the node
+ */
 sigma.classes.graph.addMethod('neighbors', function (nodeId) {
     var k,
         neighbors = {},
@@ -13,6 +17,10 @@ sigma.classes.graph.addMethod('neighbors', function (nodeId) {
     return neighbors;
 });
 
+/**
+ * Generate the graph from the given wiki path
+ * @param {string} path - string path to the wiki source
+ */
 function generate(path) {
     if(window.info.$data.currentTime == ""){
         path = "public/" + path;

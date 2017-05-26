@@ -1,3 +1,6 @@
+/** 
+ * Get all wiki options from an external file
+ */
 function reloadOptions(){
     $.ajax({url: "./data/filelist", success: function(result){
 

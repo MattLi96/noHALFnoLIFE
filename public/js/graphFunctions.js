@@ -1,13 +1,22 @@
+/**
+ * Open link in a new tab
+ * @param {String} url - path that you want to go to 
+ */
 function openInNewTab(url) {
     var win = window.open(url, '_blank');
     win.focus();
 }
 
+/**
+ * If there is a selected path, highlight it
+ * @param path - path of nodes to highlight
+ * @param graph - the original graph
+ */
 function highlightPath(path, graph) {
     window.info.selectedPath = path;
 
     if (path == undefined) {
-        resetColors(null);
+        resetColors();
         return;
     }
 
@@ -25,7 +34,10 @@ function highlightPath(path, graph) {
     window.s.refresh();
 }
 
-function resetColors(event) {
+/**
+ * Resets all colors in the graph back to the original state
+ */
+function resetColors() {
     window.info.selectedNode = null;
     window.info.selectedPath = null;
 
@@ -42,6 +54,10 @@ function resetColors(event) {
     window.s.refresh();
 }
 
+/**
+ * Focus on the neighborhood of a given node
+ * @param node - The node whose neighbors we'd like to highlight 
+ */
 function colorNeighbors(node){
     var nodeId = node.id,
         toKeep = window.s.graph.neighbors(nodeId);
@@ -67,11 +83,14 @@ function colorNeighbors(node){
         window.s.refresh();
 }
 
+/**
+ * Determine the appropriate response to a node click
+ * - If it's the first click, just highlight the node + neighbors
+ * - If it's the second, try to find the path
+ */
 function focus(e){
     if (window.info.selectedNode == null) {
         window.info.selectedNode = e.data.node;
-
-        console.log(e.data.node)
         colorNeighbors(e.data.node)
     }
     else {
