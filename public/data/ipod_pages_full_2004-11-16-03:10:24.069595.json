@@ -1,0 +1,107 @@
+{
+    "edges": [
+        {
+            "source": "IPod Touch 4g",
+            "target": "IPod Touch 4"
+        },
+        {
+            "source": "Temple Run",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Jurassic Park Builder",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Final Cut Server",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "App:Angry Birds Star Wars",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Temple Run 2",
+            "target": "Mac OS X"
+        }
+    ],
+    "directed": true,
+    "multigraph": false,
+    "nodes": [
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "IPod Touch 4g"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Temple Run"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Mac OS X"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Jurassic Park Builder"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Final Cut Server"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "App:Angry Birds Star Wars"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Temple Run 2"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "IPod Touch 4"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 7
+        },
+        {
+            "source": 1,
+            "target": 2
+        },
+        {
+            "source": 3,
+            "target": 2
+        },
+        {
+            "source": 4,
+            "target": 2
+        },
+        {
+            "source": 5,
+            "target": 2
+        },
+        {
+            "source": 6,
+            "target": 2
+        }
+    ],
+    "graph": {},
+    "basic": {
+        "numEdges": 6,
+        "averagePathLength": 0,
+        "averageOutDegree": 0.75,
+        "numNodes": 8,
+        "selfLinks": 0,
+        "averageInDegree": 0.75
+    }
+}

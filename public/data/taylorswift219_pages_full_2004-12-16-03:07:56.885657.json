@@ -1,0 +1,199 @@
+{
+    "edges": [
+        {
+            "source": "List of songs",
+            "target": "List of Songs by Taylor Swift"
+        },
+        {
+            "source": "Fan survey (how well do you know her)",
+            "target": "Fan Survey"
+        },
+        {
+            "source": "Fearless (Taylor Swift album)",
+            "target": "Fearless (album)"
+        },
+        {
+            "source": "Dan Wilson",
+            "target": "Come Back... Be Here"
+        },
+        {
+            "source": "Childhood pictures",
+            "target": "Taylor Swift's Childhood Pictures"
+        },
+        {
+            "source": "Quotes",
+            "target": "Taylor Swift Quotes"
+        },
+        {
+            "source": "Change (Taylor Swift song)",
+            "target": "Change (song)"
+        },
+        {
+            "source": "Safe and Sound (Lyrics)",
+            "target": "Safe & Sound (Lyrics)"
+        },
+        {
+            "source": "Breathe (Taylor Swift song)",
+            "target": "Breathe (song)"
+        },
+        {
+            "source": "David",
+            "target": "David Cook"
+        }
+    ],
+    "directed": true,
+    "multigraph": false,
+    "nodes": [
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Taylor Swift Quotes"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "List of songs"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Fan survey (how well do you know her)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Fearless (Taylor Swift album)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Dan Wilson"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Taylor Swift's Childhood Pictures"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Safe & Sound (Lyrics)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "List of Songs by Taylor Swift"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Childhood pictures"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Come Back... Be Here"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Quotes"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Change (Taylor Swift song)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Safe and Sound (Lyrics)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Fearless (album)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Breathe (Taylor Swift song)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Change (song)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Fan Survey"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Breathe (song)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "David Cook"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "David"
+        }
+    ],
+    "links": [
+        {
+            "source": 1,
+            "target": 7
+        },
+        {
+            "source": 2,
+            "target": 16
+        },
+        {
+            "source": 3,
+            "target": 13
+        },
+        {
+            "source": 4,
+            "target": 9
+        },
+        {
+            "source": 8,
+            "target": 5
+        },
+        {
+            "source": 10,
+            "target": 0
+        },
+        {
+            "source": 11,
+            "target": 15
+        },
+        {
+            "source": 12,
+            "target": 6
+        },
+        {
+            "source": 14,
+            "target": 17
+        },
+        {
+            "source": 19,
+            "target": 18
+        }
+    ],
+    "graph": {},
+    "basic": {
+        "numEdges": 10,
+        "averagePathLength": 0,
+        "averageOutDegree": 0.5,
+        "numNodes": 20,
+        "selfLinks": 0,
+        "averageInDegree": 0.5
+    }
+}

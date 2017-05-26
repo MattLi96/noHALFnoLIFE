@@ -1,0 +1,502 @@
+{
+    "edges": [
+        {
+            "source": "Boros Battalion",
+            "target": "Gatecrash"
+        },
+        {
+            "source": "Rulings:Void",
+            "target": "Token"
+        },
+        {
+            "source": "Sapling of Colfenor",
+            "target": "Treefolk"
+        },
+        {
+            "source": "Rulings:Shorecrasher Mimic",
+            "target": "Static ability"
+        },
+        {
+            "source": "Sphinx",
+            "target": "Ravnica"
+        },
+        {
+            "source": "Sphinx",
+            "target": "Sphinx Ambassador"
+        },
+        {
+            "source": "Sphinx",
+            "target": "Isperia the Inscrutable"
+        },
+        {
+            "source": "Suntouched Myr",
+            "target": "Sunburst"
+        },
+        {
+            "source": "Children of Korlis",
+            "target": "Children of Korlis"
+        },
+        {
+            "source": "Niv-mizzet, the firemind",
+            "target": "Niv-mizzet, the Firemind"
+        },
+        {
+            "source": "The Boros Legion",
+            "target": "Boros"
+        },
+        {
+            "source": "Rulings:Arcbound Ravager",
+            "target": "+1/+1 counter"
+        },
+        {
+            "source": "Rulings:Arcbound Ravager",
+            "target": "-1/-1 counter"
+        },
+        {
+            "source": "Rulings:Llanowar Reborn",
+            "target": "+1/+1 counter"
+        },
+        {
+            "source": "Auratog",
+            "target": "Atog"
+        },
+        {
+            "source": "Main Page",
+            "target": "Magic: The Gathering Wiki"
+        },
+        {
+            "source": "Rulings:Boartusk Liege",
+            "target": "Ability"
+        },
+        {
+            "source": "Rulings:Sengir Vampire",
+            "target": "+1/+1 counter"
+        },
+        {
+            "source": "MTG Wiki:Images",
+            "target": "Sets"
+        },
+        {
+            "source": "Plated Slagwurm",
+            "target": "Spells"
+        },
+        {
+            "source": "Lhurgoyf (type)",
+            "target": "Time Spiral"
+        },
+        {
+            "source": "Gatecrash",
+            "target": "Boros Battalion"
+        },
+        {
+            "source": "Portal Three Kingdoms",
+            "target": "Portal Three Kingdoms"
+        },
+        {
+            "source": "Incarnation",
+            "target": "Filth"
+        },
+        {
+            "source": "Incarnation",
+            "target": "Brawn"
+        },
+        {
+            "source": "Incarnation",
+            "target": "Valor"
+        },
+        {
+            "source": "Incarnation",
+            "target": "Wonder"
+        },
+        {
+            "source": "Incarnation",
+            "target": "Anger"
+        },
+        {
+            "source": "Incarnation",
+            "target": "Glory"
+        },
+        {
+            "source": "Assault Zeppelid",
+            "target": "Momir Vig, Simic Visionary"
+        },
+        {
+            "source": "Plagued Rusalka",
+            "target": "Plagued Rusalka"
+        }
+    ],
+    "directed": true,
+    "multigraph": false,
+    "nodes": [
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Spells"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Boros Battalion"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Rulings:Void"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Anger"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Sapling of Colfenor"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Treefolk"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Rulings:Shorecrasher Mimic"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "+1/+1 counter"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Sphinx"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Suntouched Myr"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Children of Korlis"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Niv-mizzet, the firemind"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Brawn"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Valor"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "The Boros Legion"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Wonder"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Rulings:Arcbound Ravager"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Atog"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Rulings:Llanowar Reborn"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Auratog"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Filth"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Sets"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Main Page"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Rulings:Boartusk Liege"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Rulings:Sengir Vampire"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Momir Vig, Simic Visionary"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "MTG Wiki:Images"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Niv-mizzet, the Firemind"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Sunburst"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Plated Slagwurm"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Boros"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Isperia the Inscrutable"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lhurgoyf (type)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Static ability"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Magic: The Gathering Wiki"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Ability"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Glory"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "-1/-1 counter"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Gatecrash"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Portal Three Kingdoms"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Sphinx Ambassador"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Time Spiral"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Incarnation"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Assault Zeppelid"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Plagued Rusalka"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Token"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Ravnica"
+        }
+    ],
+    "links": [
+        {
+            "source": 1,
+            "target": 38
+        },
+        {
+            "source": 2,
+            "target": 45
+        },
+        {
+            "source": 4,
+            "target": 5
+        },
+        {
+            "source": 6,
+            "target": 33
+        },
+        {
+            "source": 8,
+            "target": 46
+        },
+        {
+            "source": 8,
+            "target": 40
+        },
+        {
+            "source": 8,
+            "target": 31
+        },
+        {
+            "source": 9,
+            "target": 28
+        },
+        {
+            "source": 10,
+            "target": 10
+        },
+        {
+            "source": 11,
+            "target": 27
+        },
+        {
+            "source": 14,
+            "target": 30
+        },
+        {
+            "source": 16,
+            "target": 7
+        },
+        {
+            "source": 16,
+            "target": 37
+        },
+        {
+            "source": 18,
+            "target": 7
+        },
+        {
+            "source": 19,
+            "target": 17
+        },
+        {
+            "source": 22,
+            "target": 34
+        },
+        {
+            "source": 23,
+            "target": 35
+        },
+        {
+            "source": 24,
+            "target": 7
+        },
+        {
+            "source": 26,
+            "target": 21
+        },
+        {
+            "source": 29,
+            "target": 0
+        },
+        {
+            "source": 32,
+            "target": 41
+        },
+        {
+            "source": 38,
+            "target": 1
+        },
+        {
+            "source": 39,
+            "target": 39
+        },
+        {
+            "source": 42,
+            "target": 20
+        },
+        {
+            "source": 42,
+            "target": 12
+        },
+        {
+            "source": 42,
+            "target": 13
+        },
+        {
+            "source": 42,
+            "target": 15
+        },
+        {
+            "source": 42,
+            "target": 3
+        },
+        {
+            "source": 42,
+            "target": 36
+        },
+        {
+            "source": 43,
+            "target": 25
+        },
+        {
+            "source": 44,
+            "target": 44
+        }
+    ],
+    "graph": {},
+    "basic": {
+        "numEdges": 31,
+        "averagePathLength": 1.0,
+        "averageOutDegree": 0.6595744680851063,
+        "numNodes": 47,
+        "selfLinks": 3,
+        "averageInDegree": 0.6595744680851063
+    }
+}

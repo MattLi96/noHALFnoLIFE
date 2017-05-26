@@ -1,0 +1,6070 @@
+{
+    "edges": [
+        {
+            "source": "PASIV Device",
+            "target": "Portable Automated Somnacin IntraVenous Device"
+        },
+        {
+            "source": "Cobol Engineering",
+            "target": "Proclus Global"
+        },
+        {
+            "source": "Cobol Engineering",
+            "target": "Nash"
+        },
+        {
+            "source": "Cobol Engineering",
+            "target": "Mr. Kaneda"
+        },
+        {
+            "source": "Cobol Engineering",
+            "target": "Saito"
+        },
+        {
+            "source": "Cobol Engineering",
+            "target": "Arthur"
+        },
+        {
+            "source": "Cobol Engineering",
+            "target": "Extraction"
+        },
+        {
+            "source": "Sleeper",
+            "target": "Limbo"
+        },
+        {
+            "source": "Sleeper",
+            "target": "Dream-Sharing"
+        },
+        {
+            "source": "Sleeper",
+            "target": "The Dreams"
+        },
+        {
+            "source": "Mr. Kaneda",
+            "target": "Nash"
+        },
+        {
+            "source": "Mr. Kaneda",
+            "target": "Proclus Global"
+        },
+        {
+            "source": "Mr. Kaneda",
+            "target": "Inception: The Cobol Job"
+        },
+        {
+            "source": "Mr. Kaneda",
+            "target": "Saito"
+        },
+        {
+            "source": "Mr. Kaneda",
+            "target": "Cobol Engineering"
+        },
+        {
+            "source": "Mr. Kaneda",
+            "target": "Arthur"
+        },
+        {
+            "source": "Kaneda",
+            "target": "Mr. Kaneda"
+        },
+        {
+            "source": "Mr. Charles (tactic)",
+            "target": "The Team"
+        },
+        {
+            "source": "Mr. Charles (tactic)",
+            "target": "Dreamer"
+        },
+        {
+            "source": "Mr. Charles (tactic)",
+            "target": "Lucid Dreaming"
+        },
+        {
+            "source": "Mr. Charles (tactic)",
+            "target": "The Dreams"
+        },
+        {
+            "source": "Mr. Charles (tactic)",
+            "target": "Subject"
+        },
+        {
+            "source": "Joseph Gordon-Levitt",
+            "target": "Arthur"
+        },
+        {
+            "source": "Joseph Gordon-Levitt",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "Emma Thomas",
+            "target": "Christopher Nolan"
+        },
+        {
+            "source": "Emma Thomas",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "Dream-Share: Tactical Employment Procedures Manual",
+            "target": "Dream-Share"
+        },
+        {
+            "source": "Tadashi",
+            "target": "Saito"
+        },
+        {
+            "source": "Tadashi",
+            "target": "Nash"
+        },
+        {
+            "source": "Tadashi",
+            "target": "Arthur"
+        },
+        {
+            "source": "The architect",
+            "target": "Ariadne"
+        },
+        {
+            "source": "The Dilapidated Hotel Room (dream)",
+            "target": "Somnacin"
+        },
+        {
+            "source": "The Dilapidated Hotel Room (dream)",
+            "target": "Saito"
+        },
+        {
+            "source": "The Dilapidated Hotel Room (dream)",
+            "target": "The Fischer Inception Job"
+        },
+        {
+            "source": "The Dilapidated Hotel Room (dream)",
+            "target": "Projections"
+        },
+        {
+            "source": "The Dilapidated Hotel Room (dream)",
+            "target": "Nash"
+        },
+        {
+            "source": "The Dilapidated Hotel Room (dream)",
+            "target": "Lucid Dreaming"
+        },
+        {
+            "source": "The Dilapidated Hotel Room (dream)",
+            "target": "Kick"
+        },
+        {
+            "source": "Inception: the Cobol Job",
+            "target": "Inception: The Cobol Job"
+        },
+        {
+            "source": "Dream Share",
+            "target": "Dream-Sharing"
+        },
+        {
+            "source": "Totem",
+            "target": "Mal"
+        },
+        {
+            "source": "Totem",
+            "target": "Eames"
+        },
+        {
+            "source": "Totem",
+            "target": "Ariadne"
+        },
+        {
+            "source": "Totem",
+            "target": "Inception: The Cobol Job"
+        },
+        {
+            "source": "Totem",
+            "target": "The Team"
+        },
+        {
+            "source": "Totem",
+            "target": "Arthur"
+        },
+        {
+            "source": "Christopher Nolan",
+            "target": "Chris Nolan Research Footage"
+        },
+        {
+            "source": "Christopher Nolan",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "Tom Hardy",
+            "target": "Eames"
+        },
+        {
+            "source": "Tom Hardy",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "James",
+            "target": "James Cobb"
+        },
+        {
+            "source": "The Mountain (dream)",
+            "target": "Snow-Covered Mountains (dream)"
+        },
+        {
+            "source": "James Cobb",
+            "target": "Robert Fischer"
+        },
+        {
+            "source": "James Cobb",
+            "target": "Mallorie Cobb"
+        },
+        {
+            "source": "James Cobb",
+            "target": "Miles"
+        },
+        {
+            "source": "James Cobb",
+            "target": "Inception (tactic)"
+        },
+        {
+            "source": "James Cobb",
+            "target": "Saito"
+        },
+        {
+            "source": "James Cobb",
+            "target": "Magnus Nolan"
+        },
+        {
+            "source": "James Cobb",
+            "target": "Johnathan Geare"
+        },
+        {
+            "source": "James Cobb",
+            "target": "Phillipa Cobb"
+        },
+        {
+            "source": "James Cobb",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "Ellen Page",
+            "target": "Ariadne"
+        },
+        {
+            "source": "Ellen Page",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "The Hotel (Dream)",
+            "target": "The Hotel (dream)"
+        },
+        {
+            "source": "Dream-Sharing",
+            "target": "Somnacin"
+        },
+        {
+            "source": "Dream-Sharing",
+            "target": "Dreamer"
+        },
+        {
+            "source": "Dream-Sharing",
+            "target": "Extraction"
+        },
+        {
+            "source": "Dream-Sharing",
+            "target": "The Dreams"
+        },
+        {
+            "source": "Dream-Sharing",
+            "target": "Inception (tactic)"
+        },
+        {
+            "source": "Dream-Sharing",
+            "target": "Miles"
+        },
+        {
+            "source": "Dream-Sharing",
+            "target": "Portable Automated Somnacin IntraVenous Device"
+        },
+        {
+            "source": "Dream-Sharing",
+            "target": "Subject"
+        },
+        {
+            "source": "Dream-Sharing",
+            "target": "Project Somnacin"
+        },
+        {
+            "source": "Peter Browning",
+            "target": "Eames"
+        },
+        {
+            "source": "Peter Browning",
+            "target": "The Hotel (Dream)"
+        },
+        {
+            "source": "Peter Browning",
+            "target": "Robert Fischer"
+        },
+        {
+            "source": "Peter Browning",
+            "target": "Tom Berenger"
+        },
+        {
+            "source": "Peter Browning",
+            "target": "Maurice Fischer"
+        },
+        {
+            "source": "Peter Browning",
+            "target": "Forging"
+        },
+        {
+            "source": "Peter Browning",
+            "target": "Fischer Morrow"
+        },
+        {
+            "source": "Peter Browning",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "Half Remembered Dream",
+            "target": "We Built Our Own World"
+        },
+        {
+            "source": "Half Remembered Dream",
+            "target": "Hans Zimmer"
+        },
+        {
+            "source": "Half Remembered Dream",
+            "target": "Cobb"
+        },
+        {
+            "source": "Half Remembered Dream",
+            "target": "Inception: Music from the Motion Picture"
+        },
+        {
+            "source": "Half Remembered Dream",
+            "target": "Saito"
+        },
+        {
+            "source": "Half Remembered Dream",
+            "target": "Half Remembered Dream"
+        },
+        {
+            "source": "Half Remembered Dream",
+            "target": "Limbo"
+        },
+        {
+            "source": "Arthur",
+            "target": "Joseph Gordon-Levitt"
+        },
+        {
+            "source": "Arthur",
+            "target": "Dream-Sharing"
+        },
+        {
+            "source": "Arthur",
+            "target": "Inception: The Cobol Job"
+        },
+        {
+            "source": "Arthur",
+            "target": "Totem"
+        },
+        {
+            "source": "Arthur",
+            "target": "Saito"
+        },
+        {
+            "source": "Arthur",
+            "target": "The Team"
+        },
+        {
+            "source": "Paulson",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "Proclus Global",
+            "target": "Saito"
+        },
+        {
+            "source": "Proclus Global",
+            "target": "Mr. Kaneda"
+        },
+        {
+            "source": "Sleepers",
+            "target": "Sleeper"
+        },
+        {
+            "source": "528491",
+            "target": "Inception: Music from the Motion Picture"
+        },
+        {
+            "source": "528491",
+            "target": "528491"
+        },
+        {
+            "source": "528491",
+            "target": "528491 (Music)"
+        },
+        {
+            "source": "528491",
+            "target": "528491 (number)"
+        },
+        {
+            "source": "Extraction",
+            "target": "Extractor"
+        },
+        {
+            "source": "Extraction",
+            "target": "The Dreams"
+        },
+        {
+            "source": "Extraction",
+            "target": "Dream-Sharing"
+        },
+        {
+            "source": "Inception: Music from the Motion Picture",
+            "target": "Mombasa (Music)"
+        },
+        {
+            "source": "Inception: Music from the Motion Picture",
+            "target": "Dream Is Collapsing"
+        },
+        {
+            "source": "Inception: Music from the Motion Picture",
+            "target": "Hans Zimmer"
+        },
+        {
+            "source": "Inception: Music from the Motion Picture",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "Inception: Music from the Motion Picture",
+            "target": "We Built Our Own World"
+        },
+        {
+            "source": "Inception: Music from the Motion Picture",
+            "target": "Radical Notion"
+        },
+        {
+            "source": "Inception: Music from the Motion Picture",
+            "target": "528491 (Music)"
+        },
+        {
+            "source": "Inception: Music from the Motion Picture",
+            "target": "Johnny Marr"
+        },
+        {
+            "source": "Inception: Music from the Motion Picture",
+            "target": "Old Souls"
+        },
+        {
+            "source": "Inception: Music from the Motion Picture",
+            "target": "Half Remembered Dream"
+        },
+        {
+            "source": "Inception: Music from the Motion Picture",
+            "target": "Projections"
+        },
+        {
+            "source": "Inception: Music from the Motion Picture",
+            "target": "Christopher Nolan"
+        },
+        {
+            "source": "Mr. Saito",
+            "target": "Saito"
+        },
+        {
+            "source": "Inception: The Big Under",
+            "target": "Inception: The Cobol Job"
+        },
+        {
+            "source": "Inception: The Big Under",
+            "target": "Saito"
+        },
+        {
+            "source": "Inception: The Big Under",
+            "target": "Jordan Goldberg"
+        },
+        {
+            "source": "Inception: The Big Under",
+            "target": "Inception (2010 film)"
+        },
+        {
+            "source": "The Office Building (dream)",
+            "target": "Proclus Global"
+        },
+        {
+            "source": "The Office Building (dream)",
+            "target": "Nash"
+        },
+        {
+            "source": "The Office Building (dream)",
+            "target": "Mallorie Cobb"
+        },
+        {
+            "source": "The Office Building (dream)",
+            "target": "Mr. Kaneda"
+        },
+        {
+            "source": "The Office Building (dream)",
+            "target": "Projections"
+        },
+        {
+            "source": "The Office Building (dream)",
+            "target": "Saito"
+        },
+        {
+            "source": "The Office Building (dream)",
+            "target": "Cobol Engineering"
+        },
+        {
+            "source": "The Office Building (dream)",
+            "target": "Arthur"
+        },
+        {
+            "source": "The Shade",
+            "target": "Mallorie Cobb"
+        },
+        {
+            "source": "Phillipa Cobb",
+            "target": "Mallorie Cobb"
+        },
+        {
+            "source": "Phillipa Cobb",
+            "target": "Miles"
+        },
+        {
+            "source": "Phillipa Cobb",
+            "target": "Inception (tactic)"
+        },
+        {
+            "source": "Phillipa Cobb",
+            "target": "James Cobb"
+        },
+        {
+            "source": "Phillipa Cobb",
+            "target": "Saito"
+        },
+        {
+            "source": "Phillipa Cobb",
+            "target": "Claire Geare"
+        },
+        {
+            "source": "Phillipa Cobb",
+            "target": "Taylor Geare"
+        },
+        {
+            "source": "Phillipa Cobb",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "Mal",
+            "target": "Mallorie Cobb"
+        },
+        {
+            "source": "Projections",
+            "target": "Robert Fischer"
+        },
+        {
+            "source": "Projections",
+            "target": "Dream-Sharing"
+        },
+        {
+            "source": "Projections",
+            "target": "The Dreams"
+        },
+        {
+            "source": "Projections",
+            "target": "Dreamer"
+        },
+        {
+            "source": "Projections",
+            "target": "Subject"
+        },
+        {
+            "source": "Projections",
+            "target": "Lucid Dreaming"
+        },
+        {
+            "source": "Projections",
+            "target": "Architect"
+        },
+        {
+            "source": "The Forger",
+            "target": "Eames"
+        },
+        {
+            "source": "The Mark",
+            "target": "Robert Fischer"
+        },
+        {
+            "source": "Penrose Stairs (dream)",
+            "target": "Ariadne"
+        },
+        {
+            "source": "Penrose Stairs (dream)",
+            "target": "Arthur"
+        },
+        {
+            "source": "Penrose Stairs (dream)",
+            "target": "The Dreams"
+        },
+        {
+            "source": "The shade",
+            "target": "Mallorie Cobb"
+        },
+        {
+            "source": "Mallorie",
+            "target": "Mallorie Cobb"
+        },
+        {
+            "source": "Mallorie Cobb",
+            "target": "James Cobb"
+        },
+        {
+            "source": "Mallorie Cobb",
+            "target": "Miles"
+        },
+        {
+            "source": "Mallorie Cobb",
+            "target": "Inception (tactic)"
+        },
+        {
+            "source": "Mallorie Cobb",
+            "target": "Totem"
+        },
+        {
+            "source": "Mallorie Cobb",
+            "target": "Marion Cotillard"
+        },
+        {
+            "source": "Mallorie Cobb",
+            "target": "Projections"
+        },
+        {
+            "source": "Mallorie Cobb",
+            "target": "Christopher Nolan"
+        },
+        {
+            "source": "Mallorie Cobb",
+            "target": "Phillipa Cobb"
+        },
+        {
+            "source": "Mallorie Cobb",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "Main Page",
+            "target": "Inception Wiki"
+        },
+        {
+            "source": "Inception (2010 film)/Video Gallery",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "Phillipa",
+            "target": "Phillipa Cobb"
+        },
+        {
+            "source": "Fischer",
+            "target": "Maurice Fischer"
+        },
+        {
+            "source": "Fischer",
+            "target": "Fischer"
+        },
+        {
+            "source": "Fischer",
+            "target": "Robert Fischer"
+        },
+        {
+            "source": "Fischer",
+            "target": "Fischer Morrow"
+        },
+        {
+            "source": "Mark",
+            "target": "Dream-Sharing"
+        },
+        {
+            "source": "Mark",
+            "target": "Projections"
+        },
+        {
+            "source": "Mark",
+            "target": "Robert Fischer"
+        },
+        {
+            "source": "Mark",
+            "target": "Mr. Kaneda"
+        },
+        {
+            "source": "Mark",
+            "target": "The Dreams"
+        },
+        {
+            "source": "Mark",
+            "target": "Extraction"
+        },
+        {
+            "source": "Mark",
+            "target": "Inception (tactic)"
+        },
+        {
+            "source": "Mark",
+            "target": "Saito"
+        },
+        {
+            "source": "Mark",
+            "target": "Dreamer"
+        },
+        {
+            "source": "Mark",
+            "target": "Extractor"
+        },
+        {
+            "source": "Mark",
+            "target": "Subject"
+        },
+        {
+            "source": "Magnus Nolan",
+            "target": "James Cobb"
+        },
+        {
+            "source": "Magnus Nolan",
+            "target": "Christopher Nolan"
+        },
+        {
+            "source": "Magnus Nolan",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "Inception (Music from the Motion Picture)",
+            "target": "Inception: Music from the Motion Picture"
+        },
+        {
+            "source": "Dreams",
+            "target": "The Dreams"
+        },
+        {
+            "source": "Snow-Covered Mountains (dream)",
+            "target": "Eames"
+        },
+        {
+            "source": "Snow-Covered Mountains (dream)",
+            "target": "Ariadne"
+        },
+        {
+            "source": "Snow-Covered Mountains (dream)",
+            "target": "The Fischer Inception Job"
+        },
+        {
+            "source": "Snow-Covered Mountains (dream)",
+            "target": "Mallorie Cobb"
+        },
+        {
+            "source": "Snow-Covered Mountains (dream)",
+            "target": "Saito"
+        },
+        {
+            "source": "Snow-Covered Mountains (dream)",
+            "target": "Limbo"
+        },
+        {
+            "source": "Snow-Covered Mountains (dream)",
+            "target": "The Team"
+        },
+        {
+            "source": "Snow-Covered Mountains (dream)",
+            "target": "Fischer Morrow"
+        },
+        {
+            "source": "Snow-Covered Mountains (dream)",
+            "target": "Robert Fischer"
+        },
+        {
+            "source": "Snow-Covered Mountains (dream)",
+            "target": "Sleeper"
+        },
+        {
+            "source": "Snow-Covered Mountains (dream)",
+            "target": "Projections"
+        },
+        {
+            "source": "Snow-Covered Mountains (dream)",
+            "target": "Kick"
+        },
+        {
+            "source": "Snow-Covered Mountains (dream)",
+            "target": "Maurice Fischer"
+        },
+        {
+            "source": "Tim Kelleher",
+            "target": "Thin Man"
+        },
+        {
+            "source": "Tim Kelleher",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "The Palace (dream)",
+            "target": "The Japanese Castle (dream)"
+        },
+        {
+            "source": "Parisian Street (dream)",
+            "target": "Ariadne"
+        },
+        {
+            "source": "Parisian Street (dream)",
+            "target": "Dreamer"
+        },
+        {
+            "source": "Parisian Street (dream)",
+            "target": "Projections"
+        },
+        {
+            "source": "Parisian Street (dream)",
+            "target": "The Dreams"
+        },
+        {
+            "source": "Marion Cotillard",
+            "target": "Mallorie Cobb"
+        },
+        {
+            "source": "Marion Cotillard",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "Forging",
+            "target": "Forger"
+        },
+        {
+            "source": "Inception Soundtrack",
+            "target": "Inception: Music from the Motion Picture"
+        },
+        {
+            "source": "Legendary Pictures",
+            "target": "Warner Bros."
+        },
+        {
+            "source": "Legendary Pictures",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "Robert Fischer",
+            "target": "Fischer Morrow"
+        },
+        {
+            "source": "Robert Fischer",
+            "target": "Mark"
+        },
+        {
+            "source": "Robert Fischer",
+            "target": "Cillian Murphy"
+        },
+        {
+            "source": "Robert Fischer",
+            "target": "Maurice Fischer"
+        },
+        {
+            "source": "Robert Fischer",
+            "target": "Peter Browning"
+        },
+        {
+            "source": "Robert Fischer",
+            "target": "Saito"
+        },
+        {
+            "source": "Robert Fischer",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "Jordan Goldberg",
+            "target": "Inception: The Cobol Job"
+        },
+        {
+            "source": "Jordan Goldberg",
+            "target": "Inception: The Big Under"
+        },
+        {
+            "source": "Jordan Goldberg",
+            "target": "Christopher Nolan"
+        },
+        {
+            "source": "Jordan Goldberg",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "New York (dream)",
+            "target": "Eames"
+        },
+        {
+            "source": "New York (dream)",
+            "target": "Limbo"
+        },
+        {
+            "source": "New York (dream)",
+            "target": "The Fischer Inception Job"
+        },
+        {
+            "source": "New York (dream)",
+            "target": "Mallorie Cobb"
+        },
+        {
+            "source": "New York (dream)",
+            "target": "Sleeper"
+        },
+        {
+            "source": "New York (dream)",
+            "target": "Yusuf"
+        },
+        {
+            "source": "New York (dream)",
+            "target": "Saito"
+        },
+        {
+            "source": "New York (dream)",
+            "target": "Peter Browning"
+        },
+        {
+            "source": "New York (dream)",
+            "target": "Arthur"
+        },
+        {
+            "source": "New York (dream)",
+            "target": "The Team"
+        },
+        {
+            "source": "New York (dream)",
+            "target": "Fischer Morrow"
+        },
+        {
+            "source": "New York (dream)",
+            "target": "Robert Fischer"
+        },
+        {
+            "source": "New York (dream)",
+            "target": "The Dreams"
+        },
+        {
+            "source": "New York (dream)",
+            "target": "Inception (tactic)"
+        },
+        {
+            "source": "New York (dream)",
+            "target": "Projections"
+        },
+        {
+            "source": "New York (dream)",
+            "target": "Kick"
+        },
+        {
+            "source": "New York (dream)",
+            "target": "Maurice Fischer"
+        },
+        {
+            "source": "528491 (Number)",
+            "target": "528491 (number)"
+        },
+        {
+            "source": "Claire Geare",
+            "target": "Johnathan Geare"
+        },
+        {
+            "source": "Claire Geare",
+            "target": "James Cobb"
+        },
+        {
+            "source": "Claire Geare",
+            "target": "Phillipa Cobb"
+        },
+        {
+            "source": "Claire Geare",
+            "target": "Christopher Nolan"
+        },
+        {
+            "source": "Claire Geare",
+            "target": "Taylor Geare"
+        },
+        {
+            "source": "Claire Geare",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "Saito",
+            "target": "Ken Watanabe"
+        },
+        {
+            "source": "Saito",
+            "target": "Eames"
+        },
+        {
+            "source": "Saito",
+            "target": "The Team"
+        },
+        {
+            "source": "Saito",
+            "target": "Proclus Global"
+        },
+        {
+            "source": "Saito",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "Portable Automated Somnacin IntraVenous Device",
+            "target": "Instruction Manual MV-235A"
+        },
+        {
+            "source": "Portable Automated Somnacin IntraVenous Device",
+            "target": "Somnacin"
+        },
+        {
+            "source": "Portable Automated Somnacin IntraVenous Device",
+            "target": "The Team"
+        },
+        {
+            "source": "Portable Automated Somnacin IntraVenous Device",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "The Point Man",
+            "target": "Arthur"
+        },
+        {
+            "source": "Inception Wiki",
+            "target": "Ken Watanabe"
+        },
+        {
+            "source": "Inception Wiki",
+            "target": "Joseph Gordon-Levitt"
+        },
+        {
+            "source": "Inception Wiki",
+            "target": "Ellen Page"
+        },
+        {
+            "source": "Inception Wiki",
+            "target": "Warner Bros."
+        },
+        {
+            "source": "Inception Wiki",
+            "target": "Leonardo DiCaprio"
+        },
+        {
+            "source": "Inception Wiki",
+            "target": "Christopher Nolan"
+        },
+        {
+            "source": "Inception Wiki",
+            "target": "Tom Hardy"
+        },
+        {
+            "source": "Inception Wiki",
+            "target": "Inception (2010 film)"
+        },
+        {
+            "source": "Dream",
+            "target": "Sleepers"
+        },
+        {
+            "source": "Dream",
+            "target": "Dreamer"
+        },
+        {
+            "source": "Dream",
+            "target": "Limbo"
+        },
+        {
+            "source": "Dream",
+            "target": "Subject"
+        },
+        {
+            "source": "Dream",
+            "target": "Dream-Sharing"
+        },
+        {
+            "source": "Taylor Geare",
+            "target": "James Cobb"
+        },
+        {
+            "source": "Taylor Geare",
+            "target": "Johnathan Geare"
+        },
+        {
+            "source": "Taylor Geare",
+            "target": "Claire Geare"
+        },
+        {
+            "source": "Taylor Geare",
+            "target": "Christopher Nolan"
+        },
+        {
+            "source": "Taylor Geare",
+            "target": "Phillipa Cobb"
+        },
+        {
+            "source": "Taylor Geare",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "Projection",
+            "target": "Projections"
+        },
+        {
+            "source": "The Japanese Castle (dream)",
+            "target": "Mal"
+        },
+        {
+            "source": "The Japanese Castle (dream)",
+            "target": "Saito"
+        },
+        {
+            "source": "The Japanese Castle (dream)",
+            "target": "Extraction"
+        },
+        {
+            "source": "The Japanese Castle (dream)",
+            "target": "Arthur"
+        },
+        {
+            "source": "The Architect",
+            "target": "Ariadne"
+        },
+        {
+            "source": "Hans Zimmer",
+            "target": "Johnny Marr"
+        },
+        {
+            "source": "Hans Zimmer",
+            "target": "Christopher Nolan"
+        },
+        {
+            "source": "Hans Zimmer",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "Warner Bros.",
+            "target": "Syncopy Films"
+        },
+        {
+            "source": "Warner Bros.",
+            "target": "Legendary Pictures"
+        },
+        {
+            "source": "Warner Bros.",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "Inception (Tactic)",
+            "target": "Inception (tactic)"
+        },
+        {
+            "source": "Darren Bartel",
+            "target": "Project Somnacin"
+        },
+        {
+            "source": "Subject",
+            "target": "Ariadne"
+        },
+        {
+            "source": "Subject",
+            "target": "Robert Fischer"
+        },
+        {
+            "source": "Subject",
+            "target": "Projections"
+        },
+        {
+            "source": "Subject",
+            "target": "Extraction"
+        },
+        {
+            "source": "Subject",
+            "target": "The Dreams"
+        },
+        {
+            "source": "Subject",
+            "target": "Penrose Stairs (Dream)"
+        },
+        {
+            "source": "Subject",
+            "target": "Saito"
+        },
+        {
+            "source": "Subject",
+            "target": "The Hotel (Dream)"
+        },
+        {
+            "source": "Subject",
+            "target": "Dream-Sharing"
+        },
+        {
+            "source": "Dream Is Collapsing",
+            "target": "Dream Is Collapsing"
+        },
+        {
+            "source": "Dream Is Collapsing",
+            "target": "Hans Zimmer"
+        },
+        {
+            "source": "Dream Is Collapsing",
+            "target": "The Saito Extraction Job"
+        },
+        {
+            "source": "Dream Is Collapsing",
+            "target": "Inception: Music from the Motion Picture"
+        },
+        {
+            "source": "Dream Is Collapsing",
+            "target": "Saito"
+        },
+        {
+            "source": "Dream Is Collapsing",
+            "target": "We Built Our Own World"
+        },
+        {
+            "source": "Dream Is Collapsing",
+            "target": "Radical Notion"
+        },
+        {
+            "source": "Dream Is Collapsing",
+            "target": "Nash"
+        },
+        {
+            "source": "Dream Is Collapsing",
+            "target": "Arthur"
+        },
+        {
+            "source": "Dream Sharing",
+            "target": "Dream-Sharing"
+        },
+        {
+            "source": "528491 (music)",
+            "target": "Old Souls"
+        },
+        {
+            "source": "528491 (music)",
+            "target": "The Fischer Inception Job"
+        },
+        {
+            "source": "528491 (music)",
+            "target": "Hans Zimmer"
+        },
+        {
+            "source": "528491 (music)",
+            "target": "Robert Fischer"
+        },
+        {
+            "source": "528491 (music)",
+            "target": "Cobb"
+        },
+        {
+            "source": "528491 (music)",
+            "target": "Inception: Music from the Motion Picture"
+        },
+        {
+            "source": "528491 (music)",
+            "target": "Mombasa"
+        },
+        {
+            "source": "528491 (music)",
+            "target": "528491 (Number)"
+        },
+        {
+            "source": "528491 (music)",
+            "target": "Arthur"
+        },
+        {
+            "source": "Ken Watanabe",
+            "target": "Saito"
+        },
+        {
+            "source": "Ken Watanabe",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "We Built Our Own World",
+            "target": "Mal"
+        },
+        {
+            "source": "We Built Our Own World",
+            "target": "Ariadne"
+        },
+        {
+            "source": "We Built Our Own World",
+            "target": "Dream Is Collapsing"
+        },
+        {
+            "source": "We Built Our Own World",
+            "target": "Cobb"
+        },
+        {
+            "source": "We Built Our Own World",
+            "target": "Hans Zimmer"
+        },
+        {
+            "source": "We Built Our Own World",
+            "target": "Half Remembered Dream"
+        },
+        {
+            "source": "We Built Our Own World",
+            "target": "Inception: Music from the Motion Picture"
+        },
+        {
+            "source": "We Built Our Own World",
+            "target": "We Built Our Own World"
+        },
+        {
+            "source": "We Built Our Own World",
+            "target": "Limbo"
+        },
+        {
+            "source": "Yusuf",
+            "target": "Somnacin"
+        },
+        {
+            "source": "Yusuf",
+            "target": "The Dreams"
+        },
+        {
+            "source": "Yusuf",
+            "target": "The Team"
+        },
+        {
+            "source": "Yusuf",
+            "target": "Saito"
+        },
+        {
+            "source": "Yusuf",
+            "target": "Dileep Rao"
+        },
+        {
+            "source": "Yusuf",
+            "target": "Kick"
+        },
+        {
+            "source": "Yusuf",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "Miles",
+            "target": "Stephen Miles"
+        },
+        {
+            "source": "Wally Pfister",
+            "target": "Christopher Nolan"
+        },
+        {
+            "source": "Wally Pfister",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "Dominick Cobb",
+            "target": "The Fischer Inception Job"
+        },
+        {
+            "source": "Dominick Cobb",
+            "target": "James Cobb"
+        },
+        {
+            "source": "Dominick Cobb",
+            "target": "Miles"
+        },
+        {
+            "source": "Dominick Cobb",
+            "target": "Saito"
+        },
+        {
+            "source": "Dominick Cobb",
+            "target": "Phillipa Cobb"
+        },
+        {
+            "source": "Dominick Cobb",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "Dominick Cobb",
+            "target": "Extractor"
+        },
+        {
+            "source": "Dominick Cobb",
+            "target": "Extraction"
+        },
+        {
+            "source": "Dominick Cobb",
+            "target": "The Dreams"
+        },
+        {
+            "source": "Dominick Cobb",
+            "target": "Inception: The Cobol Job"
+        },
+        {
+            "source": "Dominick Cobb",
+            "target": "Mallorie Cobb"
+        },
+        {
+            "source": "Dominick Cobb",
+            "target": "Leonardo DiCaprio"
+        },
+        {
+            "source": "Dominick Cobb",
+            "target": "The Team"
+        },
+        {
+            "source": "Dominick Cobb",
+            "target": "Totem"
+        },
+        {
+            "source": "Dominick Cobb",
+            "target": "Christopher Nolan"
+        },
+        {
+            "source": "Forger",
+            "target": "The Dreams"
+        },
+        {
+            "source": "Inception (2010 film)",
+            "target": "Syncopy Films"
+        },
+        {
+            "source": "Inception (2010 film)",
+            "target": "Ken Watanabe"
+        },
+        {
+            "source": "Inception (2010 film)",
+            "target": "Joseph Gordon-Levitt"
+        },
+        {
+            "source": "Inception (2010 film)",
+            "target": "Projections"
+        },
+        {
+            "source": "Inception (2010 film)",
+            "target": "Wally Pfister"
+        },
+        {
+            "source": "Inception (2010 film)",
+            "target": "James Cobb"
+        },
+        {
+            "source": "Inception (2010 film)",
+            "target": "Legendary Pictures"
+        },
+        {
+            "source": "Inception (2010 film)",
+            "target": "Pete Postlethwaite"
+        },
+        {
+            "source": "Inception (2010 film)",
+            "target": "Dream-Share: Tactical Employment Procedures Manual"
+        },
+        {
+            "source": "Inception (2010 film)",
+            "target": "Phillipa Cobb"
+        },
+        {
+            "source": "Inception (2010 film)",
+            "target": "Miles"
+        },
+        {
+            "source": "Inception (2010 film)",
+            "target": "Tom Berenger"
+        },
+        {
+            "source": "Inception (2010 film)",
+            "target": "Michael Caine"
+        },
+        {
+            "source": "Inception (2010 film)",
+            "target": "Totem"
+        },
+        {
+            "source": "Inception (2010 film)",
+            "target": "Cillian Murphy"
+        },
+        {
+            "source": "Inception (2010 film)",
+            "target": "Talulah Riley"
+        },
+        {
+            "source": "Inception (2010 film)",
+            "target": "Kick"
+        },
+        {
+            "source": "Inception (2010 film)",
+            "target": "Tom Hardy"
+        },
+        {
+            "source": "Inception (2010 film)",
+            "target": "Marion Cotillard"
+        },
+        {
+            "source": "Inception (2010 film)",
+            "target": "Ariadne"
+        },
+        {
+            "source": "Inception (2010 film)",
+            "target": "Robert Fischer"
+        },
+        {
+            "source": "Inception (2010 film)",
+            "target": "Mallorie Cobb"
+        },
+        {
+            "source": "Inception (2010 film)",
+            "target": "Ellen Page"
+        },
+        {
+            "source": "Inception (2010 film)",
+            "target": "Saito"
+        },
+        {
+            "source": "Inception (2010 film)",
+            "target": "Dileep Rao"
+        },
+        {
+            "source": "Inception (2010 film)",
+            "target": "Arthur"
+        },
+        {
+            "source": "Inception (2010 film)",
+            "target": "Hans Zimmer"
+        },
+        {
+            "source": "Inception (2010 film)",
+            "target": "Instruction Manual MV-235A"
+        },
+        {
+            "source": "Inception (2010 film)",
+            "target": "Nash"
+        },
+        {
+            "source": "Inception (2010 film)",
+            "target": "Emma Thomas"
+        },
+        {
+            "source": "Inception (2010 film)",
+            "target": "The Dreams"
+        },
+        {
+            "source": "Inception (2010 film)",
+            "target": "Inception: The Cobol Job"
+        },
+        {
+            "source": "Inception (2010 film)",
+            "target": "Warner Bros."
+        },
+        {
+            "source": "Inception (2010 film)",
+            "target": "Inception: The Big Under"
+        },
+        {
+            "source": "Inception (2010 film)",
+            "target": "Leonardo DiCaprio"
+        },
+        {
+            "source": "Inception (2010 film)",
+            "target": "Christopher Nolan"
+        },
+        {
+            "source": "Inception (2010 film)",
+            "target": "Inception (tactic)"
+        },
+        {
+            "source": "Inception (2010 film)",
+            "target": "Dream-Sharing"
+        },
+        {
+            "source": "Extractor",
+            "target": "Projections"
+        },
+        {
+            "source": "Extractor",
+            "target": "Extraction"
+        },
+        {
+            "source": "Extractor",
+            "target": "The Dreams"
+        },
+        {
+            "source": "Architect",
+            "target": "Totem"
+        },
+        {
+            "source": "Architect",
+            "target": "The Team"
+        },
+        {
+            "source": "Architect",
+            "target": "Sleeper"
+        },
+        {
+            "source": "Architect",
+            "target": "The Dreams"
+        },
+        {
+            "source": "Architect",
+            "target": "Penrose Stairs (Dream)"
+        },
+        {
+            "source": "Stephen Miles",
+            "target": "Ariadne"
+        },
+        {
+            "source": "Stephen Miles",
+            "target": "Mallorie Cobb"
+        },
+        {
+            "source": "Stephen Miles",
+            "target": "James Cobb"
+        },
+        {
+            "source": "Stephen Miles",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "Stephen Miles",
+            "target": "Phillipa Cobb"
+        },
+        {
+            "source": "Stephen Miles",
+            "target": "Michael Caine"
+        },
+        {
+            "source": "New York Streets (dream)",
+            "target": "New York (dream)"
+        },
+        {
+            "source": "Inception: The Cobol Job",
+            "target": "Fischer Morrow"
+        },
+        {
+            "source": "Inception: The Cobol Job",
+            "target": "Jordan Goldberg"
+        },
+        {
+            "source": "Inception: The Cobol Job",
+            "target": "Mr. Kaneda"
+        },
+        {
+            "source": "Inception: The Cobol Job",
+            "target": "Miles"
+        },
+        {
+            "source": "Inception: The Cobol Job",
+            "target": "Inception: The Cobol Job"
+        },
+        {
+            "source": "Inception: The Cobol Job",
+            "target": "Dream-Share: Tactical Employment Procedures Manual"
+        },
+        {
+            "source": "Inception: The Cobol Job",
+            "target": "Inception: The Big Under"
+        },
+        {
+            "source": "Inception: The Cobol Job",
+            "target": "Cobol Engineering"
+        },
+        {
+            "source": "Inception: The Cobol Job",
+            "target": "Mallorie Cobb"
+        },
+        {
+            "source": "Inception: The Cobol Job",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "The Fischer Inception Job",
+            "target": "Robert Fischer"
+        },
+        {
+            "source": "The Fischer Inception Job",
+            "target": "Proclus Global"
+        },
+        {
+            "source": "The Fischer Inception Job",
+            "target": "The Saito Extraction Job"
+        },
+        {
+            "source": "The Fischer Inception Job",
+            "target": "Fischer Morrow"
+        },
+        {
+            "source": "The Fischer Inception Job",
+            "target": "Saito"
+        },
+        {
+            "source": "The Fischer Inception Job",
+            "target": "The Hotel (Dream)"
+        },
+        {
+            "source": "The Fischer Inception Job",
+            "target": "Yusuf"
+        },
+        {
+            "source": "The Fischer Inception Job",
+            "target": "Maurice Fischer"
+        },
+        {
+            "source": "The Fischer Inception Job",
+            "target": "Dom Cobb"
+        },
+        {
+            "source": "The Fischer Inception Job",
+            "target": "The Team"
+        },
+        {
+            "source": "Chris Nolan Research Footage",
+            "target": "Project Somnacin"
+        },
+        {
+            "source": "Chris Nolan Research Footage",
+            "target": "Dream-Sharing"
+        },
+        {
+            "source": "Chris Nolan Research Footage",
+            "target": "Darren Bartel"
+        },
+        {
+            "source": "Chris Nolan Research Footage",
+            "target": "Christopher Nolan"
+        },
+        {
+            "source": "Chris Nolan Research Footage",
+            "target": "Lucid Dreaming"
+        },
+        {
+            "source": "Chris Nolan Research Footage",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "The Kaneda Extraction Job",
+            "target": "Proclus Global"
+        },
+        {
+            "source": "The Kaneda Extraction Job",
+            "target": "Nash"
+        },
+        {
+            "source": "The Kaneda Extraction Job",
+            "target": "Mr. Kaneda"
+        },
+        {
+            "source": "The Kaneda Extraction Job",
+            "target": "Cobol Engineering"
+        },
+        {
+            "source": "The Kaneda Extraction Job",
+            "target": "Arthur"
+        },
+        {
+            "source": "The Kaneda Extraction Job",
+            "target": "Extraction"
+        },
+        {
+            "source": "Mr. Charles (Tactic)",
+            "target": "Mr. Charles (tactic)"
+        },
+        {
+            "source": "Eames",
+            "target": "Inception (Tactic)"
+        },
+        {
+            "source": "Eames",
+            "target": "The Dreams"
+        },
+        {
+            "source": "Eames",
+            "target": "Tom Berenger"
+        },
+        {
+            "source": "Eames",
+            "target": "Forger"
+        },
+        {
+            "source": "Eames",
+            "target": "Saito"
+        },
+        {
+            "source": "Eames",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "Eames",
+            "target": "The Team"
+        },
+        {
+            "source": "Eames",
+            "target": "Tom Hardy"
+        },
+        {
+            "source": "Eames",
+            "target": "Talulah Riley"
+        },
+        {
+            "source": "Mombasa (music)",
+            "target": "528491 (music)"
+        },
+        {
+            "source": "Mombasa (music)",
+            "target": "Eames"
+        },
+        {
+            "source": "Mombasa (music)",
+            "target": "Hans Zimmer"
+        },
+        {
+            "source": "Mombasa (music)",
+            "target": "Mombasa"
+        },
+        {
+            "source": "Mombasa (music)",
+            "target": "Inception: Music from the Motion Picture"
+        },
+        {
+            "source": "Mombasa (music)",
+            "target": "Yusuf"
+        },
+        {
+            "source": "Mombasa (music)",
+            "target": "Dom Cobb"
+        },
+        {
+            "source": "Dreamer",
+            "target": "Eames"
+        },
+        {
+            "source": "Dreamer",
+            "target": "Ariadne"
+        },
+        {
+            "source": "Dreamer",
+            "target": "Paris Cafe (Dream)"
+        },
+        {
+            "source": "Dreamer",
+            "target": "Penrose Stairs (Dream)"
+        },
+        {
+            "source": "Dreamer",
+            "target": "The Hotel (Dream)"
+        },
+        {
+            "source": "Dreamer",
+            "target": "Yusuf"
+        },
+        {
+            "source": "Dreamer",
+            "target": "Arthur"
+        },
+        {
+            "source": "Dreamer",
+            "target": "Sleepers"
+        },
+        {
+            "source": "Dreamer",
+            "target": "Nash"
+        },
+        {
+            "source": "Dreamer",
+            "target": "Dream-Sharing"
+        },
+        {
+            "source": "Dreamer",
+            "target": "The Dreams"
+        },
+        {
+            "source": "Dreamer",
+            "target": "Dom's Memories (Dream)"
+        },
+        {
+            "source": "Nash",
+            "target": "The Dreams"
+        },
+        {
+            "source": "Nash",
+            "target": "Lukas Haas"
+        },
+        {
+            "source": "Nash",
+            "target": "Inception: The Cobol Job"
+        },
+        {
+            "source": "Nash",
+            "target": "Saito"
+        },
+        {
+            "source": "Nash",
+            "target": "Cobol Engineering"
+        },
+        {
+            "source": "Nash",
+            "target": "Architect"
+        },
+        {
+            "source": "Nash",
+            "target": "Arthur"
+        },
+        {
+            "source": "Inception Videos",
+            "target": "Inception (2010 film)/Video Gallery"
+        },
+        {
+            "source": "Parisian Caf\u00e9 (dream)",
+            "target": "Ariadne"
+        },
+        {
+            "source": "Parisian Caf\u00e9 (dream)",
+            "target": "Dream-Sharing"
+        },
+        {
+            "source": "Parisian Caf\u00e9 (dream)",
+            "target": "The Dreams"
+        },
+        {
+            "source": "Parisian Caf\u00e9 (dream)",
+            "target": "Lucid Dreaming"
+        },
+        {
+            "source": "Paris Caf\u00e9 (dream)",
+            "target": "Parisian Caf\u00e9 (dream)"
+        },
+        {
+            "source": "The Apartment (dream)",
+            "target": "The Dilapidated Hotel Room (dream)"
+        },
+        {
+            "source": "Lucid Dream",
+            "target": "Lucid Dreaming"
+        },
+        {
+            "source": "Project Somnacin",
+            "target": "Darren Bartel"
+        },
+        {
+            "source": "Project Somnacin",
+            "target": "Somnacin"
+        },
+        {
+            "source": "Project Somnacin",
+            "target": "Chris Nolan Research Footage"
+        },
+        {
+            "source": "Project Somnacin",
+            "target": "Dream-Sharing"
+        },
+        {
+            "source": "The Big Under",
+            "target": "Inception: The Big Under"
+        },
+        {
+            "source": "Radical Notion",
+            "target": "Old Souls"
+        },
+        {
+            "source": "Radical Notion",
+            "target": "Dream Is Collapsing"
+        },
+        {
+            "source": "Radical Notion",
+            "target": "Radical Notion"
+        },
+        {
+            "source": "Radical Notion",
+            "target": "Hans Zimmer"
+        },
+        {
+            "source": "Radical Notion",
+            "target": "Cobb"
+        },
+        {
+            "source": "Radical Notion",
+            "target": "Inception: Music from the Motion Picture"
+        },
+        {
+            "source": "Radical Notion",
+            "target": "Saito"
+        },
+        {
+            "source": "Radical Notion",
+            "target": "Limbo"
+        },
+        {
+            "source": "Mal Cobb",
+            "target": "Mallorie Cobb"
+        },
+        {
+            "source": "Johnathan Geare",
+            "target": "James Cobb"
+        },
+        {
+            "source": "Johnathan Geare",
+            "target": "Phillipa Cobb"
+        },
+        {
+            "source": "Johnathan Geare",
+            "target": "Claire Geare"
+        },
+        {
+            "source": "Johnathan Geare",
+            "target": "Christopher Nolan"
+        },
+        {
+            "source": "Johnathan Geare",
+            "target": "Taylor Geare"
+        },
+        {
+            "source": "Johnathan Geare",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "Soundtrack",
+            "target": "Inception: Music from the Motion Picture"
+        },
+        {
+            "source": "Penrose Stairs (Dream)",
+            "target": "Penrose Stairs (dream)"
+        },
+        {
+            "source": "Browning",
+            "target": "Peter Browning"
+        },
+        {
+            "source": "Mr. Charles",
+            "target": "Mr. Charles (Tactic)"
+        },
+        {
+            "source": "The Tourist",
+            "target": "Saito"
+        },
+        {
+            "source": "Mombasa",
+            "target": "Mombasa (Music)"
+        },
+        {
+            "source": "Inception (tactic)",
+            "target": "Inception (tactic)"
+        },
+        {
+            "source": "Inception (tactic)",
+            "target": "Dream-Sharing"
+        },
+        {
+            "source": "Inception (tactic)",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "Johnny Marr",
+            "target": "Inception: Music from the Motion Picture"
+        },
+        {
+            "source": "Johnny Marr",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "Dream-sharing",
+            "target": "Dream-Sharing"
+        },
+        {
+            "source": "Maurice Fischer",
+            "target": "Pete Postlethwaite"
+        },
+        {
+            "source": "Maurice Fischer",
+            "target": "Fischer Morrow"
+        },
+        {
+            "source": "Maurice Fischer",
+            "target": "Peter Browning"
+        },
+        {
+            "source": "Maurice Fischer",
+            "target": "Robert Fischer"
+        },
+        {
+            "source": "Maurice Fischer",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "Lucid Dreaming",
+            "target": "Mr. Charles (Tactic)"
+        },
+        {
+            "source": "Lucid Dreaming",
+            "target": "The Dreams"
+        },
+        {
+            "source": "Lucid Dreaming",
+            "target": "Sleeper"
+        },
+        {
+            "source": "Lucid Dreaming",
+            "target": "Totem"
+        },
+        {
+            "source": "Lucid Dreaming",
+            "target": "Dreamer"
+        },
+        {
+            "source": "Lucid Dreaming",
+            "target": "Limbo"
+        },
+        {
+            "source": "Lucid Dreaming",
+            "target": "Dream-Sharing"
+        },
+        {
+            "source": "Somnacin",
+            "target": "Somnacin"
+        },
+        {
+            "source": "Somnacin",
+            "target": "Portable Automated Somnacin IntraVenous Device"
+        },
+        {
+            "source": "Somnacin",
+            "target": "Dream-Sharing"
+        },
+        {
+            "source": "The Cobol Job",
+            "target": "Inception: The Cobol Job"
+        },
+        {
+            "source": "Syncopy Films",
+            "target": "Emma Thomas"
+        },
+        {
+            "source": "Syncopy Films",
+            "target": "Christopher Nolan"
+        },
+        {
+            "source": "Mombasa (Music)",
+            "target": "Mombasa (music)"
+        },
+        {
+            "source": "The Hotel (dream)",
+            "target": "Ariadne"
+        },
+        {
+            "source": "The Hotel (dream)",
+            "target": "The Fischer Inception Job"
+        },
+        {
+            "source": "The Hotel (dream)",
+            "target": "Mr. Charles"
+        },
+        {
+            "source": "The Hotel (dream)",
+            "target": "Peter Browning"
+        },
+        {
+            "source": "The Hotel (dream)",
+            "target": "Maurice Fischer"
+        },
+        {
+            "source": "The Hotel (dream)",
+            "target": "Yusuf"
+        },
+        {
+            "source": "The Hotel (dream)",
+            "target": "528491 (Number)"
+        },
+        {
+            "source": "The Hotel (dream)",
+            "target": "Arthur"
+        },
+        {
+            "source": "The Hotel (dream)",
+            "target": "The Team"
+        },
+        {
+            "source": "The Hotel (dream)",
+            "target": "Robert Fischer"
+        },
+        {
+            "source": "The Hotel (dream)",
+            "target": "Extraction"
+        },
+        {
+            "source": "The Hotel (dream)",
+            "target": "Sleeper"
+        },
+        {
+            "source": "The Hotel (dream)",
+            "target": "Fischer Morrow"
+        },
+        {
+            "source": "The Hotel (dream)",
+            "target": "Inception (Tactic)"
+        },
+        {
+            "source": "The Hotel (dream)",
+            "target": "Kick"
+        },
+        {
+            "source": "The Hotel (dream)",
+            "target": "Lucid Dreaming"
+        },
+        {
+            "source": "Dream-Share",
+            "target": "Dream-Sharing"
+        },
+        {
+            "source": "Lukas Haas",
+            "target": "Nash"
+        },
+        {
+            "source": "Lukas Haas",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "Dom's Memories (dream)",
+            "target": "PASIV Device"
+        },
+        {
+            "source": "Dom's Memories (dream)",
+            "target": "Dream-Sharing"
+        },
+        {
+            "source": "Dom's Memories (dream)",
+            "target": "The Dreams"
+        },
+        {
+            "source": "Instruction Manual MV-235A",
+            "target": "Instruction Manual MV-235A"
+        },
+        {
+            "source": "Instruction Manual MV-235A",
+            "target": "Portable Automated Somnacin IntraVenous Device"
+        },
+        {
+            "source": "Limbo",
+            "target": "Eames"
+        },
+        {
+            "source": "Limbo",
+            "target": "Ariadne"
+        },
+        {
+            "source": "Limbo",
+            "target": "Robert Fischer"
+        },
+        {
+            "source": "Limbo",
+            "target": "The Dreams"
+        },
+        {
+            "source": "Limbo",
+            "target": "Inception (tactic)"
+        },
+        {
+            "source": "Limbo",
+            "target": "Dreamer"
+        },
+        {
+            "source": "Limbo",
+            "target": "Yusuf"
+        },
+        {
+            "source": "Limbo",
+            "target": "Lucid Dreaming"
+        },
+        {
+            "source": "Ariadne",
+            "target": "The Dreams"
+        },
+        {
+            "source": "Ariadne",
+            "target": "Ellen Page"
+        },
+        {
+            "source": "Ariadne",
+            "target": "Totem"
+        },
+        {
+            "source": "Ariadne",
+            "target": "Saito"
+        },
+        {
+            "source": "Ariadne",
+            "target": "The Team"
+        },
+        {
+            "source": "Ariadne",
+            "target": "Architect"
+        },
+        {
+            "source": "Ariadne",
+            "target": "Arthur"
+        },
+        {
+            "source": "Ariadne",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "Michael Caine",
+            "target": "Miles"
+        },
+        {
+            "source": "Michael Caine",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "Dom's Memories (Dream)",
+            "target": "Dom's Memories (dream)"
+        },
+        {
+            "source": "Fischer Morrow",
+            "target": "Inception (tactic)"
+        },
+        {
+            "source": "Fischer Morrow",
+            "target": "Saito"
+        },
+        {
+            "source": "Fischer Morrow",
+            "target": "Robert Fischer"
+        },
+        {
+            "source": "Fischer Morrow",
+            "target": "Maurice Fischer"
+        },
+        {
+            "source": "Fischer Morrow",
+            "target": "Proclus Global"
+        },
+        {
+            "source": "Cobb",
+            "target": "Mallorie Cobb"
+        },
+        {
+            "source": "Cobb",
+            "target": "James Cobb"
+        },
+        {
+            "source": "Cobb",
+            "target": "Phillipa Cobb"
+        },
+        {
+            "source": "The Saito Extraction Job",
+            "target": "Nash"
+        },
+        {
+            "source": "The Saito Extraction Job",
+            "target": "Arthur"
+        },
+        {
+            "source": "The Saito Extraction Job",
+            "target": "The Kaneda Extraction Job"
+        },
+        {
+            "source": "Lucas Haas",
+            "target": "Lukas Haas"
+        },
+        {
+            "source": "Cillian Murphy",
+            "target": "Leonardo DiCaprio"
+        },
+        {
+            "source": "Cillian Murphy",
+            "target": "Robert Fischer"
+        },
+        {
+            "source": "Cillian Murphy",
+            "target": "Christopher Nolan"
+        },
+        {
+            "source": "Cillian Murphy",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "Lee Smith",
+            "target": "Christopher Nolan"
+        },
+        {
+            "source": "Leonardo DiCaprio",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "528491 (number)",
+            "target": "Eames"
+        },
+        {
+            "source": "528491 (number)",
+            "target": "Robert Fischer"
+        },
+        {
+            "source": "528491 (number)",
+            "target": "Maurice Fischer"
+        },
+        {
+            "source": "528491 (number)",
+            "target": "The Hotel (Dream)"
+        },
+        {
+            "source": "528491 (number)",
+            "target": "The Team"
+        },
+        {
+            "source": "528491 (number)",
+            "target": "Arthur"
+        },
+        {
+            "source": "Kick",
+            "target": "Sleeper"
+        },
+        {
+            "source": "Kick",
+            "target": "The Dreams"
+        },
+        {
+            "source": "Kick",
+            "target": "Dream-Sharing"
+        },
+        {
+            "source": "Extract",
+            "target": "Extraction"
+        },
+        {
+            "source": "Thin Man",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "Thin Man",
+            "target": "Tim Kelleher"
+        },
+        {
+            "source": "Inception",
+            "target": "Inception: Music from the Motion Picture"
+        },
+        {
+            "source": "Inception",
+            "target": "Inception (tactic)"
+        },
+        {
+            "source": "Inception",
+            "target": "Inception"
+        },
+        {
+            "source": "Inception",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "528491 (Music)",
+            "target": "528491 (music)"
+        },
+        {
+            "source": "Lucid dreaming",
+            "target": "Lucid Dreaming"
+        },
+        {
+            "source": "Parisian Streets (dream)",
+            "target": "Parisian Street (dream)"
+        },
+        {
+            "source": "The Bullet Train (Real)",
+            "target": "The Bullet Train (real)"
+        },
+        {
+            "source": "Dileep Rao",
+            "target": "Yusuf"
+        },
+        {
+            "source": "Dileep Rao",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "Inception (2010 Film)",
+            "target": "Inception (2010 film)"
+        },
+        {
+            "source": "Dream sharing",
+            "target": "Dream-Sharing"
+        },
+        {
+            "source": "Old Souls",
+            "target": "Mal"
+        },
+        {
+            "source": "Old Souls",
+            "target": "528491 (music)"
+        },
+        {
+            "source": "Old Souls",
+            "target": "Old Souls"
+        },
+        {
+            "source": "Old Souls",
+            "target": "Radical Notion"
+        },
+        {
+            "source": "Old Souls",
+            "target": "Hans Zimmer"
+        },
+        {
+            "source": "Old Souls",
+            "target": "Cobb"
+        },
+        {
+            "source": "Old Souls",
+            "target": "Inception: Music from the Motion Picture"
+        },
+        {
+            "source": "Old Souls",
+            "target": "Saito"
+        },
+        {
+            "source": "Old Souls",
+            "target": "Limbo"
+        },
+        {
+            "source": "The Dreams",
+            "target": "Dream"
+        },
+        {
+            "source": "Talulah Riley",
+            "target": "Eames"
+        },
+        {
+            "source": "Talulah Riley",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "Tom Berenger",
+            "target": "Browning"
+        },
+        {
+            "source": "Tom Berenger",
+            "target": "Inception (2010 Film)"
+        },
+        {
+            "source": "The Team",
+            "target": "Eames"
+        },
+        {
+            "source": "The Team",
+            "target": "Ariadne"
+        },
+        {
+            "source": "The Team",
+            "target": "Somnacin"
+        },
+        {
+            "source": "The Team",
+            "target": "Dream-Sharing"
+        },
+        {
+            "source": "The Team",
+            "target": "Forger"
+        },
+        {
+            "source": "The Team",
+            "target": "Saito"
+        },
+        {
+            "source": "The Team",
+            "target": "Yusuf"
+        },
+        {
+            "source": "The Team",
+            "target": "Extractor"
+        },
+        {
+            "source": "The Team",
+            "target": "Arthur"
+        },
+        {
+            "source": "The Team",
+            "target": "Architect"
+        },
+        {
+            "source": "The Bullet Train (real)",
+            "target": "Nash"
+        },
+        {
+            "source": "The Bullet Train (real)",
+            "target": "The Saito Extraction Job"
+        },
+        {
+            "source": "The Bullet Train (real)",
+            "target": "Tadashi"
+        },
+        {
+            "source": "The Bullet Train (real)",
+            "target": "Saito"
+        },
+        {
+            "source": "The Bullet Train (real)",
+            "target": "Dominic"
+        },
+        {
+            "source": "The Bullet Train (real)",
+            "target": "Arthur"
+        },
+        {
+            "source": "Pete Postlethwaite",
+            "target": "Maurice Fischer"
+        },
+        {
+            "source": "Pete Postlethwaite",
+            "target": "Inception (2010 Film)"
+        }
+    ],
+    "directed": true,
+    "multigraph": false,
+    "nodes": [
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "PASIV Device"
+        },
+        {
+            "parity": 0,
+            "degree": 11,
+            "id": "Cobol Engineering"
+        },
+        {
+            "parity": 1,
+            "degree": 10,
+            "id": "Sleeper"
+        },
+        {
+            "parity": 0,
+            "degree": 13,
+            "id": "Mr. Kaneda"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Kaneda"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Mr. Charles (tactic)"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Joseph Gordon-Levitt"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Emma Thomas"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Dream-Share: Tactical Employment Procedures Manual"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Tadashi"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "The architect"
+        },
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "The Dilapidated Hotel Room (dream)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Inception: the Cobol Job"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Dream Share"
+        },
+        {
+            "parity": 0,
+            "degree": 13,
+            "id": "Totem"
+        },
+        {
+            "parity": 0,
+            "degree": 19,
+            "id": "Christopher Nolan"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Tom Hardy"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "James"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "The Mountain (dream)"
+        },
+        {
+            "parity": 1,
+            "degree": 20,
+            "id": "James Cobb"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Ellen Page"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "The Hotel (Dream)"
+        },
+        {
+            "parity": 1,
+            "degree": 32,
+            "id": "Dream-Sharing"
+        },
+        {
+            "parity": 0,
+            "degree": 13,
+            "id": "Peter Browning"
+        },
+        {
+            "parity": 1,
+            "degree": 10,
+            "id": "Half Remembered Dream"
+        },
+        {
+            "parity": 1,
+            "degree": 28,
+            "id": "Arthur"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Paulson"
+        },
+        {
+            "parity": 0,
+            "degree": 9,
+            "id": "Proclus Global"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Sleepers"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "528491"
+        },
+        {
+            "parity": 0,
+            "degree": 13,
+            "id": "Extraction"
+        },
+        {
+            "parity": 0,
+            "degree": 25,
+            "id": "Inception: Music from the Motion Picture"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Mr. Saito"
+        },
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "Inception: The Big Under"
+        },
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "The Office Building (dream)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "The Shade"
+        },
+        {
+            "parity": 1,
+            "degree": 18,
+            "id": "Phillipa Cobb"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Mal"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Paris Cafe (Dream)"
+        },
+        {
+            "parity": 0,
+            "degree": 19,
+            "id": "Projections"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "The Forger"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "The Mark"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Penrose Stairs (dream)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "The shade"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Mallorie"
+        },
+        {
+            "parity": 0,
+            "degree": 25,
+            "id": "Mallorie Cobb"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Main Page"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Inception (2010 film)/Video Gallery"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Phillipa"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Fischer"
+        },
+        {
+            "parity": 1,
+            "degree": 12,
+            "id": "Mark"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Magnus Nolan"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Inception (Music from the Motion Picture)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Dreams"
+        },
+        {
+            "parity": 1,
+            "degree": 14,
+            "id": "Snow-Covered Mountains (dream)"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Tim Kelleher"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "The Palace (dream)"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Parisian Street (dream)"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Marion Cotillard"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Forging"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Inception Soundtrack"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Legendary Pictures"
+        },
+        {
+            "parity": 0,
+            "degree": 25,
+            "id": "Robert Fischer"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Jordan Goldberg"
+        },
+        {
+            "parity": 1,
+            "degree": 18,
+            "id": "New York (dream)"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "528491 (Number)"
+        },
+        {
+            "parity": 0,
+            "degree": 9,
+            "id": "Claire Geare"
+        },
+        {
+            "parity": 1,
+            "degree": 38,
+            "id": "Saito"
+        },
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "Portable Automated Somnacin IntraVenous Device"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "The Point Man"
+        },
+        {
+            "parity": 0,
+            "degree": 9,
+            "id": "Inception Wiki"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Dream"
+        },
+        {
+            "parity": 0,
+            "degree": 9,
+            "id": "Taylor Geare"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Projection"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "The Japanese Castle (dream)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "The Architect"
+        },
+        {
+            "parity": 1,
+            "degree": 12,
+            "id": "Hans Zimmer"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Warner Bros."
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Inception (Tactic)"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Darren Bartel"
+        },
+        {
+            "parity": 1,
+            "degree": 14,
+            "id": "Subject"
+        },
+        {
+            "parity": 0,
+            "degree": 13,
+            "id": "Dream Is Collapsing"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Dream Sharing"
+        },
+        {
+            "parity": 1,
+            "degree": 12,
+            "id": "528491 (music)"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Ken Watanabe"
+        },
+        {
+            "parity": 0,
+            "degree": 13,
+            "id": "We Built Our Own World"
+        },
+        {
+            "parity": 0,
+            "degree": 15,
+            "id": "Yusuf"
+        },
+        {
+            "parity": 0,
+            "degree": 9,
+            "id": "Miles"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Wally Pfister"
+        },
+        {
+            "parity": 0,
+            "degree": 15,
+            "id": "Dominick Cobb"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Forger"
+        },
+        {
+            "parity": 0,
+            "degree": 41,
+            "id": "Inception (2010 film)"
+        },
+        {
+            "parity": 0,
+            "degree": 7,
+            "id": "Extractor"
+        },
+        {
+            "parity": 0,
+            "degree": 9,
+            "id": "Architect"
+        },
+        {
+            "parity": 0,
+            "degree": 7,
+            "id": "Stephen Miles"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "New York Streets (dream)"
+        },
+        {
+            "parity": 0,
+            "degree": 21,
+            "id": "Inception: The Cobol Job"
+        },
+        {
+            "parity": 1,
+            "degree": 16,
+            "id": "The Fischer Inception Job"
+        },
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "Chris Nolan Research Footage"
+        },
+        {
+            "parity": 0,
+            "degree": 7,
+            "id": "The Kaneda Extraction Job"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Mr. Charles (Tactic)"
+        },
+        {
+            "parity": 1,
+            "degree": 22,
+            "id": "Eames"
+        },
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "Mombasa (music)"
+        },
+        {
+            "parity": 1,
+            "degree": 20,
+            "id": "Dreamer"
+        },
+        {
+            "parity": 0,
+            "degree": 19,
+            "id": "Nash"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Inception Videos"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Parisian Caf\u00e9 (dream)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Paris Caf\u00e9 (dream)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "The Apartment (dream)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lucid Dream"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Dom Cobb"
+        },
+        {
+            "parity": 0,
+            "degree": 7,
+            "id": "Project Somnacin"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "The Big Under"
+        },
+        {
+            "parity": 1,
+            "degree": 12,
+            "id": "Radical Notion"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Mal Cobb"
+        },
+        {
+            "parity": 0,
+            "degree": 9,
+            "id": "Johnathan Geare"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Soundtrack"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Penrose Stairs (Dream)"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Browning"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Mr. Charles"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "The Tourist"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Mombasa"
+        },
+        {
+            "parity": 0,
+            "degree": 15,
+            "id": "Inception (tactic)"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Johnny Marr"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Dream-sharing"
+        },
+        {
+            "parity": 0,
+            "degree": 15,
+            "id": "Maurice Fischer"
+        },
+        {
+            "parity": 1,
+            "degree": 16,
+            "id": "Lucid Dreaming"
+        },
+        {
+            "parity": 1,
+            "degree": 10,
+            "id": "Somnacin"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "The Cobol Job"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Syncopy Films"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Mombasa (Music)"
+        },
+        {
+            "parity": 0,
+            "degree": 17,
+            "id": "The Hotel (dream)"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Dream-Share"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Lukas Haas"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Dom's Memories (dream)"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Instruction Manual MV-235A"
+        },
+        {
+            "parity": 0,
+            "degree": 17,
+            "id": "Limbo"
+        },
+        {
+            "parity": 1,
+            "degree": 24,
+            "id": "Ariadne"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Michael Caine"
+        },
+        {
+            "parity": 1,
+            "degree": 2,
+            "id": "Dom's Memories (Dream)"
+        },
+        {
+            "parity": 1,
+            "degree": 14,
+            "id": "Fischer Morrow"
+        },
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "Cobb"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "The Saito Extraction Job"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lucas Haas"
+        },
+        {
+            "parity": 1,
+            "degree": 6,
+            "id": "Cillian Murphy"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lee Smith"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Leonardo DiCaprio"
+        },
+        {
+            "parity": 1,
+            "degree": 8,
+            "id": "528491 (number)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Dominic"
+        },
+        {
+            "parity": 0,
+            "degree": 9,
+            "id": "Kick"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Extract"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "Thin Man"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Inception"
+        },
+        {
+            "parity": 0,
+            "degree": 3,
+            "id": "528491 (Music)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Lucid dreaming"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Parisian Streets (dream)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "The Bullet Train (Real)"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Dileep Rao"
+        },
+        {
+            "parity": 1,
+            "degree": 48,
+            "id": "Inception (2010 Film)"
+        },
+        {
+            "parity": 0,
+            "degree": 1,
+            "id": "Dream sharing"
+        },
+        {
+            "parity": 0,
+            "degree": 13,
+            "id": "Old Souls"
+        },
+        {
+            "parity": 0,
+            "degree": 27,
+            "id": "The Dreams"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Talulah Riley"
+        },
+        {
+            "parity": 0,
+            "degree": 5,
+            "id": "Tom Berenger"
+        },
+        {
+            "parity": 0,
+            "degree": 25,
+            "id": "The Team"
+        },
+        {
+            "parity": 0,
+            "degree": 7,
+            "id": "The Bullet Train (real)"
+        },
+        {
+            "parity": 1,
+            "degree": 4,
+            "id": "Pete Postlethwaite"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 68
+        },
+        {
+            "source": 1,
+            "target": 27
+        },
+        {
+            "source": 1,
+            "target": 104
+        },
+        {
+            "source": 1,
+            "target": 3
+        },
+        {
+            "source": 1,
+            "target": 67
+        },
+        {
+            "source": 1,
+            "target": 25
+        },
+        {
+            "source": 1,
+            "target": 30
+        },
+        {
+            "source": 2,
+            "target": 136
+        },
+        {
+            "source": 2,
+            "target": 22
+        },
+        {
+            "source": 2,
+            "target": 161
+        },
+        {
+            "source": 3,
+            "target": 104
+        },
+        {
+            "source": 3,
+            "target": 27
+        },
+        {
+            "source": 3,
+            "target": 96
+        },
+        {
+            "source": 3,
+            "target": 67
+        },
+        {
+            "source": 3,
+            "target": 1
+        },
+        {
+            "source": 3,
+            "target": 25
+        },
+        {
+            "source": 4,
+            "target": 3
+        },
+        {
+            "source": 5,
+            "target": 164
+        },
+        {
+            "source": 5,
+            "target": 103
+        },
+        {
+            "source": 5,
+            "target": 126
+        },
+        {
+            "source": 5,
+            "target": 161
+        },
+        {
+            "source": 5,
+            "target": 80
+        },
+        {
+            "source": 6,
+            "target": 25
+        },
+        {
+            "source": 6,
+            "target": 158
+        },
+        {
+            "source": 7,
+            "target": 15
+        },
+        {
+            "source": 7,
+            "target": 158
+        },
+        {
+            "source": 8,
+            "target": 132
+        },
+        {
+            "source": 9,
+            "target": 67
+        },
+        {
+            "source": 9,
+            "target": 104
+        },
+        {
+            "source": 9,
+            "target": 25
+        },
+        {
+            "source": 10,
+            "target": 137
+        },
+        {
+            "source": 11,
+            "target": 127
+        },
+        {
+            "source": 11,
+            "target": 67
+        },
+        {
+            "source": 11,
+            "target": 97
+        },
+        {
+            "source": 11,
+            "target": 39
+        },
+        {
+            "source": 11,
+            "target": 104
+        },
+        {
+            "source": 11,
+            "target": 126
+        },
+        {
+            "source": 11,
+            "target": 149
+        },
+        {
+            "source": 12,
+            "target": 96
+        },
+        {
+            "source": 13,
+            "target": 22
+        },
+        {
+            "source": 14,
+            "target": 37
+        },
+        {
+            "source": 14,
+            "target": 101
+        },
+        {
+            "source": 14,
+            "target": 137
+        },
+        {
+            "source": 14,
+            "target": 96
+        },
+        {
+            "source": 14,
+            "target": 164
+        },
+        {
+            "source": 14,
+            "target": 25
+        },
+        {
+            "source": 15,
+            "target": 98
+        },
+        {
+            "source": 15,
+            "target": 158
+        },
+        {
+            "source": 16,
+            "target": 101
+        },
+        {
+            "source": 16,
+            "target": 158
+        },
+        {
+            "source": 17,
+            "target": 19
+        },
+        {
+            "source": 18,
+            "target": 54
+        },
+        {
+            "source": 19,
+            "target": 62
+        },
+        {
+            "source": 19,
+            "target": 45
+        },
+        {
+            "source": 19,
+            "target": 87
+        },
+        {
+            "source": 19,
+            "target": 122
+        },
+        {
+            "source": 19,
+            "target": 67
+        },
+        {
+            "source": 19,
+            "target": 51
+        },
+        {
+            "source": 19,
+            "target": 115
+        },
+        {
+            "source": 19,
+            "target": 36
+        },
+        {
+            "source": 19,
+            "target": 158
+        },
+        {
+            "source": 20,
+            "target": 137
+        },
+        {
+            "source": 20,
+            "target": 158
+        },
+        {
+            "source": 21,
+            "target": 131
+        },
+        {
+            "source": 22,
+            "target": 127
+        },
+        {
+            "source": 22,
+            "target": 103
+        },
+        {
+            "source": 22,
+            "target": 30
+        },
+        {
+            "source": 22,
+            "target": 161
+        },
+        {
+            "source": 22,
+            "target": 122
+        },
+        {
+            "source": 22,
+            "target": 87
+        },
+        {
+            "source": 22,
+            "target": 68
+        },
+        {
+            "source": 22,
+            "target": 80
+        },
+        {
+            "source": 22,
+            "target": 111
+        },
+        {
+            "source": 23,
+            "target": 101
+        },
+        {
+            "source": 23,
+            "target": 21
+        },
+        {
+            "source": 23,
+            "target": 62
+        },
+        {
+            "source": 23,
+            "target": 163
+        },
+        {
+            "source": 23,
+            "target": 125
+        },
+        {
+            "source": 23,
+            "target": 59
+        },
+        {
+            "source": 23,
+            "target": 140
+        },
+        {
+            "source": 23,
+            "target": 158
+        },
+        {
+            "source": 24,
+            "target": 85
+        },
+        {
+            "source": 24,
+            "target": 76
+        },
+        {
+            "source": 24,
+            "target": 141
+        },
+        {
+            "source": 24,
+            "target": 31
+        },
+        {
+            "source": 24,
+            "target": 67
+        },
+        {
+            "source": 24,
+            "target": 24
+        },
+        {
+            "source": 24,
+            "target": 136
+        },
+        {
+            "source": 25,
+            "target": 6
+        },
+        {
+            "source": 25,
+            "target": 22
+        },
+        {
+            "source": 25,
+            "target": 96
+        },
+        {
+            "source": 25,
+            "target": 14
+        },
+        {
+            "source": 25,
+            "target": 67
+        },
+        {
+            "source": 25,
+            "target": 164
+        },
+        {
+            "source": 26,
+            "target": 158
+        },
+        {
+            "source": 27,
+            "target": 67
+        },
+        {
+            "source": 27,
+            "target": 3
+        },
+        {
+            "source": 28,
+            "target": 2
+        },
+        {
+            "source": 29,
+            "target": 31
+        },
+        {
+            "source": 29,
+            "target": 29
+        },
+        {
+            "source": 29,
+            "target": 153
+        },
+        {
+            "source": 29,
+            "target": 147
+        },
+        {
+            "source": 30,
+            "target": 92
+        },
+        {
+            "source": 30,
+            "target": 161
+        },
+        {
+            "source": 30,
+            "target": 22
+        },
+        {
+            "source": 31,
+            "target": 130
+        },
+        {
+            "source": 31,
+            "target": 81
+        },
+        {
+            "source": 31,
+            "target": 76
+        },
+        {
+            "source": 31,
+            "target": 158
+        },
+        {
+            "source": 31,
+            "target": 85
+        },
+        {
+            "source": 31,
+            "target": 113
+        },
+        {
+            "source": 31,
+            "target": 153
+        },
+        {
+            "source": 31,
+            "target": 123
+        },
+        {
+            "source": 31,
+            "target": 160
+        },
+        {
+            "source": 31,
+            "target": 24
+        },
+        {
+            "source": 31,
+            "target": 39
+        },
+        {
+            "source": 31,
+            "target": 15
+        },
+        {
+            "source": 32,
+            "target": 67
+        },
+        {
+            "source": 33,
+            "target": 96
+        },
+        {
+            "source": 33,
+            "target": 67
+        },
+        {
+            "source": 33,
+            "target": 63
+        },
+        {
+            "source": 33,
+            "target": 91
+        },
+        {
+            "source": 34,
+            "target": 27
+        },
+        {
+            "source": 34,
+            "target": 104
+        },
+        {
+            "source": 34,
+            "target": 45
+        },
+        {
+            "source": 34,
+            "target": 3
+        },
+        {
+            "source": 34,
+            "target": 39
+        },
+        {
+            "source": 34,
+            "target": 67
+        },
+        {
+            "source": 34,
+            "target": 1
+        },
+        {
+            "source": 34,
+            "target": 25
+        },
+        {
+            "source": 35,
+            "target": 45
+        },
+        {
+            "source": 36,
+            "target": 45
+        },
+        {
+            "source": 36,
+            "target": 87
+        },
+        {
+            "source": 36,
+            "target": 122
+        },
+        {
+            "source": 36,
+            "target": 19
+        },
+        {
+            "source": 36,
+            "target": 67
+        },
+        {
+            "source": 36,
+            "target": 66
+        },
+        {
+            "source": 36,
+            "target": 72
+        },
+        {
+            "source": 36,
+            "target": 158
+        },
+        {
+            "source": 37,
+            "target": 45
+        },
+        {
+            "source": 39,
+            "target": 62
+        },
+        {
+            "source": 39,
+            "target": 22
+        },
+        {
+            "source": 39,
+            "target": 161
+        },
+        {
+            "source": 39,
+            "target": 103
+        },
+        {
+            "source": 39,
+            "target": 80
+        },
+        {
+            "source": 39,
+            "target": 126
+        },
+        {
+            "source": 39,
+            "target": 93
+        },
+        {
+            "source": 40,
+            "target": 101
+        },
+        {
+            "source": 41,
+            "target": 62
+        },
+        {
+            "source": 42,
+            "target": 137
+        },
+        {
+            "source": 42,
+            "target": 25
+        },
+        {
+            "source": 42,
+            "target": 161
+        },
+        {
+            "source": 43,
+            "target": 45
+        },
+        {
+            "source": 44,
+            "target": 45
+        },
+        {
+            "source": 45,
+            "target": 19
+        },
+        {
+            "source": 45,
+            "target": 87
+        },
+        {
+            "source": 45,
+            "target": 122
+        },
+        {
+            "source": 45,
+            "target": 14
+        },
+        {
+            "source": 45,
+            "target": 58
+        },
+        {
+            "source": 45,
+            "target": 39
+        },
+        {
+            "source": 45,
+            "target": 15
+        },
+        {
+            "source": 45,
+            "target": 36
+        },
+        {
+            "source": 45,
+            "target": 158
+        },
+        {
+            "source": 46,
+            "target": 70
+        },
+        {
+            "source": 47,
+            "target": 158
+        },
+        {
+            "source": 48,
+            "target": 36
+        },
+        {
+            "source": 49,
+            "target": 125
+        },
+        {
+            "source": 49,
+            "target": 49
+        },
+        {
+            "source": 49,
+            "target": 62
+        },
+        {
+            "source": 49,
+            "target": 140
+        },
+        {
+            "source": 50,
+            "target": 22
+        },
+        {
+            "source": 50,
+            "target": 39
+        },
+        {
+            "source": 50,
+            "target": 62
+        },
+        {
+            "source": 50,
+            "target": 3
+        },
+        {
+            "source": 50,
+            "target": 161
+        },
+        {
+            "source": 50,
+            "target": 30
+        },
+        {
+            "source": 50,
+            "target": 122
+        },
+        {
+            "source": 50,
+            "target": 67
+        },
+        {
+            "source": 50,
+            "target": 103
+        },
+        {
+            "source": 50,
+            "target": 92
+        },
+        {
+            "source": 50,
+            "target": 80
+        },
+        {
+            "source": 51,
+            "target": 19
+        },
+        {
+            "source": 51,
+            "target": 15
+        },
+        {
+            "source": 51,
+            "target": 158
+        },
+        {
+            "source": 52,
+            "target": 31
+        },
+        {
+            "source": 53,
+            "target": 161
+        },
+        {
+            "source": 54,
+            "target": 101
+        },
+        {
+            "source": 54,
+            "target": 137
+        },
+        {
+            "source": 54,
+            "target": 97
+        },
+        {
+            "source": 54,
+            "target": 45
+        },
+        {
+            "source": 54,
+            "target": 67
+        },
+        {
+            "source": 54,
+            "target": 136
+        },
+        {
+            "source": 54,
+            "target": 164
+        },
+        {
+            "source": 54,
+            "target": 140
+        },
+        {
+            "source": 54,
+            "target": 62
+        },
+        {
+            "source": 54,
+            "target": 2
+        },
+        {
+            "source": 54,
+            "target": 39
+        },
+        {
+            "source": 54,
+            "target": 149
+        },
+        {
+            "source": 54,
+            "target": 125
+        },
+        {
+            "source": 55,
+            "target": 151
+        },
+        {
+            "source": 55,
+            "target": 158
+        },
+        {
+            "source": 56,
+            "target": 74
+        },
+        {
+            "source": 57,
+            "target": 137
+        },
+        {
+            "source": 57,
+            "target": 103
+        },
+        {
+            "source": 57,
+            "target": 39
+        },
+        {
+            "source": 57,
+            "target": 161
+        },
+        {
+            "source": 58,
+            "target": 45
+        },
+        {
+            "source": 58,
+            "target": 158
+        },
+        {
+            "source": 59,
+            "target": 90
+        },
+        {
+            "source": 60,
+            "target": 31
+        },
+        {
+            "source": 61,
+            "target": 77
+        },
+        {
+            "source": 61,
+            "target": 158
+        },
+        {
+            "source": 62,
+            "target": 140
+        },
+        {
+            "source": 62,
+            "target": 50
+        },
+        {
+            "source": 62,
+            "target": 144
+        },
+        {
+            "source": 62,
+            "target": 125
+        },
+        {
+            "source": 62,
+            "target": 23
+        },
+        {
+            "source": 62,
+            "target": 67
+        },
+        {
+            "source": 62,
+            "target": 158
+        },
+        {
+            "source": 63,
+            "target": 96
+        },
+        {
+            "source": 63,
+            "target": 33
+        },
+        {
+            "source": 63,
+            "target": 15
+        },
+        {
+            "source": 63,
+            "target": 158
+        },
+        {
+            "source": 64,
+            "target": 101
+        },
+        {
+            "source": 64,
+            "target": 136
+        },
+        {
+            "source": 64,
+            "target": 97
+        },
+        {
+            "source": 64,
+            "target": 45
+        },
+        {
+            "source": 64,
+            "target": 2
+        },
+        {
+            "source": 64,
+            "target": 86
+        },
+        {
+            "source": 64,
+            "target": 67
+        },
+        {
+            "source": 64,
+            "target": 23
+        },
+        {
+            "source": 64,
+            "target": 25
+        },
+        {
+            "source": 64,
+            "target": 164
+        },
+        {
+            "source": 64,
+            "target": 140
+        },
+        {
+            "source": 64,
+            "target": 62
+        },
+        {
+            "source": 64,
+            "target": 161
+        },
+        {
+            "source": 64,
+            "target": 122
+        },
+        {
+            "source": 64,
+            "target": 39
+        },
+        {
+            "source": 64,
+            "target": 149
+        },
+        {
+            "source": 64,
+            "target": 125
+        },
+        {
+            "source": 65,
+            "target": 147
+        },
+        {
+            "source": 66,
+            "target": 115
+        },
+        {
+            "source": 66,
+            "target": 19
+        },
+        {
+            "source": 66,
+            "target": 36
+        },
+        {
+            "source": 66,
+            "target": 15
+        },
+        {
+            "source": 66,
+            "target": 72
+        },
+        {
+            "source": 66,
+            "target": 158
+        },
+        {
+            "source": 67,
+            "target": 84
+        },
+        {
+            "source": 67,
+            "target": 101
+        },
+        {
+            "source": 67,
+            "target": 164
+        },
+        {
+            "source": 67,
+            "target": 27
+        },
+        {
+            "source": 67,
+            "target": 158
+        },
+        {
+            "source": 68,
+            "target": 135
+        },
+        {
+            "source": 68,
+            "target": 127
+        },
+        {
+            "source": 68,
+            "target": 164
+        },
+        {
+            "source": 68,
+            "target": 158
+        },
+        {
+            "source": 69,
+            "target": 25
+        },
+        {
+            "source": 70,
+            "target": 84
+        },
+        {
+            "source": 70,
+            "target": 6
+        },
+        {
+            "source": 70,
+            "target": 20
+        },
+        {
+            "source": 70,
+            "target": 77
+        },
+        {
+            "source": 70,
+            "target": 146
+        },
+        {
+            "source": 70,
+            "target": 15
+        },
+        {
+            "source": 70,
+            "target": 16
+        },
+        {
+            "source": 70,
+            "target": 91
+        },
+        {
+            "source": 71,
+            "target": 28
+        },
+        {
+            "source": 71,
+            "target": 103
+        },
+        {
+            "source": 71,
+            "target": 136
+        },
+        {
+            "source": 71,
+            "target": 80
+        },
+        {
+            "source": 71,
+            "target": 22
+        },
+        {
+            "source": 72,
+            "target": 19
+        },
+        {
+            "source": 72,
+            "target": 115
+        },
+        {
+            "source": 72,
+            "target": 66
+        },
+        {
+            "source": 72,
+            "target": 15
+        },
+        {
+            "source": 72,
+            "target": 36
+        },
+        {
+            "source": 72,
+            "target": 158
+        },
+        {
+            "source": 73,
+            "target": 39
+        },
+        {
+            "source": 74,
+            "target": 37
+        },
+        {
+            "source": 74,
+            "target": 67
+        },
+        {
+            "source": 74,
+            "target": 30
+        },
+        {
+            "source": 74,
+            "target": 25
+        },
+        {
+            "source": 75,
+            "target": 137
+        },
+        {
+            "source": 76,
+            "target": 123
+        },
+        {
+            "source": 76,
+            "target": 15
+        },
+        {
+            "source": 76,
+            "target": 158
+        },
+        {
+            "source": 77,
+            "target": 129
+        },
+        {
+            "source": 77,
+            "target": 61
+        },
+        {
+            "source": 77,
+            "target": 158
+        },
+        {
+            "source": 78,
+            "target": 122
+        },
+        {
+            "source": 79,
+            "target": 111
+        },
+        {
+            "source": 80,
+            "target": 137
+        },
+        {
+            "source": 80,
+            "target": 62
+        },
+        {
+            "source": 80,
+            "target": 39
+        },
+        {
+            "source": 80,
+            "target": 30
+        },
+        {
+            "source": 80,
+            "target": 161
+        },
+        {
+            "source": 80,
+            "target": 117
+        },
+        {
+            "source": 80,
+            "target": 67
+        },
+        {
+            "source": 80,
+            "target": 21
+        },
+        {
+            "source": 80,
+            "target": 22
+        },
+        {
+            "source": 81,
+            "target": 81
+        },
+        {
+            "source": 81,
+            "target": 76
+        },
+        {
+            "source": 81,
+            "target": 142
+        },
+        {
+            "source": 81,
+            "target": 31
+        },
+        {
+            "source": 81,
+            "target": 67
+        },
+        {
+            "source": 81,
+            "target": 85
+        },
+        {
+            "source": 81,
+            "target": 113
+        },
+        {
+            "source": 81,
+            "target": 104
+        },
+        {
+            "source": 81,
+            "target": 25
+        },
+        {
+            "source": 82,
+            "target": 22
+        },
+        {
+            "source": 83,
+            "target": 160
+        },
+        {
+            "source": 83,
+            "target": 97
+        },
+        {
+            "source": 83,
+            "target": 76
+        },
+        {
+            "source": 83,
+            "target": 62
+        },
+        {
+            "source": 83,
+            "target": 141
+        },
+        {
+            "source": 83,
+            "target": 31
+        },
+        {
+            "source": 83,
+            "target": 121
+        },
+        {
+            "source": 83,
+            "target": 65
+        },
+        {
+            "source": 83,
+            "target": 25
+        },
+        {
+            "source": 84,
+            "target": 67
+        },
+        {
+            "source": 84,
+            "target": 158
+        },
+        {
+            "source": 85,
+            "target": 37
+        },
+        {
+            "source": 85,
+            "target": 137
+        },
+        {
+            "source": 85,
+            "target": 81
+        },
+        {
+            "source": 85,
+            "target": 141
+        },
+        {
+            "source": 85,
+            "target": 76
+        },
+        {
+            "source": 85,
+            "target": 24
+        },
+        {
+            "source": 85,
+            "target": 31
+        },
+        {
+            "source": 85,
+            "target": 85
+        },
+        {
+            "source": 85,
+            "target": 136
+        },
+        {
+            "source": 86,
+            "target": 127
+        },
+        {
+            "source": 86,
+            "target": 161
+        },
+        {
+            "source": 86,
+            "target": 164
+        },
+        {
+            "source": 86,
+            "target": 67
+        },
+        {
+            "source": 86,
+            "target": 157
+        },
+        {
+            "source": 86,
+            "target": 149
+        },
+        {
+            "source": 86,
+            "target": 158
+        },
+        {
+            "source": 87,
+            "target": 94
+        },
+        {
+            "source": 88,
+            "target": 15
+        },
+        {
+            "source": 88,
+            "target": 158
+        },
+        {
+            "source": 89,
+            "target": 97
+        },
+        {
+            "source": 89,
+            "target": 19
+        },
+        {
+            "source": 89,
+            "target": 87
+        },
+        {
+            "source": 89,
+            "target": 67
+        },
+        {
+            "source": 89,
+            "target": 36
+        },
+        {
+            "source": 89,
+            "target": 158
+        },
+        {
+            "source": 89,
+            "target": 92
+        },
+        {
+            "source": 89,
+            "target": 30
+        },
+        {
+            "source": 89,
+            "target": 161
+        },
+        {
+            "source": 89,
+            "target": 96
+        },
+        {
+            "source": 89,
+            "target": 45
+        },
+        {
+            "source": 89,
+            "target": 146
+        },
+        {
+            "source": 89,
+            "target": 164
+        },
+        {
+            "source": 89,
+            "target": 14
+        },
+        {
+            "source": 89,
+            "target": 15
+        },
+        {
+            "source": 90,
+            "target": 161
+        },
+        {
+            "source": 91,
+            "target": 129
+        },
+        {
+            "source": 91,
+            "target": 84
+        },
+        {
+            "source": 91,
+            "target": 6
+        },
+        {
+            "source": 91,
+            "target": 39
+        },
+        {
+            "source": 91,
+            "target": 88
+        },
+        {
+            "source": 91,
+            "target": 19
+        },
+        {
+            "source": 91,
+            "target": 61
+        },
+        {
+            "source": 91,
+            "target": 166
+        },
+        {
+            "source": 91,
+            "target": 8
+        },
+        {
+            "source": 91,
+            "target": 36
+        },
+        {
+            "source": 91,
+            "target": 87
+        },
+        {
+            "source": 91,
+            "target": 163
+        },
+        {
+            "source": 91,
+            "target": 138
+        },
+        {
+            "source": 91,
+            "target": 14
+        },
+        {
+            "source": 91,
+            "target": 144
+        },
+        {
+            "source": 91,
+            "target": 162
+        },
+        {
+            "source": 91,
+            "target": 149
+        },
+        {
+            "source": 91,
+            "target": 16
+        },
+        {
+            "source": 91,
+            "target": 58
+        },
+        {
+            "source": 91,
+            "target": 137
+        },
+        {
+            "source": 91,
+            "target": 62
+        },
+        {
+            "source": 91,
+            "target": 45
+        },
+        {
+            "source": 91,
+            "target": 20
+        },
+        {
+            "source": 91,
+            "target": 67
+        },
+        {
+            "source": 91,
+            "target": 157
+        },
+        {
+            "source": 91,
+            "target": 25
+        },
+        {
+            "source": 91,
+            "target": 76
+        },
+        {
+            "source": 91,
+            "target": 135
+        },
+        {
+            "source": 91,
+            "target": 104
+        },
+        {
+            "source": 91,
+            "target": 7
+        },
+        {
+            "source": 91,
+            "target": 161
+        },
+        {
+            "source": 91,
+            "target": 96
+        },
+        {
+            "source": 91,
+            "target": 77
+        },
+        {
+            "source": 91,
+            "target": 33
+        },
+        {
+            "source": 91,
+            "target": 146
+        },
+        {
+            "source": 91,
+            "target": 15
+        },
+        {
+            "source": 91,
+            "target": 122
+        },
+        {
+            "source": 91,
+            "target": 22
+        },
+        {
+            "source": 92,
+            "target": 39
+        },
+        {
+            "source": 92,
+            "target": 30
+        },
+        {
+            "source": 92,
+            "target": 161
+        },
+        {
+            "source": 93,
+            "target": 14
+        },
+        {
+            "source": 93,
+            "target": 164
+        },
+        {
+            "source": 93,
+            "target": 2
+        },
+        {
+            "source": 93,
+            "target": 161
+        },
+        {
+            "source": 93,
+            "target": 117
+        },
+        {
+            "source": 94,
+            "target": 137
+        },
+        {
+            "source": 94,
+            "target": 45
+        },
+        {
+            "source": 94,
+            "target": 19
+        },
+        {
+            "source": 94,
+            "target": 158
+        },
+        {
+            "source": 94,
+            "target": 36
+        },
+        {
+            "source": 94,
+            "target": 138
+        },
+        {
+            "source": 95,
+            "target": 64
+        },
+        {
+            "source": 96,
+            "target": 140
+        },
+        {
+            "source": 96,
+            "target": 63
+        },
+        {
+            "source": 96,
+            "target": 3
+        },
+        {
+            "source": 96,
+            "target": 87
+        },
+        {
+            "source": 96,
+            "target": 96
+        },
+        {
+            "source": 96,
+            "target": 8
+        },
+        {
+            "source": 96,
+            "target": 33
+        },
+        {
+            "source": 96,
+            "target": 1
+        },
+        {
+            "source": 96,
+            "target": 45
+        },
+        {
+            "source": 96,
+            "target": 158
+        },
+        {
+            "source": 97,
+            "target": 62
+        },
+        {
+            "source": 97,
+            "target": 27
+        },
+        {
+            "source": 97,
+            "target": 142
+        },
+        {
+            "source": 97,
+            "target": 140
+        },
+        {
+            "source": 97,
+            "target": 67
+        },
+        {
+            "source": 97,
+            "target": 21
+        },
+        {
+            "source": 97,
+            "target": 86
+        },
+        {
+            "source": 97,
+            "target": 125
+        },
+        {
+            "source": 97,
+            "target": 110
+        },
+        {
+            "source": 97,
+            "target": 164
+        },
+        {
+            "source": 98,
+            "target": 111
+        },
+        {
+            "source": 98,
+            "target": 22
+        },
+        {
+            "source": 98,
+            "target": 79
+        },
+        {
+            "source": 98,
+            "target": 15
+        },
+        {
+            "source": 98,
+            "target": 126
+        },
+        {
+            "source": 98,
+            "target": 158
+        },
+        {
+            "source": 99,
+            "target": 27
+        },
+        {
+            "source": 99,
+            "target": 104
+        },
+        {
+            "source": 99,
+            "target": 3
+        },
+        {
+            "source": 99,
+            "target": 1
+        },
+        {
+            "source": 99,
+            "target": 25
+        },
+        {
+            "source": 99,
+            "target": 30
+        },
+        {
+            "source": 100,
+            "target": 5
+        },
+        {
+            "source": 101,
+            "target": 78
+        },
+        {
+            "source": 101,
+            "target": 161
+        },
+        {
+            "source": 101,
+            "target": 163
+        },
+        {
+            "source": 101,
+            "target": 90
+        },
+        {
+            "source": 101,
+            "target": 67
+        },
+        {
+            "source": 101,
+            "target": 158
+        },
+        {
+            "source": 101,
+            "target": 164
+        },
+        {
+            "source": 101,
+            "target": 16
+        },
+        {
+            "source": 101,
+            "target": 162
+        },
+        {
+            "source": 102,
+            "target": 83
+        },
+        {
+            "source": 102,
+            "target": 101
+        },
+        {
+            "source": 102,
+            "target": 76
+        },
+        {
+            "source": 102,
+            "target": 121
+        },
+        {
+            "source": 102,
+            "target": 31
+        },
+        {
+            "source": 102,
+            "target": 86
+        },
+        {
+            "source": 102,
+            "target": 110
+        },
+        {
+            "source": 103,
+            "target": 101
+        },
+        {
+            "source": 103,
+            "target": 137
+        },
+        {
+            "source": 103,
+            "target": 38
+        },
+        {
+            "source": 103,
+            "target": 117
+        },
+        {
+            "source": 103,
+            "target": 21
+        },
+        {
+            "source": 103,
+            "target": 86
+        },
+        {
+            "source": 103,
+            "target": 25
+        },
+        {
+            "source": 103,
+            "target": 28
+        },
+        {
+            "source": 103,
+            "target": 104
+        },
+        {
+            "source": 103,
+            "target": 22
+        },
+        {
+            "source": 103,
+            "target": 161
+        },
+        {
+            "source": 103,
+            "target": 139
+        },
+        {
+            "source": 104,
+            "target": 161
+        },
+        {
+            "source": 104,
+            "target": 133
+        },
+        {
+            "source": 104,
+            "target": 96
+        },
+        {
+            "source": 104,
+            "target": 67
+        },
+        {
+            "source": 104,
+            "target": 1
+        },
+        {
+            "source": 104,
+            "target": 93
+        },
+        {
+            "source": 104,
+            "target": 25
+        },
+        {
+            "source": 105,
+            "target": 47
+        },
+        {
+            "source": 106,
+            "target": 137
+        },
+        {
+            "source": 106,
+            "target": 22
+        },
+        {
+            "source": 106,
+            "target": 161
+        },
+        {
+            "source": 106,
+            "target": 126
+        },
+        {
+            "source": 107,
+            "target": 106
+        },
+        {
+            "source": 108,
+            "target": 11
+        },
+        {
+            "source": 109,
+            "target": 126
+        },
+        {
+            "source": 111,
+            "target": 79
+        },
+        {
+            "source": 111,
+            "target": 127
+        },
+        {
+            "source": 111,
+            "target": 98
+        },
+        {
+            "source": 111,
+            "target": 22
+        },
+        {
+            "source": 112,
+            "target": 33
+        },
+        {
+            "source": 113,
+            "target": 160
+        },
+        {
+            "source": 113,
+            "target": 81
+        },
+        {
+            "source": 113,
+            "target": 113
+        },
+        {
+            "source": 113,
+            "target": 76
+        },
+        {
+            "source": 113,
+            "target": 141
+        },
+        {
+            "source": 113,
+            "target": 31
+        },
+        {
+            "source": 113,
+            "target": 67
+        },
+        {
+            "source": 113,
+            "target": 136
+        },
+        {
+            "source": 114,
+            "target": 45
+        },
+        {
+            "source": 115,
+            "target": 19
+        },
+        {
+            "source": 115,
+            "target": 36
+        },
+        {
+            "source": 115,
+            "target": 66
+        },
+        {
+            "source": 115,
+            "target": 15
+        },
+        {
+            "source": 115,
+            "target": 72
+        },
+        {
+            "source": 115,
+            "target": 158
+        },
+        {
+            "source": 116,
+            "target": 31
+        },
+        {
+            "source": 117,
+            "target": 42
+        },
+        {
+            "source": 118,
+            "target": 23
+        },
+        {
+            "source": 119,
+            "target": 100
+        },
+        {
+            "source": 120,
+            "target": 67
+        },
+        {
+            "source": 121,
+            "target": 130
+        },
+        {
+            "source": 122,
+            "target": 122
+        },
+        {
+            "source": 122,
+            "target": 22
+        },
+        {
+            "source": 122,
+            "target": 158
+        },
+        {
+            "source": 123,
+            "target": 31
+        },
+        {
+            "source": 123,
+            "target": 158
+        },
+        {
+            "source": 124,
+            "target": 22
+        },
+        {
+            "source": 125,
+            "target": 166
+        },
+        {
+            "source": 125,
+            "target": 140
+        },
+        {
+            "source": 125,
+            "target": 23
+        },
+        {
+            "source": 125,
+            "target": 62
+        },
+        {
+            "source": 125,
+            "target": 158
+        },
+        {
+            "source": 126,
+            "target": 100
+        },
+        {
+            "source": 126,
+            "target": 161
+        },
+        {
+            "source": 126,
+            "target": 2
+        },
+        {
+            "source": 126,
+            "target": 14
+        },
+        {
+            "source": 126,
+            "target": 103
+        },
+        {
+            "source": 126,
+            "target": 136
+        },
+        {
+            "source": 126,
+            "target": 22
+        },
+        {
+            "source": 127,
+            "target": 127
+        },
+        {
+            "source": 127,
+            "target": 68
+        },
+        {
+            "source": 127,
+            "target": 22
+        },
+        {
+            "source": 128,
+            "target": 96
+        },
+        {
+            "source": 129,
+            "target": 7
+        },
+        {
+            "source": 129,
+            "target": 15
+        },
+        {
+            "source": 130,
+            "target": 102
+        },
+        {
+            "source": 131,
+            "target": 137
+        },
+        {
+            "source": 131,
+            "target": 97
+        },
+        {
+            "source": 131,
+            "target": 119
+        },
+        {
+            "source": 131,
+            "target": 23
+        },
+        {
+            "source": 131,
+            "target": 125
+        },
+        {
+            "source": 131,
+            "target": 86
+        },
+        {
+            "source": 131,
+            "target": 65
+        },
+        {
+            "source": 131,
+            "target": 25
+        },
+        {
+            "source": 131,
+            "target": 164
+        },
+        {
+            "source": 131,
+            "target": 62
+        },
+        {
+            "source": 131,
+            "target": 30
+        },
+        {
+            "source": 131,
+            "target": 2
+        },
+        {
+            "source": 131,
+            "target": 140
+        },
+        {
+            "source": 131,
+            "target": 78
+        },
+        {
+            "source": 131,
+            "target": 149
+        },
+        {
+            "source": 131,
+            "target": 126
+        },
+        {
+            "source": 132,
+            "target": 22
+        },
+        {
+            "source": 133,
+            "target": 104
+        },
+        {
+            "source": 133,
+            "target": 158
+        },
+        {
+            "source": 134,
+            "target": 0
+        },
+        {
+            "source": 134,
+            "target": 22
+        },
+        {
+            "source": 134,
+            "target": 161
+        },
+        {
+            "source": 135,
+            "target": 135
+        },
+        {
+            "source": 135,
+            "target": 68
+        },
+        {
+            "source": 136,
+            "target": 101
+        },
+        {
+            "source": 136,
+            "target": 137
+        },
+        {
+            "source": 136,
+            "target": 62
+        },
+        {
+            "source": 136,
+            "target": 161
+        },
+        {
+            "source": 136,
+            "target": 122
+        },
+        {
+            "source": 136,
+            "target": 103
+        },
+        {
+            "source": 136,
+            "target": 86
+        },
+        {
+            "source": 136,
+            "target": 126
+        },
+        {
+            "source": 137,
+            "target": 161
+        },
+        {
+            "source": 137,
+            "target": 20
+        },
+        {
+            "source": 137,
+            "target": 14
+        },
+        {
+            "source": 137,
+            "target": 67
+        },
+        {
+            "source": 137,
+            "target": 164
+        },
+        {
+            "source": 137,
+            "target": 93
+        },
+        {
+            "source": 137,
+            "target": 25
+        },
+        {
+            "source": 137,
+            "target": 158
+        },
+        {
+            "source": 138,
+            "target": 87
+        },
+        {
+            "source": 138,
+            "target": 158
+        },
+        {
+            "source": 139,
+            "target": 134
+        },
+        {
+            "source": 140,
+            "target": 122
+        },
+        {
+            "source": 140,
+            "target": 67
+        },
+        {
+            "source": 140,
+            "target": 62
+        },
+        {
+            "source": 140,
+            "target": 125
+        },
+        {
+            "source": 140,
+            "target": 27
+        },
+        {
+            "source": 141,
+            "target": 45
+        },
+        {
+            "source": 141,
+            "target": 19
+        },
+        {
+            "source": 141,
+            "target": 36
+        },
+        {
+            "source": 142,
+            "target": 104
+        },
+        {
+            "source": 142,
+            "target": 25
+        },
+        {
+            "source": 142,
+            "target": 99
+        },
+        {
+            "source": 143,
+            "target": 133
+        },
+        {
+            "source": 144,
+            "target": 146
+        },
+        {
+            "source": 144,
+            "target": 62
+        },
+        {
+            "source": 144,
+            "target": 15
+        },
+        {
+            "source": 144,
+            "target": 158
+        },
+        {
+            "source": 145,
+            "target": 15
+        },
+        {
+            "source": 146,
+            "target": 158
+        },
+        {
+            "source": 147,
+            "target": 101
+        },
+        {
+            "source": 147,
+            "target": 62
+        },
+        {
+            "source": 147,
+            "target": 125
+        },
+        {
+            "source": 147,
+            "target": 21
+        },
+        {
+            "source": 147,
+            "target": 164
+        },
+        {
+            "source": 147,
+            "target": 25
+        },
+        {
+            "source": 149,
+            "target": 2
+        },
+        {
+            "source": 149,
+            "target": 161
+        },
+        {
+            "source": 149,
+            "target": 22
+        },
+        {
+            "source": 150,
+            "target": 30
+        },
+        {
+            "source": 151,
+            "target": 158
+        },
+        {
+            "source": 151,
+            "target": 55
+        },
+        {
+            "source": 152,
+            "target": 31
+        },
+        {
+            "source": 152,
+            "target": 122
+        },
+        {
+            "source": 152,
+            "target": 152
+        },
+        {
+            "source": 152,
+            "target": 158
+        },
+        {
+            "source": 153,
+            "target": 83
+        },
+        {
+            "source": 154,
+            "target": 126
+        },
+        {
+            "source": 155,
+            "target": 57
+        },
+        {
+            "source": 156,
+            "target": 165
+        },
+        {
+            "source": 157,
+            "target": 86
+        },
+        {
+            "source": 157,
+            "target": 158
+        },
+        {
+            "source": 158,
+            "target": 91
+        },
+        {
+            "source": 159,
+            "target": 22
+        },
+        {
+            "source": 160,
+            "target": 37
+        },
+        {
+            "source": 160,
+            "target": 83
+        },
+        {
+            "source": 160,
+            "target": 160
+        },
+        {
+            "source": 160,
+            "target": 113
+        },
+        {
+            "source": 160,
+            "target": 76
+        },
+        {
+            "source": 160,
+            "target": 141
+        },
+        {
+            "source": 160,
+            "target": 31
+        },
+        {
+            "source": 160,
+            "target": 67
+        },
+        {
+            "source": 160,
+            "target": 136
+        },
+        {
+            "source": 161,
+            "target": 71
+        },
+        {
+            "source": 162,
+            "target": 101
+        },
+        {
+            "source": 162,
+            "target": 158
+        },
+        {
+            "source": 163,
+            "target": 118
+        },
+        {
+            "source": 163,
+            "target": 158
+        },
+        {
+            "source": 164,
+            "target": 101
+        },
+        {
+            "source": 164,
+            "target": 137
+        },
+        {
+            "source": 164,
+            "target": 127
+        },
+        {
+            "source": 164,
+            "target": 22
+        },
+        {
+            "source": 164,
+            "target": 90
+        },
+        {
+            "source": 164,
+            "target": 67
+        },
+        {
+            "source": 164,
+            "target": 86
+        },
+        {
+            "source": 164,
+            "target": 92
+        },
+        {
+            "source": 164,
+            "target": 25
+        },
+        {
+            "source": 164,
+            "target": 93
+        },
+        {
+            "source": 165,
+            "target": 104
+        },
+        {
+            "source": 165,
+            "target": 142
+        },
+        {
+            "source": 165,
+            "target": 9
+        },
+        {
+            "source": 165,
+            "target": 67
+        },
+        {
+            "source": 165,
+            "target": 148
+        },
+        {
+            "source": 165,
+            "target": 25
+        },
+        {
+            "source": 166,
+            "target": 125
+        },
+        {
+            "source": 166,
+            "target": 158
+        }
+    ],
+    "graph": {},
+    "basic": {
+        "numEdges": 652,
+        "averagePathLength": 2.6082533727725274,
+        "averageOutDegree": 3.904191616766467,
+        "numNodes": 167,
+        "selfLinks": 12,
+        "averageInDegree": 3.904191616766467
+    }
+}
