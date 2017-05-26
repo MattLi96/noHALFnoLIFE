@@ -32,7 +32,7 @@ function generate(path) {
 
     $("#graph-container").html("")
 
-    $.getJSON(decodeURI(path), function (data) {
+    $.getJSON(decodeURI("public/" + path), function (data) {
         var i,
             N = data["nodes"].length,
             E = data["edges"].length,

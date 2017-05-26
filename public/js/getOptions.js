@@ -2,7 +2,7 @@
  * Get all wiki options from an external file
  */
 function reloadOptions(){
-    $.ajax({url: "./data/filelist", success: function(result){
+    $.ajax({url: "./public/data/filelist.json", success: function(result){
 
         window.info.fullOptions = result;
 
@@ -16,7 +16,7 @@ function reloadOptions(){
         window.info.updateData(resultSummary[0])
     }});
 
-    $.ajax({url:"./res/links.json", success: function(result){
+    $.ajax({url:"./public/res/links.json", success: function(result){
         window.info.links = result;
     }});
 }

@@ -16,7 +16,7 @@ router.get("/",function(req,res){
 });
 
 // Make sure to include all files in /public
-app.use(express.static(__dirname + '/public'));
+app.use('/public', express.static(__dirname + '/public'));
 
 // Map /data to the REST API endpoint
 app.use('/data', generateData);
