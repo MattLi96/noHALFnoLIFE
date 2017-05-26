@@ -81,8 +81,12 @@ function generate(path) {
         window.s.bind('rightClickNode', function (e) {
             // console.log(e)
             let url = window.info.links[window.info.currentOption] + e.data.node.id;
-            openInNewTab(url)
-        })
+            $(e.target).trigger("click");
+
+            setInterval(function(){
+                openInNewTab(url);
+            }, 200);
+        });
 
         window.s.bind('clickNode', focus);
         window.s.bind('clickStage', resetColors);
